@@ -1,0 +1,107 @@
+Big Star
+Haunted Man
+Arkham: Well, well.\xfffeHow long can you endure?
+Arkham: Hey! Majin!\xfffeWhat are you playing at?
+Arkham: Hey, Majin!\xfffeWhat are you thinking about?
+Arkham: Come on! Majin!\xfffeEnd this now!
+Arkham: Hey, Majin...\xfffeWhat do you think you're doing?
+\xf000Ă\x0001\x0000: That's it!
+Majin: La, la, la. ♪
+\xf000Ă\x0001\x0000: This is the Majin...\xf000븁\x0000\xfffeAn aggregate of ominous spirits\xfffethat has a body...
+Majin: Oh! Ooh!\xfffeYou're \xf000Ă\x0001\x0000!\xf000븀\x0000\xfffeNo... Your real name is\xf000븀\x0000\xfffe\xf000Ā\x0001\x0001! Right?\xf000븁\x0000\xfffeI've heard about you from Arkham.\xfffeYou helped us and brought me back!\xf000븁\x0000\xfffeThank you very much for your help.\xfffeLa la la. ♪
+\xf000Ă\x0001\x0000: He knows my name?\xfffeAnd what's up with this bubbly act?\xf000븀\x0000\xfffeWhat kind of a being is this?
+Majin: I have a feeling that I can\xfffereally get along with you. La la la. ♪
+\xf000Ă\x0001\x0000: What do you mean?\xfffe(...Is he truly dangerous?...)
+Arkham: Hardy-har ha!\xfffeLong time no see!
+\xf000Ă\x0001\x0000: Arkham...
+Arkham: How do you like the Majin of Mayhem?\xf000븁\x0000\xfffeHe's quite polite, don't you think?\xfffeVery friendly...and funny to boot.\xf000븁\x0000\xfffeWell now, if my memory is correct,\xfffeyou came here to erase the Majin, right?\xf000븀\x0000\xfffeHardy-har. Can you do such a thing?
+Majin: La la la laaa. ♪ La la la laaa. ♪\xf000븁\x0000\xfffeI do like you.\xfffeI feel you'll understand what's in my heart.\xf000븀\x0000\xfffeLa la la laaa. ♪
+\xf000Ă\x0001\x0000: What are you talking about?
+Majin: Please answer my question.\xfffeLa la la laaa. ♪\xf000븁\x0000\xfffeEven if you give me a wrong answer,\xfffeit's OK! I'll just destroy everything!
+Panicking People: Everyone! Look!\xfffeWhat is that monster?!
+Majin: Hmm! Hmm! Hmm!\xfffeAnnoying vermin!\xf000븁\x0000\xfffeCall me a monster, do they?\xfffeI'll destroy them!
+\xf000Ă\x0001\x0000: Hey! Wait!\xfffeI thought you were going to ask me\xf000븀\x0000\xfffea question, right?\xf000븁\x0000\xfffe(...I have to get his attention...)
+Majin: Oh, oh. That's right!\xfffeNow, here's a question!\xf000븁\x0000\xfffeWhat do I hate?
+\xf000Ă\x0001\x0000: Let me see...\xf000븁\x0000\xfffe(...If I make him angry, I'll be in danger...)\xfffe(...Must answer his question properly...)
+\xf000Ă\x0001\x0000: You hate...lying?
+Majin: La la la laaa. ♪\xfffeYeeees! That is correct!\xf000븀\x0000\xfffeI'm glad you understand me!\xf000븁\x0000\xfffeI'm so happy, I've just gotta dance. ♪\xfffeLaaaa. ♪ La la la laaa. ♪
+\xf000Ă\x0001\x0000: You hate...boredom?
+Majin: La la la laaa. ♪\xfffeYeeees! That is correct!\xf000븀\x0000\xfffeI'm glad you understand me!\xf000븁\x0000\xfffeI'm so happy, I've just gotta dance. ♪\xfffeLaaaa. ♪ La la la laaa. ♪
+\xf000Ă\x0001\x0000: You hate...good things?
+Majin: La la la laaa. ♪\xfffeToo bad! That's not correct!\xf000븁\x0000\xfffeI'm saaaaaaaaaaaaaaad!
+\xf000Ă\x0001\x0000: I don't know!
+Majin: La la la laaa. ♪\xfffeWhat a horrible guess. Not even a guess!\xf000븁\x0000\xfffeI'm saaaaaaaaaaaaaaad!
+Majin: La la la laaa. ♪\xfffeHere's the next question!\xf000븁\x0000\xfffeWhat is my favorite thing?
+\xf000Ă\x0001\x0000: Let me see...\xf000븁\x0000\xfffe(...If I make him angry, I'll be in danger...)
+\xf000Ă\x0001\x0000: Destroying things!
+Majin: La la la laaa. ♪\xfffeToo bad! That's not correct!\xf000븀\x0000\xfffeOr, I should say...\xf000븁\x0000\xfffeDon't judge me based on my appearance!
+\xf000Ă\x0001\x0000: Sleeping?
+Majin: La la la laaa. ♪\xfffeYeeees! That is correct!\xf000븀\x0000\xfffeI'm glad you understand me!\xf000븁\x0000\xfffeI'm so happy, I'll have a little nap. ♪\xfffeLa la la. ♪ La la la laaa. ♪
+\xf000Ă\x0001\x0000: Not thinking too hard?
+Majin: La la. ♪\xfffeToo bad! That's not correct!\xf000븀\x0000\xfffeOr, I should say...\xf000븁\x0000\xfffeYou seem to look down on me. Tsk tsk.
+\xf000Ă\x0001\x0000: Dancing?
+Majin: La la la laaa. ♪\xfffeYeeees! That is correct!\xf000븀\x0000\xfffeI'm glad you understand me!\xf000븁\x0000\xfffeI'm so happy, I've gotta boogie! ♪\xfffeLa la la. ♪ La la la laaa. ♪
+Majin: La la la laaa. ♪\xfffeHere's the next question!\xf000븁\x0000\xfffeBut I'm gonna do a little change-up\xfffefor the next question.\xf000븁\x0000\xfffeThis is it!\xfffeWhat do you think of me?
+\xf000Ă\x0001\x0000: Let me see...\xf000븁\x0000\xfffe(...If I make him angry, I'll be in danger...)
+\xf000Ă\x0001\x0000: You're vain.
+Majin: Grrrrrrrrroooowrrrrrrrr!\xfffeYou big liar! I am not either!
+\xf000Ă\x0001\x0000: You're lonely.
+Majin: Grrrrrrrrroooowrrrrrrrr!\xf000븁\x0000\xfffeThat's a pretty harsh thing to just\xfffecome out and say.
+\xf000Ă\x0001\x0000: You're wild.
+Majin: La la la laaa. ♪\xfffeYes! I'm impressed!\xf000븁\x0000\xfffeYou understand my wild charm very well!\xf000븁\x0000\xfffeI'm so happy, I've gotta dance. ♪\xfffeLa la la. ♪ La la la laaa. ♪
+\xf000Ă\x0001\x0000: You are unique.
+Majin: La la la laaa. ♪\xfffeGood point!\xf000븁\x0000\xfffeYou understand the overwhelming\xfffeimmensity of my charm!\xf000븁\x0000\xfffeI'm so happy, I believe I'll take a nap. ♪\xfffeLa la la. ♪ La la la laaa. ♪
+Majin: La la la laaa. ♪\xfffeHere's the next question!\xf000븁\x0000\xfffeBasically, I'm perfect.\xfffeBut if you were forced to say something,\xf000븀\x0000\xfffewhat am I missing?
+\xf000Ă\x0001\x0000: Let me see...\xf000븁\x0000\xfffe(...If I make him angry, I'll be in danger...)
+\xf000Ă\x0001\x0000: You're perfect!
+Majin: La la la laaa. ♪\xf000븁\x0000\xfffeIs that so? Then, I'll destroy everything\xfffeelse that is imperfect!
+\xf000Ă\x0001\x0000: Patience!
+Majin: La la la laaa. ♪\xfffeYeeees! That is correct!\xf000븀\x0000\xfffeI'm glad you understand me!\xf000븁\x0000\xfffeI'm so happy, I've gotta dance. ♪\xfffeLa la la. ♪ La la la laaa. ♪
+\xf000Ă\x0001\x0000: Kindness!
+Majin: Grrrrrrrrroooowrrrrrrrr!\xfffeSadness! I'm hurt!\xf000븁\x0000\xfffeTo heal my emotional wounds,\xfffeI may just have to destroy everything!
+\xf000Ă\x0001\x0000: I don't know.
+Majin: La la la laaa. ♪\xfffeWell, I don't know either!\xf000븁\x0000\xfffeThere's nothing that I'm missing!\xf000븁\x0000\xfffeI'm so happy, I'll take a little nap. ♪\xfffeLa la la. ♪ La la la laaa. ♪
+Majin: La la la laaa. ♪\xfffeI was right. I like you!\xf000븁\x0000\xfffeDo you have anything\xfffethat you want me to do?\xf000븁\x0000\xfffeI'm very generous!\xfffeAsk for anything you want!
+\xf000Ă\x0001\x0000: Wh-what...?\xfffe(...This may be my chance...)\xf000븁\x0000\xfffe(...Can I manage to convince him\xfffeto stop the destruction?...)
+\xf000Ă\x0001\x0000: Stop the destruction!
+Majin: Grrrrrrrrroooowrrrrrrrr!\xfffeThat's taboo for the Majin of Mayhem!\xf000븀\x0000\xfffeI'll destroy everything!
+\xf000Ă\x0001\x0000: Disappear!
+Majin: Grrrrrrrrroooowrrrrrrrr!\xfffeMake myself disappear?\xf000븀\x0000\xfffeI shouldn't do such a sad thing.\xf000븀\x0000\xfffeNever, ever!\xf000븁\x0000\xfffeInstead, I'll destroy this world\xfffeand make it disappear!
+\xf000Ă\x0001\x0000: Protect the world!
+Majin: La la la laaa. ♪\xfffeHm? What is it to “protect"?\xf000븁\x0000\xfffeWell, I'll think about it after I'm done\xfffethrashing around.
+\xf000Ă\x0001\x0000: Show remorse!
+Majin: Grrrrrrrrroooowrrrrrrrr!\xfffeThere's no such word as remorse\xf000븀\x0000\xfffein my dictionary!\xf000븁\x0000\xfffeWithout hesitation, without looking back,\xfffeI'll just destroy everything!
+Majin: La la la laaa. ♪\xfffeOh! You've got the moves! Dance it!
+\xf000Ă\x0001\x0000: ...
+Majin: La la la laaa. ♪\xfffeYour dance moves remind me of my honey.\xf000븁\x0000\xfffeLa la la. ♪ La la la laaa. ♪ La la la. ♪\xfffeLa la la. ♪ La la la laaa. ♪ La la la. ♪
+\xf000Ă\x0001\x0000: Your honey...\xfffeDo you mean your girlfriend?\xf000븀\x0000\xfffeOr your wife?
+Majin: La la la laaa. ♪ La la la. ♪\xfffeLa la la. ♪ La la la laaa. ♪ La la la. ♪\xf000븁\x0000\xfffeOh, my honey! My honey!\xfffeWhy did you leave me behind?!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeAhhhhhhhh... Ahhhhhhhh!\xfffeWaaaaaaaaaaaaaaaaaaah!\xf000븁\x0000\xfffeI remember now!\xf000븁\x0000\xfffeThose vermin betrayed me!\xfffeThose humans trapped my honey!\xf000븁\x0000\xfffeI'll never forgive humans! Never!
+\xf000Ă\x0001\x0000: Is that your reason for\xfffeyour course of endless destruction?
+Majin: Grrrrrrrrroooowrrrrrrrr!\xfffeI'll destroy this loveless world!
+\xf000Ă\x0001\x0000: Sadness...\xf000븁\x0000\xfffeBut whatever he feels his reason to be,\xfffeI can't let him continue on this path.
+\xf000Ă\x0001\x0000: No...\xfffeI'm no match for him.
+Majin: La la la laaa. ♪\xfffeAre you finished already?\xf000븁\x0000\xfffeAfter you leave, I'll be bored again. I'll go\xfffeahead and destroy such a boring world!
+\xf000Ă\x0001\x0000: Stop.
+Arkham: Ahahahaha!\xf000븁\x0000\xfffeAll right! Go for it!\xfffeWhen you're bored, destroy everything!\xf000븀\x0000\xfffeDestroy everything everywhere!
+Roooooooaaaaarrrrrrr!\xfffeWhaaaaaaaaaaaaam!\xf000븁\x0000\xfffeBooooooooooooooom!\xfffeWhaaaaaaaaaaaaam!\xf000븁\x0000\xfffe...
+\xf000Ă\x0001\x0000: N-no.\xfffeI'm no match for him...
+Majin: La la la laaa. ♪\xfffeAre you finished already?\xf000븁\x0000\xfffeAfter you leave, I'll be lonely again.\xf000븁\x0000\xfffeI'll destroy this heartless, empty city!
+\xf000Ă\x0001\x0000: Stop.
+Arkham: Ahahahaha!\xf000븁\x0000\xfffeAll right! Go for it!\xfffeLoneliness, sadness--destroy everything!\xf000븀\x0000\xfffeDestroy everything everywhere!
+Roooooooaaaaarrrrrrr!\xfffeWhaaaaaaaaaaaaam!\xf000븁\x0000\xfffeBooooooooooooooom!\xfffeWhaaaaaaaaaaaaam!\xf000븁\x0000\xfffe...
+\xf000Ă\x0001\x0000: The Majin is acting strange...
+Majin: La la la laaa. ♪\xfffeYou're tough!\xf000븀\x0000\xfffeI was right. I like you!\xf000븁\x0000\xfffe...La la la laaa. ♪\xfffeHm! Hmm! I have an idea!\xf000븁\x0000\xfffeThis time, I'll play by protecting\xfffethe world rather than destroying it!\xf000븀\x0000\xfffeLet me put it this way, hmm?\xf000븁\x0000\xfffeWe will protect the world, you and me,\xfffeby keeping the whole thing in our hands.
+\xf000Ă\x0001\x0000: You mean we'll take this\xfffeworld under our control?
+Arkham: W-wait! Majin!\xfffeWhat are you talking about?\xf000븁\x0000\xfffeDestruction is everything, right?\xfffeDestroy everything already!
+Majin: Hey, Arkham...\xfffeYou're stubborn and boring!\xf000븁\x0000\xfffeA person in such a rut should\xfffedisappear already!
+Ssssssrrrrshhhhh!
+Arkham: What are you...saying?\xfffeYeeeeeeeeek!\xf000븁\x0000\xfffe...
+Half a century has passed since then.\xf000븁\x0000\xfffeThe world has been controlled by the\xfffeMajin and me.\xf000븁\x0000\xfffeAs all people fear the Majin's power,\xfffeno one causes any big confrontations\xf000븀\x0000\xfffeor incidents.\xf000븁\x0000\xfffeSometimes the Majin thrashes around\xfffeand causes destruction. But that's it...\xf000븁\x0000\xfffeIt's not so much. All in all, I'd say our\xfffetaking control has produced an ideal world.
+\xf000Ă\x0001\x0000: Did I defeat him?
+Majin: La la la laaa. ♪\xfffeYou're strong!\xf000븀\x0000\xfffeI'm in a good mood!
+Arkham: It can't be!\xfffeThe Majin lost...
+Majin: I'm a bit sleepy\xfffe'cause I played a lot.\xf000븁\x0000\xfffeYaawn... So sleepy.\xfffeI'm gonna go home and sleep...\xf000븀\x0000\xfffeArkham! Let's go!
+\xf000Ă\x0001\x0000: I did it!
+Arkham: It can't be...\xfffeIt can't be... It can't be...
+Majin: La. ♪ La la. ♪ La la la. ♪\xfffeLa la la. ♪ La la la laaa. ♪ La la la laaa. ♪\xf000븁\x0000\xfffe...
+Addendum to\xfffe“Ghost Eraser Case Files: File No. 004":\xf000븁\x0000\xfffeI defeated the Majin of Mayhem.\xfffeThe Majin fell asleep again. But...\xf000븁\x0000\xfffeThe Majin could wake up again at any time.\xfffePlease be aware.\xf000븁\x0000\xfffeIf he does return, please remember\xfffeto choose your answers wisely.\xf000븁\x0000\xfffeThe fate of the world may rest upon you.\xfffe--Code name: \xf000Ă\x0001\x0000

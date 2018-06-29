@@ -1,0 +1,20 @@
+N: \xf000븉\x0001\x0001You came...\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001The Pokémon League is\xfffejust past Victory Road.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Pokémon battles do nothing\xfffemore than hurt Pokémon...\xf000븁\x0000\xfffeThat's how I understood it,\xfffeand that's why I hated battles.\xf000븁\x0000\xfffeBut it's not that simple.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Pokémon battles decide\xfffewinners and losers, it's true.\xf000븁\x0000\xfffeYet they do so much more.\xf000븁\x0000\xfffeYour Pokémon! You!\xfffeYour opponents! And their Pokémon!\xf000븁\x0000\xfffeEveryone can see what wonderful\xfffethings the others have to contribute!\xf000븁\x0000\xfffeThat's right! Accepting different ideas--\xfffedifferent beings--changes the world\xf000븀\x0000\xfffelike a chemical reaction!\xf000븁\x0000\xfffePokémon battles are like a catalyst:\xfffea small component that leads to\xf000븀\x0000\xfffebig changes!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001My friend Zekrom taught me that...\xf000븁\x0000\xfffeAnd it's the formula I've derived\xfffefrom traveling the world.\xf000븁\x0000\xfffeI want you to think for\xfffeyourself about what it means.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001My friend Reshiram taught me that...\xf000븁\x0000\xfffeAnd it's the formula I've\xfffederived from traveling the world.\xf000븁\x0000\xfffeI want you to think for\xfffeyourself about what it means.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001What's this?\xfffeWhy, you're the...\xf000븁\x0000\xfffeYou're the \xf000ā\x0001\x0000 that helped me\xfffethat time, aren't you?\xf000븀\x0000\xfffeHey, thanks!\xf000븁\x0000
+\xf000븉\x0001\x0001Here!\xfffeTake this with you!\xf000븁\x0000\xfffeThe new Victory Road has areas that\xfffeare only accessible with Waterfall.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Yes!\xfffeIf it's your Pokémon and you...\xf000븁\x0000\xfffeYou will get past the Pokémon League\xfffeand recognize your own ideals!\xf000븁\x0000\xfffeThat's what I see in store for you!\xf000븁\x0000
+\xf000븉\x0001\x0001Yes!\xfffeIf it's your Pokémon and you...\xf000븁\x0000\xfffeYou will get past the Pokémon League\xfffeand recognize your own truth!\xf000븁\x0000\xfffeThat's what I see in store for you!\xf000븁\x0000
+Basic Badge confirmed!
+Toxic Badge confirmed!
+Insect Badge confirmed!
+Bolt Badge confirmed!
+Quake Badge confirmed!
+Jet Badge confirmed!
+Legend Badge confirmed!
+Wave Badge confirmed!
+Badge Check Gate Ahead
+The Pokémon League\xfffeis through this tunnel!

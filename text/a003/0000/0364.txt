@@ -1,0 +1,14 @@
+Team Plasma: Who are you?\xf000븁\x0000
+\xf000Ā\x0001\x0001: Just to let you know...\xfffeYou're about to feel my rage!\xf000븁\x0000
+Team Plasma: Ugh...!\xfffeWe have to tell the others.\xf000븁\x0000
+Team Plasma: Oh no! At this rate,\xfffethey'll get through our barriers!\xf000븁\x0000
+\xf000Ā\x0001\x0001: They didn't have\xfffePurrloin with them!\xf000븁\x0000
+Barriers, huh...\xf000븁\x0000
+And there's a device where\xfffeyou enter a password here...\xf000븁\x0000
+That means...\xf000븁\x0000\xfffeWe either have to find the password,\xfffeor get it out of Team Plasma,\xf000븀\x0000\xfffeto deactivate the barriers.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xfffeLet's split up and find that password!\xf000븁\x0000
+There is a device...\xf000븁\x0000\xfffeIt seems that a card key is necessary\xfffeto enter a password.
+There is a device...\xfffeIt seems to be for entering a password.\xf000븁\x0000\xfffeWill you enter a password?
+The password is not correct.
+You succeeded in\xfffeentering the password!
+All the barriers were deactivated,\xfffeand now you can proceed!
+Be careful!\xfffeThe barriers are electrified!

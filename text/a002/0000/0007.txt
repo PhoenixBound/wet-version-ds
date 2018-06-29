@@ -1,0 +1,20 @@
+Welcome to Battle Competition!
+There are two kinds of\xfffeBattle Competitions.\xf000븁\x0000\xfffeOne is the Wi-Fi Competition,\xfffewhich is held via Nintendo Wi-Fi Connection.\xf000븁\x0000\xfffeThe other is the Live Competition,\xfffewhich is held at certain events.\xf000븁\x0000\xfffeOnly Pokémon registered in your\xfffeBattle Box can participate.\xf000븁\x0000\xfffeOnce registered, you cannot move\xfffeyour Pokémon to and from your\xf000븀\x0000\xfffeBattle Box.\xf000븁\x0000\xfffeWhen you participate in a competition,\xfffeyour Digital Player ID will be updated.\xf000븀\x0000\xfffePlease check it.\xf000븁\x0000
+To the Wi-Fi Competition
+To the Live Competition
+Check your Digital Player ID
+Info
+Back
+Participate
+To participate in the Wi-Fi Competition,\xfffeyou'll need to access the webpage\xf000븀\x0000\xfffeof the Pokémon Global Link to register.\xf000븀\x0000\xfffehttp://www.pokemon-gl.com\xf000븁\x0000\xfffePlease check the Pokémon Global Link\xfffewebpage for the competition regulations,\xf000븀\x0000\xfffeits duration, and other information.\xf000븁\x0000\xfffePlease bear in mind that if the power is\xfffeturned off during a Wi-Fi Competition or a\xf000븀\x0000\xfffeRandom Matchup, you won't be able to\xf000븀\x0000\xfffeparticipate in a competition for one hour.\xf000븁\x0000
+Will you participate in\xfffethe Wi-Fi Competition?
+                    
+    
+    
+Cancel participation
+Will you participate in\xfffethe Live Competition?
+You can check the information\xffferegarding the Live Competition at the\xf000븀\x0000\xfffePokémon official website:\xf000븀\x0000\xfffehttp://www.pokemon.com.\xf000븁\x0000\xfffePlease check the Pokémon official website\xfffefor the competition regulations,\xf000븀\x0000\xfffeits duration, and other information.\xf000븁\x0000
+Since the system was turned off or lost\xfffepower during a Wi-Fi Competition or\xf000븀\x0000\xfffea Random Matchup, you cannot participate\xf000븀\x0000\xfffein a competition or a Random Matchup\xf000븀\x0000\xfffefor one hour.\xf000븁\x0000\xfffePlease come back again\xfffeafter one hour has passed.\xf000븁\x0000
+Saving...\xfffeDon't turn off the power.
+To recognize your achievement in battle,\xfffeI present you with these Battle Points.\xf000븁\x0000
+\xf000Ā\x0001\x0000 received\xfffe\xf000ȁ\x0001\x0001 BP!\xf000븁\x0000

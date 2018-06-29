@@ -1,0 +1,39 @@
+Welcome to the Nacrene Museum!
+Currently, we're exhibiting a replica\xfffeof the Dark Stone, which was\xf000븀\x0000\xfffea legendary Pokémon's dormant form.
+Currently, we're exhibiting a replica\xfffeof the Light Stone, which was\xf000븀\x0000\xfffea legendary Pokémon's dormant form.
+Wow! Whenever I look at this skeleton,\xfffeI'm...fascinated.\xf000븁\x0000
+Welcome! I'm Hawes, the\xfffeassistant director.\xf000븁\x0000\xfffeSince you were kind enough to visit,\xfffeI'll give you a tour of the museum.\xf000븁\x0000
+???: Why, you're \xf000Ā\x0001\x0000, right?\xfffeYou came all the way out here!\xf000븁\x0000\xfffeWell now, which do you like better--\xfffethe Cover Fossil or the Plume Fossil?
+Cover Fossil
+Plume Fossil
+Quit
+Do you really want to choose\xfffethe Cover Fossil?
+Do you really want to choose\xfffethe Plume Fossil?
+Which do you like better,\xfffethe Cover Fossil or the Plume Fossil?
+Oh, come now!\xf000븁\x0000\xfffeDon't be shy!\xfffeYou're too young to be bashful!\xf000븁\x0000
+The Cover Fossil!\xfffeNow, that's a nice choice!\xf000븁\x0000\xfffeIf you want to restore it,\xfffego to our reception counter!\xf000븁\x0000
+The Plume Fossil!\xfffeNow, that's a nice choice!\xf000븁\x0000\xfffeIf you want to restore it,\xfffego to our reception counter!\xf000븁\x0000
+Hawes: Dear!\xf000븁\x0000\xfffeSuddenly interrupting my tours\xfffewill surprise the patrons.\xf000븁\x0000\xfffeOh, and you haven't even\xfffeintroduced yourself yet, have you?\xf000븁\x0000
+Oh, that's right.\xf000븁\x0000\xfffeI'm Lenora, the director of\xfffethis museum!\xf000븁\x0000\xfffeI'm always in my study,\xfffeso come visit if you have time!\xf000븁\x0000
+Oh, that's right.\xf000븁\x0000\xfffeI'm Lenora, the director of\xfffethis museum!\xf000븁\x0000\xfffeI'm always in my study,\xfffeso if you want a Fossil,\xf000븀\x0000\xfffedrop by and say hello!\xf000븁\x0000
+Hawes: Oh, dear...\xfffeWell, let's continue our tour.\xf000븁\x0000\xfffeThis skeleton is of a\xfffeDragon-type Pokémon.\xf000븁\x0000\xfffeThere's a theory that it had an accident\xfffewhile it was flying around the world, and\xf000븀\x0000\xfffeso it became a Fossil.\xf000븁\x0000
+We learned that Deoxys changes\xfffeits Forme by coming into contact\xf000븀\x0000\xfffewith the power of meteors.\xf000븁\x0000
+Oh!\xfffeNow, this is a truly interesting artifact!\xf000븁\x0000\xfffeThis is a replica of that Dark Stone!\xf000븁\x0000\xfffeHave you heard of the\xfffeDark Stone?\xf000븁\x0000\xfffeThis is the form of the legendary\xfffePokémon Zekrom while it rests...\xf000븁\x0000\xfffeWhat? You've seen Zekrom?\xfffeThat's amazing!\xf000븁\x0000\xfffeIn that case, my explanation\xfffeis superfluous, isn't it?\xf000븁\x0000
+Oh!\xfffeNow, this is a truly interesting artifact!\xf000븁\x0000\xfffeThis is a replica of that Light Stone!\xf000븁\x0000\xfffeHave you heard of the\xfffeLight Stone?\xf000븁\x0000\xfffeThis is the form of the legendary\xfffePokémon Reshiram while it rests...\xf000븁\x0000\xfffeWhat? You've seen Reshiram?\xfffeThat's amazing!\xf000븁\x0000\xfffeIn that case, my explanation\xfffeis superfluous, isn't it?\xf000븁\x0000
+The library is in the next room.\xfffeBeyond that is the director's room.\xf000븁\x0000\xfffeBy the way, Lenora is a former\xfffeGym Leader!
+Skeletal specimens are so mysterious...\xf000븁\x0000\xfffeFrom the outside, you can't see their\xfffefunctional, efficient design.\xf000븁\x0000\xfffeIt's almost as if it is an embodiment of\xfffetheir former essence... So fascinating!
+Rarities from around the world...\xfffeMuseums are packed with adventure!
+I heard that the director, Lenora,\xfffeis too busy with her research\xf000븀\x0000\xfffeon Fossils and Pokémon bones, so she\xf000븀\x0000\xfffetook a break from being a Gym Leader.
+Perhaps there is a Pokémon that came\xfffefrom space along with this meteorite.
+The Thick Club held by Marowak...\xf000븁\x0000\xfffeJust like how Cubone wears\xfffeits mother's skull,\xf000븀\x0000\xfffeMarowak could also battle with\xf000븀\x0000\xfffethe bone of someone dear to it...
+You!\xfffeBones can talk!\xf000븁\x0000
+You seem all right,\xfffebut it's natural for people\xf000븀\x0000\xfffeto have different opinions.\xf000븁\x0000\xfffeDon't fight over it--enjoy it.\xfffeConsider why they might think like that!
+This is a skeletal specimen from a\xfffePokémon that flew around the world.
+It's a Fossil of a Pokémon that was\xfffeprotected by a very hard shell.
+A meteor that has a space virus\xfffeattached to it.
+                       
+Special Exhibition!\xf000븁\x0000\xfffeThis is a replica of the Dark Stone--\xfffethe legendary Pokémon Zekrom's\xf000븀\x0000\xfffedormant state.
+Special Exhibition!\xf000븁\x0000\xfffeThis is a replica of the Light Stone--\xfffethe legendary Pokémon Reshiram's\xf000븀\x0000\xfffedormant state.
+A plate with an unknown script carved\xfffeinto it.
+A mask that ancient people used to wear\xfffeat festivals.
+Bones that were once carried as weapons\xfffeby a certain kind of Pokémon.

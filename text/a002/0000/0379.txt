@@ -1,0 +1,112 @@
+NAME
+
+NATURE
+POKÉDEX
+MONEY
+ID No.
+TIME
+ADVENTURE STARTED
+HALL OF FAME DEBUT
+TIMES LINKED
+LINK BATTLES
+LINK BATTLE WINS
+LINK BATTLE LOSSES
+LINK TRADES
+WILD POKÉMON ENCOUNTERS
+TRAINERS BATTLED
+PEOPLE PASSED BY
+FEELING CHECKS
+USABLE PASS POWERS
+MUSICAL PERFORMANCES
+Poké Transfer HIGH SCORE
+Battle Test HIGH SCORE
+CLEARED FUNFEST MISSIONS
+MOVIE SHOOTS
+WINS AT THE PWT
+CUSTOMERS RECOMMENDED TO
+\xf000Ĺ\x0001\x0007
+:
+-- --, ---- --:--
+     
+    
+        
+       
+                     
+                             
+Hardy
+Lonely
+Brave
+Adamant
+Naughty
+Bold
+Docile
+Relaxed
+Impish
+Lax
+Timid
+Hasty
+Serious
+Jolly
+Naive
+Modest
+Mild
+Quiet
+Bashful
+Rash
+Calm
+Gentle
+Sassy
+Careful
+Quirky
+    
+$\xf000Ȇ\x0001\x0000
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000   \xf000ȁ\x0001\x0003:\xf000ȁ\x0001\x0004
+\xf000Ȃ\x0001\x0000
+Aspertia City Gym Leader\xfffeCheren
+A Leader Who Seeks the Right Path
+Everyone has a different dream.\xfffeSearch for your life's purpose.
+Virbank City Gym Leader\xfffeRoxie
+A Little Poison in Your Days,\xfffea Little Poison on the Stage
+It's kindness to say no for your friends\xfffeand Pokémon, right?
+Castelia City Gym Leader\xfffeBurgh
+Premier Insect Artist
+Umm... That's right. You!\xfffeUse Bug-type Pokémon!
+Nimbasa City Gym Leader\xfffeElesa
+The Shining Beauty
+If you shine with an inner light, all that\xfffesurrounds you will be illuminated by it!
+Driftveil City Gym Leader\xfffeClay
+The Underground Boss
+Don't lie to yerself!\xfffeIt's best to live honestly.
+Mistralton City Gym Leader\xfffeSkyla
+The Highflying Girl
+Yearning makes you look up at the sky.\xfffeTo fly, go beyond yearning and take action!
+Opelucid City Gym Leader\xfffeDrayden
+The Spartan Mayor
+Sincere Trainer!\xfffeBe flexible!
+Humilau City Gym Leader\xfffeMarlon
+A Bigger Splash Than the Sea!
+It's cliché to compare life to a rough sea,\xfffebut don't be swept away!
+Basic Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 20 will\xfffeobey you.
+
+Toxic Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 30 will\xfffeobey you.
+
+Insect Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 40 will\xfffeobey you.
+
+Bolt Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 50 will\xfffeobey you.
+
+Quake Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 60 will\xfffeobey you.
+
+Jet Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 70 will\xfffeobey you.
+
+Legend Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+Traded Pokémon up to Lv. 80 will\xfffeobey you.
+
+Wave Badge\xfffeReceived: \xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+All traded Pokémon, regardless of level,\xfffewill obey you.

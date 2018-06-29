@@ -1,0 +1,16 @@
+Listen! Challenge Poison-type Pokémon\xfffewith Poison-type Pokémon!\xf000븀\x0000\xfffeAt least, that's what Roxie told me.\xf000븁\x0000\xfffeRoxie's a Gym Leader!\xfffeShe plays an instrument. Pretty cool!
+The more Gym Badges you have,\xfffethe more items you can buy at a shop.\xf000븀\x0000\xfffeI didn't know that!
+So you have \xf000Ȁ\x0001\x0000 Badges?\xf000븁\x0000\xfffeOh! Then, you must be able to buy\xfffea lot of items at a shop.
+Hi! I have some questions for you!\xf000븁\x0000\xfffeIf you want to play, where do\xfffeyou prefer: outside or at home?
+I see! I see!\xf000븁\x0000\xfffeThen, which one are you interested in:\xfffethe thing everybody knows\xf000븀\x0000\xfffeor the thing nobody knows?
+Oh, really?\xf000븁\x0000
+In my view, you are a person with\xfffecommon sense!
+I'd say you are quite active!
+I'd say you are very curious!
+I'd say you are quite composed!
+I'd say you are quite relaxed!
+Outside
+At home
+Neither
+The thing everybody knows
+The thing nobody knows

@@ -1,0 +1,12 @@
+Three sharp marks are deeply\xfffecut into the rock.
+\xf000Ă\x0001\x0000 seems to want to get out of\xfffethe Poké Ball!\xf000븁\x0000\xfffeWill you let it out?
+The Poké Ball has stopped moving...
+The determination carved into the rock\xfffeby Cobalion, Virizion, and Terrakion\xf000븀\x0000\xfffereminded \xf000Ă\x0001\x0000 of Secret Sword!
+But \xf000Ă\x0001\x0000 can't know more\xfffethan four moves.\xf000븁\x0000\xfffeDelete an existing move to make\xffferoom for Secret Sword?\xf000븁\x0000
+Give up on remembering the\xfffemove Secret Sword?
+\xf000Ă\x0001\x0000 did not remember the\xfffemove Secret Sword.\xf000븁\x0000
+Is it OK to forget the\xfffemove \xf000ć\x0001\x0001?
+1, \xf000븂\x0001\x00142, and\xf000븂\x0001\x0014... \xf000븂\x0001\x0014... \xf000븂\x0001\x0014... Ta-da!\xf000븅\x0001\x0003\xf000븆\x0001\x0002\xf000븇\x0000\xf000븄\x0000\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 forgot how to\xfffeuse \xf000ć\x0001\x0001.\xf000븁\x0000\xfffeAnd...\xf000븁\x0000
+\xf000Ă\x0001\x0000 remembered the move\xfffeSecret Sword!
+What?\xfffe\xf000Ă\x0001\x0000 is...\xf000븁\x0000
+\xf000Ă\x0001\x0000 has resolved to battle\xfffeand has changed into Resolute Form!

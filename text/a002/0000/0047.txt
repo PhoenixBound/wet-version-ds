@@ -1,0 +1,21 @@
+\xf000Ā\x0001\x0000
+ID \xf000Ȅ\x0001\x0000
+When the group is ready:\xfffeA Button: Proceed   B Button: Cancel
+Is this group OK?
+Cancel the Spin Trade?
+The Spin Trade will be canceled.
+A member has dropped out.
+There are no members.\xfffeThe Spin Trade will be canceled.
+Please wait.\xfffeB Button: Cancel
+A member dropped out.\xfffeThe Spin Trade will be canceled.
+Cancel the Spin Trade?
+The Spin Trade will be canceled.
+                              
+                                 
+If the leader drops out, the group will\xfffebe disbanded. Is that OK?
+\xf000Ā\x0001\x0000 has left.
+The leader, \xf000Ā\x0001\x0000, dropped out,\xfffeso the group will be disbanded.
+Seeking a Spin Trade!
+            
+Yes
+No

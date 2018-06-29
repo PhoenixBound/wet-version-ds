@@ -1,0 +1,28 @@
+Iris: Hey, c'mon!\xf000븁\x0000\xfffeThumb Pier is past here!\xf000븁\x0000\xfffeIf you mention a suspicious\xfffeplace in Castelia City, the\xf000븀\x0000\xfffeonly places that come to mind\xf000븀\x0000\xfffeare Narrow Street and here!\xf000븁\x0000
+Iris: This way! This way!\xfffeC'mon! Have a look!\xf000븁\x0000
+...When I fall asleep in my bed.\xf000븁\x0000\xfffe...When my Pokémon's attack\xfffehits critically!\xf000븁\x0000\xfffeMy life is full of things\xfffethat bring me joy!
+I'm a battling Clerk ⑭!\xfffeIf I don't give up, I'll win someday!
+Everyone's faces blend together!\xfffeIs that because I'm tired?
+When you're tired, rest!\xfffeDon't force yourself to be energetic!
+Should I change my Pokémon's moves\xfffeor its held items?
+To live surrounded by people,\xfffedo you have to grow to like everyone,\xf000븀\x0000\xfffeor do you only have to like yourself?
+I wonder what Castelia\xfffewas like before it got this big.
+It's wonderful how the Pokémon\xfffeand women here are so full of life!
+The Battle Company needs\xfffepeople for focus testing.\xf000븁\x0000\xfffeTrainers who are confident in\xfffetheir abilities should come try it!
+Seasons and trends always pass...
+Welcome to Castelia City!!\xfffeIt's the Castelia Harlequin Hunt!\xf000븁\x0000\xfffeI bet this is your first visit to\xfffeCastelia City.\xf000븁\x0000\xfffeThat's great!\xfffeHere, have this Bicycle!\xf000븁\x0000
+The Castelia Harlequin Hunt's\xffferules are simple!\xf000븁\x0000\xfffeAll you have to do is visit specific\xfffeplaces and talk to the Harlequin there!\xf000븀\x0000\xfffeWhether you participate is up to you!\xf000븀\x0000\xfffeThe places to look are...\xf000븁\x0000\xfffeThe Medal Office!\xf000븁\x0000\xfffePasserby Analytics HQ!\xf000븁\x0000\xfffeAnd the Battle Company!\xf000븁\x0000\xfffeRide the Bicycle I gave\xfffeyou, and go, go, go!
+Free-for-all! It's the Castelia\xfffeHarlequin Hunt! You haven't visited...\xf000븁\x0000
+The Medal Office!\xf000븁\x0000
+Passerby Analytics HQ!\xf000븁\x0000
+The Battle Company!\xf000븁\x0000
+You still need to visit\xfffethis many places: \xf000Ȁ\x0001\x0000!\xf000븁\x0000\xfffeSo explore Castelia City, and enjoy\xfffethe Castelia Harlequin Hunt!
+You still need to visit\xfffethis many places: Wow! Zero!\xf000븁\x0000\xfffeThat means you've completed\xfffethe Castelia Harlequin Hunt!\xf000븁\x0000\xfffeCongratulations!\xfffeThis is a small commemorative gift!\xf000븁\x0000
+The Castelia Harlequin Hunt is a way\xfffeto make more people love Castelia City!\xf000븁\x0000\xfffeThat's why we generously gave you a\xfffeBicycle at the beginning. It's the best\xf000븀\x0000\xfffeway to get around Castelia City!\xf000븁\x0000\xfffeKeep loving Castelia City!\xf000븁\x0000\xfffeCastelia City, Castelia City,\xfffeCastelia City! ♪ Here we go! ♪
+Castelia City\xfffeA City of Grandeur
+Ahead: Castelia Street\xfffeOcean Side: Cruise Dock
+Ahead: Mode Street\xfffeOcean Side: Prime Pier
+Ahead: Narrow Street\xfffeOcean Side: Unity Pier
+Ahead: Pokémon Gym\xfffeOcean Side: Liberty Pier
+Passerby Analytics HQ\xfffe...People pass by as they walk along.
+Battle Company\xfffeTalented Trainers Welcome!

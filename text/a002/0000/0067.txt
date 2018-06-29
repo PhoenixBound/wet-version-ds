@@ -1,0 +1,178 @@
+
+Key System
+SEND AND RECEIVE KEYS
+KEY SYSTEM SETTINGS
+       
+SET DIFFICULTY
+CHANGE CITY
+BACK
+EASY MODE
+NORMAL MODE
+CHALLENGE MODE
+BLACK CITY
+WHITE FOREST
+Keys Held
+Easy Key
+Challenge Key
+Tower Key
+Treehollow Key
+Send and receive keys with\xfffePokémon Black Version 2 or\xfffePokémon White Version 2.\xfffe\xfffeSending and receiving keys\xfffecan unlock Key System settings\xfffeand places on the map.
+Change game settings\xfffewith Keys.\xfffe\xfffeKeys can be obtained by proceeding\xfffethrough your adventure. You can also\xfffeunlock settings by trading Keys\xfffewith others.
+Return to the main menu.
+Launching Infrared Communications...\xfffeThe DS systems must face each other.
+Change the difficulty.\xfffeThe current mode is Easy Mode.\xfffePokémon battles with Trainers\xfffeare easier than normal.
+Change the difficulty.\xfffeThe current mode is Normal Mode.
+Change the difficulty.\xfffeThe current mode is Challenge Mode.\xfffePokémon battles with Trainers\xfffeare more difficult than normal.
+Swap White Forest and\xfffeBlack City.\xfffeThis area is currently Black City.
+Swap White Forest and\xfffeBlack City.\xfffeThe area is currently White Forest.
+Go back to the Key System's main menu.
+Go back to the Key System's main menu.
+Saving...\xfffeDon't turn off the power.
+Sending Key(s)...\xf000븂\x0001<
+Sent the Easy Key to \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Sent the Challenge Key to \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Sent the Treehollow Key to \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Sent the Tower Key to \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Sent the Iron Key to \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Sent the Iceberg Key to \xf000Ā\x0001\x0000.\xf000븂\x0001<
+Sent the Easy Key.\xf000븂\x0001<
+Sent the Challenge Key.\xf000븂\x0001<
+Sent the Treehollow Key.\xf000븂\x0001<
+Sent the Tower Key.\xf000븂\x0001<
+Sent the Iron Key.\xf000븂\x0001<
+Sent the Iceberg Key.\xf000븂\x0001<
+Receiving Key(s)...\xf000븂\x0001<
+Easy Mode was unlocked by\xfffe\xf000Ā\x0001\x0000's Easy Key.\xf000븂\x0001<
+Challenge Mode was unlocked by\xfffe\xf000Ā\x0001\x0000's Challenge Key.\xf000븂\x0001<
+White Forest was unlocked by\xfffe\xf000Ā\x0001\x0000's Treehollow Key.\xf000븂\x0001<
+Black City was unlocked by\xfffe\xf000Ā\x0001\x0000's Tower Key.\xf000븂\x0001<
+Iron Chamber was unlocked by\xfffe\xf000Ā\x0001\x0000's Iron Key.\xf000븂\x0001<
+Iceberg Chamber was unlocked by\xfffe\xf000Ā\x0001\x0000's Iceberg Key.\xf000븂\x0001<
+Easy Mode was unlocked\xfffeby someone's Easy Key.\xf000븂\x0001<
+Challenge Mode was unlocked\xfffeby someone's Challenge Key.\xf000븂\x0001<
+White Forest was unlocked\xfffeby someone's Treehollow Key.\xf000븂\x0001<
+Black City was unlocked\xfffeby someone's Tower Key.\xf000븂\x0001<
+Iron Chamber was unlocked\xfffeby someone's Iron Key.\xf000븂\x0001<
+Iceberg Chamber was unlocked\xfffeby someone's Iceberg Key.\xf000븂\x0001<
+Writing to the saved game file\xfffeis complete.\xf000븁\x0000
+Sending and receiving of Keys\xfffehas completed.\xf000븁\x0000
+There are no Keys\xfffeyou can send.\xf000븂\x0001<
+There are no Keys\xfffeyou can receive.\xf000븂\x0001<
+Communicating...\xfffePlease stand by.
+You cannot select this item until\xfffeit's been unlocked with the Easy Key.
+You cannot select this item until\xfffeit's been unlocked with the Challenge Key.
+You cannot select this item until\xfffeit's been unlocked with the Treehollow Key.
+You cannot select this item until\xfffeit's been unlocked with the Tower Key.
+YES
+NO
+Would you like to launch\xfffeInfrared Communication and\xf000븀\x0000\xfffeDS Wireless Communications?
+You are currently in that area,\xfffeso the settings cannot be changed.
+KEY SYSTEM
+MEMORY LINK
+BACK
+Communicate with Pokémon Black Version 2\xfffeor Pokémon White Version 2, and\xfffesend and receive Keys.
+Link with a saved game file from Pokémon\xfffeBlack Version or Pokémon White Version.
+Receive research data from the\xfffeNintendo 3DS download software\xfffePokémon Dream Radar.\xfffe\xfffeThe Pokémon and items that are\xfffereceived will be sent directly to\xfffethe PC Box or to the Bag.
+Return to the title screen.
+Memory Link
+LINK VIA DS WIRELESS COMMUNICATIONS
+LINK VIA NINTENDO WFC
+BACK
+Link to the saved game file by\xfffeusing two Nintendo DS systems.
+Use the Nintendo WFC and link to the\xfffesaved game file using Pokémon Global Link.\xfffe\xfffeIt's recommended that you link\xfffeafter tucking in a Pokémon\xfffein Pokémon Black Version\xfffeor Pokémon White Version\xfffeso it is the newest version\xfffeof the saved game file.
+Check the content of the memories\xfffethat will occur due to the Memory Link.
+Return to the main menu.
+Main Menu
+The Easy Key opened\xfffethe lock.\xf000븁\x0000\xfffeEasy Mode can now\xfffebe selected.\xf000븁\x0000
+The Challenge Key opened\xfffethe lock.\xf000븁\x0000\xfffeChallenge Mode can now\xfffebe selected.\xf000븁\x0000
+The Treehollow Key opened\xfffethe lock.\xf000븁\x0000\xfffeWhite Forest can now be selected\xfffein Change City.\xf000븁\x0000
+The Tower Key opened\xfffethe lock.\xf000븁\x0000\xfffeBlack City can now be selected\xfffein Change City.\xf000븁\x0000
+Obtained the Easy Key.\xf000븁\x0000\xfffeEasy Mode can now\xfffebe selected.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
+Obtained the Challenge Key.\xf000븁\x0000\xfffeChallenge Mode can now\xfffebe selected.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
+Obtained the Treehollow Key.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
+Obtained the Tower Key.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
+MEMORY LIST
+Change what lies beyond the mysterious\xfffegate in the Underground Ruins.\xfffeCurrently, the gate leads to\xfffethe Rock Peak Chamber.
+Change what lies beyond the mysterious\xfffegate in the Underground Ruins.\xfffeCurrently, the gate leads to\xfffethe Iron Chamber.
+Change what lies beyond the mysterious\xfffegate in the Underground Ruins.\xfffeCurrently, the gate leads to\xfffethe Iceberg Chamber.
+You cannot select this item\xfffeuntil it's unlocked with the Iron Key.
+You cannot select this item\xfffeuntil it's unlocked with the Iceberg Key.
+MYSTERY DOOR
+ROCK PEAK CHAMBER
+IRON CHAMBER
+ICEBERG CHAMBER
+Obtained the Iron Key.\xf000븁\x0000\xfffeIron Chamber can now\xfffebe selected in Mystery Door.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
+Obtained the Iceberg Key.\xf000븁\x0000\xfffeIceberg Chamber can now\xfffebe selected in Mystery Door.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
+Iron Key
+Iceberg Key
+Obtained the Easy Key.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
+Obtained the Challenge Key.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
+Obtained the Iron Key.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
+Obtained the Iceberg Key.\xf000븁\x0000\xfffeKeys can be sent and received\xfffevia Infrared Communications to\xf000븀\x0000\xfffeunlock each other's locked\xf000븀\x0000\xfffesettings and map locations.\xf000븁\x0000
+Unable to find a Nintendo DS system to\xfffecommunicate with. Try again?
+Difficulty was set\xfffeto Easy Mode.\xf000븁\x0000\xfffeThe level of Pokémon Trainers use\xfffewill be lower than normal.\xf000븁\x0000
+Difficulty was set\xfffeto Normal Mode.\xf000븁\x0000\xfffeThe level of Pokémon Trainers use\xfffewill be the same as normal.\xf000븁\x0000
+Difficulty was set\xfffeto Challenge Mode.\xf000븁\x0000\xfffeThe level of Pokémon Trainers use\xfffewill be higher than normal.\xf000븁\x0000
+Changed the area to Black City.\xf000븁\x0000
+Changed the area to White Forest.\xf000븁\x0000
+The mystery door now leads\xfffeto the Rock Peak Chamber.\xf000븁\x0000\xfffeFind it in the Underground Ruins!\xf000븁\x0000
+The mystery door now leads\xfffeto the Iron Chamber.\xf000븁\x0000\xfffeFind it in the Underground Ruins!\xf000븁\x0000
+The mystery door now leads\xfffeto the Iceberg Chamber.\xf000븁\x0000\xfffeFind it in the Underground Ruins!\xf000븁\x0000
+Memory Link ID: \xf000Ȅ\x0001\x0000
+Memory Link
+Pokémon Black Version 2\xfffeMemory Link Program
+Pokémon White Version 2\xfffeMemory Link Program
+Please insert a Pokémon Black Version or\xfffePokémon White Version Game Card in the\xfffeother DS system and turn it on.\xfffeThen select “Memory Link ID: \xf000Ȅ\x0001\x0000"\xfffefrom “DS Download Play."
+Please insert a Pokémon Black Version or\xfffePokémon White Version Game Card in the\xfffeother DS system and turn it on.\xfffeThen select “Memory Link"\xfffefrom “DS Download Play."
+Activating Memory Link...\xfffePlease stand by.
+Unable to connect to the\xfffeother DS system.\xfffeMemory Link will now close.\xf000븁\x0000
+Launch DS Wireless Communications?
+The game inserted is not compatible.\xfffeTurn off the power, insert a\xfffecompatible Game Card,\xfffeand try Memory Link again.\xfffeMemory Link will now close.\xf000븁\x0000
+Error reading the save file.\xfffeThere may not be a save file,\xfffeor the save file may be corrupted.\xfffeMemory Link will close.\xf000븁\x0000
+Memory Link was successful.\xf000븁\x0000
+The saved game file you are trying\xfffeto link to is different than before.\xfffeLink to this saved game file?
+Memory Link was canceled.\xfffeMemory Link will close.\xf000븁\x0000
+Please enter a Game Sync ID.\xfffeThe Game Sync ID can be found\xfffein Game Sync Settings in\xfffePokémon Black Version or\xfffePokémon White Version.\xf000븁\x0000
+That Game Sync ID is invalid.\xf000븁\x0000
+                                                   
+Linking to a saved game file...\xfffePlease wait a moment.
+Memory Link was successful!\xfffeSomething has changed.\xf000븁\x0000\xfffePlease check the Memory List.\xf000븁\x0000
+Memory List
+This service is no longer available.\xfffePlease use “LINK VIA WIRELESS."\xf000븁\x0000
+Communicating...\xfffePlease stand by.
+Please use Game Sync\xfffeto tuck in a Pokémon\xfffein Pokémon Black Version\xfffeor Pokémon White Version.\xfffeYou can use the Memory Link\xfffeafter tucking in a Pokémon.\xf000븁\x0000
+That Game Sync ID is not\xfffefrom Pokémon Black Version\xfffeor Pokémon White Version.\xf000븁\x0000
+A TRIPLE TEAM
+DIFFERENT BONES AND DREAMS
+HEARTS' DESIRE
+A NEW LIGHT
+TAKING IT TO THE NEXT LEVEL
+WHITE AND BLACK
+FAREWELL, BELOVED SISTER
+MEETING FRIENDS, SAYING GOOD-BYE
+BACK
+Listen to Cress, Chili, and Cilan's\xfffestory at Striaton City's Restaurant.\xf000븁\x0000
+Go to Nacrene City Museum to hear\xfffeLenora, the bone specialist,\xf000븀\x0000\xfffetell a story.\xf000븁\x0000
+Brycen is waiting in a\xfffeplace with a frozen floor\xf000븀\x0000\xfffein Icirrus City.\xf000븁\x0000
+After your entering of the Hall of Fame,\xfffeDrayden starts thinking about the past\xf000븀\x0000\xfffein Opelucid City.\xf000븁\x0000
+After your visit to Lentimas Town,\xfffeSkyla stares blankly while standing in\xf000븀\x0000\xfffefront of the Mistralton City Gym.\xf000븁\x0000\xfffeShe wants to talk to someone about\xfffesomething that's worrying her.\xf000븁\x0000
+After participating in the PWT,\xfffesomeone is visiting the house in\xf000븀\x0000\xfffeDriftveil City where the ex-Team Plasma\xf000븀\x0000\xfffemembers are...\xf000븁\x0000
+Nimbasa City's Musical's owner\xfffeis reminiscing about the past.\xf000븁\x0000
+At a Pokémon Center,\xfffea Pokémon Breeder is thinking\xf000븀\x0000\xfffeabout Pokémon.\xf000븁\x0000
+Saved game data is corrupted,\xfffeso the Key System cannot be used.\xf000븁\x0000\xfffeSelect “NEW GAME," save the game, and\xfffetry the Key System again.\xf000븁\x0000
+NINTENDO 3DS LINK
+Receive research data from\xfffePokémon Dream Radar?
+Connecting to Pokémon Dream Radar...
+Receiving research data from\xfffePokémon Dream Radar...
+\xf000ā\x0001\x0000 arrived!\xf000븁\x0000
+Research data was written\xfffein the saved game file!\xf000븁\x0000
+Pokémon Dream Radar's research data\xfffeis corrupt.\xf000븁\x0000
+Initializing research data.
+Research data was initialized.\xf000븁\x0000\xfffeStart Pokémon Dream Radar,\xfffeand send the research data again.\xf000븁\x0000
+Research data cannot be sent\xfffebecause there is no saved game file.\xf000븁\x0000\xfffeSelect “NEW GAME" and save the game\xfffeafter you have obtained the Pokédex.\xf000븁\x0000
+To receive research data,\xfffeplay the game until you receive\xf000븀\x0000\xfffethe Pokédex and then save the game.\xf000븁\x0000
+There was no research data for\xfffePokémon Dream Radar.\xf000븁\x0000\xfffePlay Pokémon Dream Radar on the\xfffeNintendo 3DS system,\xf000븀\x0000\xfffeand gather research data.\xf000븁\x0000
+There is no research data for\xfffePokémon Dream Radar.\xf000븁\x0000\xfffeStart Pokémon Dream Radar,\xfffeand send research data.\xf000븁\x0000
+To receive research data, you must\xfffereorganize your PC Box so you are\xf000븀\x0000\xfffeable to store six or more Pokémon\xf000븀\x0000\xfffein your PC Box.\xf000븁\x0000\xfffeThen try to receive the data again.\xf000븁\x0000
+Transferred the received\xfffePokémon to the PC Box.\xf000븁\x0000
+Received item(s) were\xfffesent to the Bag.\xf000븁\x0000

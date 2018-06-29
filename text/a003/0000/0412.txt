@@ -1,0 +1,18 @@
+The mission will begin...\xfffePlease wait a moment.
+The mission is over.\xf000븁\x0000
+Summary of the Funfest Mission...\xf000븁\x0000
+You retired from the mission.\xf000븁\x0000
+The connection has been lost, and\xfffethe Funfest Mission will be ended.\xf000븁\x0000
+Unable to participate.\xf000븁\x0000\xfffeYou may not be able to join the mission\xfffewhen the time limit is short.
+It's a mission you can't participate in.\xf000븁\x0000\xfffeYou may not be able to join the mission\xfffewhen the time limit is short.
+You cannot participate\xfffein this mission yet.\xf000븁\x0000\xfffeThe more you progress in your adventure,\xfffethe more missions you'll be able to play.
+\xf000봂\x0000“\xf000ŀ\x0001\x0000"
+                   
+                    
+Time remaining: \xf000봃\x0001\x0010\xf000ȃ\x0001\x0002 min. \xf000ȁ\x0001\x0003 sec.
+Time remaining: \xf000봃\x0001\x0010\xf000ȁ\x0001\x0003 sec.
+Target: \xf000봃\x0001\x0010\xf000ȃ\x0001\x0004
+Target: \xf000봃\x0001\x0010\xf000ȃ\x0001\x0004
+Target: \xf000봃\x0001\x0010\xf000ȃ\x0001\x0004
+Target: \xf000봃\x0001\x0010\xf000ȃ\x0001\x0004
+Target: \xf000봃\x0001\x0010\xf000ȃ\x0001\x0004

@@ -1,0 +1,259 @@
+A hero battles the Masked Man, who is\xfffetargeting the amusement park.
+The evil Masked Man appears at the\xfffeport where a cruise ship is docked.
+Everything is on the line\xfffein this battle of good vs. evil.
+A secret detective and a thief\xfffecollide over an amazing energy source.
+A challenge from a thief\xfffeis an ingenious trap.
+The thief's next target:\xfffethe detective's sister!
+The dramatic chase between\xfffedetective and thief comes to a close.
+A UFO appears in a major metropolis!\xfffeThe UDF rushes to the scene!
+The mysterious woman's experiment!\xfffeThe decoy plan is made clear.
+The UFO returns!\xfffeThe decoy plan is put in motion!
+The truth behind the mysterious woman!\xfffeHumanity's final battle begins!
+A giant organism appears,\xfffeand the UDF goes into action!
+The UDF rushes into action when\xfffean odd scream is heard during patrol!
+The Titanic Tyranitar reappears!\xfffeThe mysterious light's true identity!
+MT reappears. It's time for the final\xfffebattle with the UDF!
+It's the first experiment of its kind!\xfffeAwaken the unseen future world!
+A shocking future awaits!\xfffePokémon control people!
+Change the future!\xfffeThe last hope is a door to the past!
+A love story between Trainers.\xfffeRomance is afoot at the street corner.
+A story about unrequited love\xfffebetween Trainers.
+A love story about two Trainers\xfffereunited at the amusement park.
+A magical queen sets a trap.\xfffeThrough the suspicious door!
+A gatekeeper waits in\xfffea magic cage.
+Fate rests on a choice between doors.\xfffeWhich one leads back?
+A big argument leads to a tragedy\xfffewith an odd Poké Ball.
+A suspicious visitor steals the\xfffeBall with the woman inside it!
+A giant woman appears,\xfffeand the city descends into panic!
+The key to the giant woman's fate\xfffeis love!
+Who are you? Where did you come from?\xfffeWhat for? A creepy human-type monster.
+Screams and hopelessness fill\xfffethe amusement park at night!
+Unknown and impossible to understand,\xfffeit came from a different dimension.
+A genius inventor's experiment\xfffecreates a robot with a heart!
+The inventor and the robot\xfffehave a fleeting connection.
+What happens to the betrayed inventor\xfffeand the out-of-control robot?
+The inventor and the robot's last\xfffememory and final good-bye.
+A village where ghosts appear!\xfffeThe Ghost Erasers are on the case!
+The Ghost Erasers face a\xfffepossessed girl!
+The Ghost Erasers solve the\xfffemystery of a spirit hiding in a treasure.
+The Majin of destruction is revived,\xfffeand the Ghost Erasers must stop it!
+Brycen-Man is back?\xfffeThe battle transcends space!
+       
+       
+Brycen-Man
+Brycen-Man Strikes Back
+Brycen-Man Strikes Back 2
+Full Metal Cop
+Full Metal Cop 2
+Full Metal Cop 3
+Full Metal Cop 4
+Invaders
+Invaders 2
+Invaders 3
+Invaders 4
+Big Monster
+Big Monster 2
+Big Monster 3
+Big Monster 4
+Timegate Traveler
+Timegate Traveler 2
+Timegate Traveler 3
+Love and Battles
+Love and Battles 2
+Love and Battles 3
+Mystery Doors of the Magical Land
+Mystery Doors of the Magical Land 2
+Mystery Doors of the Magical Land 3
+The Giant Woman!
+The Giant Woman 2
+The Giant Woman 3
+The Giant Woman 4
+Red Fog of Terror
+Red Fog of Terror 2
+Red Fog of Terror 3
+Everlasting Memories
+Everlasting Memories 2
+Everlasting Memories 3
+Everlasting Memories 4
+Ghost Eraser
+Ghost Eraser 2
+Ghost Eraser 3
+Ghost Eraser 4
+Brycen-Man Strikes Back Harder
+Brycen-Man
+Knock out an opponent every scene.
+Last for five scenes!\xfffeDon't knock out your foe!
+Knock out SFX Prop H1 in 15 scenes.\xfffeIgnoring other foes is OK.
+Let your Pokémon be\xfffeknocked out in five scenes.
+Let your Pokémon be\xfffeknocked out in eight scenes.
+Let all of your Pokémon be\xfffeknocked out in 10 scenes.
+Let all of your Pokémon be\xfffeknocked out in 20 scenes.
+Knock out Elgyem in seven scenes.\xfffeDon't knock out any other Pokémon.
+Knock out SFX Prop U1 with Zap Cannon.\xfffeDon't knock it out with any other move.
+Knock out Beheeyem in seven scenes.\xfffeDon't knock out any other foes.
+Knock out SFX Prop U2 in 10 scenes.\xfffeDon't knock out any other foes.
+Last for four scenes.\xfffeDon't knock out your opponent!
+Knock out SFX Prop M1 in 15 scenes.
+Knock out all foes in 15 scenes.
+Knock out SFX Prop M2 in 15 scenes.
+Knock out SFX Prop T1 in four scenes.
+Last for five scenes!\xfffeDon't knock out SFX Prop K1.
+Knock out SFX Prop T1 with Thunder.\xfffeDon't knock it out with any other move.
+Defeat all foes in eight scenes.
+Let your Pokémon be knocked out\xfffein four scenes.
+Knock out all foes in six scenes.
+Knock out all foes in seven scenes.
+Knock out SFX Prop W2 with Astonish.\xfffeDon't knock it out with any other move.
+Knock out SFX Prop W2 in 20 scenes.\xfffeDon't knock out any other foes.
+Let your Pokémon be\xfffeknocked out in eight scenes.
+Let your Pokémon be\xfffeknocked out in 10 scenes.
+Last for six scenes.\xfffeDon't knock out your foe.
+Last for six scenes.\xfffeDon't knock out your foe.
+Knock out your foe in 10 scenes.
+Knock out all foes in 20 scenes.
+Knock out SFX Prop C2 in 15 scenes.\xfffeKnocking out other foes is fine.
+Last for five scenes.\xfffeDon't knock out your foe.
+Last for six scenes.\xfffeDon't knock out your foe.
+Knock out SFX Prop R2 with Blizzard.\xfffeDon't knock it out with any other move.
+Knock out SFX Prop R1 in nine turns.
+Knock out an opponent every scene.
+Knock out an opponent every scene.
+Knock out your foe in six scenes.
+Knock out your foe in 10 scenes.
+Knock out an opponent every scene.
+Knock out an opponent every scene.
+TITLE
+PLOT
+MISSION
+SCRIPT
+COSTARS
+CAST
+Held Items
+Ability
+\xf000Ă\x0001\x0000
+⑭
+⑮
+Lv. \xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+\xf000Ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+\xf000ć\x0001\x0000
+/
+Role
+Film the script\xfffe\xf000\xff00\x0001\x0001\xf000Ŀ\x0001\x0000\xf000\xff00\x0001\x0000?
+FILM
+SEE DETAILS
+QUIT
+Watch this movie?
+Remove this movie from theaters?
+If you remove this movie,\xfffeit will be deleted. Is this OK?
+YES
+NO
+DETAILS
+WATCH
+BACK
+REMOVE
+Screen 1
+Screen 2
+Screen 3
+Screen 4
+Screen 5
+Screen 6
+Screen 7
+Screen 8
+Featuring
+Box-Office Grosses
+Summary
+Highest Grossing Film
+Record Box-Office Gross
+$\xf000Ȃ\x0001\x0003.\xf000Ȁ\x0001\x0004 Billion
+Featuring
+\xf000Ā\x0001\x0001
+\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/\xf000ȃ\x0001\x0000
+\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+Release Date
+??? Billion
+The \xf000Č\x0001\x0000 Kid\xfffevs. Brycen-Man
+The \xf000Č\x0001\x0000 Kid\xfffeFaces the Return of Brycen-Man
+The \xf000Č\x0001\x0000 Kid and the\xfffeEnd of Brycen-Man
+Enter the \xf000Č\x0001\x0000 Ninja!
+The \xf000Č\x0001\x0000 Ninja's Trap
+Little Sister\xfffevs. the \xf000Č\x0001\x0000 Ninja
+The \xf000Č\x0001\x0000 Ninja:\xfffeThe Final Case
+Terror from the Sky
+The UFO and the Mysterious Woman
+Decoy Plan
+Humanity's Ultimate Struggle
+The Titanic Tyranitar\xfffe
+The Mechanical Menace
+Mysterious Beach
+Return of Mecha Tyranitar
+Glasses of Destiny
+Pokémon Planet
+Escape from Pokémon Planet
+Penelope's Story
+Barbara's Story
+Maria's Story
+Beyond a Door
+A Door's Secrets
+Open a Door
+The Quarrel Ends and\xfffeTrouble Begins
+A Mysterious Caller
+Trials of the Giant Woman
+Farewell, Dear Giant
+Horrific Motel
+Wanderers of the Park
+A Cry from Beyond
+INITIATE
+CONNECT
+RUNTIME EXCEPTION
+SHUTDOWN
+File 1: The Village of Ghosts
+File 2:\xfffeA Curious Possession
+File 3:\xfffePhantom Treasure
+File 4:\xfffeMajin of Mayhem
+The Final Showdown
+Midlife Man of Justice\xfffevs. Brycen-Man
+The \xf000Č\x0001\x0000 Girl\xfffevs. Brycen-Man
+The \xf000Č\x0001\x0000 Girl\xfffeFaces the Return of Brycen-Man
+The \xf000Č\x0001\x0000 Girl and the\xfffeEnd of Brycen-Man
+Enter the \xf000Č\x0001\x0000 Ninja!
+The \xf000Č\x0001\x0000 Ninja's Trap
+Little Sister\xfffevs. the \xf000Č\x0001\x0000 Ninja
+The \xf000Č\x0001\x0000 Ninja:\xfffeThe Final Case
+Terror from the Sky
+The UFO and the Mysterious Woman
+Decoy Plan
+Humanity's Ultimate Struggle
+The Titanic Tyranitar\xfffe
+The Mechanical Menace
+Mysterious Beach
+Return of Mecha Tyranitar
+Glasses of Destiny
+Pokémon Planet
+Escape from Pokémon Planet
+Miguel's Story
+Camilo's Story
+Antonio's Story
+Beyond a Door
+A Door's Secrets
+Open a Door
+The Quarrel Ends and\xfffeTrouble Begins
+A Mysterious Caller
+Trials of the Giant Woman
+Farewell, Dear Giant
+Horrific Motel
+Wanderers of the Park
+A Cry from Beyond
+INITIATE
+CONNECT
+RUNTIME EXCEPTION
+SHUTDOWN
+File 1: The Village of Ghosts
+File 2:\xfffeA Curious Possession
+File 3:\xfffePhantom Treasure
+File 4:\xfffeMajin of Mayhem
+The Final Showdown
+Midlife Man of Justice\xfffevs. Brycen-Man

@@ -1,0 +1,22 @@
+Medal Collection Goal
+Medals Collected
+Hint Medals
+\xf000봃\x0001\xf000Ȃ\x0001\x0000
+\xf000봃\x0001\xf000Ȃ\x0001\x0000/\xf000Ȃ\x0001\x0001
+Registering your Favorite Medal.\xfffeIt will be shown to other players.
+Removed
+A Hint Medal cannot be registered\xfffeas your Favorite Medal.
+How should the Medals\xfffebe displayed?
+Browser
+Columns
+Medals Only
+Hint Medals Only
+Display by Type
+Display by Name
+Newest First
+Revert
+Back
+\xf000봃\x0001Date Obtained
+\xf000봃\x0001Date Received
+\xf000봃\x0001\xf000ȁ\x0001\x0001/\xf000ȁ\x0001\x0002/20\xf000ȁ\x0001\x0000
+A manual is wedged inside\xfffethe Medal Box.\xf000븁\x0000\xfffeMedal Box Features\xf000븁\x0000\xfffePress the A Button when the cursor\xfffeis highlighting a Medal or tap the\xf000븀\x0000\xfffebox to the right of the name.\xf000븁\x0000\xfffeThat Medal will be registered\xfffeas your Favorite Medal.\xf000븁\x0000\xfffeYour Favorite Medal can be\xfffeshown to other players.\xf000븁\x0000\xfffePress START or tap the icon in the\xfffelower left to change how the Medals\xf000븀\x0000\xfffeare shown.

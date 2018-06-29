@@ -1,0 +1,114 @@
+Welcome to the\xfffePokémon World Tournament!\xf000븁\x0000
+Will you participate?
+Participate
+Info
+Quit
+Which tournament do you\xfffewant to know about?
+We hope to see you again!
+Type Expert Tournament is a tournament\xfffein which only Pokémon of a specific type\xf000븀\x0000\xfffecan participate.\xf000븁\x0000\xfffeFor example, if you choose\xfffeFire-type Expert Tournament, only\xf000븀\x0000\xfffeFire-type Pokémon can participate.\xf000븁\x0000\xfffeYou'll need different Pokémon\xfffeof the same type.\xf000븁\x0000\xfffeMake sure no two Pokémon are\xfffeholding the same item.\xf000븁\x0000\xfffeThe item Soul Dew and the\xfffemove Sky Drop are banned.\xf000븁\x0000\xfffeLegendary or mythical Pokémon\xfffemay not participate, either.\xf000븁\x0000\xfffeFor these battles, all Pokémon will be\xfffeset to Level 50.\xf000븁\x0000\xfffeThe winner will be rewarded\xfffewith a little more BP than usual.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+Champions Tournament is a tournament\xfffein which only the Champions of the\xf000븀\x0000\xfffeChampions can participate.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000븁\x0000\xfffeThe item Soul Dew and the\xfffemove Sky Drop are banned.\xf000븁\x0000\xfffeLegendary or mythical Pokémon\xfffemay not participate, either.\xf000븁\x0000\xfffeFor these battles, all Pokémon\xfffewill be set to Level 50.\xf000븁\x0000\xfffeThe winner will be rewarded with BP,\xfffedepending on how many Pokémon\xf000븀\x0000\xfffeare left standing.\xf000븁\x0000\xfffeAim for total victory! Good luck!\xf000븁\x0000
+Download Tournament is a tournament\xfffethat you can download from the\xf000븀\x0000\xfffeblack PC next to me.\xf000븁\x0000\xfffeThe rules are different for\xfffeeach tournament.\xf000븁\x0000\xfffePlease check the detailed rules\xfffebefore participating.\xf000븁\x0000\xfffeThe winner will be rewarded\xfffewith a little more BP than usual.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+Driftveil Tournament is a tournament\xfffewhere anything goes.\xf000븁\x0000\xfffeYou may use any Pokémon or\xfffeheld items of your choice.\xf000븁\x0000\xfffeFor these battles, all Pokémon\xfffewill be set to Level 25.\xf000븁\x0000\xfffeThe winner will be rewarded\xfffewith BP.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+Unova Leaders Tournament is a\xfffetournament in which Gym Leaders\xf000븀\x0000\xfffefrom Unova are participating.\xf000븁\x0000\xfffeYou may use any Pokémon or\xfffeheld items of your choice.\xf000븁\x0000\xfffeFor these battles, all Pokémon\xfffewill be set to Level 50.\xf000븁\x0000\xfffeThe winner will be rewarded\xfffewith BP.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+Kanto Leaders Tournament is a\xfffetournament in which Gym Leaders\xf000븀\x0000\xfffefrom Kanto are participating.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000븁\x0000\xfffeThe item Soul Dew and the\xfffemove Sky Drop are banned.\xf000븁\x0000\xfffeLegendary or mythical Pokémon\xfffemay not participate, either.\xf000븁\x0000\xfffeFor these battles, all Pokémon\xfffewill be set to Level 50.\xf000븁\x0000\xfffeThe winner will be rewarded\xfffewith a little more BP than usual.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+Johto Leaders Tournament is a\xfffetournament in which Gym Leaders\xf000븀\x0000\xfffefrom Johto are participating.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000븁\x0000\xfffeThe item Soul Dew and the\xfffemove Sky Drop are banned.\xf000븁\x0000\xfffeLegendary or mythical Pokémon\xfffemay not participate, either.\xf000븁\x0000\xfffeFor these battles, all Pokémon\xfffewill be set to Level 50.\xf000븁\x0000\xfffeThe winner will be rewarded\xfffewith a little more BP than usual.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+Hoenn Leaders Tournament is a\xfffetournament in which Gym Leaders\xf000븀\x0000\xfffefrom Hoenn are participating.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000븁\x0000\xfffeThe item Soul Dew and the\xfffemove Sky Drop are banned.\xf000븁\x0000\xfffeLegendary or mythical Pokémon\xfffemay not participate, either.\xf000븁\x0000\xfffeFor these battles, all Pokémon\xfffewill be set to Level 50.\xf000븁\x0000\xfffeThe winner will be rewarded\xfffewith a little more BP than usual.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+Sinnoh Leaders Tournament is a\xfffetournament in which Gym Leaders\xf000븀\x0000\xfffefrom Sinnoh are participating.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000븁\x0000\xfffeThe item Soul Dew and the\xfffemove Sky Drop are banned.\xf000븁\x0000\xfffeLegendary or mythical Pokémon\xfffemay not participate, either.\xf000븁\x0000\xfffeFor these battles, all Pokémon\xfffewill be set to Level 50.\xf000븁\x0000\xfffeThe winner will be rewarded\xfffewith a little more BP than usual.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+World Leaders Tournament is a\xfffetournament in which Gym Leaders\xf000븀\x0000\xfffefrom various regions are participating.\xf000븁\x0000\xfffeYou may not have duplicate Pokémon\xfffeor duplicate held items.\xf000븁\x0000\xfffeThe item Soul Dew and the\xfffemove Sky Drop are banned.\xf000븁\x0000\xfffeLegendary or mythical Pokémon\xfffemay not participate, either.\xf000븁\x0000\xfffeFor these battles, all Pokémon\xfffewill be set to Level 50.\xf000븁\x0000\xfffeThe winner of will be rewarded with BP,\xfffedepending on how many\xf000븀\x0000\xfffePokémon are left standing.\xf000븁\x0000\xfffeAim for total victory! Good luck!\xf000븁\x0000
+Rental Tournament is a unique tournament\xfffewhere we prepare the Pokémon with which\xf000븀\x0000\xfffeyou will battle.\xf000븁\x0000\xfffeRental Pokémon will be randomly selected\xfffefor you. So luck plays a big part!\xf000븁\x0000\xfffeThe winner will be rewarded\xfffewith BP.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+Mix Tournament is a unique tournament\xfffewhere you and your opponent swap\xf000븀\x0000\xfffePokémon before battling.\xf000븁\x0000\xfffeYou'll normally swap one Pokémon,\xfffebut you'll swap two in Triple Battles.\xf000븁\x0000\xfffeSwapped Pokémon will be returned\xfffeafter the battle, so don't be alarmed.\xf000븁\x0000\xfffeFor these battles, all Pokémon will be\xfffeset to Level 50.\xf000븁\x0000\xfffeThe winner will be rewarded\xfffewith BP.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+Rental Master Tournament is a unique\xfffetournament where we prepare the\xf000븀\x0000\xfffePokémon with which you will battle.\xf000븁\x0000\xfffeRental Pokémon will be randomly\xfffeselected for you. They are more rare\xf000븀\x0000\xfffethan the ones in the Rental Tournament.\xf000븁\x0000\xfffeTo make the battles more thrilling, the\xfffeparticipants are Gym Leaders from\xf000븀\x0000\xfffevarious regions.\xf000븁\x0000\xfffeThe winner will be rewarded\xfffewith a little more BP than usual.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+Mix Master Tournament is a unique\xfffetournament where you and your opponent\xf000븀\x0000\xfffeswap Pokémon before battling.\xf000븁\x0000\xfffeYou'll normally swap one Pokémon,\xfffebut you'll swap two in Triple Battles.\xf000븁\x0000\xfffeSwapped Pokémon will be returned\xfffeafter the battle, so don't be alarmed.\xf000븁\x0000\xfffeFor these battles, all Pokémon\xfffewill be set to Level 50.\xf000븁\x0000\xfffeThe participants in the Mix Master\xfffeTournament are Unova Gym Leaders,\xf000븀\x0000\xfffeso there will be rare Pokémon in the mix.\xf000븁\x0000\xfffeThe winner will be rewarded\xfffewith a little more BP than usual.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+There are four battle formats\xfffeto a tournament:\xf000븀\x0000\xfffeSingle, Double, Triple, and Rotation.\xf000븁\x0000\xfffeSingle Battles need three Pokémon.\xf000븁\x0000\xfffeDouble Battles need four Pokémon.\xf000븁\x0000\xfffeTriple Battles need six Pokémon.\xf000븁\x0000\xfffeRotation Battles need four Pokémon.\xf000븁\x0000\xfffeTriple Battles and Rotation Battles\xfffegive you more points than other formats\xf000븀\x0000\xfffewhen you manage to win, so jump in!\xf000븀\x0000\xfffeIt's worthwhile to try these formats!\xf000븁\x0000
+Which tournament\xfffewill you participate in?
+Champions
+Type Expert
+Download
+Driftveil
+Unova Leaders
+Kanto Leaders
+Johto Leaders
+Hoenn Leaders
+Sinnoh Leaders
+World Leaders
+Rental
+Mix
+Rental Master
+Mix Master
+About battle formats
+Back
+Wow, you can now participate in\xfffethe Leaders Tournaments!\xf000븁\x0000\xfffeLeaders Tournaments have\xfffedifferent battle rules.\xf000븁\x0000\xfffeThe participants are all famous\xfffeGym Leaders.\xf000븁\x0000\xfffeYou'll be facing tougher opposition\xfffethan usual in these tournaments.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+Which type of tournament\xfffewill you participate in?
+Which battle format\xfffewill you choose?
+These are the tournaments\xfffeyou can participate in.
+Huh?\xf000븁\x0000\xfffeThere are no tournaments\xfffeyou can participate in.\xf000븁\x0000
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+You don't meet the conditions,\xfffeso you can't participate.\xf000븁\x0000\xfffeYou need to have at least\xfffethree Pokémon able to battle.\xf000븁\x0000
+You don't meet the conditions,\xfffeso you can't participate.\xf000븁\x0000\xfffeYou need to have at least\xfffefour Pokémon able to battle.\xf000븁\x0000
+You don't meet the conditions,\xfffeso you can't participate.\xf000븁\x0000\xfffeYou need to have six Pokémon\xfffeable to battle.\xf000븁\x0000
+You don't meet the conditions,\xfffeso you cannot participate.\xf000븁\x0000\xfffeYou need to have at least\xfffefour Pokémon able to battle.\xf000븁\x0000
+You don't meet the conditions,\xfffeso you can't participate.\xf000븁\x0000\xfffeYou need to have at least\xfffethree different Pokémon.\xf000븁\x0000\xfffeMake sure no two are holding\xfffethe same item.\xf000븁\x0000
+You don't meet the conditions,\xfffeso you can't participate.\xf000븁\x0000\xfffeYou need to have at least\xfffefour different Pokémon.\xf000븁\x0000\xfffeMake sure no two are holding\xfffethe same item.\xf000븁\x0000
+You don't meet the conditions,\xfffeso you cannot participate.\xf000븁\x0000\xfffeYou need to have six different Pokémon.\xf000븁\x0000\xfffeMake sure no two are holding\xfffethe same item.\xf000븁\x0000
+You don't meet the conditions,\xfffeso you can't participate.\xf000븁\x0000\xfffeYou need to have at least\xfffefour different Pokémon.\xf000븁\x0000\xfffeMake sure no two are holding\xfffethe same item.\xf000븁\x0000
+You don't meet the conditions,\xfffeso you can't participate.\xf000븁\x0000\xfffeYou need to have at least\xfffethree different Pokémon.\xf000븁\x0000\xfffeMake sure no two are holding\xfffethe same item.\xf000븁\x0000
+You don't meet the conditions,\xfffeso you can't participate.\xf000븁\x0000\xfffeYou need to have at least\xfffefour different Pokémon.\xf000븁\x0000\xfffeMake sure no two are holding\xfffethe same item.\xf000븁\x0000
+You don't meet the conditions,\xfffeso you can't participate.\xf000븁\x0000\xfffeYou need to have six different Pokémon.\xf000븁\x0000\xfffeMake sure no two are holding\xfffethe same item.\xf000븁\x0000
+You don't meet the conditions,\xfffeso you can't participate.\xf000븁\x0000\xfffeYou need to have at least\xfffefour different Pokémon.\xf000븁\x0000\xfffeMake sure no two are holding\xfffethe same item.\xf000븁\x0000
+You don't meet the conditions,\xfffeso you can't participate.\xf000븁\x0000\xfffeRules differ for each tournament.\xf000븁\x0000\xfffePlease check the Download Tournament\xffferules before participating.\xf000븁\x0000
+By the way, Eggs cannot participate!\xf000븁\x0000
+Please choose the Pokémon that\xfffewill participate.\xf000븁\x0000
+You'll need \xf000Ȁ\x0001\x0000 Pokémon\xfffeto participate in the tournament.
+Done!\xfffeYour registration is complete.\xf000븀\x0000\xfffeRight this way, please.\xf000븁\x0000
+Huh?\xf000븁\x0000\xfffeThere appears to be a problem\xfffewith the participating Pokémon.
+A randomized draw will determine your\xfffePokémon team. The excitement builds!
+The moment of truth!\xfffeWhich Pokémon will you receive?\xf000븁\x0000\xfffeCounting down...\xf000븁\x0000\xfffe... ...\xfffe... ...\xf000븁\x0000\xfffeTa-da! Here they are!\xf000븁\x0000\xfffeThese are the Pokémon\xfffeavailable for rental!\xf000븁\x0000
+We're getting special tournaments ready.\xfffeIt may take a while, so please be patient!
+You lost in the first round.\xfffeKeep trying, and better luck next time!\xf000븁\x0000
+One more before the final round...\xfffeI'm sure you'll do better next time!\xf000븁\x0000
+That was close.\xfffeI'm sure you'll be the winner next time!\xf000븁\x0000
+Congratulations on winning the\xfffe\xf000Ļ\x0001\x0000!\xf000븁\x0000
+You can now participate in the\xfffe\xf000Ļ\x0001\x0000!\xf000븁\x0000
+Oh, I almost forgot to share this news.\xf000븁\x0000\xfffeYou'll be able to participate in the\xfffeChampions Tournament after you win\xf000븀\x0000\xfffethe World Leaders Tournament\xf000븀\x0000\xfffea certain number of times: \xf000Ȁ\x0001\x0000 more!\xf000븁\x0000\xfffeBest of luck!\xf000븁\x0000
+\xf000Ā\x0001\x0000, as a result of your victory,\xfffeyou will be awarded Battle Points!\xf000븁\x0000
+\xf000Ā\x0001\x0000 received \xf000ȁ\x0001\x0001 BP!
+Thank you for your participation!\xfffePlease accept this consolation prize.\xf000븁\x0000
+Your victory in the Unova Leaders\xfffeTournament will enable you to participate\xf000븀\x0000\xfffein Leaders tournaments of more regions.\xf000븁\x0000\xfffeGood luck to you!\xf000븁\x0000
+I have an announcement to make!\xf000븁\x0000\xfffeWin all the regional Leaders tournaments,\xfffeand you'll be able to participate in the\xf000븀\x0000\xfffeWorld Leaders Tournament and the\xf000븀\x0000\xfffeType Expert Tournament.\xf000븁\x0000
+One more win in the World Leaders\xfffeTournament, and you'll be able to\xf000븀\x0000\xfffeparticipate in the Champions Tournament.\xf000븀\x0000\xfffeGood luck!\xf000븁\x0000
+When you win all the regional Leaders\xfffetournaments as well as the Rental\xf000븀\x0000\xfffeTournament, you'll be able to participate\xf000븀\x0000\xfffein the Rental Master Tournament!\xf000븁\x0000
+When you win all the regional Leaders\xfffetournaments as well as\xf000븀\x0000\xfffethe Mix Tournament,\xf000븁\x0000\xfffeyou'll be able to participate in the\xfffeMix Master Tournament!\xf000븁\x0000
+Normal
+Fire
+Water
+Grass
+Electric
+Ice
+Fighting
+Poison
+Ground
+Flying
+Psychic
+Bug
+Rock
+Ghost
+Dragon
+Dark
+Steel
+Winning Records
+Tournament Download
+Quit
+You can check how many times you've won.
+You can download tournaments\xfffethrough Nintendo Wi-Fi Connection.
+Leave these choices.
+
+Tournament Records\xfffewere accessed.\xf000븁\x0000
+The Tournament Download System\xfffewas accessed.\xf000븁\x0000
+Right-hand ticket
+Middle ticket
+Left-hand ticket
+We're preparing a special tournament.\xfffePlease be patient a little longer.
+At last, the Driftveil Tournament!\xfffeIn this tournament, anything goes.\xf000븁\x0000\xfffeAny Pokémon with any held item\xfffecan participate.\xf000븁\x0000\xfffeThe winner will be rewarded with BP.\xfffeGood luck!\xf000븁\x0000

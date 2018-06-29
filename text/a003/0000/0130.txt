@@ -1,0 +1,42 @@
+Professor Juniper is researching\xfffePokémon at Celestial Tower,\xf000븀\x0000\xfffewhich is at the end of Route 7.\xf000븁\x0000\xfffePay attention to the signs\xfffeso you don't get lost on the way.
+Looks like the Professor's reached a\xfffestopping point in her investigation.\xf000븁\x0000\xfffeReady to hop aboard my plane?
+Hee-hee!\xfffeReady for takeoff!
+Roger!\xfffeCome talk to me when you're ready.
+Are you ready to get aboard the plane?\xfffeThe sky is calling!
+Professor Juniper: Hi there!\xfffeLooks like I kept you waiting! Sorry...\xf000븁\x0000\xfffeShall we give Skyla her chance to\xfffeshow us her piloting skills?
+OK, Skyla, we're ready.\xfffePlease take us to Lentimas Town!\xf000븁\x0000
+Bianca: Waaaaaaaaaaait!\xf000븁\x0000\xfffeYou guys! Wait, wait, wait, wait!\xfffeHff...pff...I want to fly, too!\xf000븁\x0000\xfffeI want to do some research\xfffein Reversal Mountain...hff...pff...\xf000븁\x0000
+Professor Juniper: Bianca, you're here?\xf000븁\x0000\xfffeYou're starting to show the dedication\xfffeof a serious researcher these days!\xf000븁\x0000\xfffeOK, everyone, off we go to Lentimas Town!\xf000븁\x0000
+Skyla: Hee-hee!\xfffeLooks like everyone's here!\xf000븁\x0000\xfffeFinally, it's time to fly\xfffethe Unova skies!\xf000븁\x0000
+Hello!\xfffeThis is Mistralton Cargo Service.\xf000븁\x0000\xfffe“Deliver a lot of cargo quickly!"\xf000븁\x0000\xfffeWe can also carry passengers now,\xfffebut that's up to the Gym Leader.
+Hello!\xfffeThis is Mistralton Cargo Service.\xf000븁\x0000\xfffe“Deliver a lot of cargo quickly!"\xfffeWould you like to board the flight\xf000븀\x0000\xfffeto Lentimas Town?
+OK. We will contact Skyla,\xfffeso please board the plane and wait.\xf000븁\x0000
+OK!\xfffeFeel free to fly with us anytime!
+This is Mistralton Cargo Service.\xfffe“Deliver a lot of cargo quickly!"\xf000븁\x0000
+Oh!\xfffeThat's a Permit!\xf000븁\x0000\xfffeThat lets you enter the\xfffeNature Preserve, which is far,\xf000븀\x0000\xfffefar away from the Unova region!\xf000븁\x0000\xfffeWould you like to go to the\xfffeNature Preserve, then?
+“Deliver a lot of cargo quickly!"\xfffeThis is Mistralton Cargo Service.\xf000븁\x0000\xfffeWhere would you like to fly?
+Lentimas Town
+Nature Preserve
+Quit
+When you use the move Fly,\xfffeyou can return to a Pokémon Center\xf000븀\x0000\xfffeyou've already visited.
+If you don't know a lot about the\xfffestructure of planes, how can you\xf000븀\x0000\xfffemaintain them?\xf000븁\x0000\xfffePokémon battling is the same.\xf000븁\x0000\xfffeThe more you know about Pokémon,\xfffethe more you can win!
+Hey!\xfffeDo you have any Flying- or\xf000븀\x0000\xfffePsychic-type Pokémon with you?\xf000븁\x0000
+Oh!\xfffe\xf000ā\x0001\x0000 is with you!\xf000븁\x0000\xfffeWould you help me get some luggage\xfffethat's too high for me to reach?\xf000븁\x0000
+Here's a little something to\xfffethank you for helping me!\xf000븁\x0000
+Having Pokémon with you\xfffecan be a big help sometimes, eh?
+That's too bad.\xf000븁\x0000\xfffeI need a Flying- or Psychic-type\xfffePokémon to help me out.
+Chulululuwa!
+Hrmph! You there!\xfffeDo you have the Ace Pilot Medal?\xf000븁\x0000\xfffeWe Pilots figure that's the coolest\xfffeMedal of them all, so I thought a\xf000븀\x0000\xfffecool customer like you might have it!
+If you get the Ace Pilot Medal,\xfffeplease come show it to me!
+Ooh! Is that it? Shiny!\xf000븁\x0000\xfffeTh-the Ace Pilot Medal...\xf000븁\x0000\xfffeBrimming with adventure,\xfffeshimmering like the sky--\xf000븀\x0000\xfffethe Ace Pilot Medal!\xf000븁\x0000\xfffeSo cool.\xfffeThank you for letting me see it!
+“Ace Pilot"...\xfffeThere's a splendid sound to that.\xf000븁\x0000\xfffeHere's to you and your Pokémon\xfffefor flying freely through the skies!\xf000븁\x0000\xfffeFor my part, I'll keep working on\xfffemy skills as an airplane pilot!
+Welcome to the city of the skies,\xfffeMistralton City!\xf000븀\x0000\xfffeHere's a souvenir for you.\xf000븁\x0000
+When Pokémon hold the Sharp Beak,\xfffeit increases the power\xf000븀\x0000\xfffeof Flying-type moves!
+Sweets, lovely Sweet Hearts! ♪\xfffeCheck feelings between two people.\xf000븁\x0000\xfffeIf you are a great match, you can\xfffeget sweet on Sweet Hearts! ♪\xf000븀\x0000\xfffeMeltingly sweet Sweet Hearts! ♪\xf000븁\x0000
+Oh, uh, you?\xfffeYou have Sweet Hearts!\xf000븁\x0000\xfffeWill you trade 10 Sweet Hearts\xfffefor my Heart Scale?
+I'm in a special mood today!\xf000븁\x0000\xfffeWould you trade me five Sweet Hearts\xfffefor a Heart Scale?
+If you bring a lot of Sweet Hearts,\xfffeI will trade you for something happy!
+Yaaaay!\xfffeI have a lot of your heart!\xf000븁\x0000
+Oh... What a pity.\xfffeWhat a great pity!\xf000븁\x0000\xfffeYou must have a lot of\xfffeHeart Scales already.
+OK...\xfffeAww...that's too bad.
+Gave the Sweet Hearts and received\xfffea Heart Scale in return.\xf000븁\x0000

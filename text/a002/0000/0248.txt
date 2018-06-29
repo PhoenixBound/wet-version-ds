@@ -1,0 +1,99 @@
+Actor
+Assistant
+\xf000Ā\x0001\x0001: Hey!\xfffeJust what do you think you're doing?!
+Assistant: Professor \xf000Ā\x0001\x0001...\xf000븁\x0000\xfffeNo. You're just \xf000Ā\x0001\x0001 to me now.\xf000븁\x0000\xfffeI'm fed up, and I just can't work with\xfffeyou any longer!
+\xf000Ā\x0001\x0001: What do you mean?!
+Assistant: You're just a kid, but you act\xfffeall high and mighty around here.\xf000븁\x0000\xfffeRecently, you've just been playing with that\xffferobot and ignoring our research.\xf000븁\x0000\xfffeIf we keep this up, our lab is going to go\xfffebankrupt, and it's all because of you!\xf000븁\x0000\xfffeThat's why I took the F-00!\xf000븁\x0000\xfffeSince you disposed of the design data, I\xfffehave no choice but to sell the only F-00 we\xf000븀\x0000\xfffehave and use that money to save the lab!
+\xf000Ā\x0001\x0001: You can't be serious!\xfffeThe F-00 is mine and mine alone!\xf000븀\x0000\xfffeI won't let you or anyone else sell it!
+Assistant: You're too late.\xf000븁\x0000\xfffeThe F-00 won't listen to your\xfffeorders anymore!
+\xf000Ā\x0001\x0001: That's nonsense!
+Assistant: You'll see.\xf000븁\x0000\xfffeThis is what you get for always trying\xfffeto make a fool of me!\xf000븁\x0000\xfffeHey! F-00!\xf000븁\x0000\xfffeCome over here and teach \xf000Ā\x0001\x0001\xfffea lesson!
+\xf000Ā\x0001\x0001: It can't be! F-00!\xfffeDon't you recognize me?
+F-00: ...
+\xf000Ā\x0001\x0001: Something's wrong with F-00!\xfffeWhat did you do to it?!
+Assistant: This robot wouldn't listen to my\xfffeorders, so I had no choice...\xf000븁\x0000\xfffeI erased the F-00's memory banks and\xfffereprogrammed it to obey me!
+\xf000Ā\x0001\x0001: How could you?!\xf000븁\x0000\xfffeThe F-00's programming is\xfffeextremely complex!\xf000븀\x0000\xfffeIt can't be reprogrammed so easily...\xf000븁\x0000\xfffeEspecially not by someone with your\xfffelimited skills!
+Assistant: There you go again! Always\xfffetrying to make a fool of me!\xf000븁\x0000\xfffeIt's that awful personality of yours\xfffethat got you in this position!
+\xf000Ā\x0001\x0001: It's just the truth...
+Assistant: That may be so, but such\xfffebluntness can hurt people's feelings!\xf000븁\x0000\xfffeYou may be a genius, but you can't\xfffeeven understand that simple fact?!
+\xf000Ā\x0001\x0001: You're just jealous...
+Assistant: Maybe I am! But I'll teach\xfffeyou to respect your elders!\xf000븁\x0000\xfffeF-00! Let's do this!\xfffeIt's time to punish \xf000Ā\x0001\x0001!
+\xf000Ā\x0001\x0001: I'm sorry...
+Assistant: It's too late for apologies!\xf000븁\x0000\xfffeDon't think I'll forgive you that easily!
+\xf000Ā\x0001\x0001: It's my fault...
+Assistant: That's right! It's all your fault!\xf000븁\x0000\xfffeI'm a scientist, too, you know?\xfffeIt's not like I wanted to resort\xf000븀\x0000\xfffeto dirty tactics like this!
+\xf000Ā\x0001\x0001: Oh no...\xf000븁\x0000\xfffeIf this keeps up, the F-00 will defeat\xfffeboth \xf000Ă\x0001\x0000 and me...
+F-00: ...
+\xf000Ā\x0001\x0001: ...\xf000븁\x0000\xfffeA robot that has been reprogrammed is like\xfffea totally different person, but...
+F-00: ...Beep!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001, \xf000Ā\x0001\x0001, \xf000Ā\x0001\x0001,\xfffe\xf000Ā\x0001\x0001, \xf000Ā\x0001\x0001, \xf000Ā\x0001\x0001...
+\xf000Ā\x0001\x0001: What's happening?!
+F-00: ...Beep ...Bloop ...Beep!
+\xf000Ā\x0001\x0001: Hey! F-00! What's wrong?
+F-00: Beep bloop bop bleep!\xf000븁\x0000\xfffe...
+\xf000Ā\x0001\x0001: Tell me what's wrong!
+F-00: Beep bloop bop bleep beeeep!
+\xf000Ā\x0001\x0001: Are you OK?!
+F-00: Beep...\xf000븁\x0000\xfffeBeep blop boop!
+\xf000Ā\x0001\x0001: Is it broken?!
+F-00: Beep bloop bop beeeeeep!
+\xf000Ā\x0001\x0001: It's gone berserk!
+F-00: Beep bloop bop beeeeeep!
+Assistant: Come on, F-00! Obey my commands!
+\xf000Ā\x0001\x0001: It's no good...\xfffeThe F-00 has lost control...\xf000븁\x0000\xfffeIt won't listen to anyone in this state!\xf000븁\x0000\xfffeIf the F-00 keeps this up, it's going\xfffeto tear itself apart!
+Assistant: What?! We can't let that happen!\xfffeWhat should we do?
+\xf000Ā\x0001\x0001: We've got to stop its CPU,\xfffewhich functions as its heart...\xf000븁\x0000\xfffeWe need to find a way to stop the F-00's\xfffeCPU without destroying it.
+Assistant: Stop the CPU without destroying\xfffethe F-00, huh?\xf000븁\x0000\xfffeHmmm...\xf000븁\x0000\xfffeI've got it!\xf000븁\x0000\xfffeI know of a way!
+\xf000Ā\x0001\x0001: What is it?
+Assistant: We've got to freeze it!\xf000븁\x0000\xfffeIf we can freeze the F-00's CPU,\xfffeit should stop!
+\xf000Ā\x0001\x0001: I see...\xfffeNot a bad idea...
+Assistant: \xf000Ā\x0001\x0001... That's the first\xfffetime you've ever given me a compliment.
+\xf000Ā\x0001\x0001: We've done it!\xfffeWe've stopped the F-00!
+F-00: ...
+\xf000Ā\x0001\x0001: F-00! Are you OK?!
+F-00: ...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001...
+\xf000Ā\x0001\x0001: What?\xf000븁\x0000\xfffeThe F-00 just said my name, didn't it?\xfffeHow could that be possible?
+F-00: \xf000Ā\x0001\x0001...
+\xf000Ā\x0001\x0001: That's right! It's me, F-00!\xfffeIt's \xf000Ā\x0001\x0001!
+F-00: \xf000Ā\x0001\x0001...
+Assistant: How in the world...\xf000븁\x0000\xfffeHow could something like this occur?!\xfffeThis is completely unscientific!\xf000븁\x0000\xfffeI can't take this anymore!
+\xf000Ā\x0001\x0001: F-00...
+The F-00's memory banks were erased,\xfffeyet it still called my name...\xf000븁\x0000\xfffeIt was a true wonder...\xf000븁\x0000\xfffeHowever, such a happy moment would\xfffeprove to be fleeting.\xf000븁\x0000\xfffeThe time for the F-00 and I to separate\xfffeforever would soon arrive...
+Assistant: Listen up, \xf000Ā\x0001\x0001!\xfffeIt's all your fault!\xf000븁\x0000\xfffeWe're going to sell off this F-00 to the\xfffehighest bidder and use the money to fund\xf000븀\x0000\xfffeour lab!
+\xf000Ā\x0001\x0001: Wait...\xfffeThe F-00... The F-00 is mine!
+Assistant: Farewell, \xf000Ā\x0001\x0001!
+My assistant had betrayed me.\xfffeMy F-00 was stolen, and I had to leave\xf000븀\x0000\xfffethe lab alone...\xf000븁\x0000\xfffeAfter that, I quit robotics research and\xfffenever attempted to create another one.
+F-00: ...
+\xf000Ā\x0001\x0001: F-00...\xf000븁\x0000\xfffeArgh! It's all your fault, you\xfffeworthless assistant!
+Assistant: What are you on about?\xf000븁\x0000\xfffeYou're the one who betrayed us all in the\xfffefirst place and stopped working to play\xf000븀\x0000\xfffewith your robot! It's all your fault!
+F-00: Bleep... Bleep...
+\xf000Ā\x0001\x0001: F-00...
+Assistant: Pff!\xfffeYour robot's all busted up!\xf000븁\x0000\xfffeIgnore that worthless hunk of junk and\xfffelisten to me!
+\xf000Ā\x0001\x0001: Wait a moment...\xfffeThis smell...it's coming from the F-00!
+F-00: Bleep... Beep boop...
+\xf000Ā\x0001\x0001: I thought I smelled\xfffesomething burning...\xf000븁\x0000\xfffeCould energy be leaking from its battery?
+Assistant: Who cares?!\xfffeIt's not like it's going to move again!\xf000븁\x0000\xfffeGah! Worthless piece of junk!\xfffeI'll shut it up once and for all!
+\xf000Ā\x0001\x0001: No! Stop!
+Assistant: Shut up and stand back!\xfffeI've got fists of fire, you know?
+\xf000Ā\x0001\x0001: Stop!
+After sustaining great damage, the F-00's\xfffebattery began to leak energy,\xf000븀\x0000\xfffeplacing it in a very delicate state.\xf000븁\x0000\xfffeEven the shock from my weak assistant's\xfffepunch proved to be too great...\xf000븁\x0000\xfffeThe F-00 exploded, blowing us away\xfffeand destroying most of the lab\xf000븀\x0000\xfffein the process...\xf000븁\x0000\xfffeMy assistant somehow made it out and\xfffewas taken to the hospital.\xf000븁\x0000\xfffeI, however, remained here, forever\xfffeclinging to the F-00's memory.
+F-00: Beep bloop bop bleep!
+\xf000Ā\x0001\x0001: This is it...\xfffeThe F-00 just won't stop...\xf000븁\x0000\xfffeIt's going to overheat, and its engine\xfffewill explode!
+F-00: Beep bloop bop bleep!
+\xf000Ā\x0001\x0001: F-00...\xfffeI'm so sorry... You must be in pain...\xf000븀\x0000\xfffeI'll stay with you until the end...
+F-00: Beep bloop bop bleeeeeeep!
+\xf000Ā\x0001\x0001: F-00! What do you think\xfffeyou're doing?!
+F-00: Beep bloop bop bleeeeeeep!
+\xf000Ā\x0001\x0001: Put me down, F-00!\xfffeI told you. I'm going to stay here with you!
+F-00: Beep bloop bop bleeeeeeep!\xfffeGrrrrrr... Bzzzzzz...
+\xf000Ā\x0001\x0001: Hey! Stop it, F-00!\xfffePut me down!
+Assistant: Ha ha ha...\xfffeHow did things turn out like this?
+\xf000Ā\x0001\x0001: F-00!
+The F-00 picked me up and threw me\xfffeout of the lab.\xf000븁\x0000\xfffeJust moments later...\xf000븁\x0000\xfffeThe F-00's body had reached its limit.\xfffeIt exploded, destroying most of the lab\xf000븀\x0000\xfffein the process...\xf000븁\x0000\xfffeI barely escaped with my life...\xf000븁\x0000\xfffeTo this day, I wonder if F-00 went berserk\xfffeand didn't know what it was doing or if it\xf000븀\x0000\xfffereally intended to save me...
+F-00: Beep bloop bop bleep!
+\xf000Ā\x0001\x0001: It's no good...\xf000븁\x0000\xfffeThe energy-absorption system\xfffeis malfunctioning!
+F-00: Bleep! Bloop!
+Assistant: Argh...why?
+\xf000Ā\x0001\x0001: You...\xf000븁\x0000\xfffeJust what kind of new program did you\xfffeput into the F-00?!
+Assistant: ...\xf000븁\x0000\xfffeTo be honest, your code was completely\xfffeincomprehensible to me...\xf000븁\x0000\xfffeEspecially that one formula that started\xfffewith a K. Total nonsense!\xf000븁\x0000\xfffeThere's no way anyone could make sense\xfffeof such needlessly complex code...\xf000븁\x0000\xfffeSo, I went in and deleted the complicated\xfffeparts of your code and changed it into\xf000븀\x0000\xfffesomething anyone can understand!\xf000븁\x0000\xfffeI modified your formulas to handle only\xfffesimple operations... That's all!
+\xf000Ā\x0001\x0001: So that's what you did!\xf000븁\x0000\xfffeThat formula that started with a K was\xfffethe most important one! It was the formula\xf000븀\x0000\xfffethat gave the F-00 a humanlike heart!\xf000븁\x0000\xfffeIf you went in and messed it all up, then\xfffethat explains why the usually calm F-00 is\xf000븀\x0000\xfffenow going berserk...
+Assistant: You can't be serious...\xfffeThat means it's all my fault!

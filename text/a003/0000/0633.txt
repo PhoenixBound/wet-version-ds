@@ -1,0 +1,29 @@
+Which Pokémon did you pick\xfffeto be your partner at the beginning?\xf000븁\x0000\xfffe...\xfffe...\xf000븁\x0000\xfffeOh, really? It was \xf000ā\x0001\x0000?
+All righty, I'll quiz you about Snivy!\xfffeIs Snivy's height 2'04"?
+Too bad! Well, I guess you don't\xfffeknow as much as I thought!
+Correct! OK, next question!\xfffeIs Snivy's weight 18 lbs.?
+Correct! I knew you'd get it!\xfffeI'm so happy you got it right!\xf000븀\x0000\xfffeHere, this is for you!
+Well, then I'll quiz you about Tepig!\xfffeIs Tepig's height 1'08"?
+Correct! OK, next question!\xfffeIs Tepig's weight 21.8 lbs?
+Correct! I knew you'd get it!\xfffeI'm so happy you got it right!\xf000븀\x0000\xfffeHere, this is a gift for you!
+Too bad! Well, I guess you don't notice\xfffethings as much as I would've thought.
+OK! I'll quiz you about Oshawott!\xfffeIs Oshawott's height 2'00"?
+Too bad! Well, I guess you overlook\xfffethings more than I would've thought.
+Correct! OK, next question!\xfffeIs Oshawott's weight 13.0 lbs.?
+Correct! I knew you'd get it!\xfffeI'm so happy you got it right!\xf000븀\x0000\xfffeHere, take this!
+Looking at the Pokédex is fun!\xf000븁\x0000\xfffePokémon can be a lot bigger\xfffeor smaller than you imagine!
+These are Poké Balls I got long ago.\xfffeI'm going to give them to you.\xf000븁\x0000
+I want to catch every Pokémon\xfffewith Poké Balls!\xf000븁\x0000\xfffeThat's something I'm focused on!
+Skree skree!
+Hi, hi!\xfffeLet's play Pokémon rock-paper-scissors!
+Oh, that's no fun!
+Here goes!\xfffePokémon rock-paper-scissors...
+Your Pokémon is Fire type,\xfffeand mine is Grass type...\xf000븁\x0000\xfffeGrass type is weak against Fire type...\xfffeso I lose.
+Your Pokémon is Fire type,\xfffeand mine is Water type...\xf000븁\x0000\xfffeFire type is weak against Water type...\xfffeso I win!
+Your Pokémon is Water type,\xfffeand mine is Fire type...\xf000븁\x0000\xfffeFire type is weak against Water type...\xfffeso I lose.
+Your Pokémon is Water type,\xfffeand mine is Grass type...\xf000븁\x0000\xfffeWater type is weak against Grass type...\xfffeso I win!
+Your Pokémon is Grass type,\xfffeand mine is Water type...\xf000븁\x0000\xfffeWater type is weak against Grass type...\xfffeso I lose.
+Your Pokémon is Grass type,\xfffeand mine is Fire type...\xf000븁\x0000\xfffeGrass type is weak against Fire type...\xfffeso I win!
+FIRE
+GRASS
+WATER

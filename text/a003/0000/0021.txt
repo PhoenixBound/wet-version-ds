@@ -1,0 +1,57 @@
+'Scuse me! Got a minute?\xf000븁\x0000\xfffeYou look like you know\xfffea lot about Pokémon.\xf000븁\x0000\xfffeCould you use your knowledge\xfffeto help me out?
+Hey, thanks!\xfffeHere's what I'm wondering about.\xf000븁\x0000\xfffeUsually, Ground-type moves can't hit\xfffea Pokémon with the Levitate Ability.\xf000븁\x0000\xfffeBut I'm sure there's some way to do it.\xfffeI just can't for the life of me\xf000븀\x0000\xfffefigure out how...\xf000븁\x0000\xfffeI have several ideas, but\xfffeI can't decide which one to try.\xf000븁\x0000\xfffeThat's why I want to get\xfffeyour opinion on the matter!
+Oh... Well, can't be helped.\xf000븁\x0000\xfffeIf you change your mind,\xfffeI'd still like to pick your brain...
+First, I'd like some advice about items.\xf000븁\x0000\xfffeI want to use Trick or Switcheroo\xfffeto give an item to a Pokémon that\xf000븀\x0000\xfffehas the Levitate Ability so I can\xf000븀\x0000\xfffehit it with Ground-type moves!\xf000븁\x0000\xfffeAfter considering which item to give,\xfffeI thought the Iron Ball might work.\xf000븀\x0000\xfffeI'm not sure, though...\xf000븁\x0000\xfffeWhat do you think?\xfffeIs the Iron Ball a good idea?
+Yes
+Sure
+Sounds Good
+Oh! I knew it!\xf000븁\x0000\xfffeHearing you say it makes\xfffeme feel much more confident!\xf000븁\x0000\xfffePassing the Iron Ball to a\xfffePokémon with Levitate\xf000븀\x0000\xfffemeans Ground-type moves can hit it!\xf000븁\x0000\xfffeThanks!
+I'd like to pick your brain again.\xfffeIs that OK?
+I'd like to get your advice on moves.\xf000븁\x0000\xfffeIf I use a certain move on a Pokémon\xfffewith the Levitate Ability, and then\xf000븀\x0000\xfffeuse a Ground-type move on it,\xf000븀\x0000\xfffeI think that could work.\xf000븁\x0000\xfffeWhich move should I choose:\xfffeSmack Down, Gravity, or Gastro Acid?
+Smack Down
+Gravity
+Gastro Acid
+I see! Smack Down!\xf000븁\x0000\xfffeThat move will knock a Flying-type\xfffePokémon or a Pokémon with Levitate\xf000븀\x0000\xfffeout of the air, so Ground-type moves\xf000븀\x0000\xfffewill work on it!\xf000븁\x0000\xfffeSo if I use Smack Down and then use\xfffea Ground-type move...\xf000븁\x0000\xfffeI get it now!\xfffeThanks!
+I see! Gravity!\xf000븁\x0000\xfffeThe move Gravity makes gravity stronger,\xfffeso Ground-type moves will work on\xf000븀\x0000\xfffePokémon with the Levitate Ability or\xf000븀\x0000\xfffeFlying-type Pokémon.\xf000븁\x0000\xfffeSo if I use Gravity and then use\xfffea Ground-type move...\xf000븁\x0000\xfffeI get it now!\xfffeThanks!
+I see! Gastro Acid!\xf000븁\x0000\xfffeThat's right--Gastro Acid eliminates the\xfffeeffects of Abilities.\xf000븁\x0000\xfffeThat means Levitate won't work anymore!\xf000븁\x0000\xfffeSo if I use Gastro Acid and then use\xfffea Ground-type move...\xf000븁\x0000\xfffeI get it now!\xfffeThanks!
+Finally, I'd like a little advice\xfffeabout Abilities.\xf000븁\x0000\xfffeApparently, some Abilities will let you\xfffehit Pokémon that have Levitate\xf000븀\x0000\xfffewith Ground-type moves!\xf000븁\x0000\xfffeBut...\xfffeI'm not sure which one to use!\xf000븁\x0000\xfffeMold Breaker, Teravolt, and Turboblaze\xfffeall seem like good choices...\xf000븁\x0000\xfffeI'm close, but I can't decide.\xf000븁\x0000\xfffeHey! Please decide for me!
+Mold Breaker
+Teravolt
+Turboblaze
+So it's Mold Breaker, then?\xf000븁\x0000\xfffeI guess that's right.\xfffeMold Breaker lets you use moves\xf000븀\x0000\xffferegardless of the target's Ability!\xf000븁\x0000\xfffeLevitate won't matter, so you can land\xfffehit after hit with Ground-type moves!\xf000븁\x0000\xfffeMold Breaker's so cool!\xfffeViva Mold Breaker!
+So it's Teravolt, then?!\xf000븁\x0000\xfffeI guess that's right.\xfffeTeravolt lets you use moves\xf000븀\x0000\xffferegardless of the target's Ability!\xf000븁\x0000\xfffeLevitate won't matter, so you can land\xfffehit after hit with Ground-type moves!\xf000븁\x0000\xfffeTeravolt's so cool!\xfffeViva Teravolt!
+So it's Turboblaze, then?!\xf000븁\x0000\xfffeI guess that's right.\xfffeTurboblaze lets you use moves\xf000븀\x0000\xffferegardless of the target's Ability!\xf000븁\x0000\xfffeLevitate won't matter, so you can land\xfffehit after hit with Ground-type moves!\xf000븁\x0000\xfffeTurboblaze is so cool!\xfffeViva Turboblaze!
+Thanks! Because of you,\xfffeI'm prepared for Levitate!\xf000븁\x0000\xfffeAnd I'm even more prepared\xfffefor anti-Levitate tactics!\xf000븁\x0000\xfffeHeh heh heh...\xf000븁\x0000\xfffeNow, no matter which Pokémon I face,\xfffevictory is assured for my\xf000븀\x0000\xfffelevitating Pokémon!
+Well! Do you dare battle my\xfffeinvincible Pokémon with Levitate?
+Hmm...\xf000븁\x0000\xfffeI thought I was completely\xfffeprepared for anti-Levitate tactics...\xf000븁\x0000\xfffeIn real battles, things never\xfffego as well as you would think.\xf000븁\x0000\xfffeOr maybe you're just that good!
+If you want to battle, come talk\xfffeto me again! I'll take you on anytime!
+We increased the number of Trainers'\xfffeSchools to meet the demands of\xf000븀\x0000\xfffeTrainers who want to know\xf000븀\x0000\xfffemore about Pokémon because they\xf000븀\x0000\xfffelove them!
+Pokémon have mysterious powers\xfffecalled Abilities.\xf000븁\x0000\xfffeSome work even when the Pokémon\xfffeis not in battle.\xf000븁\x0000\xfffeFor example, when a Pokémon with the\xfffeSuction Cups or Sticky Hold Ability is at\xf000븀\x0000\xfffethe front of your party, you're more\xf000븀\x0000\xfffelikely to get a bite when fishing!
+The Wide Lens and Zoom Lens are very\xfffesimilar. Here's the difference.\xf000븁\x0000\xfffeThe Wide Lens boosts accuracy by 10%!\xf000븁\x0000\xfffeThe Zoom Lens boosts accuracy by 20%,\xfffebut only if the holder moves after\xf000븀\x0000\xfffethe target.\xf000븁\x0000\xfffeThat means the Zoom Lens is best for\xfffeslower Pokémon!
+Would you like to take a simple quiz?
+So here is the question:\xf000븁\x0000\xfffeWhich of the following Berries\xfffecures confusion?
+Persim Berry
+Aspear Berry
+Pecha Berry
+Ding ding ding!\xf000븁\x0000\xfffeRight answer!\xfffeNow for the next question.\xf000븁\x0000
+OK! The move Swagger raises the target's\xfffeAttack, but it also causes which\xf000븀\x0000\xfffestatus condition?
+Asleep
+Flinch
+Confused
+Ding ding ding! We have a winner!\xfffeFantastic answer!\xf000븁\x0000\xfffeHere's a prize for you!\xf000븁\x0000
+Here's a combo you can use in a\xfffeDouble Battle!\xf000븁\x0000\xfffeHave one of your Pokémon hold a\xfffePersim Berry.\xf000븁\x0000\xfffeThen, have the other one use Swagger\xfffeon that Pokémon.\xf000븁\x0000\xfffeIts Attack will go up, and the Berry will\xfffeheal the confusion immediately.\xf000븀\x0000\xfffeThen it can hit the opponent harder!\xf000븁\x0000\xfffeThere are many possible combinations\xfffein Double Battle!
+Come talk to me if you want\xfffeto take a quiz.
+Buzzzzz!\xf000븁\x0000\xfffeToo bad... That's incorrect.\xfffePlease try again sometime!
+The blackboard explains Pokémon\xfffestatus changes in battle.\xf000븁\x0000
+What do you want to read about?
+If poisoned, a Pokémon steadily loses HP\xfffewhen battling.\xf000븁\x0000\xfffeThe poison lingers after the battle.\xfffeTo cure it, use an Antidote.\xf000븁\x0000
+Paralysis reduces the Speed stat\xfffeand may prevent movement.\xf000븁\x0000\xfffeIt remains after battle, so use a\xfffeParlyz Heal.\xf000븁\x0000
+If a Pokémon falls asleep,\xfffeit will be unable to attack.\xf000븁\x0000\xfffeThe Pokémon may wake up on its own,\xfffebut if a battle ends while it is sleeping,\xf000븀\x0000\xfffeit will stay asleep.\xf000븁\x0000\xfffeWake it up using an Awakening.\xf000븁\x0000
+A burn reduces the Attack stat and\xfffesteadily reduces the victim's HP.\xf000븁\x0000\xfffeA burn lingers after battle.\xfffeCure a burn using a Burn Heal.\xf000븁\x0000
+If a Pokémon is frozen, it becomes\xfffecompletely helpless.\xf000븁\x0000\xfffeThe Pokémon may thaw out on its own,\xfffebut if a battle ends while it is frozen,\xf000븀\x0000\xfffeit will stay frozen.\xf000븁\x0000\xfffeThaw it out using an Ice Heal.\xf000븁\x0000
+Poison
+Paralysis
+Sleep
+Burn
+Frozen
+Cancel

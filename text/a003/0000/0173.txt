@@ -1,0 +1,55 @@
+\xf000Ā\x0001\x0000!\xfffeI'm home!\xf000븁\x0000
+Do you know Professor Juniper?\xfffeShe's a famous Pokémon researcher.\xf000븁\x0000\xfffeActually, she's an old friend of mine,\xfffeand she called me today for the\xf000븀\x0000\xfffefirst time in ages!\xf000븁\x0000
+This is out of the blue,\xfffebut, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeDo you want to have a Pokémon?
+I'll ask you again.\xf000븁\x0000\xfffeDo you want a Pokémon?
+What?!\xfffeThat's a shock!\xf000븁\x0000
+OK!\xfffeStep one completed!\xf000븁\x0000\xfffeWell then, do you know what a\xfffePokédex is?
+I knew you would!\xf000븁\x0000\xfffeIsn't it amazing how it automatically\xffferecords Pokémon you encounter?\xf000븁\x0000
+I see...\xf000븁\x0000\xfffeIt's an amazing device that automatically\xffferecords the Pokémon you encounter!\xf000븁\x0000
+Yet another question!\xf000븁\x0000\xfffeYou want a Pokédex, right?
+OK!\xfffeStep two completed!\xf000븁\x0000
+I don't mean to be selfish, but I'd like it\xfffeif you were a bit more agreeable.\xf000븁\x0000\xfffeHaving a Pokédex means\xfffetraveling around the world!\xf000븀\x0000\xfffeThink about that for a second.\xf000븁\x0000\xfffeSo I'll ask you again...\xf000븁\x0000\xfffeYou want a Pokédex, right?
+\xf000Ā\x0001\x0000!\xfffeYour course of action has been set!\xf000븁\x0000\xfffeA girl named Bianca has come\xfffehere to meet you!\xf000븁\x0000\xfffeShe's Professor Juniper's assistant.\xfffeI was told to simply look for\xf000븀\x0000\xfffea big, green hat!\xf000븁\x0000\xfffeThat's right! You're going to\xfffego look for Bianca.\xf000븁\x0000\xfffeAnd then you'll get a Pokédex and a\xfffePokémon to be your partner!
+\xf000Ā\x0001\x0000!\xfffeYour course of action has been set!\xf000븁\x0000\xfffeA girl named Bianca has come\xfffehere to meet you!\xf000븁\x0000\xfffeShe's Professor Juniper's assistant.\xfffeI was told to simply look for\xf000븀\x0000\xfffea big, green hat!\xf000븁\x0000\xfffeThat's right! You're going\xfffeto go look for Bianca.\xf000븁\x0000\xfffeAnd then you'll get a Pokédex and a\xfffePokémon to be your partner!\xf000븁\x0000\xfffeOh! Your Xtransceiver's in your\xfffeBag, right?\xf000븀\x0000\xfffeDo you know how to open your Bag?
+I'll send you off with these\xfffewords from “Adventure Rules."\xf000븀\x0000\xfffe“The X Button is vitally important\xf000븀\x0000\xfffefor Trainers."\xf000븁\x0000\xfffeOK! Off with you now!\xfffeGo look for Bianca, OK!
+The girl's name is Bianca. I was told\xfffeyou should look for a big, green hat!\xf000븁\x0000\xfffeShe might be lost because\xfffethis is her first time here.\xf000븀\x0000\xfffeGo look for her!
+Oh? Are the both of you\xfffeout looking for Bianca?\xf000븁\x0000\xfffeYou still haven't found her?\xfffeLook for the big, green hat!
+Bianca: I was just talking to your mom!\xf000븁\x0000\xfffeShe told me an amazing\xfffestory about Professor Juniper!
+Mom: Welcome back!\xfffeHey, how are your Pokémon?\xf000븁\x0000\xfffeWell, why don't you rest for a moment?\xfffeNothing but hard work will wear you out!\xf000븁\x0000
+Mom: Looking good!\xf000븁\x0000\xfffeBoth you and your Pokémon\xfffeseem raring to go!
+Mom: The same step is a lot more\xfffewonderful if it's made while\xf000븀\x0000\xfffethinking about Pokémon!
+Mom: When I was younger,\xfffeI worked at Pokémon Centers\xf000븀\x0000\xfffeall over the place!
+Mom: I wish we knew how\xfffePokémon felt...
+Mom: Seeing energetic Pokémon\xfffefills me up with energy, too!\xf000븁\x0000\xfffeIt reminds me of when I used\xfffeto work in the Pokémon Center!
+Mom: Welcome home, \xf000Ā\x0001\x0000!\xfffeSeems like you've had a rough time.\xf000븀\x0000\xfffeRest here awhile.\xf000븁\x0000\xfffe...\xf000븁\x0000
+Mom: OK! You and your Pokémon\xfffeare full of energy!\xf000븁\x0000\xfffeThis is a little advice from\xfffeyour mother!\xf000븁\x0000\xfffeWhen your Pokémon's stamina,\xfffeI mean HP, goes down,\xf000븀\x0000\xfffeheal them regularly at the\xf000븀\x0000\xfffePokémon Center!\xf000븁\x0000\xfffeIf you're going on a long adventure,\xfffestock up on Potions\xf000븀\x0000\xfffeat the Poké Mart!\xf000븁\x0000\xfffeI'm cheering for you!\xfffeHave a wonderful journey!
+Mom: Welcome home, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Hmm. I barely recognize you!\xf000븁\x0000\xfffeIt seems like you've seen\xfffeand thought about a lot\xf000븀\x0000\xfffeand grown into an adult!\xf000븁\x0000\xfffeOh! Seems we're about to have\xfffea visitor!\xf000븁\x0000
+???: Oh, so you're \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeMy name's Juniper!\xf000븁\x0000\xfffeThe one who gave you\xfffeyour Pokédex is my daughter!\xf000븁\x0000
+Mom: It's been a long time,\xfffeProfessor Juniper!\xf000븁\x0000
+Cedric Juniper: Has it been that long?\xfffeI can't remember...\xf000븁\x0000\xfffeWell, that's not really why I came.\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeTo commemorate your entering the\xfffeHall of Fame, I'm going to upgrade\xf000븀\x0000\xfffeyour Pokédex!\xf000븁\x0000
+\xf000Ā\x0001\x0000's Pokédex\xfffewas upgraded!
+Cedric Juniper: I'll tell you what\xfffeI upgraded, so why don't you ask?\xf000븁\x0000\xfffeWell, actually, it's really simple!\xf000븁\x0000\xfffeI made it so you can register\xfffeall of the National Pokédex Pokémon.\xf000븁\x0000
+Mom: Wow! That's amazing!\xfffeThat must be why you and\xf000븀\x0000\xfffeyour daughter are Pokémon Professors!\xf000븁\x0000
+Cedric Juniper: Ha ha ha!\xfffeFlattery won't get you anywhere!\xf000븁\x0000\xfffeWell then, think I'd best\xfffebe taking my leave!\xf000븁\x0000
+Listen up! There are still many, many\xfffePokémon in this world!\xf000븁\x0000\xfffeSometimes Pokémon attack\xfffeeach other for food.\xf000븁\x0000\xfffeSometimes they help one another.\xfffeThey protect each other's places.\xf000븁\x0000\xfffeI'd be happy if you think about things\xfffelike that while looking at the Pokédex.\xf000븁\x0000
+Mom: He left...\xf000븁\x0000\xfffeOh, that's right! \xf000Ā\x0001\x0000!\xfffeI have a present for you, too!\xf000븁\x0000
+Mom: No matter what you do, your time\xfffeis yours and your Pokémon's alone!\xf000븁\x0000\xfffeSo decide what you want to do\xfffefor yourself and do it!\xf000븁\x0000\xfffeI enjoy my own time\xfffein my own way, too!
+       
+It's a Wii console!\xfffeIt has a Wii Remote!
+It's a brand-new bed!
+\xf000Ā\x0001\x0000 checked the PC.\xf000븁\x0000\xfffeAdventure Rule No. 1\xfffeThe X Button opens the menu!\xf000븁\x0000\xfffeAdventure Rule No. 2\xfffeRecord your progress with SAVE.
+It's an award for completing\xfffethe Unova Pokédex!\xf000븁\x0000
+It's an award for completing\xfffethe National Mode Pokédex!\xf000븁\x0000
+It's a trophy proving you defeated\xfffethe Single Master in the Battle Subway!
+It's a trophy proving you defeated\xfffethe Double Master in the Battle Subway!
+It's a trophy proving you defeated\xfffethe Multi Master in the Battle Subway!
+It's a model of a Ferris wheel\xfffeMom bought as a souvenir.
+It's a Darumaka Pokémon doll\xfffeMom received in the past.\xf000븁\x0000\xfffeWhen you get knocked down,\xfffejust get up again!
+Hee hee!\xfffeI came to visit!\xf000븁\x0000\xfffeProfessor Juniper is investigating\xfffea cave on Route 20!
+The Cave of Being...\xf000븁\x0000\xfffeI wonder where those three Pokémon--\xfffeUxie, Mesprit, and Azelf--flew off to?\xf000븁\x0000\xfffeUxie is a Pokémon that\xfffesymbolizes knowledge...\xf000븁\x0000\xfffeIf you mention a place in Unova\xfffewhere knowledge is gathered,\xf000븀\x0000\xfffethe first thing that comes to mind\xf000븀\x0000\xfffeis Nacrene City's museum...\xf000븁\x0000\xfffeMesprit is the Pokémon that\xfffepresides over emotion, right?\xf000븁\x0000\xfffeCelestial Tower's bell stirs emotions...\xf000븁\x0000\xfffeAnd Azelf is willpower...\xf000븁\x0000\xfffeThe desire to see something through...\xfffeWhat place could represent that?
+Route 23's mysterious Pokémon...\xf000븁\x0000\xfffeJust by being near it you can feel\xfffesome kind of willpower...\xf000븁\x0000\xfffeIt's best to go have a look\xfffefor yourself!
+Sometimes, there are mass outbreaks\xfffeof Pokémon, right?\xf000븁\x0000\xfffeA lot of the exact same Pokémon\xfffeshow up at the same time,\xf000븀\x0000\xfffeand it's such a surprise!\xf000븁\x0000\xfffeLike where were all of you before?\xf000븁\x0000\xfffeIf you look at the electronic bulletin\xfffeboards, you can learn about them!
+Professor Juniper--I'm talking about\xfffeAurea Juniper, mind you...\xf000븁\x0000\xfffeShe's researching the origins of Pokémon!\xf000븁\x0000\xfffeIt's interesting!\xfffeAmong the Pokémon that exist now,\xf000븀\x0000\xfffethere were some that have been\xf000븀\x0000\xfffearound from the past and some\xf000븀\x0000\xfffethat were discovered recently.\xf000븁\x0000\xfffeBy the way, her dad is researching\xfffePokémon distribution and biology!
+Your mom's amazing!\xf000븁\x0000\xfffeIt's sweet how she met\xfffeyour dad while working\xf000븀\x0000\xfffereception at the Pokémon Center.\xf000븁\x0000\xfffeHee hee!\xfffeShe's taught me a lot!

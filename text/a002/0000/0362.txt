@@ -1,0 +1,60 @@
+\xf000ą\x0001\x0000:\xfffePokémon living in the tall grass.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Spring)\xf000\xff00\x0001\x0000:\xfffePokémon living in the tall grass.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Summer)\xf000\xff00\x0001\x0000:\xfffePokémon living in the tall grass.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Autumn)\xf000\xff00\x0001\x0000:\xfffePokémon living in the tall grass.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Winter)\xf000\xff00\x0001\x0000:\xfffePokémon living in the tall grass.
+\xf000ą\x0001\x0000:\xfffePokémon living in the sand.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Spring)\xf000\xff00\x0001\x0000:\xfffePokémon living in the sand.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Summer)\xf000\xff00\x0001\x0000:\xfffePokémon living in the sand.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Autumn)\xf000\xff00\x0001\x0000:\xfffePokémon living in the sand.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Winter)\xf000\xff00\x0001\x0000:\xfffePokémon living in the sand.
+\xf000ą\x0001\x0000:\xfffePokémon living in the swamp.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Spring)\xf000\xff00\x0001\x0000:\xfffePokémon living in the swamp.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Summer)\xf000\xff00\x0001\x0000:\xfffePokémon living in the sand.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Autumn)\xf000\xff00\x0001\x0000:\xfffePokémon living in the sand.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Winter)\xf000\xff00\x0001\x0000:\xfffePokémon living in the sand.
+\xf000ą\x0001\x0000:\xfffePokémon living in this place.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Spring)\xf000\xff00\x0001\x0000:\xfffePokémon living in this place.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Summer)\xf000\xff00\x0001\x0000:\xfffePokémon living in this place.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Autumn)\xf000\xff00\x0001\x0000:\xfffePokémon living in this place.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Winter)\xf000\xff00\x0001\x0000:\xfffePokémon living in this place.
+\xf000ą\x0001\x0000:\xfffePokémon you catch while surfing.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Spring)\xf000\xff00\x0001\x0000:\xfffePokémon you catch while surfing.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Summer)\xf000\xff00\x0001\x0000:\xfffePokémon you catch while surfing.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Autumn)\xf000\xff00\x0001\x0000:\xfffePokémon you catch while surfing.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Winter)\xf000\xff00\x0001\x0000:\xfffePokémon you catch while surfing.
+\xf000ą\x0001\x0000:\xfffePokémon you catch by fishing.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Spring)\xf000\xff00\x0001\x0000:\xfffePokémon you catch by fishing.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Summer)\xf000\xff00\x0001\x0000:\xfffePokémon you catch by fishing.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Autumn)\xf000\xff00\x0001\x0000:\xfffePokémon you catch by fishing.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Winter)\xf000\xff00\x0001\x0000:\xfffePokémon you catch by fishing.
+\xf000ą\x0001\x0000:\xfffePokémon living on the land.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Spring)\xf000\xff00\x0001\x0000:\xfffePokémon living on the land.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Summer)\xf000\xff00\x0001\x0000:\xfffePokémon living on the land.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Autumn)\xf000\xff00\x0001\x0000:\xfffePokémon living on the land.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Winter)\xf000\xff00\x0001\x0000:\xfffePokémon living on the land.
+\xf000ą\x0001\x0000:\xfffePokémon living at this place.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Spring)\xf000\xff00\x0001\x0000:\xfffePokémon living at this place.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Summer)\xf000\xff00\x0001\x0000:\xfffePokémon living at this place.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Autumn)\xf000\xff00\x0001\x0000:\xfffePokémon living at this place.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Winter)\xf000\xff00\x0001\x0000:\xfffePokémon living at this place.
+\xf000ą\x0001\x0000:\xfffeNo Pokémon lives here.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Spring)\xf000\xff00\x0001\x0000:\xfffeNo Pokémon lives here.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Summer)\xf000\xff00\x0001\x0000:\xfffeNo Pokémon lives here.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Autumn)\xf000\xff00\x0001\x0000:\xfffeNo Pokémon lives here.
+\xf000ą\x0001\x0000 \xf000\xff00\x0001\x0001(Winter)\xf000\xff00\x0001\x0000:\xfffeNo Pokémon lives here.
+           
+    
+    
+    
+    
+INFO
+\xf000ą\x0001\x0000
+HABITAT
+UNOVA
+NATIONAL
+                    
+HABITAT LIST
+When all the Pokémon in that Habitat\xfffehave been encountered,\xfffeyou'll receive a stamp.\xfffeExplore all of the Unova region!\xf000븁\x0000
+When all the Pokémon in that Habitat\xfffehave been registered in your Pokédex,\xfffeyou'll receive a Poké Ball stamp.\xfffeCongratulations!\xf000븁\x0000
+\xf000ą\x0001\x0000:\xfffeYou've registered every Pokémon here.

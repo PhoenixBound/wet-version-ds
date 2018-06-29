@@ -1,0 +1,62 @@
+Objective \xf000ȃ\x0001\x0000
+Objective \xf000ȃ\x0001\x0000
+Objective \xf000ȃ\x0001\x0000
+Objective \xf000ȃ\x0001\x0000
+Objective \xf000ȃ\x0001\x0000
+\xf000봃\x0001\x0000Participants \xf000Ȃ\x0001\x0000
+Use the \xf000Đ\x0001\x0001\xfffethat \xf000Ā\x0001\x0000 activated?
+Said\xfffe“\xf000Ĝ\x0001\x0000."
+Quit the Funfest Mission?
+    
+    
+    
+    
+    
+\xf000봃\x0001\x0000Score \xf000ȃ\x0001\x0000
+started a mission!
+joined the mission!
+went to \xf000ą\x0001\x0000.
+is battling with \xf000ā\x0001\x0000!
+defeated \xf000ā\x0001\x0000!
+caught \xf000ā\x0001\x0000!
+escaped from the battle!
+is battling with a Trainer!
+defeated a Trainer!
+was defeated!
+used \xf000ĉ\x0001\x0000!
+picked up \xf000ĉ\x0001\x0000!
+used \xf000ć\x0001\x0000!
+is shopping...
+used a Pass Power!
+rode the Ferris wheel!
+checked a signboard.
+received an Egg!
+defeated \xf000ā\x0001\x0000!
+caught \xf000ā\x0001\x0000!
+defeated \xf000ā\x0001\x0000!
+caught \xf000ā\x0001\x0000!
+found \xf000ĉ\x0001\x0000!
+rang the bell!
+found \xf000ĉ\x0001\x0000!
+found \xf000ĉ\x0001\x0000!
+hatched \xf000ā\x0001\x0000!
+reeled in \xf000ā\x0001\x0000!
+found \xf000ā\x0001\x0000!
+helped a lost child!
+gave \xf000ĉ\x0001\x0000.
+traded items!
+bought \xf000ĉ\x0001\x0000!
+won in rock-paper-scissors!
+answered the quiz correctly!
+helped someone train!
+received \xf000ĉ\x0001\x0000!
+answered the quiz correctly!
+doesn't have enough money!
+lost in rock-paper-scissors!
+answered the quiz incorrectly!
+\xf000ā\x0001\x0000 fainted.
+\xf000ā\x0001\x0000's HP is low!
+\xf000ā\x0001\x0000's PP is low!
+\xf000Ĝ\x0001\x0000
+                   
+               

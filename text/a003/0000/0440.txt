@@ -1,0 +1,2 @@
+The Xtransceiver is ringing!
+\xf000Ā\x0001\x0000 picked up\xfffethe Xtransceiver.\xf000븁\x0000

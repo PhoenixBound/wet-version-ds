@@ -1,0 +1,61 @@
+Cheren: No one really talks about it, but\xfffethe record shows that there was a\xf000븀\x0000\xfffesudden drop in temperature near\xf000븀\x0000\xfffeLacunosa Town.\xf000븁\x0000\xfffeIt was only for a moment, but it went\xfffedown as low as -58° F.\xf000븁\x0000
+Not only that, but similar temperatures\xfffewere recorded around Castelia City\xf000븀\x0000\xfffeand Driftveil City.\xf000븁\x0000
+On top of that, that incident with\xfffeTeam Plasma!\xf000븁\x0000\xfffeI think this needs some investigation\xfffebefore things go bad.\xf000븁\x0000\xfffeI hate cold weather, though.\xf000븁\x0000
+I'll give you this...\xf000븁\x0000\xfffeIt's a Hidden Machine that contains Surf.\xfffeWith this, please go to different places\xf000븀\x0000\xfffeand check what's going on.\xf000븁\x0000\xfffeLet one of your Pokémon learn Surf,\xfffeand you can travel across the water.\xf000븁\x0000
+Sorry to have slowed you down.\xf000븁\x0000\xfffeSome strange things may be happening,\xfffeso be careful on your journey!
+This is the Season Research Lab.\xf000븁\x0000\xfffeTwist Mountain, just beyond Mistralton,\xfffehas snow, depending on the season.
+Some Pokémon change their appearance\xfffedepending on the season.\xf000븁\x0000\xfffeCould that also be considered\xfffea type of evolution?
+You can see Deerling from\xfffeall four seasons in our lab!\xf000븁\x0000\xfffeWhen it comes to Deerling,\xfffewe're sort of the experts.\xf000븁\x0000\xfffeWe found a rather rare Deerling.\xfffeWill you raise it for us? What do you say?
+Here you are!\xfffeTake good care of it!\xf000븁\x0000
+\xf000Ā\x0001\x0000 received Deerling!
+Give a nickname\xfffeto the Deerling you received?
+You're traveling with lots of\xfffePokémon already!
+Are you sure? It's quite a rare\xfffeDeerling, you know!
+Its Ability is Serene Grace.\xf000븁\x0000\xfffeThey say this Ability doubles the chances\xfffeof getting a move's additional effect.
+Dreee!
+Dreee! Dree dree!
+Dreen! Droooon!
+Droon...
+The temperature and humidity\xfffeinside the case next to me\xf000븀\x0000\xfffeare controlled by a machine.
+The glass is slightly cold to the touch.\xf000븁\x0000\xfffeThe plants inside the case\xfffehave grown some pretty Berries.
+The glass is very cold to the touch.\xf000븁\x0000\xfffeThe plants inside the case\xfffehave lost all their leaves.
+The glass is slightly warm to the touch.\xf000븁\x0000\xfffeThe plants inside the case\xfffehave grown small buds.
+The glass is very warm to the touch.\xf000븁\x0000\xfffeThe plants inside the case\xfffehave big, healthy leaves.
+Route 6's temperature \xf000ȁ\x0001\x0000 °C
+Route 6's temperature \xf000ȁ\x0001\x0000 °C
+Route 6's temperature \xf000ȁ\x0001\x0000 °C
+Route 6's temperature -\xf000Ȁ\x0001\x0000 °C
+Oh, my! Your \xf000ā\x0001\x0000 knows the\xfffemove \xf000ć\x0001\x0001!\xf000븁\x0000\xfffeFor a Trainer like you,\xfffehere comes a Pokémon weather forecast!
+Oh, my!\xfffeThis is something I don't see often!\xf000븁\x0000\xfffeYour \xf000ā\x0001\x0000's Ability\xfffeis \xf000Ć\x0001\x0002!\xf000븁\x0000\xfffeFor a Trainer like you,\xfffehere comes a Pokémon weather forecast!
+Ahem!\xf000븁\x0000\xfffeUsing the move Rain Dance or sending out\xfffea Pokémon with the Ability Drizzle\xf000븀\x0000\xfffewill cause it to rain.
+When it's raining, the power of\xfffeWater-type moves will be boosted by\xf000븀\x0000\xfffe50 percent!\xf000븁\x0000\xfffeThe powers of Fire-type moves and\xfffeSolarBeam will be reduced by 50 percent!\xf000븁\x0000\xfffeWeather Ball will become a Water-type\xfffemove, and its power will be boosted by\xf000븀\x0000\xfffe100 percent!
+By the way, the Pokémon called Castform\xfffeis known to change its form in rain and\xf000븀\x0000\xfffebecome a Water type.
+The darkened sky reduces the amount\xfffeof HP recovered from the moves\xf000븀\x0000\xfffeMorning Sun, Synthesis, and Moonlight.
+This is a weather advisory!\xf000븁\x0000\xfffePlease be aware that the moves Thunder\xfffeand Hurricane will not miss in the rain!
+By the way, there are some Abilities that\xfffetake effect when it's raining, such as\xf000븀\x0000\xfffeSwift Swim, Rain Dish,\xf000븀\x0000\xfffeDry Skin, and Forecast.\xf000븁\x0000\xfffePlease check your Pokémon's status!
+The lucky item on a rainy day is\xfffethe Damp Rock!\xf000븁\x0000\xfffeParasol Ladies like me are in our element\xfffein rain, like a Basculin in water!
+Ahem!\xf000븁\x0000\xfffeUsing the move Sunny Day or sending out\xfffea Pokémon with the Ability Drought\xf000븀\x0000\xfffewill cause the sun to shine brightly.
+When it's sunny, the power of Fire-type\xfffemoves will be boosted by 50 percent!\xf000븁\x0000\xfffeThe power of Water-type moves\xfffewill be reduced by 50 percent!\xf000븁\x0000\xfffeWeather Ball will become a Fire-type\xfffemove, and its power will be boosted by\xf000븀\x0000\xfffe100 percent!\xf000븁\x0000\xfffeThe stat increase of the move Growth\xfffeis boosted by 200 percent!
+When it's sunny, it's been reported that\xfffePokémon can't be frozen, and frozen\xf000븀\x0000\xfffePokémon are defrosted!\xf000븁\x0000\xfffeBy the way, the Pokémon called Castform\xfffeis known to change its form when it's\xf000븀\x0000\xfffesunny and become a Fire type.
+The clear sky increases the amount of\xfffeHP recovered from the moves\xf000븀\x0000\xfffeMorning Sun, Synthesis, and Moonlight.
+This is a weather advisory!\xf000븁\x0000\xfffeWhen it's sunny, the move SolarBeam can\xfffebe used every turn. It doesn't have\xf000븀\x0000\xfffeto charge up first!\xf000븁\x0000\xfffePlease be aware that the moves\xfffeThunder and Hurricane will be\xf000븀\x0000\xfffemore likely to miss!
+By the way, there are some Abilities that\xfffetake effect when it's sunny, such as\xf000븀\x0000\xfffeChlorophyll, Harvest, Solar Power,\xf000븀\x0000\xfffeand Forecast.\xf000븁\x0000\xfffePlease check your Pokémon's status!
+The lucky item on a sunny day is\xfffethe Heat Rock!\xf000븁\x0000\xfffeBy the way, the sunshine may feel nice,\xfffebut remember to take care of your skin\xf000븀\x0000\xfffeand try not to get a sunburn.
+Ahem!\xf000븁\x0000\xfffeUsing the move Hail or sending out\xfffea Pokémon with the Ability Snow Warning\xf000븀\x0000\xfffewill cause it to hail.
+When it's hailing, Pokémon take\xfffedamage at the end of every turn\xf000븀\x0000\xfffeunless they are Ice types!\xf000븁\x0000\xfffeThe power of SolarBeam will be\xfffereduced by 50 percent!\xf000븁\x0000\xfffeWeather Ball will become an Ice-type\xfffemove, and the power will be boosted by\xf000븀\x0000\xfffe100 percent!
+By the way, the Pokémon called Castform\xfffeis known to change its form when it's\xf000븀\x0000\xfffehailing and become an Ice type.
+The darkened sky reduces the amount\xfffeof HP recovered from the moves\xf000븀\x0000\xfffeMorning Sun, Synthesis, and Moonlight.
+This is a weather advisory!\xf000븁\x0000\xfffePlease be aware that Blizzard\xfffewill not miss when it's hailing!
+By the way, there are some Abilities that\xfffetake effect when it's hailing, such as\xf000븀\x0000\xfffeIce Body, Snow Cloak, and Forecast.\xf000븁\x0000\xfffePlease check your Pokémon's status!
+The lucky item in a hailstorm is\xfffethe Icy Rock!\xf000븁\x0000\xfffeBy the way, it gets quiet when it snows\xfffebecause the icy particles absorb sound!
+Ahem!\xf000븁\x0000\xfffeUsing the move Sandstorm or sending out\xfffea Pokémon with the Ability Sand Stream\xf000븀\x0000\xfffewill cause a sandstorm.
+When in a sandstorm, Pokémon take\xfffedamage at the end of every turn unless\xf000븀\x0000\xfffethey are Rock types, Ground types, or\xf000븀\x0000\xfffeSteel types!\xf000븁\x0000\xfffeThe power of the move SolarBeam will be\xfffereduced by 50 percent!\xf000븁\x0000\xfffeWeather Ball will become a Rock-type\xfffemove, and its power will be boosted\xf000븀\x0000\xfffeby 100 percent!
+When in a sandstorm, it's been reported\xfffethat Rock-type Pokémon boost their\xf000븀\x0000\xfffeSp. Defense by 50 percent!\xf000븁\x0000\xfffeBy the way, the Pokémon called Castform\xfffeis known to change its form and type\xf000븀\x0000\xfffedepending on the weather, but\xf000븀\x0000\xfffesandstorms don't affect it in that way.
+The darkened sky reduces the amount of\xfffeHP recovered from the moves\xf000븀\x0000\xfffeMorning Sun, Synthesis, and Moonlight.
+By the way, there are some Abilities that\xfffetake effect in a sandstorm, such as\xf000븀\x0000\xfffeSand Rush, Sand Veil, and Sand Force.\xf000븁\x0000\xfffePlease check your Pokémon's status!
+The lucky item in a sandstorm is\xfffethe Smooth Rock!\xf000븁\x0000\xfffeBy the way, I long for a life where\xfffeI could be a free spirit and soar\xf000븀\x0000\xfffeanywhere, like sand blown by the wind!
+How did you enjoy my Pokémon\xfffeweather forecast?\xf000븁\x0000\xfffePlease bring me a Pokémon with other\xfffemoves or Abilities if you want to hear\xf000븀\x0000\xfffea different forecast!
+Oh, my! None of the Pokémon traveling\xfffewith you have moves or Abilities that\xf000븀\x0000\xfffechange the weather.\xf000븁\x0000\xfffeIf you find one that does, bring it to me.\xfffeI'll give you a Pokémon weather forecast!
+My Pokémon weather forecast for you!\xf000븁\x0000\xfffeWell, that's how it normally goes, but...\xfffeYour \xf000ā\x0001\x0000's Ability is\xf000븀\x0000\xfffenone other than \xf000Ć\x0001\x0002!\xf000븁\x0000\xfffeThat's a problematic one for me.\xf000븁\x0000\xfffeSince \xf000Ć\x0001\x0002 turns off the effects\xfffeof weather, it means my Pokémon weather\xf000븀\x0000\xfffeforecast isn't too helpful!
+Is today a special day for some reason?\xf000븁\x0000\xfffeIt feels like my mind has cleared up...\xfffeas if a fog has lifted!\xf000븁\x0000\xfffeMaybe the weather somewhere\xfffeis cleared up just like my mind...\xf000븁\x0000
+Here comes a question out of a clear sky!\xfffeHave you heard of diamond dust?\xf000븁\x0000\xfffeIt's a breathtaking phenomenon that is\xfffecreated by shiny icy particles coming\xf000븀\x0000\xfffedown from the sky!\xf000븁\x0000\xfffeI heard it can be seen in a certain city\xfffearound this time of year.\xf000븁\x0000\xfffeAhh... I would love to watch the\xfffediamond dust flutter down with\xf000븀\x0000\xfffesomeone special! Teehee!\xf000븁\x0000

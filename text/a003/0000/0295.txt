@@ -1,0 +1,36 @@
+\xf000Ā\x0001\x0001: \xf000Ā\x0001\x0000!\xfffeI need you to get tougher!\xf000븁\x0000\xfffeEven I'm going to have trouble\xfffetaking them on all by myself...\xf000븁\x0000\xfffeAnyway, it's OK!\xfffeI'll take care of healing our Pokémon!\xf000븁\x0000\xfffeI'm counting on you, \xf000Ā\x0001\x0000!\xfffeAre you ready to go?
+\xf000Ā\x0001\x0001: C'mon!\xfffeHurry up and get ready!\xf000븁\x0000
+\xf000Ā\x0001\x0001: OK!\xfffeLet's find Team Plasma!\xf000븁\x0000
+\xf000Ā\x0001\x0001: I suppose.\xfffeGoing to step outside for a minute?
+\xf000Ā\x0001\x0001: I'm sorry\xfffeI got you mixed up in this,\xf000븀\x0000\xfffebut I can't forgive Team Plasma!
+\xf000Ā\x0001\x0001: So this is the sewer...\xfffeWell, it's not as stinky as I expected.
+\xf000Ā\x0001\x0001: Still...\xfffePokémon live everywhere, don't they?
+\xf000Ā\x0001\x0001: If you don't get strong,\xfffeyou can't protect the things that are\xf000븀\x0000\xfffeimportant to you!
+\xf000Ā\x0001\x0001: Don't worry about me!\xfffeLet's hurry and find Team Plasma!
+                                    
+                                  
+Hey!\xf000븁\x0000
+Team Plasma: What do you want?\xf000븁\x0000
+\xf000Ā\x0001\x0001: Team Plasma!\xfffeYou villains!\xf000븁\x0000
+Team Plasma: What?\xfffeDon't treat us like villains!\xf000븁\x0000\xfffeAnd don't interfere with our\xfffeplans to liberate Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Liberate? Ha!\xfffeYou're just ordinary Pokémon thieves!\xf000븁\x0000\xfffeAnd what's more, you use those\xfffestolen Pokémon like they're tools!\xf000븁\x0000
+Team Plasma: Shaddap!\xfffeHand over your Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Let's do this, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Team Plasma: They're really tough!\xf000븁\x0000\xfffeBut whatever!\xfffeWe've got the Pokémon we need!\xf000븀\x0000\xfffeNow, we flee!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Tch!\xfffeThey run away like Patrat!\xf000븁\x0000\xfffeOK! Let's go farther inside!\xfffeThere might be more in there!\xf000븁\x0000
+???: I don't think that's\xfffenecessary, you two.\xf000븁\x0000
+\xf000Ā\x0001\x0001: Could you be\xfffeGym Leader Burgh?\xf000븁\x0000
+Burgh: Yessir! One and the same!\xfffeI'm Burgh.\xf000븁\x0000\xfffeAnd there was no one suspicious\xfffebeyond here!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Is that...so?\xf000븁\x0000
+Burgh: Yes indeedy!\xf000븁\x0000\xfffeI'm concerned about\xfffeTeam Plasma as well.\xf000븁\x0000\xfffeMore importantly, shall\xfffewe leave this place?\xf000븁\x0000\xfffeFor some reason,\xfffethis sewer is bugging me.\xf000븁\x0000
+\xf000Ā\x0001\x0001: Huh...\xf000븁\x0000\xfffeDidn't you and the other Gym Leaders\xfffefight Team Plasma two years ago?\xf000븁\x0000
+\xf000Ā\x0001\x0001: Thanks for your help.\xfffeHere, use this!\xf000븁\x0000
+I'll find those other\xfffeTeam Plasma punks!\xf000븁\x0000\xfffeI... I'll never forgive Pokémon thieves!\xfffeNo way!\xf000븁\x0000
+Burgh: He's gone...\xf000븁\x0000
+???: You there!\xf000븁\x0000
+That was an excellent demonstration\xfffeof battling. The way you brought out\xf000븀\x0000\xfffethe power of your Pokémon against\xf000븀\x0000\xfffean opponent like Team Plasma...\xf000븁\x0000\xfffeAstounding. Simply astounding.\xfffeInteresting as well. I see...\xf000븁\x0000
+Burgh: Who...was that?\xf000븁\x0000
+Well. No matter.\xfffeWhat are you going to do?\xf000븁\x0000\xfffeYou can stay here\xfffeand train your Pokémon.\xf000븁\x0000\xfffeOr maybe you should come\xfffechallenge me, the Gym Leader!\xf000븁\x0000\xfffeBe seeing you!\xf000븁\x0000
+Waitasecond!\xf000븁\x0000\xfffeI dropped something here!\xfffeJust wait until I find it!
+Waitasecond!\xf000븁\x0000\xfffeI dropped something here!\xfffeJust wait until I find it!\xf000븁\x0000
+Phew...\xfffeI finally made it back here.\xf000븁\x0000\xfffeAre you going farther inside?\xfffeThere's nothing in there but Trainers.

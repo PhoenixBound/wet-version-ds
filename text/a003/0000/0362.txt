@@ -1,0 +1,24 @@
+There is a device...\xf000븁\x0000\xfffeIt seems that a card key is necessary\xfffeto enter a password.
+There is a device...\xfffeIt seems to be for entering a password.\xf000븁\x0000\xfffeWill you enter a password?
+The password is not correct.
+You succeeded in\xfffeentering the password!
+All barriers were deactivated,\xfffeand you can proceed now.
+Team Plasma: At last, we meet again!\xf000븁\x0000\xfffeRemember me? Formerly of Team Plasma?\xfffeI've been waiting for you.\xf000븁\x0000
+Gah! Spying is such a rotten job.\xfffeI contacted Rood of the Seven Sages,\xf000븀\x0000\xfffebut nobody showed up to help me.\xf000븁\x0000\xfffeI can't stand it. Everybody around me is\xfffealways saying bad stuff about Lord N.\xf000븁\x0000\xfffeBut Lord N learned the error of his ways\xfffeand changed course to a better path.\xf000븁\x0000\xfffeYet they call him a betrayer!\xfffePeople really stink sometimes.\xf000븁\x0000\xfffeThey selfishly counted on him, and\xfffenow they selfishly make a big fuss\xf000븀\x0000\xfffeabout being betrayed.\xf000븁\x0000
+Oh! I nearly forgot to tell you!\xfffeThis floor is a maze of pipes.\xf000븁\x0000\xfffeYou've got to step on switches\xfffeto connect or disconnect the pipes.\xf000븁\x0000\xfffeIt's a good thing you can walk\xfffeon the pipes.\xf000븁\x0000
+You know what troubles me...\xf000븁\x0000\xfffeHow come all of us who were in\xfffeTeam Plasma together--thinking we\xf000븀\x0000\xfffeknew what was right--are now divided\xf000븀\x0000\xfffeinto former Team Plasma members and\xf000븀\x0000\xfffecontinuing Team Plasma members,\xf000븀\x0000\xfffeboth with opposing points of view?\xf000븁\x0000\xfffeWhere's the line between friend and foe?\xfffeI spend a lot of time asking myself that.\xf000븁\x0000\xfffeAs for you, on this floor, you'll need\xfffeto enter a password to continue on.\xf000븀\x0000\xfffeAnd that password is...\xf000븁\x0000\xfffeHa! You didn't think I was just going\xfffeto tell you the password, did you?\xf000븁\x0000\xfffeYou'll have to figure it out\xfffefrom the others!
+Zinzolin: The device is indestructible!\xf000븁\x0000\xfffeYou will never be able to release Kyurem!\xf000븁\x0000
+You don't have the sense to know\xfffewhen to quit, it seems.\xf000븁\x0000\xfffeIt's an act of mercy on my part\xfffeto bring this to an end now!\xf000븁\x0000
+Zinzolin: Beaten again?!\xf000븁\x0000\xfffeNo matter!\xfffeTeam Plasma will get the last laugh!
+It looks like it controls the\xfffetemperature inside the ship.
+It's a device to control\xfffethe ship's energy system.
+Haahra...
+Humph! If you intend to continue,\xfffestep on the other warp panel.\xf000븁\x0000\xfffeKeep in mind that you're going\xfffeto get beaten up if you do!
+What?! You beat Colress?!\xf000븁\x0000\xfffeWaaah! I pretended to be strong,\xfffebut I don't have any Pokémon!\xf000븁\x0000
+I have what you want!\xf000븁\x0000\xfffeBut if you want it...\xfffeYou know, don't you? Battle me!\xf000븁\x0000
+Phew!\xfffeYou're good!\xf000븁\x0000\xfffeI'll give you this, then!\xf000븁\x0000
+Without the Plasma Card,\xfffeyou can't enter the password.\xf000븁\x0000\xfffeDo the rest by yourself.
+Oh, poor Kyurem.\xfffeIt was cruelly forced to work.\xf000븁\x0000\xfffeIt must have felt terrible.
+The Plasma Frigate is a ship designed\xfffeto be ecological. It runs on\xf000븀\x0000\xfffeKyurem's ice energy and solar panels.\xf000븁\x0000\xfffeYou've got to keep the environment in\xfffemind when ruling a region like Unova.
+Colress doesn't know N.\xfffeI wonder how he'll react if he meets him.
+Be careful!\xfffeThe barriers are electrified!

@@ -1,0 +1,71 @@
+X BUTTON
+SELECT
+B BUTTON
+Use the graffiti marker
+Freeze frame
+Quit graffiti mode
+Change pen size
+Select color with the dropper
+Use as an eraser
+Close the graffiti marker
+Stamps
+GRAFFITI MODE
+    
+    
+ID \xf000Ȅ\x0001\x0000
+    
+\xf000Ȁ\x0001\x0000/4
+Please select your friend(s).
+CALL FRIEND(S)
+JOIN
+Calling...
+              
+               
+                
+Connecting...
+        
+         
+          
+Searching for your friends...
+              
+               
+                
+Would you like to stop the Xtransceiver?
+If the leader drops out, the group will\xfffebe disbanded. Is that OK?
+YES
+NO
+Since the leader dropped out,\xfffethe group will be disbanded.
+The other Trainer has left the group.\xfffeThe communication will be ended.
+There are no members.\xfffeThe communication will be ended.
+Call failed.
+Failed to connect.
+Parental Controls prohibits the transfer\xfffeof photos.\xfffeIf you wish to send them, please change\xfffethe System Settings to allow this.
+Waiting for the other player to finish...
+Seeking participants for\xfffe“\xf000Ĝ\x0001\x0000."\xfffeThe entry will be closed in \xf000ȁ\x0001\x0001 second(s)!
+
+Please wait for a while until\xfffe“\xf000Ĝ\x0001\x0000" starts.
+“\xf000Ĝ\x0001\x0000"\xfffehas been canceled.
+\xf000Ā\x0001\x0000 invited you to\xfffeplay “\xf000Ĝ\x0001\x0001."\xfffeDo you want to participate?
+You turned down the invitation for\xfffe“\xf000Ĝ\x0001\x0000."\xfffeThe game will be canceled.
+Take three photos to use\xfffefor the game.
+Take photo No. \xf000Ȁ\x0001\x0000.
+Make a straight face...
+Smile...
+Make a troubled face...
+Make a surprised face...
+A face for the game\xfffewill be selected.
+Ready, set...\xfffeStart!
+Please wait until\xfffeeverybody gets ready.
+The preparation is done!\xfffeLet's start the game!
+Tap \xf000Ĝ\x0001\x0000 balloons, and\xfffecatch as many balloons as you can!\xfffeDon't tap other colors. You'll lose points!
+Tap the right and left bottom corners\xfffeon the Touch Screen alternately! Pump\xfffeballoons, and pop as many as you can!
+Do you want to play\xfffe“\xf000Ĝ\x0001\x0000" again?
+Balloon Catch
+Balloon Ka-boom
+Game Rules
+Cancel
+\xf000Ȃ\x0001\x0000
+red
+blue
+yellow
+green

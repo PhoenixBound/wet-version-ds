@@ -1,0 +1,62 @@
+Fine Actor
+Mystery Man
+River: You're quite stubborn...
+\xf000Ā\x0001\x0001: Arrrgh!\xfffePlease give up already!
+River: Why do you care?\xf000븁\x0000\xfffeFor you, it's just some kind of Poké Ball.
+???: Excuse me...
+\xf000Ā\x0001\x0001: Who are you?
+???: My name is River.\xf000븁\x0000\xfffeI sold you a Poké Ball the other day.\xf000븁\x0000\xfffeDo you have a minute?
+\xf000Ā\x0001\x0001: Er...\xf000븁\x0000\xfffeI'm sorry.\xfffeI'm busy right now.
+River: I see.\xfffeThen I'll get right to the point.\xf000븁\x0000\xfffeThat Poké Ball I sold you...\xf000븁\x0000\xfffeI need you to give it back.
+\xf000Ā\x0001\x0001: Uh, why?
+River: ...\xf000븁\x0000\xfffeThere was a small slipup, that's all.\xfffeMind you, I'm not asking to get it\xf000븀\x0000\xfffeback for free.\xf000븁\x0000\xfffeI'll pay whatever price you want.
+\xf000Ā\x0001\x0001: Well, er...\xfffeI'm sorry. I can't give it back.
+River: Truly?\xfffeI'm sorry you won't agree to give it back.\xf000븁\x0000\xfffeSadly, I have to get it from you anyway...\xfffeBy force, if I have to!
+\xf000Ā\x0001\x0001: Huh?
+River: Again, sorry...\xf000븁\x0000\xfffeIt's not your fault, but I have no choice.
+\xf000Ā\x0001\x0001: Huh? You mean--violence?
+River: I know, I know, and I'm sorry.\xfffeBut it just cannot be helped...
+\xf000Ā\x0001\x0001: No way!\xfffeWhat have I done to deserve this?
+River: Apologies all over again...\xf000븁\x0000\xfffeBut...\xfffeI must get that Poké Ball back at any cost!
+\xf000Ā\x0001\x0001: That's totally unfair!\xfffeBesides, no matter how much you want it,\xf000븀\x0000\xfffethe Poké Ball was...
+River: W-was? What happened?\xf000븁\x0000\xfffeDid you...\xfffeHave you...used that Poké Ball already?!
+\xf000Ā\x0001\x0001: Well...er...
+River: No matter.\xf000븁\x0000\xfffeWhatever happened,\xfffeI'll get that Poké Ball back!
+\xf000Ā\x0001\x0001: It opened all by itself!
+River: Opened all by itself...\xfffeThat's what I was afraid of...
+\xf000Ā\x0001\x0001: It wasn't me!
+River: What are you talking about?\xfffeThere's no one else here.\xf000븁\x0000\xfffeNow stop making trouble and\xfffegive the Poké Ball back to me!
+\xf000Ā\x0001\x0001: Never mind! No way!
+River: Talk, don't talk... I don't care!\xfffeBut I'm getting that Poké Ball back!
+River: Urk...\xfffeYou're quite good...
+\xf000Ā\x0001\x0001: Hfff, hfff...\xf000븁\x0000\xfffeWhew! Enough!\xf000븁\x0000\xfffeI can't give you the Poké Ball back!\xf000븁\x0000\xfffeSo please leave now!
+River: I am sorry, but I cannot leave.\xf000븁\x0000\xfffeI wish I didn't have to go this far, but...
+Wham!
+\xf000Ā\x0001\x0001: Eek!
+River: I apologize.\xf000븁\x0000\xfffeBut I cannot permit the existence of\xfffethis Poké Ball to be made public!
+...I was attacked by a man\xfffewho identified himself as River...\xf000븁\x0000\xfffeI lost consciousness...\xf000븁\x0000\xfffe...When I regained consciousness,\xfffethe man had disappeared\xf000븀\x0000\xfffeand the Poké Ball was gone.\xf000븁\x0000\xfffeOn the table in its place, there was\xfffea pile of money I'd never seen before...\xf000븁\x0000\xfffeMy big sister's inside the Poké Ball...\xfffeOh, what will happen to her?
+River: Apologies.\xfffeI didn't want to get rough with you, but...
+\xf000Ā\x0001\x0001: Hfff, pfff... Hfff, pfff...
+River: Sorry, but I must take the Poké Ball.
+\xf000Ā\x0001\x0001: Wait!\xfffeMy big sister is inside the Poké Ball!
+River: Heh.\xfffeWhat are you talking about?\xf000븁\x0000\xfffeI don't have time for jokes.\xf000븁\x0000\xfffeExcuse me, if you please.
+\xf000Ā\x0001\x0001: Agh! Hurry!\xfffeI have to catch up with him!
+The man who identified himself as River\xfffetook the Poké Ball by force.\xf000븁\x0000\xfffeMy big sister is inside the Poké Ball!\xfffeI have to catch up with him right away!
+\xf000Ā\x0001\x0001: Hfff, pfff... Hfff, pfff...
+River: Heh heh...\xf000븁\x0000\xfffeYou continue to challenge me,\xfffeand you're not afraid of me...\xf000븁\x0000\xfffeI'm impressed.\xfffeBut...\xf000븁\x0000\xfffeIt's just a Poké Ball to you, right?\xfffeNot to mention the money I offered!\xf000븁\x0000\xfffeWhy are you going to these lengths\xfffeto keep this Poké Ball?
+\xf000Ā\x0001\x0001: Hfff, pfff... Hfff, pfff...\xf000븁\x0000\xfffeI have to!\xfffeInside the Poké Ball is my big sister!\xf000븁\x0000\xfffeMy own sister, my only family,\xfffeis trapped inside that strange Poké Ball!\xf000븁\x0000
+River: Family?
+\xf000Ā\x0001\x0001: Yes, my family! That's why\xfffeI can't let you have the Poké Ball!
+River: Heh.\xf000븁\x0000\xfffeIt's touching that you can consider a\xfffePokémon as just like a sister.\xf000븁\x0000\xfffeI like that.\xfffeI respect your feelings.
+\xf000Ā\x0001\x0001: Wha...?
+River: Heh.\xfffeFine. Here, you keep the Poké Ball.\xf000븁\x0000\xfffeYou can live happily ever after\xfffewith your Pokémon...
+\xf000Ā\x0001\x0001: But...er...
+River: Heh heh.\xf000븁\x0000\xfffeYou don't have to thank me.\xfffeBe happy with your “family"...
+\xf000Ā\x0001\x0001: Er...\xfffeThat's not what I...
+The man identified as River, who had\xfffesuddenly appeared, left just as suddenly,\xf000븀\x0000\xfffehaving misunderstood my words...\xf000븁\x0000\xfffeAlone once more, I tried to open the\xfffestrange Poké Ball and rescue my sister.\xf000븁\x0000\xfffeBut it would not open,\xfffeno matter how hard I tried.\xf000븁\x0000\xfffeOh, my sister, my family...\xf000븁\x0000\xfffeWhat will happen to you?
+\xf000Ā\x0001\x0001: Argh! What is this?\xfffeKnock it off!
+River: Sorry.\xfffeBut I have my reasons...\xf000븁\x0000\xfffeI can't afford to be picky\xfffeabout my methods.
+\xf000Ā\x0001\x0001: What do you mean?
+River: Never mind.\xf000븁\x0000\xfffeWhat matters is getting the Poké Ball back.
+\xf000Ā\x0001\x0001: Thief!
+River: Me? A thief?!\xf000븁\x0000\xfffeYou're not a very good judge of character!

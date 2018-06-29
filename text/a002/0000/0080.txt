@@ -1,0 +1,255 @@
+A Medal given to all Medal Rally\xfffeparticipants at the beginning.\xfffeA symbol of a Trainer's potential.
+A Medal for Medal Rally participants\xfffewho achieved certain results\xfffeand reached a goal.
+A Medal commemorating the advance\xfffeto the Rookie Rank as the result of\xfffeconstant efforts in the Medal Rally.
+A Medal commemorating the advance\xfffeto the Elite Rank as the result of\xfffeconstant efforts in the Medal Rally.
+A Medal commemorating the advance\xfffeto the Master Rank as the result of\xfffeconstant efforts in the Medal Rally.
+A Medal commemorating the advance\xfffeto the Legend Rank as the result of\xfffeconstant efforts in the Medal Rally.
+An honorable Medal for those\xfffewho collected all the Medals.
+A Medal to praise light walkers\xfffewho took 5,000 steps on the land\xfffeof Unova.
+A Medal to praise middle walkers\xfffewho took 10,000 steps on the land\xfffeof Unova.
+A Medal to praise heavy walkers\xfffewho took 20,000 steps on the land\xfffeof Unova.
+A Medal to praise ultimate walkers\xfffewho took 100,000 steps on the land\xfffeof Unova.
+A Medal to recognize\xfffea newly started journey\xfffethat has been recorded 10 times.
+A Medal to recognize\xfffean energetic journey\xfffethat has been recorded 20 times.
+A Medal to recognize\xfffea smooth journey\xfffethat has been recorded 50 times.
+A Medal to recognize\xfffean astonishing journey\xfffethat has been recorded 100 times.
+A Medal given to kind Trainers\xfffewho let their Pokémon rest at\xfffePokémon Centers many times.
+A Medal for those who are very\xfffekeen to collect information and\xfffechecked five Trainer Tips signs.
+A Medal for those who have mastered\xfffethe art of collecting information and\xfffechecked 15 Trainer Tips signs.
+A Medal to recognize the keen\xfffeobservation of Trainers who even\xfffenoticed graffiti behind signs.
+A Medal given to beginning cyclists\xfffewho rode a Bicycle for the first time.
+A Medal given to casual cyclists\xfffewho have ridden a Bicycle\xfffe30 times.
+A Medal given to outstanding cyclists\xfffewho have ridden a Bicycle\xfffe100 times.
+A Medal given to earthshaking\xfffecyclists who have ridden a Bicycle\xfffe500 times.
+A Medal given to beginning fishers\xfffewho caught a Pokémon\xfffefor the first time.
+A Medal given to leisure fishers\xfffewho caught 10 Pokémon.
+A Medal given to very experienced\xfffefishers who caught 50 Pokémon.
+A Medal given to legendary fishers\xfffewho caught 100 Pokémon.
+A Medal in commemoration of\xfffecatching all the Normal-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Fire-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Water-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Electric-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Grass-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Ice-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Fighting-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Poison-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Ground-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Flying-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Psychic-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Bug-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Rock-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Ghost-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Dragon-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Dark-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of\xfffecatching all the Steel-type Pokémon\xfffein the Unova Pokédex.
+A Medal in commemoration of receiving\xfffethe award from the Game Director\xfffefor completing the Unova Pokédex.
+A Medal in commemoration of receiving\xfffethe award from the Game Director\xfffefor completing the National Pokédex.
+A Medal given to novice Trainers\xfffewho have deposited 30 Pokémon\xfffein their PC Boxes.
+A Medal given to skilled Trainers\xfffewho have deposited 120 Pokémon\xfffein their PC Boxes.
+A Medal given to highly skilled\xfffeTrainers who have deposited 360\xfffePokémon in their PC Boxes.
+A Medal given to Trainers of high\xfffecaliber who have caught enough Pokémon\xfffeto fill all their PC Boxes.
+A Medal for those who\xfffecaught 50 Pokémon in a day.
+A Medal for thirsty Trainers\xfffewho bought 10 or more drinks\xfffeat vending machines.
+A Medal for lucky people\xfffewho got a bonus at a vending machine.
+A Medal for promising Trainers\xfffewho evolved a Pokémon\xfffefor the first time.
+A Medal for skilled Trainers\xfffewho evolved Pokémon 10 times and are\xffferecognized by even ⒆⒇ Breeders.
+A Medal for great Trainers\xfffewho evolved Pokémon 50 times,\xfffewhich surprises even the Day-Care Man.
+A Medal for exceptional Trainers\xfffewho evolved Pokémon 100 times, which\xfffeastounds even Pokémon Professors.
+A Medal for those who flew\xfffeall over the Unova sky using Fly.
+A Medal to praise the strength of\xfffeTrainers who moved many boulders\xfffeout of their way.
+A Medal for curiosity seekers\xfffewho checked trash cans even though\xfffethey knew they were empty.
+A Medal to praise sharp-eyed Trainers\xfffewho found a hidden item\xfffefor the first time.
+A Medal to praise sharp-eyed Trainers\xfffewho found 10 hidden items.
+A Medal to praise sharp-eyed Trainers\xfffewho found 50 hidden items.
+A Medal to praise peerlessly sharp-eyed\xfffeTrainers who found 150 hidden items.
+A Medal given to those\xfffewho gave many nicknames\xfffeto Pokémon.
+A Medal given to today's children\xfffewho get absorbed in television\xfffeand can't help watching it.
+A Medal for Trainers\xfffewho kept going to various shops\xfffeand became regular customers.
+A Medal for rich people who\xfffespent $10,000 at various shops.
+A Medal for rich people who\xfffespent $100,000 at various shops.
+A Medal for rich people who\xfffespent $1,000,000 at various shops.
+A Medal for super-rich people who\xfffespent $10,000,000 at various shops.
+A Medal for thrifty shoppers\xfffewho made bulk purchases\xfffeand got bonus Premier Balls.
+A Medal for those who love their\xfffehometown and went home to rest\xfffeand revisit old memories.
+A Medal commemorating a small\xfffeencounter and farewell with the\xfffefirst passerby.
+A Medal commemorating busy\xfffeencounters and farewells with\xfffe30 passersby.
+A Medal commemorating turbulent\xfffeencounters and farewells with\xfffe100 passersby.
+A Medal commemorating\xfffethe extraordinary human dramas\xfffeof 1,000 passersby.
+A Medal to recognize a new current\xfffeof power in using a Pass Power\xfffefor the first time.
+A Medal to recognize a strong\xfffecurrent of power in using\xfffe10 Pass Powers.
+A Medal to recognize a fierce\xfffecurrent of power in using\xfffe50 Pass Powers.
+A Medal to recognize an ultimate\xfffecurrent of power in using\xfffe100 Pass Powers.
+A Medal for daydreamers\xfffewho caught a Pokémon for the first time\xfffein the Entree Forest.
+A Medal for daydreamers\xfffewho caught 10 Pokémon\xfffein the Entree Forest.
+A Medal for daydreamers\xfffewho caught 50 Pokémon\xfffein the Entree Forest.
+A dreamy Medal for those\xfffewho caught 100 Pokémon\xfffein the Entree Forest.
+A Medal to praise the wild nature\xfffeof people who found\xfffeall the Hidden Grottoes.
+A Medal to prove the fresh parental\xfffeinstincts of people who hatched\xfffea Pokémon Egg for the first time.
+A Medal to prove the decent parental\xfffeinstincts of people who hatched\xfffe10 Pokémon Eggs.
+A Medal to prove the outstanding\xfffeparental instincts of people\xfffewho hatched 50 Pokémon Eggs.
+A Medal to prove the endless\xfffeparental instincts of people\xfffewho hatched 100 Pokémon Eggs.
+A Medal for those who love to raise\xfffePokémon and left many Pokémon\xfffeat the Pokémon Day Care.
+A Medal to prove the power of science\xfffethat restored Pokémon from Fossils\xfffeand brought them to the present time.
+A Medal for those who befriended\xfffea Pokémon of the Trainer who was\xffferecognized by the legendary Pokémon.
+A Medal to praise the luck of people\xfffewho have befriended\xfffea Shiny Pokémon.
+A Medal given to Trainers whose\xfffePokémon were infected with the\xfffemysterious Pokérus.
+A Medal for those who became\xfffethe leader of the pack in Castelia City.
+A Medal for rail enthusiasts\xfffewho heard information on all\xfffethe trains in Anville Town.
+A Medal for those who had the rare\xfffesight of a Wailord swimming past\xfffethe Marine Tube.
+A Medal for those who took\xfffea commemorative photo\xfffeat the face board in Humilau City.
+A Medal for mavens who know\xfffeeverything about construction trucks.
+A Medal given to explorers\xfffewho have reached the deepest part\xfffeof the Abyssal Ruins.
+A Medal given to people who have seen\xfffethe rare diamond dust.
+A Medal for bridge enthusiasts\xfffewho visited all the bridges\xfffein the Unova region.
+A Medal given to great travelers\xfffewho have visited every city and town\xfffein the Unova region.
+A Medal to reward people who\xfffecollected all the Adventure Medals.
+A Medal for courageous young\xfffeTrainers who went through\xfffe100 battles.
+A Medal for ferociously courageous\xfffeTrainers who went through\xfffe200 battles.
+A Medal for tremendously courageous\xfffeTrainers who went through\xfffe400 battles.
+A Medal for peerlessly courageous\xfffeTrainers who went through\xfffe2,000 battles.
+A Medal to praise the fresh\xfffecompetitive spirit of Trainers who had\xfffea Link Battle for the first time.
+A Medal to praise the advanced\xfffecompetitive spirit of Trainers\xfffewho had 10 Link Battles.
+A Medal to praise the sophisticated\xfffecompetitive spirit of Trainers\xfffewho had 50 Link Battles.
+A Medal to praise the impressive\xfffecompetitive spirit of Trainers\xfffewho had 100 Link Battles.
+A Medal to praise the guts of\xfffeTrainers who kept using Splash\xfffeno matter what.
+A Medal for those who don't know\xfffewhen to quit even when\xfffethere's nothing they can do.
+A consolation Medal for Trainers who\xfffemade the cute mistake of using\xfffenoneffective moves.
+A Medal for Trainers who saw through\xfffemany foes' weak points and\xfffebattled to their best advantage.
+A Medal for gearing-up challengers\xfffewho tried the Battle Subway\xfffefor the first time.
+A Medal for accelerating challengers\xfffewho tried the Battle Subway\xfffe10 times.
+A Medal for top-geared challengers\xfffewho tried the Battle Subway\xfffe50 times.
+A Medal for unstoppable challengers\xfffewho tried the Battle Subway\xfffe100 times.
+A Medal to praise the toughness of\xfffeTrainers who beat the Subway Boss\xfffein a Single Train in the Battle Subway.
+A Medal to praise the toughness of\xfffeTrainers who beat the Subway Boss\xfffein a Double Train in the Battle Subway.
+A Medal to praise the toughness of\xfffeTrainers who beat the Subway Boss\xfffein a Multi Train in the Battle Subway.
+A Medal for promising novice\xfffechallengers who took the first\xfffeBattle Test.
+A Medal for energized challengers\xfffewho took 10 Battle Tests.
+A Medal for regular challengers\xfffewho took 30 Battle Tests.
+A Medal for well-known challengers\xfffewho took 50 Battle Tests.
+A Medal commemorating battles\xfffethat earned 1,000,000 Exp. Points\xfffein a day.
+A Medal to praise the strength and\xfffecontinuous efforts of those who\xfffeearned 100 BP.
+A Medal to prove the adventurous\xfffespirit of people who didn't miss\xffferustling grass and dust clouds.
+A Medal for Trainers who battled\xfffewith 30 Trainers in Big Stadium\xfffeand Small Court.
+A Medal to commemorate\xfffe10 cruises on the Royal Unova.
+A Medal to prove victory\xfffein the Driftveil Tournament\xfffein the PWT.
+A Medal to prove victory\xfffein the Rental Tournament\xfffein the PWT.
+A Medal to prove victory\xfffein the Mix Tournament\xfffein the PWT.
+A Medal to prove victory\xfffein the Unova Leaders Tournament\xfffein the PWT.
+A Medal to prove victory\xfffein the Kanto Leaders Tournament\xfffein the PWT.
+A Medal to prove victory\xfffein the Johto Leaders Tournament\xfffein the PWT.
+A Medal to prove victory\xfffein the Hoenn Leaders Tournament\xfffein the PWT.
+A Medal to prove victory\xfffein the Sinnoh Leaders Tournament\xfffein the PWT.
+A Medal to prove victory\xfffein the World Leaders Tournament\xfffein the PWT.
+A Medal to prove victory\xfffein the Champions Tournament\xfffein the PWT.
+A Medal to prove victory\xfffein the Rental Master Tournament\xfffein the PWT.
+A Medal to prove victory\xfffein the Mix Master Tournament\xfffein the PWT.
+A Medal to prove victories\xfffein all the Type Expert Tournaments.
+A Medal for modest adventurers\xfffewho have explored up to Area 5\xfffein the Black Tower.
+A Medal for formidable adventurers\xfffewho have explored up to Area 10\xfffein the Black Tower.
+A Medal for modest adventurers\xfffewho have explored up to Area 5\xfffein the White Treehollow.
+A Medal for formidable adventurers\xfffewho have explored up to Area 10\xfffein the White Treehollow.
+A Medal given to slightly strong\xfffeTrainers who beat 20 Trainers\xfffein Unova's Challenge.
+A Medal given to modestly strong\xfffeTrainers who beat 50 Trainers\xfffein Unova's Challenge.
+A Medal given to pretty strong\xfffeTrainers who beat 100 Trainers\xfffein Unova's Challenge.
+A Medal given to unbeatable\xfffefighters who beat 1,000 Trainers\xfffein Unova's Challenge.
+A Medal for Trainers who defeated\xfffeall Trainers in Area 2, 3, 4, or 5\xfffein Unova's Challenge.
+A Medal for Trainers who defeated\xfffeall Trainers in Area 6, 7, 8, 9, or 10\xfffein Unova's Challenge.
+A Medal for Trainers who cleared\xfffeArea 2, 3, 4, or 5 within four battles\xfffein Unova's Challenge.
+A Medal for Trainers who cleared\xfffeArea 6, 7, 8, 9, or 10 within six battles\xfffein Unova's Challenge.
+A Medal for Trainers who cleared\xfffeArea 2, 3, 4, or 5 within 100 steps\xfffein Unova's Challenge.
+A Medal for Trainers who cleared\xfffeArea 6, 7, 8, 9, or 10 within 1,000 steps\xfffein Unova's Challenge.
+A Medal to reward people who\xfffecollected all the Battle Medals.
+A Medal to commemorate\xfffethe first trade of Pokémon\xfffeby Link Trade.
+A Medal to commemorate the\xffferich experience of trading Pokémon\xfffe10 times by Link Trade.
+A Medal to commemorate the valuable\xfffeexperience of trading Pokémon 50 times\xfffeby Link Trade.
+A Medal to commemorate the\xfffeextraordinary experience of trading\xfffePokémon 100 times by Link Trade.
+A Medal for trading Pokémon\xfffebetween two worlds.
+A Medal to honor the nostalgic\xfffecommunication method of writing Mail\xfffeand having a Pokémon hold it.
+A Medal given to Trainers who\xfffeparticipated in Musicals many times\xfffeand became indispensable on stage.
+A Medal to mark the budding success\xfffeof those who received a good review\xfffefor the first time in a Musical.
+A Medal to mark the brilliant success\xfffeof those who received five good reviews\xfffein Musicals.
+A Medal to mark the glorious success\xfffeof those who received 10 good reviews\xfffein Musicals.
+A Medal to mark the celebrated\xfffesuccess of those who received\xfffe30 good reviews in Musicals.
+A Medal to praise the glitz and glamor\xfffeof those who collected all the Musical\xfffeProps and became fashion leaders.
+A Medal to praise the unshaken\xfffepopularity proven by 10 followers\xfffein a Musical.
+A Medal to honor the new friendship\xfffeformed by trading Friend Codes\xfffefor the first time.
+A Medal to honor the lively interaction\xfffeof trading Friend Codes with\xfffefive people.
+A Medal to honor the active interaction\xfffeof trading Friend Codes\xfffewith 10 people.
+A Medal to honor the worldwide\xfffefriendship that filled up a Pal Pad.
+A Medal to commemorate the excitement\xfffeof playing a lot in Spin Trade and\xfffeexchanging Eggs.
+A Medal for Trainers who keep\xfffecommunication by playing Feeling Check\xfffemany times.
+A Medal given to those who\xfffescored 80 points or more in\xfffeFeeling Check.
+A Medal for those who enjoyed\xfffeall four seasons by meeting various\xfffepeople at the Ferris wheel.
+A Medal for new guides\xfffewho guided 10 customers in\xfffeJoin Avenue.
+A Medal for popular guides\xfffewho guided 20 customers in\xfffeJoin Avenue.
+A Medal for veteran guides\xfffewho guided 50 customers in\xfffeJoin Avenue.
+A Medal for unbeatable guides\xfffewho guided 100 customers in\xfffeJoin Avenue.
+A Medal for start-up owners\xfffewho created five shops\xfffein Join Avenue.
+A Medal for up-and-coming owners\xfffewho created 10 shops\xfffein Join Avenue.
+A Medal for charismatic owners\xfffewho created 20 shops\xfffein Join Avenue.
+A Medal for ultimate owners\xfffewho created 50 shops\xfffein Join Avenue.
+A Medal for modestly popular people\xfffewho received 10 souvenirs\xfffein Join Avenue.
+A Medal for rather popular people\xfffewho received 30 souvenirs\xfffein Join Avenue.
+A Medal for very popular people\xfffewho received 50 souvenirs\xfffein Join Avenue.
+A Medal for the most popular people\xfffewho received 100 souvenirs\xfffein Join Avenue.
+A Medal for those who developed\xfffeJoin Avenue and earned the right\xfffeto give it an original name.
+A Medal to praise the emerging playful\xfffeminds of those who played minigames\xfffeon the Xtransceiver 10 times.
+A Medal to praise the modestly playful\xfffeminds of those who played minigames\xfffeon the Xtransceiver 30 times.
+A Medal to praise the substantially\xfffeplayful minds of those who played\xfffeminigames on the Xtransceiver 50 times.
+A Medal to praise the superbly\xfffeplayful minds of those who played\xfffeminigames on the Xtransceiver 100 times.
+A Medal to celebrate the small\xfffeachievement of reaching 50 points\xfffein a minigame on the Xtransceiver.
+A Medal to celebrate the great\xfffeachievement of reaching 200 points\xfffein a minigame on the Xtransceiver.
+A Medal to celebrate the major\xfffeachievement of reaching 500 points\xfffein a minigame on the Xtransceiver.
+A Medal to celebrate the ultimate\xfffeachievement of reaching 1,000 points\xfffein a minigame on the Xtransceiver.
+A Medal commemorating the release\xfffeof the debut movie “Brycen-Man"\xfffein Pokéstar Studios.
+A Medal commemorating the release\xfffeof the full series of “Brycen-Man\xfffeStrikes Back" in Pokéstar Studios.
+A Medal commemorating the release\xfffeof the complete series of\xfffe“Full Metal Cop" in Pokéstar Studios.
+A Medal commemorating the release\xfffeof the full series of “Invaders"\xfffein Pokéstar Studios.
+A Medal commemorating the release\xfffeof the full series of “Big Monster"\xfffein Pokéstar Studios.
+A Medal commemorating the release\xfffeof the full series of “Timegate\xfffeTraveler" in Pokéstar Studios.
+A Medal commemorating the release\xfffeof the full series of “Love and Battles"\xfffein Pokéstar Studios.
+A Medal commemorating the release\xfffeof the full series of “Mystery Doors of\xfffethe Magical Land" in Pokéstar Studios.
+A Medal commemorating the release\xfffeof the full series of “The Giant Woman!"\xfffein Pokéstar Studios.
+A Medal commemorating the release\xfffeof the full series of “Red Fog of\xfffeTerror" in Pokéstar Studios.
+A Medal commemorating the release\xfffeof the full series of “Everlasting\xfffeMemories" in Pokéstar Studios.
+A Medal commemorating the release\xfffeof the full series of “Ghost Eraser"\xfffein Pokéstar Studios.
+A Medal commemorating the release\xfffeof “Brycen-Man Strikes Back Harder"\xfffein Pokéstar Studios.
+A Medal given to movie stars\xfffewho acted in all the movies\xfffein Pokéstar Studios.
+A Medal for talented movie stars\xfffewho acted in all movies with good endings\xfffein Pokéstar Studios.
+A Medal for popular movie stars\xfffewho reached box sales\xfffeof $100 billion.
+A Medal honoring geniuses who acted\xfffein a strange movie for the first time\xfffein Pokéstar Studios.
+A Medal for cult-classic movie stars\xfffewho acted in all movies with strange\xfffestories in Pokéstar Studios.
+A Medal commemorating participation\xfffein a midsized mission\xfffewith 10 or more people.
+A Medal commemorating participation\xfffein a large-sized mission\xfffewith 30 or more people.
+A Medal to prove participation\xfffein an exciting mission that had\xfffe100 or more points.
+A Medal to prove participation\xfffein a very exciting mission that had\xfffe1,000 or more points.
+A Medal to honor modestly\xfffeindependent people who hosted\xfffe10 Funfest Missions.
+A Medal to honor exceptionally\xfffeindependent people who hosted\xfffe50 Funfest Missions.
+A Medal for fledgling active people\xfffewho participated in a Funfest Mission\xfffefor the first time.
+A Medal for dazzlingly active people\xfffewho participated in 10 Funfest Missions.
+A Medal for people who have\xfffemodest executive ability and cleared\xfffe30 Funfest Missions.
+A Medal for people who have\xfffeastounding executive ability and cleared\xfffe100 Funfest Missions.
+A Medal for people who have\xfffepeerless executive ability and cleared\xfffeall the Funfest Missions.
+A Medal for those who tucked in their\xfffePokémon using Game Sync and let\xfffethem play in the Pokémon Dream World.
+A Medal for those who used Memory Link\xfffeand saw a link event for the first time.
+A Medal for those who used\xfffeMemory Link and\xfffesaw all the link events.
+A Medal to reward people who collected\xfffeall the Entertainment Medals.
+A Medal to honor the extraordinary skill\xfffeof those who won the Pokémon League\xfffewith only Normal-type Pokémon.
+A Medal to honor the blazing ambition\xfffeof those who won the Pokémon League\xfffewith only Fire-type Pokémon.
+A Medal to honor the flowing style\xfffeof those who won the Pokémon League\xfffewith only Water-type Pokémon.
+A Medal to honor the electrifying power\xfffeof those who won the Pokémon League\xfffewith only Electric-type Pokémon.
+A Medal to honor the flourishing talent\xfffeof those who won the Pokémon League\xfffewith only Grass-type Pokémon.
+A Medal to honor the coolness\xfffeof those who won the Pokémon League\xfffewith only Ice-type Pokémon.
+A Medal to honor the sheer power\xfffeof those who won the Pokémon League\xfffewith only Fighting-type Pokémon.
+A Medal to honor the intoxicating charm\xfffeof those who won the Pokémon League\xfffewith only Poison-type Pokémon.
+A Medal to honor the grounded nature\xfffeof those who won the Pokémon League\xfffewith only Ground-type Pokémon.
+A Medal to honor the soaring victory\xfffeof those who won the Pokémon League\xfffewith only Flying-type Pokémon.
+A Medal to honor the mental focus\xfffeof those who won the Pokémon League\xfffewith only Psychic-type Pokémon.
+A Medal to honor the enthusiasm\xfffeof those who won the Pokémon League\xfffewith only Bug-type Pokémon.
+A Medal to honor the solid performance\xfffeof those who won the Pokémon League\xfffewith only Rock-type Pokémon.
+A Medal to honor the spirited skills\xfffeof those who won the Pokémon League\xfffewith only Ghost-type Pokémon.
+A Medal to honor the dynamic nature\xfffeof those who won the Pokémon League\xfffewith only Dragon-type Pokémon.
+A Medal to honor the somber attitude\xfffeof those who won the Pokémon League\xfffewith only Dark-type Pokémon.
+A Medal to honor the iron hearts\xfffeof those who won the Pokémon League\xfffewith only Steel-type Pokémon.
+A Medal for the lonely champion\xfffewho won the Pokémon League\xfffewith only one Pokémon.
+A Medal to reward those who\xfffecollected all the Challenge Medals.

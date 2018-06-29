@@ -1,0 +1,76 @@
+Suit Actor
+Mysterious
+Angry Child: Arrggh! UFO!\xfffeGive me back my Pokémon!
+UFO: ...
+Grieving Woman: Stop!\xfffeDon't take my precious Pokémon!
+UFO: ...
+Annoyed Man: You stinking UFO!\xfffeWhat are you going to do\xf000븀\x0000\xfffewith my Pokémon?!
+UFO: ...
+Captured Man: Ouch!\xfffeHey! Let me go!\xf000븀\x0000\xfffeI'm not a Pokémon!
+UFO: ...
+Whimpering Man: I beg you! Please!\xfffeNot my dearest Pokémon!
+UFO: ...
+Shouting Woman: Enough is enough!\xfffeCan't somebody take care of this UFO!
+UFO: ...
+Elderly Man: Augh!\xfffeThat horrible UFO!
+UFO: ...
+Radio: Attention, attention! All points!\xfffeDo you copy, \xf000Ā\x0001\x0001?\xf000븀\x0000\xfffeReport on the situation status!
+\xf000Ā\x0001\x0001: Copy that!\xf000븁\x0000\xfffeThe UFO has appeared again!\xfffeThis time, it's attacking Pokémon\xf000븀\x0000\xfffewhile destroying the town!
+Radio: We copy.\xf000븁\x0000\xfffeFirst people, and now Pokémon...\xfffeWhat are they up to?
+\xf000Ā\x0001\x0001: Here's the plan of action.\xfffeI'm depending on E to lure in the\xf000븀\x0000\xfffemothership with her decoy UFO!
+Radio: We copy.\xfffeOne question, \xf000Ā\x0001\x0001...\xf000븁\x0000\xfffeThe person who identified herself as E...\xfffeCan we trust her?
+\xf000Ā\x0001\x0001: I...don't have an answer.\xf000븁\x0000\xfffeBut since our understanding of the UFO is so\xfffelimited, we have to go with what we've got.\xf000븁\x0000\xfffeE is certainly mysterious. I suspect...\xfffeBut we have to depend on her right now.
+Radio: C-copy that, \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeFor now, we'll just have to trust her and\xfffehope you both succeed!\xf000븁\x0000\xfffeWe are ready to commence the decoy plan.
+\xf000Ā\x0001\x0001: Ready and waiting!
+Fleeing Citizen: Quick, run!\xfffeYou'll be done if the UFO catches you!
+UFO: ...
+\xf000Ā\x0001\x0001: Ugh!\xfffeWhy hasn't E contacted me?
+Radio: ...I heard you.\xfffe\xf000Ā\x0001\x0001, is everything prepared?
+\xf000Ā\x0001\x0001: Is that you, E?\xfffeWhat's your situation?
+Radio: I'll be arriving with the\xfffedecoy UFO momentarily. But...\xf000븁\x0000\xfffeThere are more people around\xfffethan I bargained for.\xf000븀\x0000\xfffeNot as many ran away as I expected...\xf000븁\x0000\xfffeIf I meet you there and the mothership\xfffeappears, all those people will be in danger.
+\xf000Ā\x0001\x0001: Oh no!\xfffeIs there anything we can do?
+Radio: I think not.\xf000븁\x0000\xfffeFocus on the mission, not the people.\xf000븁\x0000\xfffeThe mission's success is what's important.\xfffeWe have to accept some collateral damage.
+\xf000Ā\x0001\x0001: Is that so...?
+Radio: ...\xf000븁\x0000\xfffeForget it. I don't expect you to understand\xfffethe importance of my mission...\xf000븁\x0000\xfffeI'm approaching your position. Get ready!
+\xf000Ā\x0001\x0001: Whatever...
+Radio: Try to understand this, at least.\xf000븁\x0000\xfffeYou can't snap your fingers and change the\xfffefundamental principles of the universe.\xf000븁\x0000\xfffeWhatever happens, happens...\xfffeaccording to the principles.
+\xf000Ā\x0001\x0001: NO!!
+Radio: So emotional.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeTch, tch. Do yell a bit louder!\xfffeThat will certainly change how the\xf000븀\x0000\xfffeuniverse works. Not...
+\xf000Ā\x0001\x0001: You're serious--
+Radio: I am completely serious.\xf000븁\x0000\xfffeI will do whatever I have to do.\xfffeNo more, no less.
+\xf000Ā\x0001\x0001: Yay!\xfffeThe UFO is retreating!
+UFO: ...
+Radio: \xf000Ā\x0001\x0001...\xfffeCan you hear me? It's me.
+\xf000Ā\x0001\x0001: E, it's you!\xfffeWe succeeded in protecting everyone\xf000븀\x0000\xfffefrom the UFO!\xf000븁\x0000\xfffeWhat's your situation?
+Radio: Good news, \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeJust as I planned, the mothership\xfffewill soon be landing.
+\xf000Ā\x0001\x0001: The moment we've been\xfffewaiting for...
+Radio: Ah ha ha ha...\xf000븁\x0000\xfffeWhen the mothership lands, the UFOs'\xfffepower will be amplified many times over.\xf000븁\x0000\xfffeIt will be much easier to exterminate\xfffethe remaining human beings, too...
+\xf000Ā\x0001\x0001: E.\xfffeWhat are you saying?!
+Radio: Don't you get it?\xfffePoor, silly human...\xf000븁\x0000\xfffeYou've been deceived.
+\xf000Ā\x0001\x0001: ...Human?\xf000븁\x0000\xfffeE...\xfffeWhat in the world are you?
+With the success of the decoy plan,\xfffethe landing of the mothership,\xf000븀\x0000\xfffeand E's revelation...\xf000븁\x0000\xfffeThe battle between humanity and the UFOs\xfffenow reaches the final act...\xf000븀\x0000\xfffeAnd the stakes are nothing less than\xf000븀\x0000\xfffethe future of humanity!
+\xf000Ā\x0001\x0001: Things have gone south.\xfffeMy Pokémon are exhausted.\xf000븁\x0000\xfffeIf this continues, you can forget about\xfffethe mission!
+Radio: \xf000Ā\x0001\x0001.\xfffeIt's me, E.
+\xf000Ā\x0001\x0001: E!
+Radio: \xf000Ā\x0001\x0001...\xfffeWhat's your situation like?
+\xf000Ā\x0001\x0001: It's bad!\xfffeIf things stay like this,\xf000븀\x0000\xfffeI'll be finished, too!\xf000븁\x0000\xfffeI'm sorry to have to ask, but will you\xfffecancel the mission and come and rescue me?
+Radio: ...\xfffeI'm sorry, but that's not possible.\xf000븁\x0000\xfffeI was detected by a UFO, and\xfffethe decoy UFO was attacked...\xf000븀\x0000\xfffeDon't think I...can hold on...much longer...
+\xf000Ā\x0001\x0001: Oh no!
+Radio: Sorry...\xf000븁\x0000\xfffeThe decoy plan was a failure...\xf000븁\x0000\xfffeYou must...\xf000븁\x0000\xfffeGet away...from there...quickly...\xf000븁\x0000\xfffe...
+The decoy UFO was destroyed,\xfffeand E's energy was completely depleted.\xf000븁\x0000\xfffeWith the failure of the decoy plan,\xfffehumanity lost its battle against the UFOs...\xf000븁\x0000\xfffeAnd the future of humanity reached its\xfffeultimate end...
+Radio: \xf000Ā\x0001\x0001...\xfffeIt's me, E.
+\xf000Ā\x0001\x0001: It's you, E...\xf000븁\x0000\xfffeS-sorry...\xfffeI...can't move...anymore...
+Radio: I understand.\xf000븁\x0000\xfffeThen...\xfffeI'll carry out the rest of my plan alone.\xf000븁\x0000\xfffeWe'll soon see the mothership in the sky...\xf000븁\x0000\xfffeBut, with only my power, we have no chance.\xfffeI'll get inside the decoy UFO, and when\xf000븀\x0000\xfffethe mothership takes it on board,\xf000븀\x0000\xfffeI'll blow up the decoy UFO and destroy\xf000븀\x0000\xfffethe mothership from the inside...
+\xf000Ā\x0001\x0001: You're crazy!\xfffeIt will never work!
+Radio: I know.\xfffeBut it's our only hope.
+\xf000Ā\x0001\x0001: But, E, how will you get away?
+Radio: If I put the decoy UFO on autopilot,\xfffeit will be shot down easily by convoy UFOs.\xf000븁\x0000\xfffeI must stay in control of the decoy UFO\xfffeand take it into the mothership myself.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeFarewell, \xf000Ā\x0001\x0001.
+\xf000Ā\x0001\x0001: No! E...
+And so, E took over \xf000Ā\x0001\x0001's mission\xfffeand piloted the decoy UFO into the heart\xf000븀\x0000\xfffeof the mothership.\xf000븁\x0000\xfffeThe explosion--too distant to be heard...\xf000븁\x0000\xfffeDebris from the mothership tumbled\xfffeto the ground.\xf000븀\x0000\xfffe...And all the UFOs vanished from the sky.\xf000븁\x0000\xfffeWith humanity's battle won, people rejoiced.\xf000븁\x0000\xfffeBut... Forever absent from the celebration\xfffewas the mysterious woman...known as E.
+Child: Waaaaugh!\xfffeMy Pokémon!
+\xf000Ā\x0001\x0001: Oh no...\xfffeI didn't know it was a citizen's Pokémon\xf000븀\x0000\xfffecaptured by the UFO...
+Child: What have you done!\xfffeYou're from the UFO, aren't you?\xf000븀\x0000\xfffeHorrible alien!
+\xf000Ā\x0001\x0001: No! No!\xfffeI didn't mean to!
+UFO: ...!!
+\xf000Ā\x0001\x0001: Argh!
+A simple mistake by \xf000Ā\x0001\x0001 that\xfffehurt a citizen's Pokémon...\xf000븁\x0000\xfffeIn her shock and dismay,\xfffeshe was vulnerable.\xf000븀\x0000\xfffeThe UFOs did not hesitate to strike!\xf000븁\x0000\xfffeWith \xf000Ā\x0001\x0001 defeated,\xfffethe decoy plan failed...\xf000븁\x0000\xfffeHumanity lost its battle against the UFOs...\xf000븁\x0000\xfffeAnd the future of humanity reached its\xfffeultimate end...

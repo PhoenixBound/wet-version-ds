@@ -1,0 +1,103 @@
+Star Actor
+Treasure
+Client: Go for it, \xf000Ă\x0001\x0000!
+Client: Go for it, \xf000Ă\x0001\x0000!\xfffeJust a little more!
+Client: There! Now!\xfffe\xf000Ă\x0001\x0000, end this!
+Client: Listen, this statue is a great\xfffediscovery that may unlock the\xf000븀\x0000\xfffemysteries of an ancient civilization.\xf000븁\x0000\xfffeWe need you to remove whatever it is\xfffethat is possessing this statue.\xf000븁\x0000\xfffeBut be careful!\xf000븁\x0000\xfffeIt's a talkative spirit, and if it doesn't\xfffelike your answers...\xf000븁\x0000\xfffeIt will do its best to make you suffer.
+Young Assistant: I upset it, and it\xfffepummeled me like a punching bag. Ouch!\xf000븀\x0000\xfffePlease be careful!
+Old Assistant: Uh-huh.\xfffeI put it on its guard, so then I couldn't\xf000븀\x0000\xfffeeven get close enough to attack.\xf000븁\x0000\xfffeDo be careful.
+\xf000Ă\x0001\x0000: Got it.\xfffeI also got quite a substantial fee,\xf000븀\x0000\xfffeso let me get to it.
+Voice: Who dares to disturb my sleep?\xfffeYou! Why are you here?
+\xf000Ă\x0001\x0000: ...\xf000븁\x0000\xfffe(...Uh, um, what should I say?...)
+\xf000Ă\x0001\x0000: Begone from the statue!
+Voice: I see what you are now. Enemy...
+\xf000Ă\x0001\x0000: Um, I just want to talk!
+Voice: Talk?\xfffeWe are talking already.
+Voice: Who are you?\xfffeWhat do you mean by disturbing me?
+\xf000Ă\x0001\x0000: ...\xf000븁\x0000\xfffe(...I better be careful here...)
+\xf000Ă\x0001\x0000: I'm a Ghost Eraser!
+Voice: You're a Ghost Eraser. To erase me?\xfffeEven though I have no body, I have a life...\xf000븁\x0000\xfffeTo erase a life...\xfffeNot a thing to say lightly.
+\xf000Ă\x0001\x0000: I'll mourn your passing.
+Voice: I see.
+\xf000Ă\x0001\x0000: I'm \xf000Ă\x0001\x0000!
+Voice: I see.
+\xf000Ă\x0001\x0000: Who do I look like?
+Voice: Answering a question with\xfffeanother question is rude.
+Voice: Disturbance, answer the question.\xfffeWhat...do...you...want?
+\xf000Ă\x0001\x0000: ...\xf000븁\x0000\xfffe(...I'll take a risk here...)
+\xf000Ă\x0001\x0000: Money!
+Voice: Mwa ha ha ha...\xfffeA greedy fool!\xf000븁\x0000\xfffeI'll pummel you with rage and finesse!
+\xf000Ă\x0001\x0000: Love!
+Voice: Mwa ha ha ha...\xfffeA needy and pitiful person!\xf000븁\x0000\xfffeI'll thoughtfully pummel you\xfffefor your own good.
+\xf000Ă\x0001\x0000: Power!
+Voice: Mwa ha ha ha...\xfffeA lowly coward!\xf000븁\x0000\xfffeI'll pummel you and pity you equally!
+\xf000Ă\x0001\x0000: I don't need anything!
+Voice: I see.\xfffeInteresting...
+Voice: Disturbance, answer my question.\xfffeWhat is important to you?
+\xf000Ă\x0001\x0000: ...\xf000븁\x0000\xfffe(...I gotta be careful here...)
+\xf000Ă\x0001\x0000: Myself, of course!
+Voice: You cherish yourself most... Heughh.\xf000븁\x0000\xfffeI'll pummel your ego down to size.
+\xf000Ă\x0001\x0000: \xf000Ă\x0001\x0000!
+Voice: I see.\xfffeInteresting...
+Voice: Well...\xfffeDo you finally understand who I am?
+\xf000Ă\x0001\x0000: No, I don't.\xfffeWho are you?
+Voice: Alas, I don't know the answer myself.\xf000븁\x0000\xfffeMemory tells me that I am a strong and\xfffepowerful being.\xf000븁\x0000\xfffeOne thing more I know. Only during a battle\xfffewill my past memories come back.
+\xf000Ă\x0001\x0000: Did your memories come back?
+Voice: Completely!\xfffeIt was a long, long time ago...\xf000븁\x0000\xfffeArkham talked me into challenging\xfffethis old statue, just as you're doing now.\xf000븁\x0000\xfffeDuring the battle, I was drawn\xfffeinto the statue. This statue absorbs\xf000븀\x0000\xfffethe strong and powerful.\xf000븁\x0000\xfffeSince that day, I've become\xfffethe protector of this statue...
+\xf000Ă\x0001\x0000: Arkham?\xfffePlease tell me about him!
+Voice: Do you want to know about him?\xfffeOnly the strong have the right to answers!\xf000븁\x0000\xfffeEnough! Let us continue our battle!
+Voice: Disturber, answer my question.\xfffeYou must guess who I am.
+\xf000Ă\x0001\x0000: It's so obvious!
+\xf000Ă\x0001\x0000: Evil spirit!
+Voice: Is that what I look like to you?\xfffeHm. Even I don't know who I am.\xf000븁\x0000\xfffeBut the end is near...\xfffeOne last punch will finish you off!
+\xf000Ă\x0001\x0000: The Majin of Mayhem!
+Voice: The Majin... Is that what I look like?\xfffeHm. Even I don't know who I am.\xf000븁\x0000\xfffeBut the end is near...\xfffeOne last punch will finish you off!
+\xf000Ă\x0001\x0000: I don't know!
+Voice: I see.\xfffeExactly...\xf000븁\x0000\xfffeEven I don't know who I am.\xf000븁\x0000\xfffeMy memories have faded away,\xfffeyet here I remain.
+\xf000Ă\x0001\x0000: A human!
+Voice: Wh-what are you talking about?\xfffeYou think I'm a human!\xf000븁\x0000\xfffeArgh! Enough!\xfffeOne last punch will finish you off!
+\xf000Ă\x0001\x0000: Ooogh... Aaagh...\xfffe(...I'm no match for it...)
+Voice: I've used up too much power.\xfffeBut I can't afford to disappear.\xf000븁\x0000\xfffeTherefore, weakling, I shall absorb\xfffeyour life energy.\xf000븁\x0000\xfffe...
+\xf000Ă\x0001\x0000: Stop it!\xfffeI feel weak...\xf000븁\x0000\xfffeS-stop...\xfffeShhhhhrrrssssssssssshhhh!
+Voice: This is your fate...\xfffeIt's all for the sake of this world...\xf000븁\x0000\xfffeI'll fall asleep again.\xf000븁\x0000\xfffe...
+\xf000Ă\x0001\x0000: ...
+Addendum to\xfffe“Ghost Eraser Case Files: File No. 003":\xf000븁\x0000\xfffeAfter this case report was received,\xfffewe lost contact with \xf000Ă\x0001\x0000.\xf000븁\x0000\xfffeHer whereabouts remain unknown.
+\xf000Ă\x0001\x0000: The statue is acting weird...
+Voice: Well done.\xf000븁\x0000\xfffeI've been waiting for a strong person\xfffelike you...
+\xf000Ă\x0001\x0000: You've been waiting?
+Voice: For many thousands of years after\xfffethe creation of this statue, one human\xf000븀\x0000\xfffeafter another challenged the statue to\xf000븀\x0000\xfffecombat for the sake of the glowing gem.\xf000븁\x0000\xfffeThe weak were defeated, and the statue\xfffedevoured their life energy.\xf000븁\x0000\xfffeThey vanished, never to be seen again.\xf000븁\x0000\xfffeThe strong were recognized as worthy\xfffeand drawn into the statue to become\xf000븀\x0000\xfffeits new guardian.
+\xf000Ă\x0001\x0000: Its guardian?
+Voice: Yes. You defeated me.\xf000븁\x0000\xfffeThat means the statue affirmed you\xfffeas its new guardian.\xf000븁\x0000\xfffeAccept your destiny.\xfffeCome to me! Now!
+\xf000Ă\x0001\x0000: No. I refuse\xfffeto be pent up in that confined place.\xf000븁\x0000\xfffe...Oh no. I'm losing my strength...\xfffeI'm being drawn in...\xf000븁\x0000\xfffeShhhhhrrrssssssssssshhhh!
+Voice: When you next wake,\xfffeyour memories will have vanished.\xf000븁\x0000\xfffeYou'll have taken my place as the\xfffeguardian inside the statue.\xf000븁\x0000\xfffeWhen your time as the guardian ends,\xfffeyour existence will also end...
+\xf000Ă\x0001\x0000: ...
+Addendum to\xfffe“Ghost Eraser Case Files: File No. 003":\xf000븁\x0000\xfffeAfter we received File No. 003,\xfffewe lost contact with \xf000Ă\x0001\x0000.\xf000븀\x0000\xfffe\xf000Ă\x0001\x0000...is missing.
+\xf000Ă\x0001\x0000: ...
+Voice: Disturber, your frown troubles me.\xfffeExplain yourself!
+\xf000Ă\x0001\x0000: Oh, give it up.\xfffeYour lies are obvious to me.\xf000븀\x0000\xfffeGet out of there right now.
+Voice: ...\xfffeWhat are you saying? Don't be ridiculous.\xf000븀\x0000\xfffeI'll make you disappear with my power!
+\xf000Ă\x0001\x0000: Oh, knock it off.\xf000븁\x0000\xfffeOr...don't you know enough to take\xfffethe Ghost Erasers seriously?
+Voice: ...\xfffeI-I must apologize.\xf000븀\x0000\xfffePlease forgive me!
+\xf000Ă\x0001\x0000: Well, well...\xfffeIt's past time to stop your silly playacting.
+Voice: I do apologize!\xfffeAs you suspected, I'm just a human.\xf000븁\x0000\xfffeThe whole story about the ancient statue\xfffeis completely made up.\xf000븁\x0000\xfffeAnd so is the statue's curse.\xf000븁\x0000\xfffeIt was all a sham--a ploy to get money.
+\xf000Ă\x0001\x0000: That was a whole heap of lying.\xfffeWhat made you do it?
+Voice: It was your client! Over there! Him!\xf000븁\x0000\xfffeHe promised me a substantial fee...\xfffeHow could I resist?
+Client: You fool!\xf000븁\x0000\xfffeIf we'd tricked a Ghost Eraser, an expert\xfffein getting rid of evil spirits, the value of\xf000븀\x0000\xfffethe cursed statue would have skyrocketed!\xf000븁\x0000\xfffeI could've unloaded it on some unsuspecting\xfffecollector for a boatload of dough!
+\xf000Ă\x0001\x0000: I see.\xf000븁\x0000\xfffeThen, let's head over to our office,\xfffewhere we can go over the details\xf000븀\x0000\xfffeof your story, slowly--and carefully...
+Client: Gulp...
+Addendum to\xfffe“Ghost Eraser Case Files: File No. 003":\xf000븁\x0000\xfffeThe cursed statue was the work of liars\xfffein search of easy cash.\xf000븁\x0000\xfffeThere have been many false reports of late.\xfffePlease be aware.
+Voice: Well done!\xfffeCongratulations on showing such strength!\xf000븁\x0000\xfffeYou have removed my protection on\xfffethe statue's secret power!\xf000븁\x0000\xfffeThis great power is now yours. With it,\xfffeyou can make your wish come true.
+\xf000Ă\x0001\x0000: I feel enormous power\xffferadiating from the statue's gem.\xf000븁\x0000\xfffeWhat's going on?!
+Client: Mwa ha ha!\xfffeThat's an energy crystal!\xf000븁\x0000\xfffeIt's a chunk of energy said to have been\xfffestolen from the Majin of Mayhem long ago.\xf000븁\x0000\xfffeThe guardian protected the statue to\xfffeprevent anyone from gaining the power\xf000븀\x0000\xfffeof the Majin.\xf000븁\x0000\xfffeWhat a battle-scarred veteran that\xfffeguardian was. So strong!\xf000븁\x0000\xfffeI was really no match for him.
+\xf000Ă\x0001\x0000: The Majin of Mayhem?\xfffeThe power was sealed inside the crystal?
+Client: Of course!\xf000븁\x0000\xfffeOnce the guardian is defeated and the seal\xfffeis broken, the energy returns to the Majin.\xf000븁\x0000\xfffeThe Majin regains that power and reawakens!\xf000븁\x0000\xfffeWell? Pretty cool, eh?\xfffeGets you pretty excited, eh?\xf000븁\x0000\xfffeMwa ha hardy har ha!
+\xf000Ă\x0001\x0000: That voice... You sound like...
+Client: Aw, how depressing. Did it really\xfffetake you this long to recognize who I am?\xf000븁\x0000\xfffeYou're so forgetful.\xfffeI'll tell you one more time!\xf000븁\x0000\xfffeMy name is--Arkham!\xfffeI'm the genius magician!\xf000븀\x0000\xfffeMy goal is to revive the Majin of Mayhem!
+\xf000Ă\x0001\x0000: Arkham...
+Arkham: A-a-and, thanks to you, voilà!\xfffeThe seal of the Majin has been shattered!\xf000븁\x0000\xfffeNow! Look at the gem!
+\xf000Ă\x0001\x0000: Oh no...\xfffeThe gem is melting...
+Arkham: Back it goes!\xfffeBack to its original owner!
+\xf000Ă\x0001\x0000: I've made a horrible mistake...
+Arkham: Mwa ha hardy har ha!\xf000븁\x0000\xfffe...
+\xf000Ă\x0001\x0000: Arkham! Wait!
+Addendum to\xfffe“Ghost Eraser Case Files: File No. 003":\xf000븁\x0000\xfffeArkham's plot succeeded in shattering\xfffethe seal protecting the energy crystal.\xf000븁\x0000\xfffeThe Majin of Mayhem could now reawaken.\xfffeMy immediate goal is to locate Arkham.\xf000븁\x0000\xfffe--Code name: \xf000Ă\x0001\x0000

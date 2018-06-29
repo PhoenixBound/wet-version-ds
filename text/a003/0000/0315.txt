@@ -1,0 +1,51 @@
+\xf000Ā\x0001\x0001: Oh! Nice!\xfffeYou've come here to toughen up!\xf000븁\x0000\xfffeAll right! Let's see how much\xfffestronger you've become! Come at me!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Not bad...\xf000븁\x0000\xfffeYou're thinking about how to bring out\xfffeyour Pokémon's strength.\xf000븁\x0000\xfffeI should be able to count\xfffeon you for backup!\xf000븁\x0000\xfffeWhat are you doing here anyway?\xf000븁\x0000\xfffeHuh?\xfffeA Town Map?\xf000븁\x0000
+\xf000Ā\x0001\x0000 handed over\xfffethe Town Map!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Tch...\xfffeShe didn't have to do that...\xf000븁\x0000\xfffeThanks to you, too. We just left,\xfffeand you've already helped me out.\xf000븁\x0000
+???: I thought it was lively around here!\xfffeYou were having a Pokémon battle, huh?\xf000븀\x0000\xfffeIsn't it nice to be young!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Who are you?\xf000븁\x0000
+???: Who am I?\xf000븁\x0000\xfffeI'm the owner of this ranch!\xfffeAnd this is my wife!\xf000븁\x0000
+Wife: After a Pokémon battle, you\xfffeshould heal your Pokémon's HP, right?\xf000븀\x0000\xfffeHere, I'll give you this!\xf000븁\x0000
+And one for you!\xf000븁\x0000
+It's nice to have Potions when\xfffeyou're far away from a Pokémon Center.\xf000븁\x0000
+Owner: By the way, you didn't happen\xfffeto see a Herdier around here, did you?\xf000븁\x0000\xfffeI can't figure out where it went.\xf000븁\x0000\xfffeOur two Herdier are always together\xfffeand this is the first time one has\xf000븀\x0000\xfffewandered off, so I'm a little worried...\xf000븁\x0000
+\xf000Ā\x0001\x0001: You're a little worried?\xfffeAre you KIDDING me?!\xf000븁\x0000\xfffeYour Pokémon might be lost forever!\xf000븁\x0000\xfffeWhatever! I'll look!\xfffe\xf000Ā\x0001\x0000! Help out!\xf000븁\x0000
+Owner: Why did he get so mad?\xf000븁\x0000\xfffeI think it's probably just\xfffeplaying somewhere in the ranch.\xf000븁\x0000
+Wife: I wonder...\xf000븁\x0000\xfffeBy the way, dear, if your Pokémon\xfffeget hurt, let me know.\xf000븀\x0000\xfffeI'll make them feel better for you!
+Herdier, where did you go?
+\xf000Ā\x0001\x0001: Did Herdier...\xfffewander somewhere back here?\xf000븁\x0000\xfffeLet's have a look!\xf000븁\x0000
+Wow, this ranch is really big!
+Why haven't we found it yet?\xfffeI'm worried about Herdier...
+Oh! Here! I'll share something\xfffegood with you!\xf000븁\x0000
+If your Pokémon is paralyzed,\xfffeuse one of these on it!\xf000븁\x0000
+Still, Pokémon don't just wander\xfffeoff on their own.\xf000븁\x0000\xfffeIn a worst-case scenario,\xfffeit might be involved in some trouble!
+Yawrp!
+Did you hear that just now?\xf000븁\x0000
+I'll check this area!\xf000븁\x0000\xfffeYou go deeper in the grove\xfffeand look!\xf000븁\x0000
+Look deeper in the grove!
+Herdier: Yaarrrp...
+\xf000Ā\x0001\x0001: That cry!\xfffeYou found it!\xf000븁\x0000\xfffeWhat a relief!\xf000븁\x0000\xfffeOK, I'll go call its Trainer,\xfffeso you stay here with it!\xf000븁\x0000
+???: Tch...\xfffeYou little pest!\xf000븁\x0000\xfffeI'm a member of a group that strikes\xfffefear into the hearts of those who\xf000븀\x0000\xfffestand before it: Team Plasma!\xf000븁\x0000\xfffeEver heard of it?
+That's right! We're the righteous group\xfffethat tried to conquer Unova two years\xf000븀\x0000\xfffeback in order to liberate Pokémon!\xf000븁\x0000
+Really? We're the righteous group\xfffethat tried to conquer Unova two years\xf000븀\x0000\xfffeback in order to liberate Pokémon!\xf000븁\x0000
+Whatever...\xf000븁\x0000\xfffeFools will never understand us...\xf000븁\x0000\xfffeStill...\xf000븁\x0000\xfffeFirst I got lost chasing Herdier...\xfffeand now some nosy kid caught me!\xf000븁\x0000\xfffeAll of this is your fault!\xfffeTake this!\xf000븁\x0000
+OK! I'll use this opportunity\xfffeto retreat for now!\xf000븁\x0000
+Yap! Bwoof!
+Owner: Herdier!\xf000븁\x0000\xfffeWhat made you come all\xfffethe way back here?\xf000븁\x0000\xfffeWell, at any rate, I'm really grateful\xfffefor your help, you two!\xf000븁\x0000
+\xf000Ā\x0001\x0001: You're awfully calm\xfffeabout this!\xf000븁\x0000\xfffeYour Pokémon might have\xfffebeen gone for good!\xf000븁\x0000\xfffeTake better care of it!\xf000븁\x0000
+Owner: Hmm...\xfffeI wonder if something happened to him...\xf000븁\x0000\xfffeIt's like he's afraid of\xfffelosing Pokémon...\xf000븁\x0000\xfffeCome on, Herdier!\xfffeEveryone's waiting! Let's go home!\xf000븁\x0000
+Owner: Thanks! It's all thanks\xfffeto you and your Pokémon!\xf000븁\x0000\xfffeYou're really great! Hey, is that it?\xfffeDid Alder train you?
+This ranch started when a fence\xfffewas made to protect Pokémon!
+Owner: It is strange for Herdier\xfffeto wander off on its own.\xf000븁\x0000\xfffeIt always plays with the other\xfffeone or works on the ranch...
+Yup! You and your Pokémon\xfffeare full of energy!
+You and your Pokémon\xfffelook a little worn out...\xf000븁\x0000\xfffeRest here a minute--you won't\xfffeget anywhere all tired like that!\xf000븁\x0000
+You and your Pokémon\xfffefound Herdier! Great!
+Herdier: Bawoo...
+Bawoof! Ba woof!
+Ba woof! Bawoof!
+Baaah!
+Baa!
+Baawn!
+Baa baa!
+Baa haa!
+Ba baaa!

@@ -1,0 +1,69 @@
+You don't have enough money.\xf000븁\x0000
+You don't have enough money.\xf000븁\x0000
+\xf000ĉ\x0001\x0000? Certainly.\xfffeHow many would you like?
+\xf000ĉ\x0001\x0000? Certainly.\xfffeHow many would you like?
+\xf000ĉ\x0001\x0000, and you want\xfffe\xf000ȁ\x0001\x0001. That will be $\xf000Ȇ\x0001\x0002, OK?
+\xf000ĉ\x0001\x0000, and you want\xfffe\xf000ȁ\x0001\x0001.\xf000븀\x0000\xfffeThat will be $\xf000Ȇ\x0001\x0002. Is that OK?
+\xf000ĉ\x0001\x0000 will cost $\xf000Ȇ\x0001\x0002. OK?
+\xf000ĉ\x0001\x0000 will cost\xfffe$\xf000Ȇ\x0001\x0002. Is that OK?
+Here you are!\xfffeThank you!\xf000븅\x0001\x0001\xf000븁\x0000\xfffeYou put away the \xf000ĉ\x0001\x0000\xfffein the \xf000Ē\x0001\x0001 Case.\xf000븁\x0000
+Here you are!\xfffeThank you very much!\xf000븅\x0001\x0001\xf000븁\x0000\xfffeYou put away the \xf000ĉ\x0001\x0000\xfffein the \xf000Ē\x0001\x0001 Case.\xf000븁\x0000
+You can't take any more of this item.\xf000븁\x0000
+You can't take any more of this item.\xf000븁\x0000
+Cancel
+$\xf000Ȅ\x0001\x0001
+---
+Thank you very much.\xfffeI'll take your payment later.\xf000븁\x0000
+Thank you very much.\xfffeI'll take your payment later.\xf000븁\x0000
+It's sold out.\xfffePlease come back tomorrow.\xf000븁\x0000
+It's sold out.\xfffePlease come back tomorrow.\xf000븁\x0000
+\xf000ĉ\x0001\x0000 will cost\xfffe$\xf000Ȇ\x0001\x0002. Is that OK?
+\xf000ĉ\x0001\x0000 will cost\xfffe$\xf000Ȇ\x0001\x0002. Is that OK?
+It's sold out.\xfffePlease come back tomorrow.\xf000븁\x0000
+It's sold out.\xfffePlease come back tomorrow.\xf000븁\x0000
+      
+      
+         
+Money
+$\xf000Ȇ\x0001\x0000
+\xf000ȃ\x0001\x0000 BP
+In Bag: \xf000Ȃ\x0001\x0000
+x \xf000ȁ\x0001\x0000
+$\xf000Ȇ\x0001\x0000
+\xf000ȅ\x0001\x0000 BP
+    
+    
+\xf000Ȁ\x0001\x0001. \xf000Ā\x0001\x0000
+\xf000Ȁ\x0001\x0001. \xf000ĸ\x0001\x0000
+Assistant No. \xf000ȁ\x0001\x0001\xfffeLeave registration to me!\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+Assistant No. \xf000ȁ\x0001\x0001\xfffeAsk me about shops!\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+Assistant No. \xf000ȁ\x0001\x0001\xfffeLet me organize everything!\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+Assistant No. \xf000ȁ\x0001\x0001\xfffeLeave Pokémon healing to me!\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+Assistant No. \xf000ȁ\x0001\x0001\xfffeLeave moving to me!\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+\xf000Ł\x0001\x0001 Rank \xf000ȁ\x0001\x0002\xfffeFun, exciting, lucky raffles!\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+\xf000Ł\x0001\x0001 Rank \xf000ȁ\x0001\x0002\xfffeI make your Pokémon more beautiful.\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+\xf000Ł\x0001\x0001 Rank \xf000ȁ\x0001\x0002\xfffeI sell good stuff for less.\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+\xf000Ł\x0001\x0001 Rank \xf000ȁ\x0001\x0002\xfffeI sell delicious Berries.\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+\xf000Ł\x0001\x0001 Rank \xf000ȁ\x0001\x0002\xfffeI make your Pokémon stronger.\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+\xf000Ł\x0001\x0001 Rank \xf000ȁ\x0001\x0002\xfffeI help your Eggs hatch.\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+\xf000Ł\x0001\x0001 Rank \xf000ȁ\x0001\x0002\xfffeI sell rare treasures.\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+\xf000Ł\x0001\x0001 Rank \xf000ȁ\x0001\x0002\xfffeI satisfy your Pokémon's appetite.\xfffeYou met on \xf000ȁ\x0001\x0005/\xf000ȁ\x0001\x0006/20\xf000ȁ\x0001\x0004.
+You chose \xf000Ā\x0001\x0000.\xfffeIs it OK to let this assistant go?
+\xf000Ā\x0001\x0000 left the avenue.\xf000븁\x0000
+\xf000Ā\x0001\x0000, correct?\xfffeIs it OK to add this assistant?
+\xf000Ā\x0001\x0000 has been added.\xf000븁\x0000
+Will you recommend\xfffe\xf000ĸ\x0001\x0000?
+You recommended\xfffe\xf000ĸ\x0001\x0000.\xf000븁\x0000
+Is it OK to rebuild\xfffe\xf000ĸ\x0001\x0000?
+\xf000Ā\x0001\x0002 will leave the avenue.\xf000븁\x0000
+Choose shops to change the order.\xf000븁\x0000
+Is it OK to change the order of\xfffe\xf000Ā\x0001\x0000\xf000븀\x0000\xfffeand \xf000Ā\x0001\x0001?
+The order is ready to be changed!\xf000븁\x0000
+Now, I'll appraise the \xf000ĉ\x0001\x0000.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeHmm. Oh!\xf000븁\x0000
+Now, let me appraise the \xf000ĉ\x0001\x0000.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOh my!\xf000븁\x0000
+Oh! \xf000ĉ\x0001\x0000!\xfffeThat's what was\xf000븀\x0000\xfffeinside the \xf000ĉ\x0001\x0002!\xf000븁\x0000\xfffeThank you very much.\xf000븅\x0001\x0001\xf000븁\x0000\xfffeYou put the \xf000ĉ\x0001\x0000\xfffein the \xf000Ē\x0001\x0001 Case.\xf000븁\x0000
+Oh! \xf000ĉ\x0001\x0000!\xfffeThat's what was\xf000븀\x0000\xfffeinside the \xf000ĉ\x0001\x0002.\xf000븁\x0000\xfffeThank you very much.\xf000븅\x0001\x0001\xf000븁\x0000\xfffeYou put away the \xf000ĉ\x0001\x0000\xfffein the \xf000Ē\x0001\x0001 Case.\xf000븁\x0000
+Oh! \xf000ĉ\x0001\x0000!\xfffeThat's what was inside the \xf000ĉ\x0001\x0002!\xf000븁\x0000\xfffeBut I'm afraid you can't carry\xfffeany more of these.\xf000븁\x0000
+Oh! \xf000ĉ\x0001\x0000!\xfffeThat's what was inside the \xf000ĉ\x0001\x0002!\xf000븁\x0000\xfffeBut I'm afraid you can't carry\xfffeany more of these.\xf000븁\x0000
+Please choose the assistants\xfffewho will change roles.\xf000븁\x0000
+Assistants are ready to change roles.\xf000븁\x0000

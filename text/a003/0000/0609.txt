@@ -1,0 +1,2200 @@
+    
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDo you remember our\xfffeRandom Matchup battle?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDo you remember when we traded\xfffePokémon through GTS Negotiations?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeThanks for that time\xfffein the Union Room.\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDo you remember when we played\xfffevia Infrared Communication?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDo you remember when\xfffewe met in the Entralink?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeHow has \xf000Č\x0001\x0001 been doing since\xfffeI traded it to you over the GTS?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know \xf000ā\x0001\x0001 left a footprint\xfffeat your home in the Pokémon Dream World?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffea few times?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffea few times?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffeseveral times?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffeseveral times?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffequite often?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffequite often?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffemany times?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know that I hosted\xfffean Entralink Funfest Mission?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001! I'm a big fan!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeIs this a new avenue?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffea few times?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeI'm surprised to find a new avenue!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDo you remember our\xfffeRandom Matchup battle?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDo you remember when we traded\xfffePokémon through GTS Negotiations?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeThanks for that time\xfffein the Union Room.\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDo you remember when we played\xfffevia Infrared Communication?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDo you remember when\xfffewe met in the Entralink?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeHow has \xf000Č\x0001\x0001 been doing since\xfffeI traded it to you over the GTS?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know \xf000ā\x0001\x0001 left a footprint\xfffeat your home in the Pokémon Dream World?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffea few times?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffea few times?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffeseveral times?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffeseveral times?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffequite often?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffequite often?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffemany times?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know that I hosted\xfffean Entralink Funfest Mission?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001! I'm a big fan!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeIs this a new avenue?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeDid you know we've passed by each other\xfffea few times?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffeI'm surprised to find a new avenue!\xf000븁\x0000
+I came to \xf000Ĺ\x0001\x0000\xfffebecause I got curious about the avenue.\xf000븁\x0000
+I got curious about \xf000Ĺ\x0001\x0000\xfffeand came from\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0002\xf000븀\x0000\xfffein \xf000Ĥ\x0001\x0001.\xf000븁\x0000
+I got curious about \xf000Ĺ\x0001\x0000\xfffeand came from\xf000븀\x0000\xfffe\xf000Ĥ\x0001\x0001.\xf000븁\x0000
+I came to \xf000Ĺ\x0001\x0000\xfffebecause I got curious about the avenue.\xf000븁\x0000
+I got curious about \xf000Ĺ\x0001\x0000\xfffeand came from\xf000븀\x0000\xfffe\xf000ĥ\x0001\x0002\xf000븀\x0000\xfffein \xf000Ĥ\x0001\x0001.\xf000븁\x0000
+I got curious about \xf000Ĺ\x0001\x0000\xfffeand came from\xf000븀\x0000\xfffe\xf000Ĥ\x0001\x0001.\xf000븁\x0000
+\xf000Ā\x0001\x0000: Thank you!\xfffe\xf000ķ\x0001\x0001\xf000븁\x0000
+\xf000Ā\x0001\x0000: Thank you!\xfffe\xf000ķ\x0001\x0001\xf000븁\x0000
+\xf000ķ\x0001\x0001
+\xf000ķ\x0001\x0001
+This is a souvenir.\xf000븁\x0000
+This is a souvenir.\xf000븁\x0000
+\xf000ķ\x0001\x0000\xf000븁\x0000\xfffeI'll do my best\xfffefor such a wonderful avenue.\xf000븁\x0000
+\xf000Ā\x0001\x0000: Thank you!\xfffe\xf000ķ\x0001\x0001\xf000븁\x0000
+I'll think about it when this avenue\xfffebecomes more interesting.\xf000븁\x0000
+Hmm...\xfffeSorry, I'm not interested.\xf000븁\x0000
+\xf000ķ\x0001\x0000\xf000븁\x0000\xfffeI'll do my best\xfffefor such a wonderful avenue.\xf000븁\x0000
+\xf000Ā\x0001\x0000: Thank you!\xfffe\xf000ķ\x0001\x0001\xf000븁\x0000
+I'll think about it when this avenue\xfffebecomes more interesting.\xf000븁\x0000
+Hmm...\xfffeSorry, I'm not interested.\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0001.\xfffeI'm your fan.\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0001.\xfffeI'm your fan.\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xfffeIs this a new avenue?\xf000븁\x0000\xfffeIt doesn't look like anyone\xfffehas built a shop here yet.\xf000븁\x0000\xfffeMaybe I can make my dream\xfffecome true here...\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xfffeIs this a new avenue?\xf000븁\x0000\xfffeI wonder if it has any great shops...\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xfffe\xf000ĺ\x0001\x0001!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xfffe\xf000ĺ\x0001\x0001!\xf000븁\x0000
+\xf000Ā\x0001\x0001: \xf000ķ\x0001\x0002\xfffe\xf000ĺ\x0001\x0000!
+\xf000Ā\x0001\x0001: \xf000ķ\x0001\x0002\xfffe\xf000ĺ\x0001\x0000!
+Next time, I want to open a nice\xfffe\xf000Ł\x0001\x0000.\xf000븁\x0000\xfffeIs it OK to change my shop?
+Next time, I want to open a nice\xfffe\xf000Ł\x0001\x0000.\xf000븁\x0000\xfffeIs it OK to change my shop?
+You really won't let me change my shop?
+You really won't let me change my shop?
+Yay!\xfffeI'll do my best.\xf000븁\x0000\xfffe\xf000ķ\x0001\x0000\xfffe\xf000ķ\x0001\x0001\xf000븁\x0000
+Yay!\xfffeI'll do my best.\xf000븁\x0000\xfffe\xf000ķ\x0001\x0000\xfffe\xf000ķ\x0001\x0001\xf000븁\x0000
+All right.\xfffeI'll keep doing my best as is.\xf000븁\x0000
+All right.\xfffeI'll keep doing my best as is.\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeI'm off!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeI'm off!\xf000븁\x0000
+There's a big promotion at\xfffe\xf000Ĺ\x0001\x0000 right now.\xf000븁\x0000\xfffeIt lasts this many more days: \xf000ȁ\x0001\x0001.\xfffeDon't miss it!\xf000븁\x0000
+There's a big promotion at\xfffe\xf000Ĺ\x0001\x0000 right now.\xf000븁\x0000\xfffeIt lasts this many more days: \xf000ȁ\x0001\x0001.\xfffeDon't miss it!\xf000븁\x0000
+\xf000ĸ\x0001\x0001's current rank\xfffeis \xf000Ȃ\x0001\x0002.\xf000븁\x0000\xfffeIf the popularity goes up by \xf000ȃ\x0001\x0000,\xfffeit will reach the next rank,\xf000븀\x0000\xfffeand I'll say\xf000븀\x0000\xfffe\xf000ķ\x0001\x0004\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0003,\xfffethanks for your help in advance!\xf000븁\x0000
+\xf000ĸ\x0001\x0001's rank\xfffeis \xf000Ȃ\x0001\x0002 now.\xf000븁\x0000\xfffeThank you very much!\xfffeYou helped us reach the highest rank!\xf000븁\x0000
+I'll work hard today.\xf000븁\x0000
+I feel very motivated today.\xf000븁\x0000
+I'm full of motivation today.\xf000븁\x0000
+\xf000ĸ\x0001\x0001's current rank\xfffeis \xf000Ȃ\x0001\x0002.\xf000븁\x0000\xfffeIf the popularity goes up by \xf000ȃ\x0001\x0000,\xfffeit will reach the next rank,\xf000븀\x0000\xfffeand I'll say\xf000븀\x0000\xfffe\xf000ķ\x0001\x0004\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0003,\xfffethanks for your help in advance!\xf000븁\x0000
+\xf000ĸ\x0001\x0001's rank\xfffeis \xf000Ȃ\x0001\x0002 now.\xf000븁\x0000\xfffeThank you very much!\xfffeYou helped us reach the highest rank!\xf000븁\x0000
+I'll work hard today.\xf000븁\x0000
+I feel very motivated today.\xf000븁\x0000
+I'm full of motivation today.\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xfffe\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeMy favorite shop is right over there!\xfffeDo you want to have a look?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffe\xf000ĸ\x0001\x0002 is\xfffe“\xf000ķ\x0001\x0004"\xf000븀\x0000\xfffePlease visit it.\xf000븁\x0000
+\xf000Ā\x0001\x0001: \xf000ķ\x0001\x0002\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000
+\xf000Ā\x0001\x0001: \xf000ķ\x0001\x0003\xfffe...\xf000븀\x0000\xfffe...Next time.\xf000븁\x0000
+\xf000Ā\x0001\x0000 is grinning\xfffefrom ear to ear!\xf000븁\x0000
+\xf000Ā\x0001\x0000 is smiling.\xf000븁\x0000
+\xf000Ā\x0001\x0000 flashes a big smile at you!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0002\xfffe\xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeMy favorite shop is right over there.\xfffeDo you want to have a look?\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffe\xf000ĸ\x0001\x0002 is\xfffe“\xf000ķ\x0001\x0004"\xf000븀\x0000\xfffePlease visit it.\xf000븁\x0000
+\xf000Ā\x0001\x0001: \xf000ķ\x0001\x0002\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000
+\xf000Ā\x0001\x0001: \xf000ķ\x0001\x0003\xfffe...\xf000븀\x0000\xfffe...Next time.\xf000븁\x0000
+\xf000Ā\x0001\x0000 is grinning\xfffefrom ear to ear!\xf000븁\x0000
+\xf000Ā\x0001\x0000 is smiling.\xf000븁\x0000
+\xf000Ā\x0001\x0000 flashes a big smile at you!\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of Link Trades"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of nicknames given"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of visitors met\xfffeon the avenue" on this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Money spent shopping"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of passersby"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of Link Battles"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of Pokémon caught"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of Eggs hatched"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of Medals"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of Link Trades"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of nicknames given"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of visitors met\xfffeon the avenue" on this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Money spent shopping"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of passersby"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of Link Battles"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of Pokémon caught"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of Eggs hatched"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+...Listen, listen!\xf000븁\x0000\xfffeI'm No. 1 in “Number of Medals"\xfffeon this avenue!\xf000븁\x0000\xfffeI feel “\xf000ķ\x0001\x0000"\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...Hey.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001's\xfffe\xf000ĸ\x0001\x0002 is\xf000븀\x0000\xfffealso interesting.\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002!\xfffeMay I help you?
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffeI'll tell you a perfect shop\xfffefor you, \xf000ĺ\x0001\x0002!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002!\xfffeI'll restore your Pokémon to full health.\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002!\xfffeMay I help you?
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002!\xfffeMay I help you?
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffeI'll tell you a perfect shop\xfffefor you, \xf000ĺ\x0001\x0002!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002!\xfffeI'll restore your Pokémon to full health.\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000ķ\x0001\x0003\xf000븁\x0000\xfffe\xf000ĺ\x0001\x0002!\xfffeMay I help you?
+Certainly, \xf000ĺ\x0001\x0000!
+Please keep doing great\xfffework, \xf000ĺ\x0001\x0000!
+Please keep doing great\xfffework, \xf000ĺ\x0001\x0000!
+Please keep doing great\xfffework, \xf000ĺ\x0001\x0000!
+Certainly, \xf000ĺ\x0001\x0000!
+Please keep doing great\xfffework, \xf000ĺ\x0001\x0000!
+Please keep doing great\xfffework, \xf000ĺ\x0001\x0000!
+Please keep doing great\xfffework, \xf000ĺ\x0001\x0000!
+The current rank is \xf000ȁ\x0001\x0000. Its name is\xfffe\xf000ł\x0001\x0002.\xf000븁\x0000\xfffeYou need \xf000ȃ\x0001\x0001 more points\xfffeto reach the next rank.\xf000븁\x0000
+Oh, I have a great idea!\xfffeIf you open a nice \xf000Ł\x0001\x0000\xf000븀\x0000\xfffein \xf000Ĺ\x0001\x0001,\xf000븀\x0000\xfffeit'll be a popular shop\xf000븀\x0000\xfffethat a lot of customers rush into!\xf000븁\x0000
+Oh, this would be great!\xf000븁\x0000\xfffeIf you open a nice \xf000Ł\x0001\x0000\xfffein \xf000Ĺ\x0001\x0001,\xf000븀\x0000\xfffeit'll be a popular shop\xf000븀\x0000\xfffethat a lot of customers rush into!\xf000븁\x0000
+I can see a lot of great futures.\xf000븁\x0000\xfffeWhich one of these will you choose?
+Now, the assistants' roles\xfffewill be changed.\xf000븁\x0000
+Now, I'll change\xfffethe order of the shops.\xf000븁\x0000
+Which color would you like?
+The color of the ceiling\xfffehas been changed.\xf000븁\x0000
+Which ranking do you want to see?
+There's a big promotion at\xfffe\xf000Ĺ\x0001\x0003 right now.\xf000븀\x0000\xfffeIt lasts this many more days: \xf000ȁ\x0001\x0004.\xf000븀\x0000\xfffeDon't miss it!\xf000븁\x0000
+Currently, the rank is \xf000ȁ\x0001\x0000. It's\xfffe\xf000ł\x0001\x0002.\xf000븁\x0000
+Change the color to\xfffe“★ Star Orange?"
+Change the color to\xfffe“◆ Aurora Purple?"
+Change the color to\xfffe“☁ Cloud Light Blue?"
+Change the color to\xfffe“■ Stone Green?"
+Do you want to greet everyone?
+You cannot change the order\xfffebecause there is only one shop.\xf000븁\x0000
+The current rank is \xf000ȁ\x0001\x0000. Its name is\xfffe\xf000ł\x0001\x0002.\xf000븁\x0000\xfffeYou need \xf000ȃ\x0001\x0001 more points\xfffeto reach the next rank.\xf000븁\x0000
+Oh, I have a great idea!\xfffeIf you open a nice \xf000Ł\x0001\x0000\xf000븀\x0000\xfffein \xf000Ĺ\x0001\x0001,\xf000븀\x0000\xfffecustomers will come here\xf000븀\x0000\xfffeto visit the shop.\xf000븁\x0000
+Oh, this would be great!\xfffeIf you open a nice \xf000Ł\x0001\x0000\xf000븀\x0000\xfffein \xf000Ĺ\x0001\x0001,\xf000븀\x0000\xfffecustomers will come here\xf000븀\x0000\xfffeto visit the shop.\xf000븁\x0000
+I can see a lot of great futures.\xf000븁\x0000\xfffeWhich of these shops do you want\xfffeto open?
+Now, the assistants' roles\xfffewill be changed.\xf000븁\x0000
+Now, I'll change the order of the shops.\xf000븁\x0000
+Which color would you like?
+The color of the ceiling will be changed.\xf000븁\x0000
+Which ranking do you want to see?
+There's a big promotion at\xfffe\xf000Ĺ\x0001\x0003 right now.\xf000븀\x0000\xfffeIt lasts this many more days: \xf000ȁ\x0001\x0004.\xf000븀\x0000\xfffeDon't miss it.\xf000븁\x0000
+Currently, the rank is \xf000ȁ\x0001\x0000. It's\xfffe\xf000ł\x0001\x0002.\xf000븁\x0000
+Change the color to\xfffe“★ Star Orange?"
+Change the color to\xfffe“◆ Aurora Purple?"
+Change the color to\xfffe“☁ Cloud Light Blue?"
+Change the color to\xfffe“■ Stone Green?"
+Do you want to greet everyone?
+You cannot change the order\xfffebecause there is only one shop.\xf000븁\x0000
+Mayor
+                   
+Invite
+Recruit
+Recommend
+How are you doing lately?
+        
+         
+     
+    
+How are you?
+See you!
+                        
+Check avenue status
+Change ceiling color
+    
+         
+    
+       
+     
+          
+          
+          
+Move Pokémon
+       
+        
+       
+       
+      
+    
+\xf000ĸ\x0001\x0000
+            
+Change avenue name
+Change your title
+Change your favorite phrase
+Make the person a resident
+Cancel
+Give the person a different job
+Ask about activities
+Check Medals
+Change what you say when impressed
+Change assistants' roles
+Change the order of shops
+★ Star Orange
+◆ Aurora Purple
+☁ Cloud Light Blue
+■ Stone Green
+Cancel
+Everybody's Record Rankings
+           
+Back
+      
+    
+Greet everyone
+Number of Link Trades
+Number of nicknames given
+Number of customers met in the avenue
+Money spent shopping
+Number of passersby
+Number of Link Battles
+Number of Pokémon caught
+Number of Eggs hatched
+Number of Medals
+You will invite this person to the avenue\xfffeto open a dream shop.
+You will recruit this person to replace\xfffethe current assistant.
+You will recommend your favorite shop\xfffeto this person and suggest a visit.
+You will ask this person about\xffferecent activities.
+                            
+                                 
+                            
+    
+       
+End the conversation.
+             
+...!!\xf000븁\x0000
+A nice \xf000Ł\x0001\x0000 called\xfffe\xf000ĸ\x0001\x0001\xf000븀\x0000\xfffewas built!
+Let's visit\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000
+                                     
+            
+\xf000Ā\x0001\x0000 is a little happier now!\xf000븁\x0000
+\xf000Ā\x0001\x0000 is happy now!\xf000븁\x0000
+\xf000Ā\x0001\x0000 is really happy now!\xf000븁\x0000
+               
+Changed into\xfffe\xf000ĸ\x0001\x0000!
+\xf000Ā\x0001\x0000: ...\xfffe\xf000ĸ\x0001\x0001?!\xf000븀\x0000\xfffeThat's not quite what I had in mind...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 left...\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...\xfffe\xf000ĸ\x0001\x0001?!\xf000븀\x0000\xfffeThat's not quite what I had in mind...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 left...\xf000븁\x0000
+\xf000Ā\x0001\x0000 paid\xfffe$\xf000ȅ\x0001\x0001!\xf000븁\x0000
+There is no room for a new building.\xf000븁\x0000\xfffePlease choose a building\xfffeto be replaced.\xf000븁\x0000
+There is no room for a new building.\xf000븁\x0000\xfffePlease choose a building\xfffeto be replaced.\xf000븁\x0000
+Please choose an assistant\xfffeto be replaced.\xf000븁\x0000
+...!!\xf000븂\x0001<
+\xf000ĸ\x0001\x0001 reached\xfffeRank \xf000Ȃ\x0001\x0006!
+    
+    
+\xf000Ā\x0001\x0000 has come to\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000
+\xf000Ā\x0001\x0002: \xf000ķ\x0001\x0003\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0004\xf000븁\x0000\xfffe...\xf000븁\x0000
+\xf000ĸ\x0001\x0001's\xfffepopularity went up by \xf000Ȃ\x0001\x0005 points!\xf000븁\x0000
+\xf000Ĺ\x0001\x0000's\xfffepopularity went up by \xf000ȃ\x0001\x0007 points!\xf000븁\x0000
+...!!\xf000븂\x0001<
+\xf000Ĺ\x0001\x0000 reached\xfffeRank \xf000ȃ\x0001\x0008!
+    
+This place's reputation as\xfffe“\xf000ł\x0001\x0002"\xf000븀\x0000\xfffeis spreading!\xf000븁\x0000
+What do you want to hear?
+\xf000ĸ\x0001\x0001\xfffeis now \xf000ĸ\x0001\x0000!
+To celebrate the building of so many\xfffewonderful shops, all the shops decided\xf000븀\x0000\xfffeto have a promotion!\xf000븁\x0000\xfffeIt lasts for 7 days!\xfffeCheck out all the shops!
+...Oh?\xf000븁\x0000\xfffeThe owner is here!\xf000븁\x0000\xfffeGo to \xf000ĺ\x0001\x0000's office.\xf000븁\x0000
+\xf000ĸ\x0001\x0001 has\xfffeupgraded services!\xf000븁\x0000
+Raffle Shop
+Beauty Salon
+Market
+Flower Shop
+Dojo
+Nursery
+Antique Shop
+Café
+         
+Dream ★ \xf000Ā\x0001\x0000
+Lucky ★ \xf000Ā\x0001\x0000
+Happy ★ \xf000Ā\x0001\x0000
+          
+Barber \xf000Ā\x0001\x0000
+Salon \xf000Ā\x0001\x0000
+Studio \xf000Ā\x0001\x0000
+       
+\xf000Ā\x0001\x0000 Mart
+\xf000Ā\x0001\x0000's Shop
+\xf000Ā\x0001\x0000's Emporium
+        
+Florist \xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000's Flowers
+\xf000Ā\x0001\x0000's Garden
+         
+\xf000Ā\x0001\x0000 Fitness
+\xf000Ā\x0001\x0000's Ring
+\xf000Ā\x0001\x0000 Colosseum
+       
+\xf000Ā\x0001\x0000's Place
+\xf000Ā\x0001\x0000's Corner
+\xf000Ā\x0001\x0000 Land
+          
+\xf000Ā\x0001\x0000's Antiques
+Gallery \xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000 Museum
+          
+Deli \xf000Ā\x0001\x0000
+\xf000Ā\x0001\x0000's Kitchen
+Bistro \xf000Ā\x0001\x0000
+Enter the raffle
+Groom a Pokémon
+Buy
+Buy
+Train a Pokémon
+Leave a Pokémon
+Buy
+Feed a Pokémon
+\xf000ĸ\x0001\x0000:\xfffeThe grand prize is a Master Ball!
+\xf000ĸ\x0001\x0000:\xfffeMake your Pokémon more beautiful!
+\xf000ĸ\x0001\x0000:\xfffeYou can buy all sorts of things here!
+\xf000ĸ\x0001\x0000:\xfffeBerries are the blessings of nature!
+\xf000ĸ\x0001\x0000:\xfffeI work hard with your Pokémon!
+\xf000ĸ\x0001\x0000:\xfffeI take care of your Eggs with love!
+\xf000ĸ\x0001\x0000:\xfffeFind a rare treasure!
+\xf000ĸ\x0001\x0000:\xfffeAlways offering five-star tastes!
+\xf000ĸ\x0001\x0000:\xfffeThe grand prize is a Master Ball!
+\xf000ĸ\x0001\x0000:\xfffeMake your Pokémon more beautiful!
+\xf000ĸ\x0001\x0000:\xfffeYou can buy all sorts of things here!
+\xf000ĸ\x0001\x0000:\xfffeBerries are the blessings of nature!
+\xf000ĸ\x0001\x0000:\xfffeI work hard with your Pokémon!
+\xf000ĸ\x0001\x0000:\xfffeI take care of your Eggs with love!
+\xf000ĸ\x0001\x0000:\xfffeFind a rare treasure!
+\xf000ĸ\x0001\x0000:\xfffeAlways offering five-star tastes!
+I'll take your payment.\xf000븁\x0000
+I'll take your payment.\xf000븁\x0000
+You can't choose an Egg!\xf000븁\x0000
+You can't choose an Egg!\xf000븁\x0000
+It's not an Egg!\xf000븁\x0000
+It's not an Egg!\xf000븁\x0000
+It's already strong!\xf000븁\x0000
+It's already strong!\xf000븁\x0000
+It's already friendly!\xf000븁\x0000
+It's already friendly!\xf000븁\x0000
+It's already friendly!\xf000븁\x0000
+It's already friendly!\xf000븁\x0000
+It's at the maximum level!\xf000븁\x0000
+It's at the maximum level!\xf000븁\x0000
+The Pokémon doesn't seem\xfffeto be well.\xf000븁\x0000\xfffePlease come back\xfffewhen it gets better!\xf000븁\x0000
+The Pokémon doesn't seem\xfffeto be well.\xf000븁\x0000\xfffePlease come back\xfffewhen it gets better!\xf000븁\x0000
+I'm sorry. You didn't win today.\xf000븁\x0000
+You won Prize No. \xf000ȁ\x0001\x0000:\xfffe\xf000ĉ\x0001\x0001!
+Today's raffles are over.\xf000븁\x0000
+Now, the result is...\xf000븁\x0000\xfffe...\xf000븁\x0000
+Congratulations!\xf000븁\x0000
+You know what? We're running a special\xfffepromotion, so you get one more chance!\xf000븁\x0000
+I'm sorry. You didn't win today.\xf000븁\x0000
+You won Prize No. \xf000ȁ\x0001\x0000:\xfffe\xf000ĉ\x0001\x0001!
+Today's raffles are over.\xf000븁\x0000
+Now, the result is...\xf000븁\x0000\xfffe...\xf000븁\x0000
+Congratulations!\xf000븁\x0000
+You know what? We're running a special\xfffepromotion, so you get one more chance!\xf000븁\x0000
+Which Pokémon should I groom?\xf000븁\x0000
+Done!\xfffeNow, this Pokémon is happy!\xf000븁\x0000
+Which Pokémon should I groom?\xf000븁\x0000
+Done!\xfffeNow, this Pokémon is happy!\xf000븁\x0000
+Which Pokémon is hungry?\xf000븁\x0000
+All right!\xfffeNow, this Pokémon is full!\xf000븁\x0000
+Which Pokémon is hungry?\xf000븁\x0000
+All right!\xfffeNow, this Pokémon is full!\xf000븁\x0000
+Which Pokémon shall I train?\xf000븁\x0000
+Done!\xfffeNow, this Pokémon is strong!\xf000븁\x0000
+Which Pokémon shall I train?\xf000븁\x0000
+Done!\xfffeNow, this Pokémon is strong!\xf000븁\x0000
+Which Egg shall I hatch?\xf000븁\x0000
+OK!\xfffeThe Egg is hatched!\xf000븁\x0000
+It will hatch any second!\xf000븁\x0000
+It will hatch soon.\xf000븁\x0000
+It is close to hatching!\xf000븁\x0000
+It doesn't seem close to hatching.\xf000븁\x0000
+It looks like this Egg will\xfffetake a long time to hatch.\xf000븁\x0000
+Which Egg shall I hatch?\xf000븁\x0000
+OK!\xfffeThe Egg is hatched!\xf000븁\x0000
+It will hatch any second!\xf000븁\x0000
+It will hatch soon.\xf000븁\x0000
+It is close to hatching!\xf000븁\x0000
+It doesn't seem close to hatching.\xf000븁\x0000
+It looks like this Egg will\xfffetake a long time to hatch.\xf000븁\x0000
+    
+Brushing
+Shampoo
+Smile Cut
+Beauty Cut
+Royal Cut
+Slender Makeup
+Calm Makeup
+Gentle Makeup
+Mellow Makeup
+Warm Makeup
+Slow Makeup
+Slender Makeup 2
+Calm Makeup 2
+Gentle Makeup 2
+Mellow Makeup 2
+Warm Makeup 2
+Slow Makeup 2
+Slender Makeup 3
+Calm Makeup 3
+Gentle Makeup 3
+Mellow Makeup 3
+Warm Makeup 3
+Slow Makeup 3
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+Taking care of the Pokémon's\xfffecoat or skin helps the Pokémon\xfffegrow friendly.
+Washing the Pokémon's coat or\xfffeskin helps the Pokémon grow\xfffepretty friendly.
+Trimming the Pokémon's coat or\xfffeconditioning the skin helps the\xfffePokémon grow very friendly.
+Trimming the Pokémon's coat or\xfffeconditioning the skin beautifully helps\xfffethe Pokémon grow significantly friendly.
+Trimming the Pokémon's coat or\xfffeconditioning the skin elegantly helps\xfffethe Pokémon grow immensely friendly.
+The makeup helps the\xfffePokémon grow friendly.\xfffeIt lowers the base HP a lot.
+The makeup helps the\xfffePokémon grow friendly.\xfffeIt lowers the base Attack stat a lot.
+The makeup helps the\xfffePokémon grow friendly.\xfffeIt lowers the base Defense stat a lot.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base Sp. Attack stat a lot.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base Sp. Defense stat a lot.
+The makeup helps the\xfffePokémon grow friendly.\xfffeIt lowers the base Speed stat a lot.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base HP significantly.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base Attack stat significantly.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base Defense stat significantly.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base Sp. Attack stat significantly.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base Sp. Defense stat significantly.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base Speed stat significantly.
+The makeup helps the\xfffePokémon grow friendly.\xfffeIt lowers the base HP to zero.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base Attack stat to zero.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base Defense stat to zero.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base Sp. Attack stat to zero.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base Sp. Defense stat to zero.
+The makeup helps the\xfffePokémon grow friendly. It lowers\xfffethe base Speed stat to zero.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+Training Lv. 1
+Training Lv. 2
+Training Lv. 3
+Training Lv. 4
+Training Lv. 5
+Training Lv. 10
+Training Lv. 20
+Warm Lv. 1
+Warm Lv. 2
+Warm Lv. 3
+Warm Lv. 4
+Warm Lv. 5
+HP Lv. 4
+HP Lv. 8
+HP Lv. 12
+HP Lv. 16
+HP Lv. 24
+HP Lv. 32
+HP Lv. 64
+Attack Lv. 4
+Attack Lv. 8
+Attack Lv. 12
+Attack Lv. 16
+Attack Lv. 24
+Attack Lv. 32
+Attack Lv. 64
+Defense Lv. 4
+Defense Lv. 8
+Defense Lv. 12
+Defense Lv. 16
+Defense Lv. 24
+Defense Lv. 32
+Defense Lv. 64
+Sp. Atk Lv. 4
+Sp. Atk Lv. 8
+Sp. Atk Lv. 12
+Sp. Atk Lv. 16
+Sp. Atk Lv. 24
+Sp. Atk Lv. 32
+Sp. Atk Lv. 64
+Sp. Def Lv. 4
+Sp. Def Lv. 8
+Sp. Def Lv. 12
+Sp. Def Lv. 16
+Sp. Def Lv. 24
+Sp. Def Lv. 32
+Sp. Def Lv. 64
+Speed Lv. 4
+Speed Lv. 8
+Speed Lv. 12
+Speed Lv. 16
+Speed Lv. 24
+Speed Lv. 32
+Speed Lv. 64
+Water Set 1
+Water Set 2
+Water Set 3
+Water Set 4
+Milk Set 1
+Milk Set 2
+Milk Set 3
+Milk Set 4
+Souvenir Set
+Souvenir Set
+    
+Souvenir Set
+Max Revive
+Ether
+PP Up
+Honey Set
+Repel Set 1
+Repel Set 2
+Repel Set 3
+Repel Set 4
+Revive Set 1
+Revive Set 2
+Revive Set 3
+Revive Set 4
+Full Heal Set 1
+Full Heal Set 2
+Full Heal Set 3
+Full Heal Set 4
+Medicine Set 1
+Medicine Set 2
+Medicine Set 3
+Medicine Set 4
+HP Set
+Attack Set
+Defense Set
+Speed Set
+Sp. Attack Set
+Sp. Defense Set
+Battle Set A
+Battle Set B
+Battle Set C
+Battle Set D
+Battle Set E
+Battle Set F
+Battle Set G
+Battle Set H
+Growth Mulch
+Damp Mulch
+Stable Mulch
+Gooey Mulch
+Mulch x 2
+Mulch x 2
+Mulch x 2
+Mulch x 2
+Mulch x 4
+Mulch x 4
+Mulch x 4
+Mulch x 4
+Razz Berry x 4
+Bluk Berry x 4
+Cheri Berry x 4
+Chesto Berry x 4
+Pecha Berry x 4
+Rawst Berry x 4
+Aspear Berry x 4
+Leppa Berry
+Oran Berry x 4
+Persim Berry x 4
+Lum Berry x 4
+Sitrus Berry x 4
+Liechi Berry x 4
+Ganlon Berry x 4
+Salac Berry x 4
+Petaya Berry x 4
+Apicot Berry x 4
+Occa Berry x 4
+Passho Berry x 4
+Wacan Berry x 4
+Rindo Berry x 4
+Yache Berry x 4
+Chople Berry x 4
+Kebia Berry x 4
+Shuca Berry x 4
+Coba Berry x 4
+Payapa Berry x 4
+Tanga Berry x 4
+Charti Berry x 4
+Kasib Berry x 4
+Haban Berry x 4
+Colbur Berry x 4
+Babiri Berry x 4
+Chilan Berry x 4
+Pomeg Berry x 4
+Kelpsy Berry x 4
+Qualot Berry x 4
+Hondew Berry x 4
+Grepa Berry x 4
+Tamato Berry x 4
+    
+    
+A set of 12 bottles of Fresh Water.\xfffeFresh Water restores the HP of\xfffeone Pokémon by 50 points.
+A set of 24 bottles of Fresh Water.\xfffeFresh Water restores the HP of\xfffeone Pokémon by 50 points.
+A set of 36 bottles of Fresh Water.\xfffeFresh Water restores the HP of\xfffeone Pokémon by 50 points.
+A set of 48 bottles of Fresh Water.\xfffeFresh Water restores the HP of\xfffeone Pokémon by 50 points.
+A set of 12 bottles of Moomoo Milk.\xfffeMoomoo Milk restores the HP of\xfffeone Pokémon by 100 points.
+A set of 24 bottles of Moomoo Milk.\xfffeMoomoo Milk restores the HP of\xfffeone Pokémon by 100 points.
+A set of 36 bottles of Moomoo Milk.\xfffeMoomoo Milk restores the HP of\xfffeone Pokémon by 100 points.
+A set of 48 bottles of Moomoo Milk.\xfffeMoomoo Milk restores the HP of\xfffeone Pokémon by 100 points.
+A set of two Lava Cookies.\xfffeThe cookie heals all the status\xfffeproblems of one Pokémon.
+A set of two Old Gateaus.\xfffeThe cake heals all the status\xfffeproblems of one Pokémon.
+    
+A set of two RageCandyBars.\xfffeThe bar restores the HP of one\xfffePokémon by 20 points.
+A rarely available, valuable product.\xfffeIt fully restores\xfffeone fainted Pokémon's HP.
+A rarely available, valuable product.\xfffeIt restores the PP of a single\xfffePokémon move by a maximum of 10 points.
+A rarely available, valuable product.\xfffeIt slightly raises the maximum PP\xfffeof a selected move.
+A set of 12 jars of Honey.\xfffeThe lush aroma attracts wild\xfffePokémon when used.
+A set of 12 Max Repels.\xfffeMax Repel prevents weak wild Pokémon\xfffefrom appearing for 250 steps.
+A set of 24 Max Repels.\xfffeMax Repel prevents weak wild Pokémon\xfffefrom appearing for 250 steps.
+A set of 36 Max Repels.\xfffeMax Repel prevents weak wild Pokémon\xfffefrom appearing for 250 steps.
+A set of 48 Max Repels.\xfffeMax Repel prevents weak wild Pokémon\xfffefrom appearing for 250 steps.
+A set of 12 Revives.\xfffeRevive restores half of a fainted\xfffePokémon's maximum HP.
+A set of 24 Revives.\xfffeRevive restores half of a fainted\xfffePokémon's maximum HP.
+A set of 36 Revives.\xfffeRevive restores half of a fainted\xfffePokémon's maximum HP.
+A set of 48 Revives.\xfffeRevive restores half of a fainted\xfffePokémon's maximum HP.
+A set of 12 Full Heals.\xfffeFull Heal heals all the status problems\xfffeof a single Pokémon.
+A set of 24 Full Heals.\xfffeFull Heal heals all the status problems\xfffeof a single Pokémon.
+A set of 36 Full Heals.\xfffeFull Heal heals all the status problems\xfffeof a single Pokémon.
+A set of 48 Full Heals.\xfffeFull Heal heals all the status problems\xfffeof a single Pokémon.
+A set of 12 Hyper Potions.\xfffeHyper Potion restores the HP of\xfffeone Pokémon by 200 points.
+A set of 24 Hyper Potions.\xfffeHyper Potion restores the HP of\xfffeone Pokémon by 200 points.
+A set of 36 Hyper Potions.\xfffeHyper Potion restores the HP of\xfffeone Pokémon by 200 points.
+A set of 48 Hyper Potions.\xfffeHyper Potion restores the HP of\xfffeone Pokémon by 200 points.
+A set of 12 HP Ups.\xfffeHP Up raises the base HP of\xfffea single Pokémon.
+A set of 12 Proteins.\xfffeProtein raises the base Attack stat\xfffeof a single Pokémon.
+A set of 12 Irons.\xfffeIron raises the base Defense stat of a\xfffesingle Pokémon.
+A set of 12 Carbos.\xfffeCarbos raise the base Speed stat of a\xfffesingle Pokémon.
+A set of 12 Calciums.\xfffeCalcium raises the base Sp. Atk (Special\xfffeAttack) stat of a single Pokémon.
+A set of 12 Zincs.\xfffeZinc raises the base Sp. Def (Special\xfffeDefense) stat of a single Pokémon.
+A set of 12 Guard Specs.\xfffeGuard Spec. prevents stat reduction\xfffefor five turns after use.
+A set of 12 Dire Hits.\xfffeDire Hit raises the critical-hit ratio\xfffegreatly. It can be used only once.
+A set of 12 X Attacks.\xfffeAn item that raises the Attack stat\xfffeof a Pokémon in battle.
+A set of 12 X Defends.\xfffeAn item that raises the Defense stat\xfffeof a Pokémon in battle.
+A set of 12 X Speeds.\xfffeAn item that raises the Speed stat\xfffeof a Pokémon in battle.
+A set of 12 X Accuracies.\xfffeAn item that raises the accuracy\xfffeof a Pokémon in battle.
+A set of 12 X Specials.\xfffeAn item that raises the Sp. Atk stat\xfffeof a Pokémon in battle.
+A set of 12 X Sp. Defs.\xfffeAn item that raises the Sp. Def stat\xfffeof a Pokémon in battle.
+A rarely available, valuable item.\xfffeA maniac will buy it for a high price.
+A rarely available, valuable item.\xfffeA maniac will buy it for a high price.
+A rarely available, valuable item.\xfffeA maniac will buy it for a high price.
+A rarely available, valuable item.\xfffeA maniac will buy it for a high price.
+A set of two Growth Mulch.\xfffeA rarely available, valuable item.\xfffeA maniac will buy it for a high price.
+A set of two Damp Mulch.\xfffeA rarely available, valuable item.\xfffeA maniac will buy it for a high price.
+A set of two Stable Mulch.\xfffeA rarely available, valuable item.\xfffeA maniac will buy it for a high price.
+A set of two Gooey Mulch.\xfffeA rarely available, valuable item.\xfffeA maniac will buy it for a high price.
+A set of four Growth Mulch.\xfffeA rarely available, valuable item.\xfffeA maniac will buy it for a high price.
+A set of four Damp Mulch.\xfffeA rarely available, valuable item.\xfffeA maniac will buy it for a high price.
+A set of four Stable Mulch.\xfffeA rarely available, valuable item.\xfffeA maniac will buy it for a high price.
+A set of four Gooey Mulch.\xfffeA rarely available, valuable item.\xfffeA maniac will buy it for a high price.
+A set of four Razz Berries.\xfffeThese Berries are very rare.\xfffeA maniac will buy them for a high price.
+A set of four Bluk Berries.\xfffeThese Berries are very rare.\xfffeA maniac will buy them for a high price.
+A set of four Cheri Berries.\xfffeIf held by a Pokémon,\xfffeit recovers from paralysis.
+A set of four Chesto Berries.\xfffeIf held by a Pokémon,\xfffeit recovers from sleep.
+A set of four Pecha Berries.\xfffeIf held by a Pokémon,\xfffeit recovers from poison.
+A set of four Rawst Berries.\xfffeIf held by a Pokémon,\xfffeit recovers from a burn.
+A set of four Aspear Berries.\xfffeIf held by a Pokémon,\xfffeit defrosts it.
+A single Leppa Berry.\xfffeIf held by a Pokémon,\xfffeit restores a move's PP by 10.
+A set of four Oran Berries.\xfffeIf held by a Pokémon,\xfffeit heals the user by just 10 HP.
+A set of four Persim Berries.\xfffeIf held by a Pokémon,\xfffeit recovers from confusion.
+A set of four Lum Berries.\xfffeIf held by a Pokémon,\xfffeit recovers from any status problem.
+A set of four Sitrus Berries.\xfffeIf held by a Pokémon,\xfffeit heals the user's HP a little.
+A set of four Liechi Berries.\xfffeIf held by a Pokémon, it raises its\xfffeAttack stat in a pinch.
+A set of four Ganlon Berries.\xfffeIf held by a Pokémon, it raises its\xfffeDefense stat in a pinch.
+A set of four Salac Berries.\xfffeIf held by a Pokémon, it raises its\xfffeSpeed stat in a pinch.
+A set of four Petaya Berries.\xfffeIf held by a Pokémon, it raises its\xfffeSp. Atk stat in a pinch.
+A set of four Apicot Berries.\xfffeIf held by a Pokémon, it raises its\xfffeSp. Def stat in a pinch.
+A set of four Occa Berries.\xfffeThey weaken a supereffective Fire-type\xfffeattack against the holding Pokémon.
+A set of four Passho Berries. They\xfffeweaken a supereffective Water-type\xfffeattack against the holding Pokémon.
+A set of four Wacan Berries. They\xfffeweaken a supereffective Electric-type\xfffeattack against the holding Pokémon.
+A set of four Rindo Berries. They\xfffeweaken a supereffective Grass-type\xfffeattack against the holding Pokémon.
+A set of four Yache Berries.\xfffeThey weaken a supereffective Ice-type\xfffeattack against the holding Pokémon.
+A set of four Chople Berries. They\xfffeweaken a supereffective Fighting-type\xfffeattack against the holding Pokémon.
+A set of four Kebia Berries. They\xfffeweaken a supereffective Poison-type\xfffeattack against the holding Pokémon.
+A set of four Shuca Berries. They\xfffeweaken a supereffective Ground-type\xfffeattack against the holding Pokémon.
+A set of four Coba Berries. They\xfffeweaken a supereffective Flying-type\xfffeattack against the holding Pokémon.
+A set of four Payapa Berries. They\xfffeweaken a supereffective Psychic-type\xfffeattack against the holding Pokémon.
+A set of four Tanga Berries. They\xfffeweaken a supereffective Bug-type\xfffeattack against the holding Pokémon.
+A set of four Charti Berries. They\xfffeweaken a supereffective Rock-type\xfffeattack against the holding Pokémon.
+A set of four Kasib Berries. They\xfffeweaken a supereffective Ghost-type\xfffeattack against the holding Pokémon.
+A set of four Haban Berries. They\xfffeweaken a supereffective Dragon-type\xfffeattack against the holding Pokémon.
+A set of four Colbur Berries.\xfffeThey weaken a supereffective Dark-type\xfffeattack against the holding Pokémon.
+A set of four Babiri Berries. They\xfffeweaken a supereffective Steel-type\xfffeattack against the holding Pokémon.
+A set of four Chilan Berries. They\xfffeweaken a supereffective Normal-type\xfffeattack against the holding Pokémon.
+A set of four Pomeg Berries.\xfffeThey make a Pokémon more friendly,\xfffebut also lower its base HP.
+A set of four Kelpsy Berries.\xfffeThey make a Pokémon more friendly,\xfffebut also lower its base Attack stat.
+A set of four Qualot Berries.\xfffeThey make a Pokémon more friendly, but\xfffealso lower its base Defense stat.
+A set of four Hondew Berries.\xfffeThey make a Pokémon more friendly, but\xfffealso lower its base Sp. Atk stat.
+A set of four Grepa Berries.\xfffeThey make a Pokémon more friendly, but\xfffealso lower its base Sp. Def stat.
+A set of four Tamato Berries.\xfffeThey make a Pokémon more friendly, but\xfffealso lower its base Speed stat.
+    
+    
+    
+    
+    
+    
+    
+A short private training session\xfffefor a Pokémon.\xfffeIt raises the Pokémon's level by one.
+A short private training session\xfffefor a Pokémon.\xfffeIt raises the Pokémon's level by two.
+A short private training session\xfffefor a Pokémon.\xfffeIt raises the Pokémon's level by three.
+A short private training session\xfffefor a Pokémon.\xfffeIt raises the Pokémon's level by four.
+A short private training session\xfffefor a Pokémon.\xfffeIt raises the Pokémon's level by five.
+A short private training session\xfffefor a Pokémon.\xfffeIt raises the Pokémon's level by six.
+A short private training session\xfffefor a Pokémon.\xfffeIt raises the Pokémon's level by seven.
+Warm an Egg slowly and carefully.\xfffeIt makes the Egg hatch\xfffeslightly faster.
+Warm an Egg slowly and carefully.\xfffeIt makes the Egg hatch\xfffea little faster.
+Warm an Egg slowly and carefully.\xfffeIt makes the Egg hatch\xfffemuch faster.
+Warm an Egg slowly and carefully.\xfffeIt makes the Egg hatch\xfffemost of the time.
+Warm an Egg slowly and carefully.\xfffeIt makes the Egg hatch for sure.
+Train a Pokémon's physical strength\xfffeand make it slightly stronger.\xfffeIt raises the base HP.
+Train a Pokémon's physical strength\xfffeand make it a little stronger.\xfffeIt raises the base HP.
+Train a Pokémon's physical strength\xfffeand make it stronger.\xfffeIt raises the base HP.
+Train a Pokémon's physical strength\xfffeand make it quite a bit stronger.\xfffeIt raises the base HP.
+Train a Pokémon's physical strength\xfffeand make it a lot stronger.\xfffeIt raises the base HP.
+Train a Pokémon's physical strength\xfffeand make it significantly stronger.\xfffeIt raises the base HP.
+Train a Pokémon's physical strength\xfffeand make it immensely stronger.\xfffeIt raises the base HP.
+Train a Pokémon's Attack\xfffeand make it slightly stronger.\xfffeIt raises the base Attack stat.
+Train a Pokémon's Attack\xfffeand make it a little stronger.\xfffeIt raises the base Attack stat.
+Train a Pokémon's Attack\xfffeand make it stronger.\xfffeIt raises the base Attack stat.
+Train a Pokémon's Attack\xfffeand make it quite a bit stronger.\xfffeIt raises the base Attack stat.
+Train a Pokémon's Attack\xfffeand make it a lot stronger.\xfffeIt raises the base Attack stat.
+Train a Pokémon's Attack\xfffeand make it significantly stronger.\xfffeIt raises the base Attack stat.
+Train a Pokémon's Attack\xfffeand make it immensely stronger.\xfffeIt raises the base Attack stat.
+Train a Pokémon's Defense\xfffeand make it slightly stronger.\xfffeIt raises the base Defense stat.
+Train a Pokémon's Defense\xfffeand make it a little stronger.\xfffeIt raises the base Defense stat.
+Train a Pokémon's Defense\xfffeand make it stronger.\xfffeIt raises the base Defense stat.
+Train a Pokémon's Defense\xfffeand make it quite a bit stronger.\xfffeIt raises the base Defense stat.
+Train a Pokémon's Defense\xfffeand make it a lot stronger.\xfffeIt raises the base Defense stat.
+Train a Pokémon's Defense\xfffeand make it significantly stronger.\xfffeIt raises the base Defense stat.
+Train a Pokémon's Defense\xfffeand make it immensely stronger.\xfffeIt raises the base Defense stat.
+Train a Pokémon's Special Attack\xfffeand make it slightly stronger.\xfffeIt raises the base Sp. Atk stat.
+Train a Pokémon's Special Attack\xfffeand make it a little stronger.\xfffeIt raises the base Sp. Atk stat.
+Train a Pokémon's Special Attack\xfffeand make it stronger.\xfffeIt raises the base Sp. Atk stat.
+Train a Pokémon's Special Attack\xfffeand make it quite a bit stronger.\xfffeIt raises the base Sp. Atk stat.
+Train a Pokémon's Special Attack\xfffeand make it a lot stronger.\xfffeIt raises the base Sp. Atk stat.
+Train a Pokémon's Special Attack\xfffeand make it significantly stronger.\xfffeIt raises the base Sp. Atk stat.
+Train a Pokémon's Special Attack\xfffeand make it immensely stronger.\xfffeIt raises the base Sp. Atk stat.
+Train a Pokémon's Special Defense\xfffeand make it slightly stronger.\xfffeIt raises the base Sp. Def stat.
+Train a Pokémon's Special Defense\xfffeand make it a little stronger.\xfffeIt raises the base Sp. Def stat.
+Train a Pokémon's Special Defense\xfffeand make it stronger.\xfffeIt raises the base Sp. Def stat.
+Train a Pokémon's Special Defense\xfffeand make it quite a bit stronger.\xfffeIt raises the base Sp. Def stat.
+Train a Pokémon's Special Defense\xfffeand make it a lot stronger.\xfffeIt raises the base Sp. Def stat.
+Train a Pokémon's Special Defense\xfffeand make it significantly stronger.\xfffeIt raises the base Sp. Def stat.
+Train a Pokémon's Special Defense\xfffeand make it immensely stronger.\xfffeIt raises the base Sp. Def stat.
+Train a Pokémon's Speed\xfffeand make it slightly stronger.\xfffeIt raises the base Speed stat.
+Train a Pokémon's Speed\xfffeand make it a little stronger.\xfffeIt raises the base Speed stat.
+Train a Pokémon's Speed\xfffeand make it stronger.\xfffeIt raises the base Speed stat.
+Train a Pokémon's Speed\xfffeand make it quite a bit stronger.\xfffeIt raises the base Speed stat.
+Train a Pokémon's Speed\xfffeand make it a lot stronger.\xfffeIt raises the base Speed stat.
+Train a Pokémon's Speed\xfffeand make it significantly stronger.\xfffeIt raises the base Speed stat.
+Train a Pokémon's Speed\xfffeand make it immensely stronger.\xfffeIt raises the base Speed stat.
+    
+    
+    
+    
+Wonder Lunch
+Friendly Drink
+Friendly Lunch
+Friendly Combo
+Wonder Brunch
+Wonder Dinner
+Wonder Dessert
+Power Lunch A
+Power Lunch B
+Power Lunch C
+Power Lunch D
+Power Lunch E
+Power Lunch F
+Loyalty Meal
+Secret Dish A
+Secret Dish B
+Secret Dish C
+Secret Dish D
+Secret Dish E
+Secret Dish F
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+A value set of a delicious meal\xfffewith a drink.\xfffeIt raises a Pokémon's level by one.
+A very delicious drink.\xfffeHelps a Pokémon who drank it\xfffegrow slightly friendly.
+A value lunch of a delicious meal\xfffewith a drink. Helps a Pokémon who had it\xfffegrow friendly.
+A voluminous lunch of a meal with\xfffea side menu.\xfffeHelps a Pokémon grow pretty friendly.
+A slightly gourmet meal with a dessert.\xfffeIt raises a Pokémon's level by one.
+A lavish full-course meal which will\xfffecertainly make a Pokémon happy.\xfffeIt raises a Pokémon's level by eight.
+A wondrous dessert with a jiggly,\xfffechewy texture.\xfffeIt raises a Pokémon's level by three.
+It raises the base HP a lot\xfffewhen a Pokémon eats it.
+It raises the base Attack stat a lot\xfffewhen a Pokémon eats it.
+It raises the base Defense stat a lot\xfffewhen a Pokémon eats it.
+It raises the base Sp. Atk stat a lot\xfffewhen a Pokémon eats it.
+It raises the base Sp. Def stat a lot\xfffewhen a Pokémon eats it.
+It raises the base Speed stat a lot\xfffewhen a Pokémon eats it.
+A special meal only available\xfffeto a regular customer.\xfffeIt raises a Pokémon's level by one.
+It raises the base HP significantly\xfffewhen a Pokémon eats it.
+It raises the base Attack stat\xfffesignificantly when a Pokémon eats it.
+It raises the base Defense stat\xfffesignificantly when a Pokémon eats it.
+It raises the base Sp. Atk stat\xfffesignificantly when a Pokémon eats it.
+It raises the base Sp. Def stat\xfffesignificantly when a Pokémon eats it.
+It raises the base Speed stat\xfffesignificantly when a Pokémon eats it.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+Chunk C Rank
+Chunk B Rank
+Chunk A Rank
+Chunk S Rank
+Dirty Stone
+Black Stone
+Dingy Stone
+Dusty Stone
+Jagged Rock
+Rugged Rock
+Rough Rock
+Polished Rock
+Super Big Box
+Big Box
+Ordinary Box
+Small Box
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+A chunk covered with sand.\xfffeRarely, a treasure can be found. Get it\xfffeappraised to find out what's inside.
+A chunk covered with sand.\xfffeA treasure can sometimes be found. Get\xfffeit appraised to find out what's inside.
+A chunk covered with sand.\xfffeA treasure can often be found. Get it\xfffeappraised to find out what's inside.
+A chunk covered with sand. A treasure\xfffeis very likely to be found. Get it\xfffeappraised to find out what's inside.
+A very dirty stone.\xfffeYou can feel a mysterious aura... Get it\xfffeappraised to find out what's inside.
+A dirty stone.\xfffeYou can feel a mysterious aura... Get it\xfffeappraised to find out what's inside.
+This stone is a little bit dirty.\xfffeYou can feel a mysterious aura... Get it\xfffeappraised to find out what's inside.
+A slightly dirty stone.\xfffeYou can feel a mysterious aura... Get it\xfffeappraised to find out what's inside.
+A jagged rock.\xfffeIs it similar to a Fossil? Get it\xfffeappraised to find out what's inside.
+A rugged rock.\xfffeIs it similar to a Fossil? Get it\xfffeappraised to find out what's inside.
+A rough rock.\xfffeIs it similar to a Fossil? Get it\xfffeappraised to find out what's inside.
+A polished rock.\xfffeIs it similar to a Fossil? Get it\xfffeappraised to find out what's inside.
+A container with something inside.\xfffeIt's very heavy. Get it\xfffeappraised to find out what's inside.
+A container with something inside.\xfffeIt's slightly heavy. Get it\xfffeappraised to find out what's inside.
+A container with something inside.\xfffeIt's very light. Get it\xfffeappraised to find out what's inside.
+A container with something inside.\xfffeIt makes noise when you shake it. Get it\xfffeappraised to find out what's inside.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeHere we go, \xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do some special training!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffe\xf000ć\x0001\x0003. Now!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeDash!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeStop!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeGo!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeHang in there!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffe\xf000ķ\x0001\x0001\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeGood! Just a bit more!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ...Well done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeHere we go, \xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do some special training!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffe\xf000ć\x0001\x0003. Now!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeDash!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeStop!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeGo!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeHang in there!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffe\xf000ķ\x0001\x0001\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeGood! Just a bit more!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ...Well done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeHere we go, \xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do some special training!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffe\xf000ć\x0001\x0003. Now!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeDash!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeStop!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeGo!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeHang in there!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffe\xf000ķ\x0001\x0001\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeGood! Just a bit more!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ...Well done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeHere we go, \xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do some special training!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffe\xf000ć\x0001\x0003. Now!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeDash!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeStop!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeGo!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeHang in there!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffe\xf000ķ\x0001\x0001\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeGood! Just a bit more!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ...Well done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeHere we go, \xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do some special training!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffe\xf000ć\x0001\x0003. Now!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeDash!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeStop!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeGo!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeHang in there!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffe\xf000ķ\x0001\x0001\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeGood! Just a bit more!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ...Well done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeHere we go, \xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do some special training!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffe\xf000ć\x0001\x0003. Now!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeDash!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeStop!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeGo!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeHang in there!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffe\xf000ķ\x0001\x0001\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffeGood! Just a bit more!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ...Well done!\xf000븁\x0000
+    
+    
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeNow, come on, little one. Come on out.\xf000븀\x0000\xfffeIt's time to hatch!\xf000븁\x0000\xfffeHere we go! Let's warm you up!\xfffeWarmer, warmer...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ...\xfffe...It doesn't seem close to hatching...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeWarmer, warmer...\xfffeThere! Nice and warm!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000:\xfffe...It may be close to hatching!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe...!!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeNow, come on, little one. Come on out.\xf000븀\x0000\xfffeIt's time to hatch!\xf000븁\x0000\xfffeHere we go! Let's warm you up!\xfffeWarmer, warmer...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: ...\xfffe...It doesn't seem close to hatching...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeWarmer, warmer...\xfffeThere! Nice and warm!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000:\xfffe...It may be close to hatching!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe...!!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeNow, come on, little one. Come on out.\xf000븀\x0000\xfffeIt's time to hatch!\xf000븁\x0000\xfffeHere we go! Let's warm you up!\xfffeWarmer, warmer...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000:\xfffe...It may be close to hatching.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeWarmer, warmer...\xfffeThere! Nice and warm!\xf000븁\x0000\xfffe...!!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeNow, come on, little one. Come on out.\xf000븀\x0000\xfffeIt's time to hatch!\xf000븁\x0000\xfffeHere we go! Let's warm you up!\xfffeWarmer, warmer...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000:\xfffe...It may be close to hatching.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeWarmer, warmer...\xfffeThere! Nice and warm!\xf000븁\x0000\xfffe...!!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeNow, come on, little one. Come on out.\xf000븀\x0000\xfffeIt's time to hatch!\xf000븁\x0000\xfffeWarmer, warmer...\xfffeThere! Nice and warm!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe...!!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeNow, come on, little one. Come on out.\xf000븀\x0000\xfffeIt's time to hatch!\xf000븁\x0000\xfffeWarmer, warmer...\xfffeThere! Nice and warm!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe...!!!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do our best!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder and harder!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Harder, harder, harder!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Push yourself!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeWell done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do our best!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder and harder!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Harder, harder, harder!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Push yourself!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeWell done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do our best!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder and harder!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Harder, harder, harder!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Push yourself!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeWell done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do our best!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder and harder!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Harder, harder, harder!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Push yourself!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeWell done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do our best!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder and harder!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Harder, harder, harder!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Push yourself!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeWell done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do our best!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder and harder!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Harder, harder, harder!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Push yourself!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeWell done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do our best!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder and harder!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Harder, harder, harder!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Push yourself!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeWell done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do our best!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder and harder!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Harder, harder, harder!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Push yourself!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeWell done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do our best!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder and harder!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Harder, harder, harder!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Push yourself!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeWell done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do our best!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder and harder!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Harder, harder, harder!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Push yourself!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeWell done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do our best!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder and harder!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Harder, harder, harder!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Push yourself!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeWell done!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffe\xf000Ă\x0001\x0002!\xf000븀\x0000\xfffeLet's do our best!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000Ă\x0001\x0002!\xfffePush yourself harder and harder!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Harder, harder, harder!\xfffePush yourself harder!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: Push yourself!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeWell done!\xf000븁\x0000
+                                      
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeNow, enjoy.\xf000븁\x0000\xfffeMunch, munch, gulp.\xfffeMunch, munch, gulp.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffeenjoyed the food!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeNow, enjoy.\xf000븁\x0000\xfffeMunch, munch, gulp.\xfffeMunch, munch, gulp.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffeenjoyed the food!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeNow, enjoy.\xf000븁\x0000\xfffeGulp, gulp, gulp.\xfffeGulp, gulp, gulp.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffeenjoyed the drink!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeNow, enjoy.\xf000븁\x0000\xfffeGulp, gulp, gulp.\xfffeGulp, gulp, gulp.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffeenjoyed the drink!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeNow, enjoy.\xf000븁\x0000\xfffeMunch, munch, gulp.\xfffeGulp, gulp, gulp.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffeenjoyed the meal!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeNow, enjoy.\xf000븁\x0000\xfffeMunch, munch, gulp.\xfffeGulp, gulp, gulp.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffeenjoyed the meal!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeI'll make you beautiful.\xf000븁\x0000\xfffeSnip, snip, snip!\xfffeSnip, snip, snip!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffefeels refreshed!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeI'll make you beautiful.\xf000븁\x0000\xfffeSnip, snip, snip!\xfffeSnip, snip, snip!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffefeels refreshed!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeI'll make you beautiful.\xf000븁\x0000\xfffeScrub, scrub, scrub.\xfffeScrub, scrub, scrub.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffefeels refreshed!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeI'll make you beautiful.\xf000븁\x0000\xfffeScrub, scrub, scrub.\xfffeScrub, scrub, scrub.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffefeels refreshed!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeI'll make you beautiful.\xf000븁\x0000\xfffePat, pat, pat, pat.\xfffePat, pat, pat, pat.\xf000븁\x0000\xfffeRustle, rustle, squeak, squeak.\xfffeRustle, rustle, squeak, squeak.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffefeels refreshed!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeI'll make you beautiful.\xf000븁\x0000\xfffePat, pat, pat, pat.\xfffePat, pat, pat, pat.\xf000븁\x0000\xfffeRustle, rustle, squeak, squeak.\xfffeRustle, rustle, squeak, squeak.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffefeels refreshed!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeI'll make you beautiful.\xf000븁\x0000\xfffeRustle, rustle, shh, shhh.\xfffeRustle, rustle, shh, shhh.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffefeels refreshed!\xf000븁\x0000
+\xf000Ā\x0001\x0000: \xf000ķ\x0001\x0001\xfffeI'll make you beautiful.\xf000븁\x0000\xfffeRustle, rustle, shh, shhh.\xfffeRustle, rustle, shh, shhh.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ă\x0001\x0002\xfffefeels refreshed!\xf000븁\x0000
+    
+    
+\xf000Ā\x0001\x0001: \xf000ķ\x0001\x0000\xfffeNothing special!\xf000븁\x0000
+I defeated the Champion\xfffeand entered the Hall of Fame\xf000븀\x0000\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I battled in the Battle Subway\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I shot a movie in Pokéstar Studios\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I took a Battle Test at the\xfffeBattle Institute on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I participated in the Pokémon Musical\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I entered someone's world in the\xfffeEntralink on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I tried a Funfest Mission\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I hatched a Pokémon Egg\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I raised a Pokémon's level\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was watching TV\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I checked inside a trash can\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I gave one of my Pokémon a nickname\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I caught a Pokémon with a Super Rod\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was looking for hidden items\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I had a Pokémon Fossil restored\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was communicating in the Union Room\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was trading Pokémon through the GTS\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was trading Pokémon through\xfffeGTS Negotiations on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was watching somebody's Battle Video\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was battling via Random Matchup\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I took a Ferris-wheel ride\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was challenging the Black Tower\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was challenging\xfffethe Pokémon World Tournament\xf000븀\x0000\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was raising the popularity of\xfffeJoin Avenue on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was playing a game on the Xtransceiver\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was communicating in the Wi-Fi Club\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was looking for Hidden Grottoes\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I connected to the Pokémon Dream World\xfffeusing Game Sync on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I received a Mystery Gift from a\xfffedeliveryman on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was communicating via\xfffeInfrared Connection on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I caught a wild Pokémon\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was challenging the White Treehollow\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0001: \xf000ķ\x0001\x0000\xfffeNothing special!\xf000븁\x0000
+I defeated the Champion\xfffeand entered the Hall of Fame\xf000븀\x0000\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I battled in the Battle Subway\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I shot a movie in Pokéstar Studios\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I took a Battle Test at the\xfffeBattle Institute on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I participated in the Pokémon Musical\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I entered someone's world in the\xfffeEntralink on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I tried a Funfest Mission\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I hatched a Pokémon Egg\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I raised a Pokémon's level\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was watching TV\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I checked inside a trash can\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I gave one of my Pokémon a nickname\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I caught a Pokémon with a Super Rod\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was looking for hidden items\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I had a Pokémon Fossil restored\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was communicating in the Union Room\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was trading Pokémon through the GTS\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was trading Pokémon through\xfffeGTS Negotiations on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was watching somebody's Battle Video\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was battling via Random Matchup\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I took a Ferris-wheel ride\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was challenging the Black Tower\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was challenging\xfffethe Pokémon World Tournament\xf000븀\x0000\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was raising the popularity of\xfffeJoin Avenue on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was playing a game on the Xtransceiver\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was communicating in the Wi-Fi Club\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was looking for Hidden Grottoes\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I connected to the Pokémon Dream World\xfffeusing Game Sync on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I received a Mystery Gift from a\xfffedeliveryman on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was communicating via\xfffeInfrared Connection on \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I caught a wild Pokémon\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+I was challenging the White Treehollow\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0000!\xf000븁\x0000
+...I have much more to say.\xf000븁\x0000
+...I have much more to say.\xf000븁\x0000
+Take a look!\xf000븁\x0000
+Take a look!\xf000븁\x0000
+I have no Medal\xfffeI can be proud of.\xf000븁\x0000
+I have no Medal\xfffeI can be proud of.\xf000븁\x0000
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to make everyone excited.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to make people's Pokémon\xfffemore beautiful.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to collect a lot of things\xfffeand surprise everyone.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to help everyone relax\xfffewith beautiful flowers.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to train people's Pokémon\xfffeand make them strong.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to spend my days\xfffehelping Pokémon Eggs hatch.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to collect unique items\xfffeand surprise everyone!
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to make delicious meals\xfffefor Pokémon and make them happy.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to make everyone excited.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to make people's Pokémon\xfffemore beautiful.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to collect a lot of things\xfffeand surprise everyone.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to help everyone relax\xfffewith beautiful flowers.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to train people's Pokémon\xfffeand make them strong.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to spend my days\xfffehelping Pokémon Eggs hatch.
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to collect unique items\xfffeand surprise everyone!
+If I were to make my dream come true\xfffeon this avenue...\xf000븁\x0000\xfffeI would want to make delicious meals\xfffefor Pokémon and make them happy.
+    
+I want to get excited about something!\xf000븁\x0000
+I want to get excited about something!\xf000븁\x0000
+I want to make my Pokémon\xfffemore beautiful.\xf000븁\x0000
+I want to make my Pokémon\xfffemore beautiful.\xf000븁\x0000
+I want to buy a lot of items\xfffethat only Trainers can use!\xf000븁\x0000
+I want to buy a lot of items\xfffethat only Trainers can use!\xf000븁\x0000
+I want to get Berries.\xf000븁\x0000
+I want to get Berries.\xf000븁\x0000
+I want to train my Pokémon\xfffeto make it strong.\xf000븁\x0000
+I want to train my Pokémon\xfffeto make it strong.\xf000븁\x0000
+I want to hatch an Egg.\xf000븁\x0000
+I want to hatch an Egg.\xf000븁\x0000
+I want to find a rare treasure.\xf000븁\x0000
+I want to find a rare treasure.\xf000븁\x0000
+I want my Pokémon to eat\xfffea delicious meal.\xf000븁\x0000
+I want my Pokémon to eat\xfffea delicious meal.\xf000븁\x0000
+I want to get excited about something!\xf000븁\x0000
+I want to get excited about something!\xf000븁\x0000
+I want to make my Pokémon\xfffemore beautiful.\xf000븁\x0000
+I want to make my Pokémon\xfffemore beautiful.\xf000븁\x0000
+I want to buy a lot of items\xfffethat only Trainers can use!\xf000븁\x0000
+I want to buy a lot of items\xfffethat only Trainers can use!\xf000븁\x0000
+I want to get Berries.\xf000븁\x0000
+I want to get Berries.\xf000븁\x0000
+I want to train my Pokémon\xfffeto make it strong.\xf000븁\x0000
+I want to train my Pokémon\xfffeto make it strong.\xf000븁\x0000
+I want to hatch an Egg.\xf000븁\x0000
+I want to hatch an Egg.\xf000븁\x0000
+I want to find a rare treasure.\xf000븁\x0000
+I want to find a rare treasure.\xf000븁\x0000
+I want my Pokémon to eat\xfffea delicious meal.\xf000븁\x0000
+I want my Pokémon to eat\xfffea delicious meal.\xf000븁\x0000
+I want to wander around the avenue.\xf000븁\x0000\xfffeIf there is a shop with a male clerk,\xfffeI want to go there.\xf000븁\x0000
+I want to wander around the avenue.\xf000븁\x0000\xfffeIf there is a shop with a male clerk,\xfffeI want to go there.\xf000븁\x0000
+I want to wander around the avenue.\xf000븁\x0000\xfffeIf there is a shop with a female\xfffeclerk, I want to go there.\xf000븁\x0000
+I want to wander around the avenue.\xf000븁\x0000\xfffeIf there is a shop with a female\xfffeclerk, I want to go there.\xf000븁\x0000
+I want to go shopping!\xf000븁\x0000
+I want to go shopping!\xf000븁\x0000
+I want to find a service\xfffethat makes my Pokémon great!\xf000븁\x0000
+I want to find a service\xfffethat makes my Pokémon great!\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of Link Trades."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of Link Trades."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of nicknames given."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of nicknames given."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1 in\xfffe“Number of customers met in the avenue."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1 in\xfffe“Number of customers met in the avenue."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Money spent shopping."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Money spent shopping."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of passersby."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of passersby."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of Link Battles."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of Link Battles."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of Pokémon caught."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of Pokémon caught."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of Eggs hatched."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of Eggs hatched."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of Medals."\xf000븁\x0000
+I'm wondering about a record.\xf000븁\x0000\xfffeI want to meet a person who is No. 1\xfffein “Number of Medals."\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Link Trades"\xf000븀\x0000\xfffeis 10 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Link Trades"\xf000븀\x0000\xfffeis 10 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of nicknames given"\xf000븀\x0000\xfffeis five or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of nicknames given"\xf000븀\x0000\xfffeis five or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of visitors met in\xf000븀\x0000\xfffethe avenue" is 10 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of visitors met in\xf000븀\x0000\xfffethe avenue" is 10 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Money spent shopping"\xf000븀\x0000\xfffeis 200,000 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Money spent shopping"\xf000븀\x0000\xfffeis 200,000 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of passersby"\xf000븀\x0000\xfffeis 25 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of passersby"\xf000븀\x0000\xfffeis 25 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Link Battles"\xf000븀\x0000\xfffeis 10 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Link Battles"\xf000븀\x0000\xfffeis 10 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Pokémon caught"\xf000븀\x0000\xfffeis 25 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Pokémon caught"\xf000븀\x0000\xfffeis 25 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Eggs hatched"\xf000븀\x0000\xfffeis 25 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Eggs hatched"\xf000븀\x0000\xfffeis 25 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Medals"\xf000븀\x0000\xfffeis 10 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Medals"\xf000븀\x0000\xfffeis 10 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Link Trades"\xf000븀\x0000\xfffeis 25 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Link Trades"\xf000븀\x0000\xfffeis 25 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of nicknames given"\xf000븀\x0000\xfffeis 15 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of nicknames given"\xf000븀\x0000\xfffeis 15 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of visitors met in\xf000븀\x0000\xfffethe avenue" is 35 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of visitors met in\xf000븀\x0000\xfffethe avenue" is 35 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Money spent shopping"\xf000븀\x0000\xfffeis 400,000 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Money spent shopping"\xf000븀\x0000\xfffeis 400,000 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of passersby"\xf000븀\x0000\xfffeis 50 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of passersby"\xf000븀\x0000\xfffeis 50 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Link Battles"\xf000븀\x0000\xfffeis 25 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Link Battles"\xf000븀\x0000\xfffeis 25 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Pokémon caught"\xf000븀\x0000\xfffeis 50 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Pokémon caught"\xf000븀\x0000\xfffeis 50 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Eggs hatched"\xf000븀\x0000\xfffeis 60 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Eggs hatched"\xf000븀\x0000\xfffeis 60 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Medals"\xf000븀\x0000\xfffeis 25 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Medals"\xf000븀\x0000\xfffeis 25 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Link Trades"\xf000븀\x0000\xfffeis 50 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Link Trades"\xf000븀\x0000\xfffeis 50 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of nicknames given"\xf000븀\x0000\xfffeis 30 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of nicknames given"\xf000븀\x0000\xfffeis 30 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of visitors met in\xf000븀\x0000\xfffethe avenue" is 70 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of visitors met in\xf000븀\x0000\xfffethe avenue" is 70 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Money spent shopping"\xf000븀\x0000\xfffeis 1,000,000 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Money spent shopping"\xf000븀\x0000\xfffeis 1,000,000 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of passersby"\xf000븀\x0000\xfffeis 100 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of passersby"\xf000븀\x0000\xfffeis 100 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Link Battles"\xf000븀\x0000\xfffeis 50 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Link Battles"\xf000븀\x0000\xfffeis 50 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Pokémon caught"\xf000븀\x0000\xfffeis 100 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Pokémon caught"\xf000븀\x0000\xfffeis 100 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Eggs hatched"\xf000븀\x0000\xfffeis 125 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Eggs hatched"\xf000븀\x0000\xfffeis 125 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Medals"\xf000븀\x0000\xfffeis 50 or more?\xf000븁\x0000
+I want to challenge a record.\xf000븁\x0000\xfffeIs there a person\xfffewhose “Number of Medals"\xf000븀\x0000\xfffeis 50 or more?\xf000븁\x0000
+Do you know of any great shops\xfffethat opened recently?\xf000븁\x0000
+I want to wander around the avenue.\xf000븁\x0000\xfffeThere's only one person I like...\xfffeIs there anyone who understands\xf000븀\x0000\xfffesuch a feeling?\xf000븁\x0000
+I want to wander around the avenue.\xf000븁\x0000\xfffeThere's only one person I like...\xfffeIs there anyone who understands\xf000븀\x0000\xfffesuch a feeling?\xf000븁\x0000
+I want to wander around the avenue.\xf000븁\x0000\xfffeThere's no one I especially like...\xfffeIs there anyone who understands\xf000븀\x0000\xfffesuch a feeling?\xf000븁\x0000
+I want to wander around the avenue.\xf000븁\x0000\xfffeThere's no one I especially like...\xfffeIs there anyone who understands\xf000븀\x0000\xfffesuch a feeling?\xf000븁\x0000
+I want to wander around the avenue.\xf000븁\x0000\xfffeI like a lot of people...\xfffeIs there anyone who understands\xf000븀\x0000\xfffesuch a feeling?\xf000븁\x0000
+I want to wander around the avenue.\xf000븁\x0000\xfffeI like a lot of people...\xfffeIs there anyone who understands\xf000븀\x0000\xfffesuch a feeling?\xf000븁\x0000
+I want to wander around the avenue.\xf000븁\x0000\xfffeI'm not interested in liking someone.\xfffeIs there anyone who understands\xf000븀\x0000\xfffesuch a feeling?\xf000븁\x0000
+I want to wander around the avenue.\xf000븁\x0000\xfffeI'm not interested in liking someone.\xfffeIs there anyone who understands\xf000븀\x0000\xfffesuch a feeling?\xf000븁\x0000
+I want to go to a shop\xfffewhere a reliable big brother\xf000븀\x0000\xfffeor big sister is working.\xf000븁\x0000
+I want to go to a shop\xfffewhere a reliable big brother\xf000븀\x0000\xfffeor big sister is working.\xf000븁\x0000
+I want to go to a shop where a middle\xfffechild is working. I bet that person\xf000븀\x0000\xfffewould be very helpful.\xf000븁\x0000
+I want to go to a shop where a middle\xfffechild is working. I bet that person\xf000븀\x0000\xfffewould be very helpful.\xf000븁\x0000
+I want to go to a shop\xfffewhere a little brother or\xf000븀\x0000\xfffelittle sister is working.\xf000븁\x0000
+I want to go to a shop\xfffewhere a little brother or\xf000븀\x0000\xfffelittle sister is working.\xf000븁\x0000
+I want to go to a shop\xfffewhere an only child is working.\xf000븁\x0000
+I want to go to a shop\xfffewhere an only child is working.\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of young male friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of young male friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of young female friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of young female friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of male friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of male friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of female friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of female friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of middle-aged male friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of middle-aged male friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of middle-aged female friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of middle-aged female friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of elderly male friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of elderly male friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of elderly female friends?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there anyone who has\xfffea lot of elderly female friends?\xf000븁\x0000
+I heard there is a shop featuring\xfffecoolness as a selling point...\xf000븁\x0000
+I heard there is a shop featuring\xfffecoolness as a selling point...\xf000븁\x0000
+I heard there is a shop featuring\xfffebeauty as a selling point...\xf000븁\x0000
+I heard there is a shop featuring\xfffebeauty as a selling point...\xf000븁\x0000
+I heard there is a shop featuring\xfffecuteness as a selling point...\xf000븁\x0000
+I heard there is a shop featuring\xfffecuteness as a selling point...\xf000븁\x0000
+I heard there is a shop featuring\xfffecleverness as a selling point...\xf000븁\x0000
+I heard there is a shop featuring\xfffecleverness as a selling point...\xf000븁\x0000
+I heard there is a shop featuring\xfffetoughness as a selling point...\xf000븁\x0000
+I heard there is a shop featuring\xfffetoughness as a selling point...\xf000븁\x0000
+It's a wonderful avenue!\xfffePlease take me to a shop you recommend!\xf000븁\x0000
+It's a wonderful avenue!\xfffePlease take me to a shop you recommend!\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeDo you know anyone who would confess\xfffetheir feelings to someone they like?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeDo you know anyone who would confess\xfffetheir feelings to someone they like?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeDo you know anyone who would wait for\xfffethe person they like to approach them?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeDo you know anyone who would wait for\xfffethe person they like to approach them?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeDo you know a very meticulous person?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeDo you know a very meticulous person?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeDo you know a very sloppy person?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeDo you know a very sloppy person?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there a person whose room\xfffeis likely to be neat?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there a person whose room\xfffeis likely to be neat?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there a person whose room\xfffeis messy?\xf000븁\x0000
+I want to make friends.\xf000븁\x0000\xfffeIs there a person whose room\xfffeis messy?\xf000븁\x0000
+I want to go to a shop run by a person\xfffewho thinks a dream is something\xf000븀\x0000\xfffeto make come true!\xf000븁\x0000
+I want to go to a shop run by a person\xfffewho thinks a dream is something\xf000븀\x0000\xfffeto make come true!\xf000븁\x0000
+I want to go to a shop run by a person\xfffewho thinks a dream is something\xf000븀\x0000\xfffeto give up.\xf000븁\x0000
+I want to go to a shop run by a person\xfffewho thinks a dream is something\xf000븀\x0000\xfffeto give up.\xf000븁\x0000
+Is there a person who thinks\xffferules are something to follow\xf000븀\x0000\xfffeno matter what?\xf000븁\x0000
+Is there a person who thinks\xffferules are something to follow\xf000븀\x0000\xfffeno matter what?\xf000븁\x0000
+Is there a person who thinks\xffferules are something to create\xf000븀\x0000\xffferather than follow?\xf000븁\x0000
+Is there a person who thinks\xffferules are something to create\xf000븀\x0000\xffferather than follow?\xf000븁\x0000
+Is there a person who thinks\xffferules are something to break\xf000븀\x0000\xffferather than follow?\xf000븁\x0000
+Is there a person who thinks\xffferules are something to break\xf000븀\x0000\xffferather than follow?\xf000븁\x0000
+Is there a person who thinks\xfffeeffort is more important\xf000븀\x0000\xfffethan talent?\xf000븁\x0000
+Is there a person who thinks\xfffeeffort is more important\xf000븀\x0000\xfffethan talent?\xf000븁\x0000
+Is there a person who thinks\xfffetalent is more important\xf000븀\x0000\xfffethan effort?\xf000븁\x0000
+Is there a person who thinks\xfffetalent is more important\xf000븀\x0000\xfffethan effort?\xf000븁\x0000
+I want to go to a shop run by\xfffea happy person who forgets\xf000븀\x0000\xfffea bad thing easily.\xf000븁\x0000
+I want to go to a shop run by\xfffea happy person who forgets\xf000븀\x0000\xfffea bad thing easily.\xf000븁\x0000
+I want to go to a shop run by\xfffea serious person who dwells on\xf000븀\x0000\xfffea bad thing for a while.\xf000븁\x0000
+I want to go to a shop run by\xfffea serious person who dwells on\xf000븀\x0000\xfffea bad thing for a while.\xf000븁\x0000
+I want to go to a shop run by\xfffean impatient person.\xf000븁\x0000
+I want to go to a shop run by\xfffean impatient person.\xf000븁\x0000
+I want to go to a shop run by\xfffea laid-back person.\xf000븁\x0000
+I want to go to a shop run by\xfffea laid-back person.\xf000븁\x0000
+I want to go to a shop run by\xfffea person who loves to chat.\xf000븁\x0000
+I want to go to a shop run by\xfffea person who loves to chat.\xf000븁\x0000
+I want to go to a shop run by\xfffea good listener.\xf000븁\x0000
+I want to go to a shop run by\xfffea good listener.\xf000븁\x0000
+Is there a tight-lipped person\xfffewho keeps secrets?\xf000븁\x0000
+Is there a tight-lipped person\xfffewho keeps secrets?\xf000븁\x0000
+Is there a loose-tongued person\xfffewho can't keep secrets?\xf000븁\x0000
+Is there a loose-tongued person\xfffewho can't keep secrets?\xf000븁\x0000
+I want to go there...\xfffeYou know! There!\xf000븁\x0000
+I want to go there...\xfffeYou know! There!\xf000븁\x0000
+Now, where do you think\xfffeI want to go?\xf000븁\x0000
+Now, where do you think\xfffeI want to go?\xf000븁\x0000
+Take me somewhere! Anywhere!\xf000븁\x0000
+Take me somewhere! Anywhere!\xf000븁\x0000
+Frankly, the place I want to go\xfffeis there!\xf000븁\x0000
+Frankly, the place I want to go\xfffeis there!\xf000븁\x0000
+I've decided where I want to go!\xfffeNow, please take me there!\xf000븁\x0000
+I've decided where I want to go!\xfffeNow, please take me there!\xf000븁\x0000
+Take me where I want to go!\xfffeWith your intuition!\xf000븁\x0000
+Take me where I want to go!\xfffeWith your intuition!\xf000븁\x0000
+I want to go to a shop run by\xfffea very strange person.\xf000븁\x0000
+I want to go to a shop run by\xfffea very strange person.\xf000븁\x0000
+I want to go to a shop run by\xfffea very strange person.\xf000븁\x0000
+I want to go to a shop run by\xfffea very strange person.\xf000븁\x0000
+I want to go to a shop run by\xfffea very strange person.\xf000븁\x0000
+I want to go to a shop run by\xfffea very strange person.\xf000븁\x0000
+I want to go to a shop run by\xfffea very strange person.\xf000븁\x0000
+I want to go to a shop run by\xfffea very strange person.\xf000븁\x0000
+I want to go to a flashy shop.\xf000븁\x0000
+I want to go to a flashy shop.\xf000븁\x0000
+I want to go to a shop\xfffewith a country look.\xf000븁\x0000
+I want to go to a shop\xfffewith a country look.\xf000븁\x0000
+I want to go to a cute shop.\xf000븁\x0000
+I want to go to a cute shop.\xf000븁\x0000
+I want to go to a shop\xfffewith a cool and mature look.\xf000븁\x0000
+I want to go to a shop\xfffewith a cool and mature look.\xf000븁\x0000
+Is there a place\xfffewhere I can test my intuition?\xf000븁\x0000
+Is there a place\xfffewhere I can test my intuition?\xf000븁\x0000
+Is there a place\xfffewhere I can relax?\xf000븁\x0000
+Is there a place\xfffewhere I can relax?\xf000븁\x0000
+Is there a place\xfffewhere I can warm up?\xf000븁\x0000
+Is there a place\xfffewhere I can warm up?\xf000븁\x0000
+I want to see the craftsmanship\xfffeof a person in a shop.\xf000븁\x0000
+I want to see the craftsmanship\xfffeof a person in a shop.\xf000븁\x0000
+Is there any place\xfffewhere boys will be thrilled?\xf000븁\x0000
+Is there any place\xfffewhere boys will be thrilled?\xf000븁\x0000
+Is there any place\xfffewhere girls will be thrilled?\xf000븁\x0000
+Is there any place\xfffewhere girls will be thrilled?\xf000븁\x0000
+I want to win prizes.\xf000븁\x0000
+I want to win prizes.\xf000븁\x0000
+Is there a place\xfffewhere I can be less stressed?\xf000븁\x0000
+Is there a place\xfffewhere I can be less stressed?\xf000븁\x0000
+Is there a place\xfffewhere I can enjoy window shopping?\xf000븁\x0000
+Is there a place\xfffewhere I can enjoy window shopping?\xf000븁\x0000
+I want to go to a place\xfffewhere Pokémon are.\xf000븁\x0000
+I want to go to a place\xfffewhere Pokémon are.\xf000븁\x0000
+Is there a place where\xfffeI can lounge around?\xf000븁\x0000
+Is there a place where\xfffeI can lounge around?\xf000븁\x0000
+I want to get a good deal.\xf000븁\x0000
+I want to get a good deal.\xf000븁\x0000
+I want to go to a shop run by\xfffea dynamic person.\xf000븁\x0000
+I want to go to a shop run by\xfffea dynamic person.\xf000븁\x0000
+I want to go to a shop run by\xfffea careful person.\xf000븁\x0000
+I want to go to a shop run by\xfffea careful person.\xf000븁\x0000
+I have a little problem. Is there anyone\xfffewho will listen to my problem?\xf000븁\x0000
+I have a little problem. Is there anyone\xfffewho will listen to my problem?\xf000븁\x0000
+I want to listen to a fun story.\xf000븁\x0000
+I want to listen to a fun story.\xf000븁\x0000
+I want to talk about love. Is there\xfffeanyone I can talk to?\xf000븁\x0000
+I want to talk about love. Is there\xfffeanyone I can talk to?\xf000븁\x0000
+Do you know of a very reliable person?\xf000븁\x0000
+Do you know of a very reliable person?\xf000븁\x0000
+Do you know anyone who's\xfffea little bit charismatic?\xf000븁\x0000
+Do you know anyone who's\xfffea little bit charismatic?\xf000븁\x0000
+\xf000Ā\x0001\x0000\xfffeenjoyed shopping.\xf000븁\x0000
+\xf000Ā\x0001\x0000's Pokémon\xfffebecame beautiful.\xf000븁\x0000
+\xf000Ā\x0001\x0000's Pokémon\xfffewas trained to be strong.\xf000븁\x0000
+\xf000Ā\x0001\x0000\xfffeenjoyed looking at rare treasures.\xf000븁\x0000
+\xf000Ā\x0001\x0000\xfffehad an Egg hatched.\xf000븁\x0000
+\xf000Ā\x0001\x0000\xfffeenjoyed shopping.\xf000븁\x0000
+\xf000Ā\x0001\x0000's Pokémon\xfffeenjoyed some lovely refreshments.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001?\xf000븀\x0000\xfffeIt's a wonderful place!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000\xfffeA great person, \xf000Ā\x0001\x0002, is here.\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000 drew a raffle\xfffeand got excited.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001?\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000\xfffeA great person, \xf000Ā\x0001\x0002, is here.\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000\xfffeA great person, \xf000Ā\x0001\x0002, is here.\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000\xfffeA great person, \xf000Ā\x0001\x0002, is here.\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000\xfffeAn average person, \xf000Ā\x0001\x0002, is here.\xfffeIt's an average place.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000\xfffeAn average person, \xf000Ā\x0001\x0002, is here.\xfffeIt's an average place.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000\xfffeAn OK person, \xf000Ā\x0001\x0002, is here.\xfffeIt's an OK place.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000\xfffeAn OK person, \xf000Ā\x0001\x0002, is here.\xfffeIt's an OK place.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000\xfffeThis is it!\xfffeThis is where I wanted to go!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000\xfffeThis is it!\xfffeThis is where I wanted to go!\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000:\xfffe\xf000ĸ\x0001\x0001!\xf000븀\x0000\xfffeIt's a wonderful place.\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000\xfffeAs recommended,\xfffeit's very nice!\xf000븁\x0000
+\xf000Ā\x0001\x0000: ...!\xfffe\xf000ĸ\x0001\x0001!\xf000븁\x0000\xfffeAs recommended,\xfffeit's very nice!\xf000븁\x0000
+I heard that a certain Gym Leader\xfffehas been coming here lately.\xf000븁\x0000
+
+    
+Tag Mode
+Infrared Connection
+Union
+Random Matchup
+GTS Negotiations
+Entralink
+GTS
+Pokémon Dream World
+Hi, \xf000ĺ\x0001\x0000!\xfffeDo you have someone you like?
+What do you do when you like someone?
+Hi, \xf000ĺ\x0001\x0000!\xfffeTell me your most charming feature!
+\xf000ĺ\x0001\x0000, what kind of person are you?
+\xf000ĺ\x0001\x0000, do you have siblings?\xfffeAre you the oldest, the youngest,\xf000븀\x0000\xfffeor in the middle?
+\xf000ĺ\x0001\x0000, what type of people\xfffedo you have as friends?
+\xf000ĺ\x0001\x0000, what does your room\xfffelook like?
+\xf000ĺ\x0001\x0000, what do you do with a dream?
+\xf000ĺ\x0001\x0000, what do you do with rules?
+\xf000ĺ\x0001\x0000, which of these do you\xfffeneed more?
+\xf000ĺ\x0001\x0000, what is the hottest thing\xfffein the Unova region?
+\xf000ĺ\x0001\x0000, which region is\xfffeyour favorite?
+\xf000ĺ\x0001\x0000, what do you do when\xfffea bad thing happens to you?
+\xf000ĺ\x0001\x0000, what is your personality?
+\xf000ĺ\x0001\x0000, do you prefer to talk\xfffeor to listen?
+\xf000ĺ\x0001\x0000, what do you do when\xfffeyou learn an important secret?
+    
+Yes
+No
+Many
+Not interested
+Tell the person about it
+Wait for the other person to say it first
+Coolness
+Beauty
+Cuteness
+Cleverness
+Toughness
+Good person
+Ordinary person
+Strange person
+Oldest
+Middle
+Youngest
+Only child
+Boys
+Girls
+Men
+Women
+Middle-aged men
+Middle-aged women
+Elderly men
+Elderly women
+Neat
+Messy
+Make it come true
+Give it up
+Follow them
+Create new ones
+Break them
+Effort
+Talent
+Pokéstar Studios
+Funfest Mission
+The PWT
+Join Avenue
+Black City
+White Forest
+Medal Rally
+Xtransceiver
+Hidden Grottoes
+Kanto
+Johto
+Hoenn
+Sinnoh
+Unova
+Forget it and move on
+Dwell on it
+Meticulous
+Sloppy
+Impatient
+Laid-back
+Talk
+Listen
+Keep it to myself
+Tell someone about it
+Listen, listen!\xf000븁\x0000\xfffeI heard \xf000Ā\x0001\x0000\xfffelikes someone!\xf000븁\x0000\xfffeI wonder what that person is like!\xfffeI'm very curious!\xf000븁\x0000
+Listen, listen!\xf000븁\x0000\xfffeI heard there is no one\xfffe\xf000Ā\x0001\x0000 likes.\xf000븁\x0000\xfffeThat makes it harder to gossip!\xf000븁\x0000
+Listen, listen!\xf000븁\x0000\xfffeI heard \xf000Ā\x0001\x0000 likes\xfffemany people.\xf000븁\x0000\xfffeYou might be one of them!\xf000븁\x0000
+Listen, listen!\xf000븁\x0000\xfffeWhen I asked \xf000Ā\x0001\x0000 about liking\xfffesomeone, the response was,\xf000븀\x0000\xfffe“Not interested."\xf000븁\x0000\xfffeMaybe that was an insensitive question...\xf000븁\x0000\xfffeNext time you meet \xf000Ā\x0001\x0000,\xfffeplease be kind.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said, “When I like someone,\xfffeI'll tell that person about it."\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 seems to be very confident.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said, “When I like someone, I\xfffewait for that person to say it first."\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000 seems to be quite shy.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“My charming feature is coolness."\xf000븁\x0000\xfffeIndeed, if \xf000Ā\x0001\x0000 says,\xfffe“\xf000ķ\x0001\x0001"\xf000븀\x0000\xfffeI may be electrified by\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000's coolness.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“My charming feature is beauty."\xf000븁\x0000\xfffeIndeed, if \xf000Ā\x0001\x0000 says,\xfffe“\xf000ķ\x0001\x0001"\xf000븀\x0000\xfffeI may be electrified by\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000's beauty.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“My charming feature is cuteness."\xf000븁\x0000\xfffeIndeed, if \xf000Ā\x0001\x0000 says,\xfffe“\xf000ķ\x0001\x0001"\xf000븀\x0000\xfffeI may be electrified by\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000's cuteness.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“My charming feature is cleverness."\xf000븁\x0000\xfffeIndeed, if \xf000Ā\x0001\x0000 says,\xfffe“\xf000ķ\x0001\x0001"\xf000븀\x0000\xfffeI may be electrified by\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000's cleverness.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“My charming feature is toughness."\xf000븁\x0000\xfffeIndeed, if \xf000Ā\x0001\x0000 says,\xfffe“\xf000ķ\x0001\x0001"\xf000븀\x0000\xfffeI may be electrified by\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000's toughness.\xf000븁\x0000
+\xf000Ā\x0001\x0000 seems to be\xfffea good person.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000's favorite phrase,\xfffe“\xf000ķ\x0001\x0001"\xf000븀\x0000\xfffesounds like \xf000Ā\x0001\x0000 is a good person.\xf000븁\x0000
+\xf000Ā\x0001\x0000 seems to be\xfffean ordinary person.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000's favorite phrase,\xfffe“\xf000ķ\x0001\x0001"\xf000븀\x0000\xfffeis indeed ordinary.\xf000븁\x0000
+\xf000Ā\x0001\x0000 seems to be\xfffea strange person.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000's favorite phrase,\xfffe“\xf000ķ\x0001\x0001"\xf000븀\x0000\xfffeis indeed strange.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“I'm the eldest child."\xf000븁\x0000\xfffeIn my opinion, \xf000Ā\x0001\x0000 looks like\xfffea reliable person.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“I'm a middle child."\xf000븁\x0000\xfffeIn my opinion, \xf000Ā\x0001\x0000 looks like a\xfffeperson who can be friends with everyone.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“I'm the youngest child."\xf000븁\x0000\xfffeIn my opinion, \xf000Ā\x0001\x0000 looks like a\xfffeperson who is a bit spoiled.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“I'm the only child."\xf000븁\x0000\xfffeIn my opinion, \xf000Ā\x0001\x0000 looks like a\xfffeperson who is a bit selfish.\xf000븁\x0000
+I heard the majority of \xf000Ā\x0001\x0000's\xfffefriends are boys.\xf000븁\x0000
+I heard the majority of \xf000Ā\x0001\x0000's\xfffefriends are girls.\xf000븁\x0000
+I heard the majority of \xf000Ā\x0001\x0000's\xfffefriends are men.\xf000븁\x0000
+I heard the majority of \xf000Ā\x0001\x0000's\xfffefriends are women.\xf000븁\x0000
+I heard the majority of \xf000Ā\x0001\x0000's\xfffefriends are middle-aged men.\xf000븁\x0000
+I heard the majority of \xf000Ā\x0001\x0000's\xfffefriends are middle-aged women.\xf000븁\x0000
+I heard the majority of \xf000Ā\x0001\x0000's\xfffefriends are elderly men.\xf000븁\x0000
+I heard the majority of \xf000Ā\x0001\x0000's\xfffefriends are elderly women.\xf000븁\x0000
+I heard \xf000Ā\x0001\x0000's room\xfffeis neat and tidy!\xf000븁\x0000
+I heard \xf000Ā\x0001\x0000's room\xfffeis very messy!\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“When I have a dream,\xf000븀\x0000\xfffeI make it come true!"\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“When I have a dream,\xf000븀\x0000\xfffeI give up on it."\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“I follow the rules."\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“I create new rules."\xf000븁\x0000
+\xf000Ā\x0001\x0000 said,\xfffe“I break the rules."\xf000븁\x0000
+I heard what \xf000Ā\x0001\x0000 needs now\xfffeis to make an effort.\xf000븁\x0000
+I heard what \xf000Ā\x0001\x0000 needs now\xfffeis talent.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said Pokéstar Studios is\xfffethe hottest thing in the Unova region.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said Funfest Missions are\xfffethe hottest thing in the Unova region.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said the PWT is the\xfffehottest thing in the Unova region.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said Join Avenue is the\xfffehottest thing in the Unova region.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said Black City is the\xfffehottest thing in the Unova region.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said White Forest is the\xfffehottest thing in the Unova region.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said the Medal Rally is\xfffethe hottest thing in the Unova region.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said the Xtransceiver is\xfffethe hottest thing in the Unova region.\xf000븁\x0000
+\xf000Ā\x0001\x0000 said Hidden Grottoes are\xfffethe hottest things in the Unova region.\xf000븁\x0000
+According to \xf000Ā\x0001\x0000,\xfffethe Kanto region is the best!\xf000븁\x0000
+According to \xf000Ā\x0001\x0000,\xfffethe Johto region is the best!\xf000븁\x0000
+According to \xf000Ā\x0001\x0000,\xfffethe Hoenn region is the best!\xf000븁\x0000
+According to \xf000Ā\x0001\x0000,\xfffethe Sinnoh region is the best!\xf000븁\x0000
+According to \xf000Ā\x0001\x0000,\xfffethe Unova region is the best!\xf000븁\x0000
+I heard that if a bad thing happens,\xfffe\xf000Ā\x0001\x0000 forgets it quickly.\xf000븁\x0000
+I heard that if a bad thing happens,\xfffe\xf000Ā\x0001\x0000 dwells on it\xf000븀\x0000\xfffefor a long time.\xf000븁\x0000
+I heard \xf000Ā\x0001\x0000 is meticulous.\xf000븁\x0000
+I heard \xf000Ā\x0001\x0000 is sloppy.\xf000븁\x0000
+I heard \xf000Ā\x0001\x0000 is impatient.\xf000븁\x0000
+I heard \xf000Ā\x0001\x0000 is a laid-back person.\xf000븁\x0000
+I heard \xf000Ā\x0001\x0000\xfffelikes to talk.\xf000븁\x0000
+I heard \xf000Ā\x0001\x0000\xfffelikes to listen to other people's stories.\xf000븁\x0000
+I heard \xf000Ā\x0001\x0000\xfffenever tells a secret after learning it.\xf000븁\x0000
+I heard \xf000Ā\x0001\x0000 always tells\xfffesomeone else a secret after learning it.\xf000븁\x0000
+People in this avenue\xfffeseldom answer my questions.
+Everybody is tight-lipped\xfffeand doesn't tell me things.
+Is it a difficult question?\xfffeNobody answers that one.
+Nobody has answered my question.
+Nobody answers my question.
+Actually, I haven't asked anybody.
+No one in this avenue\xfffeanswers my questions.
+People in this avenue may have\xfffeno interest in dreams.
+Nobody in this avenue\xfffewill say anything.
+Nobody in this avenue\xfffewill tell me anything.
+Nobody in this avenue\xfffewill tell me anything.
+Everybody is indecisive\xfffeand won't tell me their answer.
+Nobody answers that question.\xfffeI wonder if something bad happened?
+People here don't answer my questions.\xfffeI wonder if everyone is just tired\xf000븀\x0000\xfffeof talking.
+Nobody will tell me anything.\xfffeIs everybody tight-lipped?
+Nobody in this avenue\xfffewill tell me anything.
+    
+This place is so nice. Wouldn't it be\xfffelovely to be here with someone you like?\xf000븁\x0000
+Do you have someone you like?\xf000븁\x0000
+My Pokémon's charming feature\xfffeis cleverness!\xf000븁\x0000\xfffeThis street's charming feature\xfffeis beauty!\xf000븁\x0000
+I think people's personality types\xfffecan be roughly divided into two.\xf000븁\x0000
+I'm the youngest child. I have two\xfffebig brothers.\xf000븁\x0000\xfffePeople often wonder if I'm spoiled.\xf000븁\x0000
+The majority of my friends\xfffeare women.\xf000븁\x0000
+When your room is messy,\xfffedoesn't it annoy you?\xf000븁\x0000
+Do you have a dream?\xf000븁\x0000
+How do you feel about rules?\xf000븁\x0000
+Which one do you think\xfffeis more important?\xf000븁\x0000
+You've had a lot of adventures!\xfffeTell me about your favorite.\xf000븁\x0000
+This world where Pokémon live\xfffeis vast, isn't it?\xf000븁\x0000
+Ahhhhhhhhh!\xf000븁\x0000
+If anything, you are...?\xf000븁\x0000
+Will you listen to my story?\xf000븁\x0000
+If you learn a secret...\xfffewhat will you do?\xf000븁\x0000
+I see!
+I thought that might be the case!
+Oh, you do!
+I can see that!
+Ah.
+That's really interesting!
+I knew it!
+I thought so.
+I feel your conviction\xfffein your answer.
+Hmmm!
+I see...
+I'll try that next time.
+That's a great place, isn't it?
+I can understand that.
+I can see that from your appearance.
+I had a feeling.
+I'm sure I'd tell someone...
+\xf000ķ\x0001\x0000
+Tell me next time!\xf000븁\x0000
+Do you want to hear more?
+Do you want to know more?
+Would you like to hear about\xfffeother people, too?
+Do you want to hear more?
+I've asked other people, too...
+Do you want to keep listening?
+Do you want to know much more?
+Would you like to hear about everyone?
+It makes you think, doesn't it?
+I have more, but do you want to hear?
+Do you want to know more?
+I've heard a lot.
+Other people said...
+Do you want to hear more?
+And other people said...
+I have a lot more to tell you!\xfffeBut...do you want to keep listening?
+I want to tell you everything,\xfffeso please listen.
+    
+This place is the best place\xfffeto come with a person you like, isn't it?\xf000븁\x0000\xfffeI'm collecting fun stories\xfffeabout a person you like...
+This place is the best place\xfffeto come with a person you like.\xf000븁\x0000\xfffeI'm collecting rumors about a\xfffe“Person you like."
+I'm asking a question about\xfffe“When you like somebody."
+As for my Pokémon, cleverness!\xfffeAs for this street, beauty!\xf000븁\x0000\xfffeI'm asking a lot of people\xfffeabout a “Charming feature."
+I think “Personality"\xfffecan be roughly divided into two.
+I'm asking everyone about\xfffe“Siblings."
+I'm asking everyone about their\xfffe“Friend types."
+I'm asking about “Your room."
+I'm asking people about their “Dreams."
+I'm making a thorough survey\xfffeabout “Rules."
+I've been thinking about\xfffe“Talents and efforts."
+What is the “Hottest"\xfffething in the Unova region?
+I'm finding out about “Regions."
+I'm interested in what people do\xfffewhen a “Bad thing" happens.
+I'm observing everybody's “Behavior."
+I want to know stories\xfffeabout “Conversation."
+I wonder what people do\xfffewhen they learn a “Secret."
+Listen
+Answer
+Cancel
+I love \xf000Ĺ\x0001\x0000!\xf000븁\x0000\xfffeI love people in this avenue, too!\xf000븁\x0000\xfffeThat's why I'm checking\xfffeeveryone's history.\xf000븁\x0000\xfffeWhose history do you want to know?
+Then, I'll tell\xfffeas much of \xf000Ā\x0001\x0000's history\xf000븀\x0000\xfffeas I know.\xf000븁\x0000
+\xf000Ā\x0001\x0000's adventure began\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0001.\xf000븁\x0000
+I don't know when \xf000Ā\x0001\x0000's\xfffeadventure began...\xf000븁\x0000
+\xf000Ā\x0001\x0000 entered the Hall of Fame\xfffeon \xf000ȁ\x0001\x0002/\xf000ȁ\x0001\x0003/20\xf000ȁ\x0001\x0001.\xf000븁\x0000
+I'm not sure if \xf000Ā\x0001\x0000 has\xfffeentered the Hall of Fame yet...\xf000븁\x0000
+\xf000Ā\x0001\x0000 has been adventuring\xfffefor \xf000Ȃ\x0001\x0001 hour(s) and \xf000Ȃ\x0001\x0002 minute(s).\xf000븁\x0000
+I don't know how long\xfffe\xf000Ā\x0001\x0000 has been adventuring.\xf000븁\x0000
+Pokémon registered in \xf000Ā\x0001\x0000's\xfffePokédex: \xf000Ȃ\x0001\x0001.\xf000븁\x0000
+I'm not sure how many Pokémon are\xffferegistered in \xf000Ā\x0001\x0000's Pokédex...\xf000븁\x0000
+\xf000Ā\x0001\x0000 is enjoying\xfffean adventure with \xf000ā\x0001\x0001.\xf000븁\x0000
+I don't know which Pokémon\xfffe\xf000Ā\x0001\x0000 is traveling with...\xf000븁\x0000
+That is \xf000Ā\x0001\x0000's history.\xf000븁\x0000\xfffeDo you want to know more\xfffeabout \xf000Ā\x0001\x0000?
+\xf000Ā\x0001\x0000 is from\xfffe\xf000ĥ\x0001\x0002\xf000븀\x0000\xfffein \xf000Ĥ\x0001\x0001.\xf000븁\x0000
+\xf000Ā\x0001\x0000 is from\xfffe\xf000Ĥ\x0001\x0001.\xf000븁\x0000
+I don't know where\xfffe\xf000Ā\x0001\x0000 is from...\xf000븁\x0000
+\xf000Ā\x0001\x0000 is...\xfffe\xf000ď\x0001\x0001.\xf000븁\x0000\xfffeThat's what I heard.\xf000븁\x0000
+I don't know\xfffe\xf000Ā\x0001\x0000's occupation...\xf000븁\x0000
+What \xf000Ā\x0001\x0000 enjoys is\xfffe\xf000ď\x0001\x0001.\xf000븀\x0000\xfffeThat's what I heard.\xf000븁\x0000
+I'm not sure what\xfffe\xf000Ā\x0001\x0000 enjoys...\xf000븁\x0000
+\xf000Ā\x0001\x0000's Join Avenue is Rank \xf000ȁ\x0001\x0001.\xfffeThat's what I heard.\xf000븁\x0000
+I have no idea how much \xf000Ā\x0001\x0000's\xfffeJoin Avenue has developed...\xf000븁\x0000
+On \xf000Ā\x0001\x0000's\xfffeJoin Avenue...\xf000븁\x0000
+The number of shops is \xf000Ȁ\x0001\x0002.\xf000븁\x0000
+\xf000Ł\x0001\x0001? The number of\xfffethese shops is currently \xf000Ȁ\x0001\x0002.\xf000븁\x0000
+\xf000Ł\x0001\x0001? The number of\xfffethese shops is currently \xf000Ȁ\x0001\x0002.\xf000븁\x0000
+I don't know what kind of shops\xfffethey are...\xf000븁\x0000
+I love \xf000Ĺ\x0001\x0000!\xf000븁\x0000\xfffeI love people in this avenue, too!\xf000븁\x0000\xfffeI'll keep watching this avenue forever.\xf000븁\x0000\xfffePlease speak to me again!
+I'll tell you the rest of\xfffe\xf000Ā\x0001\x0000's history.\xf000븁\x0000
+See you.
+\xf000Ā\x0001\x0000
+New Avenue
+Fresh Avenue
+Average Avenue
+Secret Avenue
+Decent Avenue
+Famous Avenue
+Great Avenue
+People's Avenue
+Dream Avenue
+Terrific Avenue
+Celebrity Avenue
+Unova's Best Avenue
+Hall of Fame Avenue
+World's Best Avenue
+Magnificent Avenue
+           
+          
+Whaaat?
+What?!
+Right!
+Pow!
+Hey!
+Meow!
+You!
+Argh.
+Hehehe.
+Oh no.
+Heh heh.
+Oh, oh!
+Fine.
+Cool!
+'Sup!
+Yes. ♪
+Sort of.
+Look!
+Aha?
+Excited!
+Obliged!
+Oh, boy.
+Love ya!
+Don't...
+Meh.
+Whooosh.
+Tee hee!
+Happy!
+Angry!
+Aha.
+I know!
+Aye!
+Yeeeek!
+No, no.
+Not bad!
+Chuckle.
+Gwahaha.
+Hah, ha.
+Waaah.
+Wazzup?
+Wait!
+Teehee.
+Hi. ♥
+Help? ♥
+Huh...?
+La-la. ♪
+Ehhhh.
+Booo.
+Gulp.
+Whoops.
+Heeey!
+Phew. ♪
+Ughh...
+Pokémon!
+What?
+Bz-zz-z.
+Bah!
+Psst!
+Over?
+Bababa.
+Go! Go!
+Eeeeek!
+Hello.
+Charge!
+Amazing!
+Fun!
+Hi. ♥
+Look.
+Aww...
+Tictic.
+Wow!
+No!
+Come on!
+Yahoo!
+Hee haw!
+Teehe. ♥
+Wahaha.
+Awesome!
+Vrooom!
+Kidding!
+Yay!
+Really?
+Great!
+Fab!
+Woooow!
+Cool. ♪
+Sweet!
+Yeah!
+Oh!
+Bravo!
+Wooow!
+Oh dear!
+Waaah.
+Neat.
+!!!
+Yahoo. ♪
+I see!
+Superb!
+Yay yay!
+Whoooa.
+Hmmm?
+Thanks!
+Groovy.
+No way!
+Love it!
+Hee!
+Muahaha.
+Heehee.
+Mom.
+Good.
+I can't.
+Hmhmhm.
+Bye. ♥
+Danke. ♥
+Whaaat?
+Yay!
+Sick!
+♥♥♥
+Ahhhh.
+Oh no!
+Wahaha.
+Heehee.
+Boooom!
+Love ya.
+Aha.
+♪♪♪
+Whaaa?
+Sorry!
+Start!
+Baabooo!
+Yay!
+Sorry!
+See ya!
+Wooooo!
+Pit pat.
+Shrieek!
+Trouble?
+Got it.
+Fixed.
+Aha!
+Hi.
+Ossu.
+Bonjour.
+Hallo.
+Ciao.
+Hola.
+Ni hao.
+Ossu.
+Aloha.
+Haai!
+Yahoo!
+Hurray!
+OK!
+Howdy!
+Thanks.
+G'day. ♪
+Oh, hi.
+Salute!
+Heeey!
+Shaky...
+Yo!
+Oh my.
+Ya know?
+Yo...
+Fluffy.
+3, 2, 1!
+Tired?
+Hai-yah!
+Come!
+Bow!
+Me, me!
+Heh heh!
+Laters.
+G'night!
+What...?
+Great!
+Nice.
+Oops...
+Promise.
+Regards.
+Hmmm...
+Uh-huh.
+No way!
+Ho-ho.
+Super.
+Hen hao.
+Ohhhhhh!
+Waaaaaa!
+Cheers!
+Whaaat?
+Hmmm?
+I ♥ you.
+Cute. ♥
+Sweet. ♥
+Love! ♥
+Sigh.
+Food!
+Yummy.
+OK!
+No fear!
+Happy!
+But...
+Do it.
+Perfect!
+Welcome.
+Hello.
+Charmed.
+Thanks.
+Waiting.
+Bye!
+Janus
+Venus
+Jacci
+Future
+Elethia
+Gardner
+Artos
+Alena
+Azzo
+Antonie
+Arhippa
+Alibena
+Anton
+Asta
+Anselmi
+Anneli
+Alpi
+Anelma
+Aleron
+Ainikki
+Arpo
+Armina
+Axel
+Assunta
+Assar
+Alwyn
+Atilio
+Annetta
+Amando
+Agata
+Jacorey
+Jaclyn
+Jaylen
+Josie
+Justan
+Jeanne
+Jule
+Julie
+Jasper
+Jocelyn
+Jephew
+Jannis
+Jonas
+Jenna
+Joakim
+Joan
+Julian
+Janette
+Julio
+Jane
+Jimbo
+Jess
+Joelle
+Judith
+큃醔왓翍
+䧠
+㧈
+
+ῳ
+홓懤
+즄\xa643鮌
+쉍懈웳翍
+퉑䙓鴎
+퉈↰
+Cheren: I heard about \xf000Ĺ\x0001\x0001\xfffeand decided to visit.\xf000븁\x0000
+Roxie: Yo! This is\xfffe\xf000Ĺ\x0001\x0001, right?\xf000븁\x0000
+Burgh: Huh...\xfffeWhat is this place?\xf000븁\x0000\xfffeHmm. I see. This is\xfffe\xf000Ĺ\x0001\x0001.\xf000븁\x0000
+Elesa: Here!\xfffeThis \xf000Ĺ\x0001\x0001 sure is\xf000븀\x0000\xfffedazzling!\xf000븁\x0000
+Clay: I went outta my way to check\xfffethis place out!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0001 is gettin'\xfffepretty famous!\xf000븁\x0000
+Skyla: Wow! Good! Great!\xf000븁\x0000\xfffe\xf000Ĺ\x0001\x0001 is even cooler\xfffethan I heard!\xf000븁\x0000
+Drayden: As the mayor of Opelucid City,\xfffeI'm very curious about development\xf000븀\x0000\xfffeof new avenues.\xf000븁\x0000\xfffeYour \xf000Ĺ\x0001\x0001\xfffeis really great!\xf000븁\x0000
+Marlon: Wow! This is\xfffe\xf000Ĺ\x0001\x0001!\xf000븁\x0000\xfffeI can't say it well, but it's great!\xf000븁\x0000
+Hilbert: I heard about \xf000Ĺ\x0001\x0001\xfffeand decided to visit.\xf000븁\x0000
+Hilda: I heard about \xf000Ĺ\x0001\x0001\xfffeand decided to visit.\xf000븁\x0000
+Well.\xf000븁\x0000\xfffeI'm curious about places\xfffeto help Pokémon grow.\xf000븁\x0000
+I want to blow off some steam, so\xfffeI'll tell you exactly where I want to go.\xf000븁\x0000\xfffeA Café! A Flower Shop! A Nursery!\xfffeA Beauty Salon! A Dojo!\xf000븀\x0000\xfffeKnow where I can find these shops?\xf000븁\x0000
+Mm-hmm...\xf000븁\x0000\xfffeI want to go somewhere beautiful and\xfffequiet that makes me feel like painting.\xf000븁\x0000
+I feel like going to a shop\xfffewhere a dazzlingly cute girl works.\xf000븁\x0000
+I want to go diggin' for treasure.\xfffeOr maybe see about winnin' a prize.\xf000븁\x0000
+I just want to shop!\xf000븁\x0000
+M'hm... Well.\xf000븁\x0000\xfffeI'd like you to take me to\xfffea place you recommend.\xf000븁\x0000
+Now I feel like going to a place\xffferun by a very energetic man!\xf000븁\x0000
+    
+    
+Thanks!\xfffeThen, I'll go there.\xf000븁\x0000
+Thanks!\xfffeI'm going to have a blast!\xf000븁\x0000
+Mm-hmm...\xfffeI'm off, then.\xf000븁\x0000
+I'm sure the girl is shining!\xf000븁\x0000
+You think so, huh?\xfffeOK. I'll check it out.\xf000븁\x0000
+OK!\xf000븁\x0000
+Hmm!\xfffeThen, I'll go have a look.\xf000븁\x0000
+I see.\xfffeThen, I'll go there!\xf000븁\x0000
+Then, I'm off to the place\xfffeyou suggested.\xf000븁\x0000
+Then, I'm off to the place\xfffeyou suggested.\xf000븁\x0000
+Cheren: This is...\xfffeWhat kind of shop is this?\xf000븁\x0000
+Roxie: I want to know about\xfffethis shop!\xf000븁\x0000
+Burgh: Mmm!\xfffeI'm curious about this place.\xf000븁\x0000
+Elesa: I should check\xfffewhat kind of shop this is.\xf000븁\x0000
+Clay: And what kinda shop\xfffeis this?\xf000븁\x0000
+Skyla: Hey.\xfffeI want to know more about this shop!\xf000븁\x0000
+Drayden: Here now...\xfffeWhat kind of shop is this?\xf000븁\x0000
+Marlon: Oh! I feel a good vibe\xfffefrom this shop!\xf000븁\x0000
+Hilbert: I want to know a bit\xfffeabout this shop.\xf000븁\x0000
+Hilda: I want to know a little bit\xfffeabout this shop.\xf000븁\x0000
+Cheren: Wow!\xfffeIt's a good shop!\xf000븁\x0000
+Roxie: This place!\xfffeWhat a blast!\xf000븁\x0000
+Burgh: Mm-hmm!\xfffeThis is...a good shop.\xf000븁\x0000
+Elesa: ...!\xfffeThis is a breathtakingly\xf000븀\x0000\xfffegreat shop!\xf000븁\x0000
+Clay: I know this\xfffe'cause I'm a businessman, too.\xf000븁\x0000\xfffeThis shop is extraordinary!\xf000븁\x0000
+Skyla: Wow! This shop\xfffeis my kind of place!\xf000븁\x0000
+Drayden: This is a great shop\xfffewith a very good atmosphere!\xf000븁\x0000
+Marlon: Wow! I bet\xfffethis is a great shop!\xf000븁\x0000
+Hilbert: This is a great shop.\xf000븁\x0000
+Hilda: This is a great shop!\xf000븁\x0000
+Cheren: Hmm...\xf000븁\x0000\xfffeIt's a good shop, but\xfffeit's not my kind of shop.\xf000븁\x0000
+Roxie: Oh, sorry!\xf000븁\x0000\xfffeThis just isn't what I want today!\xf000븁\x0000
+Burgh: M'hm.\xfffeThis is a bit...different.\xf000븁\x0000
+Elesa: Sorry.\xfffeThis place lacks sparkle.\xf000븁\x0000
+Clay: Not yet.\xf000븁\x0000\xfffeThis shop can grow more!\xfffeI'll come back then.\xf000븁\x0000
+Skyla: Well.\xfffeThis is not my cup of tea.\xf000븁\x0000
+Drayden: This...\xfffeI'm not really interested in this.\xf000븁\x0000
+Marlon: Hmm...\xfffeCould be better...\xf000븁\x0000
+Hilbert: This is not quite it.\xf000븁\x0000
+Hilda: This is not quite it.\xf000븁\x0000
+                                               
+                              
+                                           
+                                 
+                                                                              
+                                                                          
+                                   
+                                                                         
+                                               
+                                                
+                   
+           
+           
+              
+               
+               
+                  
+            
+            
+            
+                         
+                            
+          
+                             
+                          
+                         
+                          
+                                           
+             
+              
+                                    
+                                  
+                                                    
+                                  
+                        
+                                                 
+                                 
+                                             
+                                 
+                                 
+                        
+         
+                         
+                   
+                           
+                             
+                        
+                       
+                     
+                     
+                     
+It was fun.\xfffeSee you!
+See ya!
+Yeah.\xfffeI hope to see you again.
+Bye!
+Hmph! Well,\xfffeI'll come back when I feel like it.
+Thank you!\xfffeSee you again!
+Well, excuse me!
+See ya!
+    
+    
+Welcome to\xfffe\xf000ĸ\x0001\x0000.
+Welcome to\xfffe\xf000ĸ\x0001\x0000.
+Welcome to\xfffe\xf000ĸ\x0001\x0000.
+Welcome to\xfffe\xf000ĸ\x0001\x0000.
+Welcome to\xfffe\xf000ĸ\x0001\x0000.
+Welcome to\xfffe\xf000ĸ\x0001\x0000.
+Welcome to\xfffe\xf000ĸ\x0001\x0000.
+Welcome to\xfffe\xf000ĸ\x0001\x0000.
+Number of Link Trades
+Number of nicknames given
+Number of customers met in the avenue
+Money spent shopping
+Number of passersby
+Number of Link Battles
+Number of Pokémon caught
+Number of Eggs hatched
+Number of Medals
+\xf000Ȁ\x0001\x0000.
+\xf000Ā\x0001\x0000
+:
+\xf000Ȇ\x0001\x0000
+
+たてたカメラ
+あんないカメラ
+まちカメラ
+チュートリアルしゅうりょう
+１
+２
+３
+４
+５
+６
+７
+８
+パレードじっこう

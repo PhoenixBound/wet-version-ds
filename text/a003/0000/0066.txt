@@ -1,0 +1,48 @@
+\xf000Ā\x0001\x0000 received\xfffethe \xf000\xff00\x0001\x0002\xf000ĵ\x0001\x0001\xf000\xff00\x0001\x0000 Medal!\xf000븁\x0000
+\xf000Ā\x0001\x0000,\xfffecome here!\xf000븁\x0000
+Hello, \xf000Ā\x0001\x0000!\xfffeWell, let's go straight to the ceremony!\xf000븁\x0000
+\xf000Ā\x0001\x0000,\xfffeyou achieved great results\xf000븀\x0000\xfffein the Medal Rally...\xf000븁\x0000
+To honor your achievement...\xfffeI will present you with\xf000븀\x0000\xfffethe \xf000\xff00\x0001\x0002\xf000ĵ\x0001\x0001\xf000\xff00\x0001\x0000 Medal!\xf000븁\x0000
+The Medal Rally is far from over!\xf000븁\x0000\xfffeKeep up the good work,\xfffeand receive many more Medals!\xf000븁\x0000\xfffeSee you!
+Great!
+Well done!
+Wonderful!
+Eeeeeee!\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
+Welcome, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeAt last, the time has come...\xf000븁\x0000\xfffeThe time when you will be\xfffeat the top of all medalists!\xf000븁\x0000
+\xf000Ā\x0001\x0000,\xfffeyou collected ALL of the Medals...\xf000븁\x0000
+...To honor your achievement,\xfffeI will present you with\xf000븀\x0000\xfffethe \xf000\xff00\x0001\x0002\xf000ĵ\x0001\x0001\xf000\xff00\x0001\x0000 Medal!\xf000븁\x0000
+The legend of \xf000Ā\x0001\x0000,\xfffewho collected all the Medals, will be\xf000븀\x0000\xfffepassed down forever!\xf000븁\x0000\xfffeYou're the Top Medalist!
+You're the best!
+Perfect!
+Look at me!
+Will you show me your Medal Box?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeThe number of Medals you've received:\xfffe\xf000Ȃ\x0001\x0000!\xf000븁\x0000\xfffeYour medalist rank is\xfffe\xf000Ķ\x0001\x0001 Rank!\xf000븁\x0000\xfffeGood job!\xfffeBut there are many more Medals!
+Will you show me your Medal Box?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeThe number of Medals you've received:\xfffe\xf000Ȃ\x0001\x0000!\xf000븁\x0000\xfffeYour medalist rank is\xfffe\xf000Ķ\x0001\x0001 Rank!\xf000븁\x0000\xfffeWow, great!\xfffeKeep up the good work!
+Will you show me your Medal Box?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeThe number of Medals you've received:\xfffe\xf000Ȃ\x0001\x0000!\xf000븁\x0000\xfffeYour medalist rank is\xfffe\xf000Ķ\x0001\x0001 Rank!\xf000븁\x0000\xfffeNot many people reach this rank!\xf000븁\x0000\xfffeYou may be a genius\xfffeat collecting Medals!
+Will you show me your Medal Box?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeThe number of Medals you've received:\xfffe\xf000Ȃ\x0001\x0000!\xf000븁\x0000\xfffeYour medalist rank is\xfffe\xf000Ķ\x0001\x0001 Rank!\xf000븁\x0000\xfffeI've never seen\xfffe\xf000Ķ\x0001\x0001 Rank before.\xf000븁\x0000\xfffeI've become a big fan!
+Will you show me your Medal Box?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeThe number of Medals you've received:\xfffe\xf000Ȃ\x0001\x0000!\xf000븁\x0000\xfffeYour medalist rank is\xfffe\xf000Ķ\x0001\x0001 Rank!\xf000븁\x0000\xfffeThe Medal Rally has just started!
+Hi! Is there anything\xfffeyou want to ask me?
+Medal Rally
+Medal
+Hint Medal
+Medal Box
+Favorite Medal
+No thanks!
+The Medal Rally is a competition to\xfffeevaluate various activities of Trainers.\xf000븁\x0000\xfffeData and records are sent from Medal\xfffeRally participants' Medal Boxes and then\xf000븀\x0000\xfffeevaluated by staff at the Medal Office.\xf000븁\x0000\xfffeThe details aren't important.\xfffeJust enjoy your journey!\xf000븁\x0000
+Medals are gifts from the Medal Office\xfffefor rally participants.\xf000븁\x0000\xfffeIf you meet the requirements to\xfffereceive Medals, you can get them\xf000븀\x0000\xfffefrom Mr. Medal at a Pokémon Center.\xf000븁\x0000\xfffeFor your information, there are\xfffefive types of Medals:\xf000븀\x0000\xfffeorange Adventure Medals,\xf000븀\x0000\xfffeblue Battle Medals,\xf000븀\x0000\xfffepink Entertainment Medals,\xf000븀\x0000\xfffepurple Challenge Medals,\xf000븀\x0000\xfffeand yellow Special Medals.\xf000븁\x0000\xfffeAlso, the more difficult the Medals are to\xfffeearn, the more decorative they become.\xf000븁\x0000
+Hint Medals are gray Medals\xfffefor you to see hints to obtain Medals.\xf000븁\x0000\xfffeWhen you receive proper Medals,\xfffeMr. Medal will collect the Hint Medals\xf000븀\x0000\xfffethat achieved their purpose.\xf000븁\x0000\xfffeEven if you wanted to keep\xfffea lot of Hint Medals, they wouldn't fit\xf000븀\x0000\xfffein your Medal Box anyway.\xf000븁\x0000
+A Medal Box is a box-shaped device\xfffefor storing Medals.\xf000븁\x0000\xfffeYou can check the number of Medals,\xfffenames of Medals,\xf000븀\x0000\xfffedescriptions of Medals,\xf000븀\x0000\xfffedates you received them, and so on.\xf000븁\x0000\xfffePress START to change the shape\xfffeof the box so that you can see\xf000븀\x0000\xfffea lot of Medals at once, or you can\xf000븀\x0000\xfffechange the order of Medals.\xf000븁\x0000\xfffeFor your information, I'm the one who\xfffecreated the Medal Box!\xf000븁\x0000
+A Favorite Medal is a Medal\xfffethat is shown to the public\xf000븀\x0000\xfffein communication.\xf000븁\x0000\xfffeYou can recommend or brag\xfffeabout the Medal in the Tag Log\xf000븀\x0000\xfffeor in the Union Room.\xf000븁\x0000\xfffeTo register your Favorite Medal,\xfffepress the A Button after choosing\xf000븀\x0000\xfffea Medal in your Medal Box.\xf000븁\x0000\xfffePress the A Button again\xfffeto cancel it.\xf000븁\x0000
+Actually, I believed that you would be\xfffeable to collect all the Medals.\xf000븁\x0000\xfffeYou lived up to my expectation!\xfffeYou're really great!\xf000븁\x0000\xfffeI'm very moved.\xfffeThank you!
+Actually, I believed that you would be\xfffeable to reach the goal.\xf000븁\x0000\xfffeI was right!\xf000븁\x0000\xfffeI'll keep cheering for you.\xfffeGood luck!
+Actually, I've been secretly cheering\xfffefor you.\xf000븁\x0000\xfffeOf course, as a staff member at the\xfffeMedal Office,\xf000븀\x0000\xfffeI will judge fairly, though.
+Top Medalist!
+Cool!
+Top Medalist!
+I'm moved!
+Top Medalist!
+Give me an autograph!
+I'm from the Castelia Harlequin Hunt!\xf000븁\x0000\xfffeYou found the Medal Office.\xfffeAll riiight!
+You hunted for the Harlequin in the Medal\xfffeOffice, too! Collect more Medals!
+Welcome to the Medal Office.
+It's a graph showing the results\xfffeof the Medal Rally.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000\xfffeMedals received: \xf000Ȃ\x0001\x0001.\xf000븀\x0000\xfffe\xf000Ķ\x0001\x0002 Rank\xf000븁\x0000\xfffe...
+Many types of Medals\xfffeare on the wall.

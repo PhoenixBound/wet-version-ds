@@ -1,0 +1,131 @@
+Hi, \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Hey!\xfffeYou get a Pokémon yet?\xf000븁\x0000\xfffeThere aren't any Pokémon Trainers\xfffearound here, and I'm getting bored!\xf000븁\x0000
+What's that?\xf000븁\x0000\xfffe...\xf000븁\x0000
+A person named Bianca is\xfffegiving you a Pokémon? Really?!\xf000븁\x0000
+\xf000Ā\x0001\x0001's Sister: \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeIf you get a Pokémon,\xfffetake really, really good care of it, OK?\xf000븁\x0000
+\xf000Ā\x0001\x0001: Yeah...\xf000븁\x0000
+OK! Let's go get your Pokémon!\xf000븁\x0000\xfffeThere's something I have to do!\xf000븁\x0000\xfffeAnd to do that, I need someone\xfffeI can trust besides my partner Pokémon.\xf000븀\x0000\xfffeA person I can trust!\xf000븁\x0000\xfffeThat's right! I'm talking about you!\xfffeYou seem like you've got good instincts!\xf000븁\x0000
+You head on home.\xf000븁\x0000
+OK, big brother!\xf000븁\x0000\xfffeBye-bye, \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0001: All riiight!\xfffeLet's go find that person named Bianca!
+                         
+\xf000Ā\x0001\x0001: Still...\xf000븁\x0000\xfffeYou're really lucky to get a Pokémon!
+\xf000Ā\x0001\x0001: Once you get a Pokémon,\xfffeyou leave on a journey right away.\xf000븁\x0000\xfffeWhen you do that, I'm gonna have you\xfffehelp me out!
+\xf000Ā\x0001\x0001: Hurry up already!\xfffeLet's look for that Bianca person!
+\xf000Ā\x0001\x0001: Wait!\xf000븁\x0000\xfffeI was just in the Pokémon Center,\xfffeand there wasn't anyone like that there.\xf000븁\x0000
+\xf000Ā\x0001\x0001: The Trainers' School\xfffewas just finished!\xf000븁\x0000\xfffeNo one is allowed inside until a\xfffeTeacher, or better said, a Gym Leader,\xf000븀\x0000\xfffestarts working there!\xf000븁\x0000
+\xf000Ā\x0001\x0001: That goes to Route 19.\xf000븁\x0000\xfffeIf we don't find Bianca here in town,\xfffeI'll go check it for you!\xf000븁\x0000\xfffe'Cause I already have a Pokémon!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Oh, I get it!\xf000븁\x0000\xfffeThe outlook is Aspertia's\xfffemost famous spot!\xf000븁\x0000\xfffeI'll bet Bianca is up there\xfffelooking at the scenery!\xf000븁\x0000\xfffeC'mon!\xfffeGo get your Pokémon already!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Listen, there's no way\xfffeI got this wrong!
+\xf000Ā\x0001\x0001: Listen, there's no way\xfffeI got this wrong!\xf000븁\x0000
+???: It's sooo pretty!\xf000븁\x0000
+Hey there!\xfffeDon't you agree?\xf000븁\x0000
+Oh!\xfffeMy name is Bianca!\xf000븁\x0000\xfffeI'm the assistant of the\xfffePokémon Professor--Professor Juniper.\xf000븁\x0000\xfffeBy the way, I'm looking for someone.\xfffeDo you know a person named \xf000Ā\x0001\x0000?
+Oh, wait!\xfffeYou're \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWooow! You're ex-act-ly like\xfffewhat I heard!\xf000븁\x0000
+Oh, wait!\xfffeYou're \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWooow! You're ex-act-ly like\xfffewhat I heard!\xf000븁\x0000
+                                           
+Bianca: Nice to meet you!\xf000븁\x0000\xfffeI have a really important request\xfffeto ask you!\xf000븁\x0000\xfffeWill you help us complete\xfffethe Pokédex?
+Oh, wow, thanks!\xf000븁\x0000\xfffeYour support will help Professor\xfffeJuniper's research move forward!\xf000븁\x0000\xfffeAnyway, filling up the\xfffePokédex is totally fun!
+N-no way...\xf000븁\x0000\xfffeI-I must have misheard you.\xfffeRight?\xf000븁\x0000\xfffeThis is a very important request.\xf000븁\x0000\xfffeWill you please help us complete\xfffethe Pokédex?
+\xf000Ā\x0001\x0001: See!\xfffeBianca was here, right?\xf000븁\x0000\xfffeNow, c'mon!\xfffeGo and get your Pokémon!
+\xf000Ā\x0001\x0001: See!\xfffeBianca was here, right?\xf000븁\x0000\xfffeNow, c'mon!\xfffeGo and get your Pokémon!\xf000븁\x0000
+Bianca: OK, then!\xf000븁\x0000\xfffeTa-daaa!\xf000븁\x0000\xfffeIn here is the Pokémon\xfffethat will be your partner!\xf000븁\x0000
+                                              
+                                             
+                                             
+\xf000봂\x0000The Water-type Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+\xf000봂\x0000The Fire-type Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+\xf000봂\x0000The Grass-type Pokémon\xfffe\xf000봂\x0000\xf000ā\x0001\x0001
+Choose a Pokémon.
+Is this the Pokémon you want?
+Pick this one!
+YES
+NO
+\xf000Ā\x0001\x0000 chose \xf000ā\x0001\x0001!
+Bianca: Oh, wow! You and \xf000ā\x0001\x0002\xfffeare a perfect match!\xf000븁\x0000\xfffeBy the way, would you like to give\xfffea nickname to the Pokémon you chose?
+Bianca: Oh, OK, gotcha.\xfffeYou're not going to give it a nickname.\xf000븁\x0000
+Bianca: \xf000Ă\x0001\x0000!\xfffeIs that the nickname you want?
+Bianca: \xf000Ă\x0001\x0000!\xfffeThat is such a great name!\xf000븁\x0000
+Bianca: Now you've got your Pokémon,\xfffeso I'll give you this, too--a Pokédex!\xf000븁\x0000
+\xf000Ā\x0001\x0000 received\xfffethe \xf000\xff00\x0001\x0002Pokédex\xf000\xff00\x0001\x0000!
+Bianca: You want to know what it does?\xf000븁\x0000\xfffeThe Pokédex is a high-tech device\xfffethat automatically records the\xf000븀\x0000\xfffePokémon you encounter!\xf000븁\x0000\xfffeSo Professor Juniper wants you to carry\xfffethis Pokédex, visit a lot of places, and\xf000븀\x0000\xfffemeet all the Pokémon in the Unova region!
+Still, that Professor Juniper!\xf000븁\x0000\xfffeThe normal thing to do is to\xfffeget an OK before sending\xf000븀\x0000\xfffesomeone clear out here, right?
+\xf000Ā\x0001\x0001: Heeey! How long are you\xfffeplanning on keeping me waiting, anyway?\xf000븁\x0000\xfffeHey! What's that?\xf000븁\x0000
+So that's your partner, huh?\xf000븁\x0000\xfffeThat's great!\xf000븁\x0000\xfffeMy sister already said so, but\xfffetake really, really good care\xf000븀\x0000\xfffeof your Pokémon! Got it?\xf000븁\x0000\xfffeWhat's that you're holding there?\xf000븁\x0000
+Bianca: It's a Pokédex!\xf000븁\x0000
+\xf000Ā\x0001\x0001: Please give me\xfffea Pokédex, too!\xf000븁\x0000\xfffeI want to get stronger!\xf000븁\x0000\xfffeIf I have a Pokédex,\xfffeI can learn more about Pokémon...\xf000븀\x0000\xfffeThat'll make me tougher, right?\xf000븁\x0000
+Bianca: Um...who are you again?\xf000븁\x0000
+I'm \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeI'm going to travel the Unova region\xfffewith my Pokémon partner in order\xf000븀\x0000\xfffeto search for something very important!\xf000븁\x0000
+Bianca: Well, OK!\xf000븁\x0000\xfffeI don't really get it, but going\xfffeon a journey is always good!\xf000븁\x0000\xfffeAnyway, I just happen to have\xfffeanother Pokédex on me!\xf000븁\x0000\xfffeIt looks like Pokémon distribution has\xfffereally changed compared to two years\xf000븀\x0000\xfffeago, so the more, the merrier!\xf000븁\x0000
+Bianca: Ooh, I thought of something cool!\xf000븁\x0000\xfffeYou both have Pokémon, right?\xfffeWhy don't you have a Pokémon battle?
+\xf000Ā\x0001\x0001: Let's see how good\xfffea Trainer you are!\xf000븁\x0000\xfffeI'll use my \xf000ā\x0001\x0003\xfffethat I raised from an Egg!\xf000븁\x0000
+\xf000Ā\x0001\x0001: I lost...\xfffeThis is different than battling\xf000븀\x0000\xfffewith wild Pokémon!\xf000븁\x0000\xfffeWell, whatever.\xfffeI'm just happy to know you're\xf000븀\x0000\xfffea Trainer I can count on!\xf000븁\x0000\xfffeCool. I'm heading off first!\xfffeGet stronger!\xf000븁\x0000
+\xf000Ā\x0001\x0001: That was good enough\xfffefor your first battle!\xf000븁\x0000\xfffeCool. I'm heading off first!\xfffeGet stronger!\xf000븁\x0000
+Bianca: The Pokémon on both\xfffesides did their best!\xf000븁\x0000\xfffeBut this little one is still weak,\xfffeso battle with it and make it stronger!\xf000븁\x0000
+All righty, let's go make your Pokémon\xfffebetter at the Pokémon Center!\xf000븁\x0000\xfffeIt's like the best place ever for\xfffePokémon who battle and get hurt!\xf000븁\x0000
+Bianca: The Pokémon Center is the\xfffesame no matter where you are!\xf000븁\x0000\xfffeLet's go inside!\xf000븁\x0000
+Mom: Oh! Nice to meet you!\xfffeYou must be Bianca, right?\xf000븁\x0000\xfffeAnd \xf000Ā\x0001\x0000 picked\xfffe\xf000ā\x0001\x0002, then!\xf000븁\x0000\xfffeHee hee.\xfffeLooking good!\xf000븁\x0000
+Oh!\xfffeI almost forgot!\xf000븁\x0000\xfffeHere! Take these!\xfffeThey're Running Shoes!\xf000븁\x0000
+\xf000Ā\x0001\x0000 received\xfffea pair of \xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
+Mom: A perfect fit!\xfffeI'll read the instructions to you!\xf000븁\x0000\xfffe“Hold the B Button to run faster than\xfffenormal. Put on the Running Shoes and\xf000븀\x0000\xffferace around to your heart's content!"\xf000븁\x0000\xfffeNow, you and \xf000ā\x0001\x0002 can\xffferun anywhere you want!\xf000븁\x0000
+\xf000Ā\x0001\x0001's Sister: Um...\xfffeThis is from me!\xf000븁\x0000
+                           
+Bianca: Why are there\xfffetwo Town Maps?\xf000븁\x0000
+\xf000Ā\x0001\x0001's Sister: I want you to\xfffegive the other one to my big brother!\xf000븁\x0000
+Mom: That's a good idea! Even if it is\xfffea single road to the ocean, having a\xf000븀\x0000\xfffeTown Map is always nice.\xf000븁\x0000\xfffeI mean, if you use a Town Map,\xfffeyou'll know all about what the\xf000븀\x0000\xfffeUnova region is like!\xf000븁\x0000
+Bianca: Aww, you guys!\xfffeJust watching this makes me happy!\xf000븁\x0000\xfffeC'mon, we're headed for Route 19!\xfffeI'll teach you how to catch a Pokémon!\xf000븁\x0000
+Mom: Bon voyage!\xf000븁\x0000\xfffeTake \xf000ā\x0001\x0002 and go see\xfffemany different Pokémon and\xf000븀\x0000\xfffepeople with your own eyes!
+\xf000Ā\x0001\x0001's Sister: Get along\xfffewith your Pokémon!
+Bianca: Heeey!\xf000븁\x0000
+Bianca: Yoo-hoo!\xf000븁\x0000
+How was it?\xfffeHow did your Pokémon battle with\xf000븀\x0000\xfffethe Gym Leader go?\xf000븁\x0000\xfffeOh! If it isn't the Basic Badge!\xf000븁\x0000\xfffeWow! Amazing! And you just set off\xfffeon your journey with your Pokémon!\xf000븁\x0000\xfffeYou definitely have potential\xfffeas a Trainer! I'm sure of it!\xf000븁\x0000\xfffeThis is from me!\xfffeIt's the TM for the move Return.\xf000븁\x0000
+When a Pokémon knows Return,\xfffethe more it gets along with the Trainer,\xf000븀\x0000\xfffethe more powerful the move is!\xf000븁\x0000
+Still, that Cheren...\xf000븁\x0000
+Cheren: Bianca!\xf000븁\x0000\xfffeIt's been two years, hasn't it?\xf000븁\x0000
+Bianca: Oh wow!\xf000븁\x0000
+Wh-what's up?\xf000븁\x0000
+Cheren: I thought it would be a\xfffegood idea to register each other\xf000븀\x0000\xfffein the Xtransceiver!\xf000븁\x0000
+Now, you can communicate\xfffewith me from your Xtransceiver.\xf000븁\x0000
+Bianca: M-me, too!\xf000븁\x0000
+I registered Professor Juniper\xfffefor you, too!\xf000븁\x0000
+The Xtransceiver is ringing!
+\xf000Ā\x0001\x0000 picked up the\xfffeXtransceiver!\xf000븁\x0000
+Bianca: Hey, \xf000Ā\x0001\x0000!\xfffeIsn't Professor Juniper cool?\xf000븁\x0000\xfffeIf you talk to her on the Xtransceiver,\xfffeshe'll evaluate the completeness\xf000븀\x0000\xfffeof your Pokédex or tell you a lot about\xf000븀\x0000\xfffehow Pokémon evolve!\xf000븁\x0000\xfffeAnd you can call us, too, of course!\xf000븁\x0000
+I'll tell you how well\xfffeyou and your Pokémon\xf000븀\x0000\xfffeare getting along, OK?!\xf000븁\x0000
+Cheren: Bianca makes a good point.\xf000븁\x0000\xfffeI'll tell you what I know about Pokémon\xfffeAbilities and Pokémon type matchups.\xf000븁\x0000
+\xf000Ā\x0001\x0001: Are you the Gym Leader?\xfffeOne, two, three--let's battle!\xf000븁\x0000
+Cheren: You look like a tough Trainer.\xf000븁\x0000\xfffeUnderstood.\xfffePlease come into my Pokémon Gym!\xf000븁\x0000
+\xf000Ā\x0001\x0001: What was that weak answer?!\xfffeI'm definitely going to take you down!\xf000븁\x0000
+Bianca: Being a Gym Leader\xfffeis even harder than I imagined.\xf000븁\x0000
+The next thing is to make it so you\xfffecan use the C-Gear.\xf000븁\x0000\xfffeThe C-Gear is a cool device for\xfffecommunications, such as Infrared\xf000븀\x0000\xfffeConnection or Nintendo Wi-Fi Connection.\xf000븁\x0000
+\xf000Ā\x0001\x0000 obtained\xfffethe \xf000\xff00\x0001\x0001C-Gear\xf000\xff00\x0001\x0000!
+Turn on the C-Gear and\xfffeestablish communications?
+YES
+NO
+Some functions of the C-Gear\xfffewill be restricted. Is that OK?
+Wireless communications\xfffeare turned OFF.\xf000븁\x0000\xfffeTurn wireless communications\xfffeON in the System Settings.\xf000븀\x0000\xfffeError code: 50699\xf000븁\x0000
+Check this! The C-Gear was activated,\xfffeand that screen showed up!\xf000븁\x0000\xfffeIf you touch the “?" icon in the\xfffebottom-right corner of the\xf000븀\x0000\xfffeC-Gear screen, you can read about\xf000븀\x0000\xfffethe C-Gear.\xf000븁\x0000\xfffeLike, what are you going to do now?\xfffeYou know, there's another Pokémon Gym\xf000븀\x0000\xfffein Virbank City, which is just past\xf000븀\x0000\xfffeFloccesy Town.
+If you want to turn on the C-Gear, touch\xfffethe Power symbol at the bottom right of\xf000븀\x0000\xfffethe C-Gear screen.\xf000븁\x0000\xfffeThen, after turning on the power,\xfffeif you touch the “?" icon in the\xf000븀\x0000\xfffebottom-right corner of the\xf000븀\x0000\xfffeC-Gear screen, you can read about\xf000븀\x0000\xfffethe C-Gear.\xf000븁\x0000\xfffeLike, what are you going to do now?\xfffeYou know, there's another Pokémon Gym\xf000븀\x0000\xfffein Virbank City, which is just past\xf000븀\x0000\xfffeFloccesy Town.
+\xf000Ā\x0001\x0001: Hey! My sis has something\xfffeshe wants to tell you!\xf000븁\x0000
+\xf000Ā\x0001\x0001's Sister: Um...\xfffe\xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeMy Purrloin...\xf000븁\x0000\xfffeIt evolved, but thank you\xfffevery much for finding it!\xf000븁\x0000
+\xf000Ā\x0001\x0001: There's more, right?\xf000븁\x0000
+\xf000Ā\x0001\x0001's Sister: Um...\xfffe\xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeThese days, I've been having\xfffedreams about a Pokémon.\xf000븀\x0000\xfffeA Pokémon called Zoroark.\xf000븁\x0000\xfffeIt was calling your name, \xf000Ā\x0001\x0000!\xf000븁\x0000
+\xf000Ā\x0001\x0001: I don't really get it,\xfffebut I hear that the Zoroark from her\xf000븀\x0000\xfffedreams is on Victory Road!\xf000븁\x0000\xfffeThat's what she wanted to say.\xfffeBe seeing you!\xf000븁\x0000
+Oh! Almost forgot.\xf000븁\x0000\xfffeCongrats on becoming the Champion!\xf000븁\x0000\xfffeI called it!\xfffeYou've got good instincts!\xf000븁\x0000
+Trainers are the ones who\xfffehave their Pokémon partners battle.\xf000븁\x0000\xfffeI hear Gym Leaders are\xfffereally strong Trainers!
+So about the Gym Leader Cheren...\xf000븁\x0000\xfffeA few years ago he traveled all over\xfffethe Unova region with his Pokémon.
+I wish the Trainers' School\xfffewould hurry up and open!\xf000븁\x0000\xfffeThere's so much about\xfffePokémon I want to know!
+I know lots about Pokémon!\xf000븁\x0000\xfffe'Cause I learned so much\xfffeat the Trainers' School!
+The view of Route 19\xfffefrom the outlook is\xf000븀\x0000\xfffeAspertia City's pride and joy.
+The power of science is amazing!\xf000븁\x0000\xfffeNow you can use communications\xfffeto play with a hundred people\xf000븀\x0000\xfffeat the same time!
+People go on journeys and become adults.\xfffeMaybe I should leave this city, too...
+Sometimes wild Pokémon attack people!\xf000븁\x0000\xfffeBut the ones you befriend, the ones that\xfffestay by your side, are Pokémon, too!
+Your mom's really good at\xfffegetting Pokémon to rest\xf000븀\x0000\xfffeand making them feel better!
+Oh, hi!\xf000븁\x0000\xfffeWhy, Aurea Juniper!\xf000븁\x0000\xfffeIt's been far too long!\xfffeWhat can I do for you?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeWow! A Pokédex...\xfffeFor my child?\xf000븁\x0000\xfffeWhy, that's great! I think a journey\xfffewould be a wonderful experience!\xf000븁\x0000
+What now? She's already here?\xf000븁\x0000\xfffeOh, for Pete's sake.\xfffeYou never change.\xf000븁\x0000\xfffeOnce you've decided on something,\xfffeyou just start going.\xf000븁\x0000\xfffeOK! Bianca, right?\xfffeA big, green hat. Got it.\xf000븁\x0000\xfffeOK!\xfffeNo worries!\xf000븁\x0000
+This is Aspertia City.\xfffeA city that reaches for the sky.
+\xf000Ā\x0001\x0000's House
+Aspertia City Outlook Ahead\xfffeUnova Unfolds before Your Eyes
+Trainers' School\xfffeUnder Construction
+Aspertia City Pokémon Gym\xfffeGym Leader: Cheren\xf000븀\x0000\xfffeThe one who seeks the right path.
+Let's go!

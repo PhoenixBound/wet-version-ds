@@ -1,0 +1,64 @@
+Movie Star
+World Police
+Radio: HQ to Mecha Cop.\xfffeHQ to Mecha Cop.\xf000븀\x0000\xfffeArrest the criminal\xf000븀\x0000\xfffeas soon as possible.
+Radio: HQ to Mecha Cop.\xfffeHQ to Mecha Cop.\xf000븀\x0000\xfffeWe have dispatched riot police.\xf000븀\x0000\xfffeCooperate with them, and\xf000븀\x0000\xfffecarry out the mission.
+Mecha Cop: Riot police have arrived...
+The \xf000Ă\x0001\x0000 Ninja: All I want\xfffeis to run through town tonight\xf000븀\x0000\xfffewith \xf000Ă\x0001\x0000.\xf000븀\x0000\xfffeJust for the thrill of it!
+Mecha Cop: The Birdlime Machine Gun!\xfffeApunten, ¡fuego!
+The \xf000Ă\x0001\x0000 Ninja: Whoa!\xfffeA-again?\xf000븁\x0000\xfffeYou used a weapon again!\xfffeYou're doing it on purpose, aren't you?
+Mecha Cop: Argh, sorry about that.\xfffeI just wanted to try it out.
+The \xf000Ă\x0001\x0000 Ninja: (...A guy like that\xfffeis a champion of justice...)\xf000븀\x0000\xfffe(...How appalling...)
+Mecha Cop: I've got you cornered,\xfffe\xf000Ă\x0001\x0000 Ninja!\xf000븀\x0000\xfffeSurrender!
+The \xf000Ă\x0001\x0000 Ninja: Argh...sigh...\xf000븁\x0000\xfffeHey, Mecha Cop...\xfffeYeah, you got me.\xf000븀\x0000\xfffeSo will you grant my last request?
+Mecha Cop: Well, what is it?
+The \xf000Ă\x0001\x0000 Ninja: Battle me!
+Mecha Cop: In recognition of you as\xfffemy archenemy, \xf000Ă\x0001\x0000 Ninja...\xf000븁\x0000\xfffeChallenge accepted!\xfffeLet's battle!\xf000븀\x0000\xfffeSéquence d'activation... Action!
+The \xf000Ă\x0001\x0000 Ninja: Let me go!
+Mecha Cop: Even if she is a villain,\xfffereaching out to her\xf000븀\x0000\xfffeif she asks for help...\xf000븁\x0000\xfffe...may also be justice...
+The \xf000Ă\x0001\x0000 Ninja: Ready to rock,\xfffeMecha Cop?
+Mecha Cop: Bring it!\xfffeThis battle is for keeps!
+The \xf000Ă\x0001\x0000 Ninja: Heh!\xfffeIt's been a long time since\xf000븀\x0000\xfffeI've had so much fun battling!
+Mecha Cop: I labeled every criminal a villain.\xfffeOnce someone has a label slapped on them,\xf000븀\x0000\xfffethat label becomes a signpost of how to\xf000븀\x0000\xfffetreat them. Thinking about it...\xf000븁\x0000\xfffeOnce I labeled you a villain, I no longer\xfffetreated you like a fellow human being.\xf000븁\x0000\xfffeBut criminals are still human beings.\xfffeTheir crimes may be unforgivable, but\xf000븀\x0000\xfffetheir human dignity must still be respected,\xf000븀\x0000\xfffeor there would be no way to tell the\xf000븀\x0000\xfffedifference between justice and injustice.
+The \xf000Ă\x0001\x0000 Ninja: ...\xfffeMecha Cop...?
+Mecha Cop: Justice...\xfffeReal justice, that I can believe in...
+The \xf000Ă\x0001\x0000 Ninja: Mecha Cop...\xfffeBy any chance, are you taking it easy on me?
+Mecha Cop: Time will be the judge of that...
+The \xf000Ă\x0001\x0000 Ninja: Get hold of yourself!\xfffeYou represent the World Police,\xf000븀\x0000\xfffeand I'm a thief, a criminal, a villain!\xf000븀\x0000\xfffeWe...are...enemies!
+Mecha Cop: \xf000Ă\x0001\x0000 Ninja.\xfffeOur battles have made me question\xf000븀\x0000\xfffethe definition of justice...\xf000븁\x0000\xfffeAs a secret detective, I'm a failure.\xfffeThe last thing that I can do for you is...
+The \xf000Ă\x0001\x0000 Ninja: Get a grip, crybaby!\xfffeMy archenemy, Mecha Cop,\xf000븀\x0000\xfffewouldn't show himself to be a pushover!
+Mecha Cop: Protecting justice...\xf000븁\x0000\xfffe...A concept I no longer believe in.\xfffeNothing really matters anymore...
+Mecha Cop: I was trapped in a mechanical\xfffeframework of justice.\xf000븀\x0000\xfffeYou've woken me up.\xf000븀\x0000\xfffe\xf000Ă\x0001\x0000 Ninja...
+The \xf000Ă\x0001\x0000 Ninja: Gulp...\xfffeWhat are you trying to say?
+Mecha Cop: But you are a thief.\xfffeI cannot forgive your crimes...\xf000븁\x0000\xfffeBut...if you pay for your crimes,\xfffethen, together, we...
+The \xf000Ă\x0001\x0000 Ninja: Say no more!
+The \xf000Ă\x0001\x0000 Ninja: Wait...\xfffeWhat do you mean--nothing matters anymore?
+Mecha Cop: Justice, evil...\xfffeA robot can't tell the difference.\xf000븁\x0000\xfffePush my buttons, and I recite the\xfffecode of the World Police.
+The \xf000Ă\x0001\x0000 Ninja: You...\xfffeYou've changed...
+Mecha Cop: Changed?\xfffeWhat do you mean?\xf000븁\x0000\xfffeAll I've ever been is a cog in the wheel,\xfffea mouthpiece for the World Police...\xf000븁\x0000\xfffeAn antiseptic,\xfffeunemotional\xf000븀\x0000\xffferobot.
+Riot Police: Calling all members!\xfffeApprehend the \xf000Ă\x0001\x0000 Ninja immediately!
+Mecha Cop: Wait.\xfffeShe won't run away anymore...\xf000븀\x0000\xfffeRight? The...\xf000Ă\x0001\x0000...Ninja...
+The \xf000Ă\x0001\x0000 Ninja: Tee hee hee.\xfffeI lost, Mecha Cop...
+Mecha Cop: Mission accomplie.\xf000븁\x0000\xfffeNow, \xf000Ă\x0001\x0000 Ninja,\xfffeit's time for you to pay for your crimes.\xf000븀\x0000\xfffeReady to turn over a new leaf...?
+The \xf000Ă\x0001\x0000 Ninja: ...\xf000븁\x0000\xfffe...\xfffeThanks...
+Thus, the \xf000Ă\x0001\x0000 Ninja, who escaped\xfffeprison so many times before, went to prison\xf000븀\x0000\xfffeat the hands of Mecha Cop.\xf000븁\x0000\xfffeAnd the \xf000Ă\x0001\x0000 Ninja never again\xfffeattempted escape...so they say...
+Then, several years later...\xf000븁\x0000\xfffeThe secret detective, Mecha Cop,\xfffewho protects citizens from crime,\xf000븁\x0000\xfffehas a new partner at his side.\xfffeA partner by the name of...The \xf000Ă\x0001\x0000!\xf000븁\x0000\xfffeListen to your human side, Mecha Cop!\xfffeCondemn the crime, not the criminal.
+Mecha Cop: I lost. I failed.\xfffeSchluss, aus, finito!\xf000븀\x0000\xfffeGo! Run! Get away!
+The \xf000Ă\x0001\x0000 Ninja: Mecha Cop!\xfffeI'm disappointed in you.
+Mecha Cop: After all, I'm just...\xfffe...a cyborg.\xf000븀\x0000\xfffeI lost my heart a long time ago.\xf000븁\x0000\xfffeWhat...?\xfffe...\xf000븀\x0000\xfffeTears, idle tears...\xf000븀\x0000\xfffeI know not what they mean...
+Thus, The \xf000Ă\x0001\x0000 Ninja, who escaped\xfffefrom prison so many times before...escaped\xf000븀\x0000\xfffefrom Mecha Cop's grasp once again.\xf000븁\x0000\xfffeSoon after, Mecha Cop left the World Police,\xf000븁\x0000\xfffeand The \xf000Ă\x0001\x0000 Ninja\xfffeceased her life of thievery.\xf000븁\x0000\xfffeIs this what you wanted, Mecha Cop?\xfffeSomeday, your heart will\xf000븀\x0000\xfffetell itself what to do.
+The \xf000Ă\x0001\x0000 Ninja: Sweet freedom!\xfffeAs for the World Police--so predictable!\xf000븁\x0000\xfffeNo matter how many secret detectives\xfffeyou send after me,\xf000븀\x0000\xfffeyou can't catch me!
+Riot Police: There she is! Stop her!
+The \xf000Ă\x0001\x0000 Ninja: Farewell,\xfffeladies and gentlemen of the World Police!
+Riot Police: Wha... Amazing!\xfffeShe flew! How did she do that?
+Mecha Cop: \xf000Ă\x0001\x0000 Ninja!\xfffeWait! ...Wait!
+The \xf000Ă\x0001\x0000 Ninja, who escaped\xfffefrom prison so many times before...\xf000븀\x0000\xfffeescaped from Mecha Cop's grasp once more.
+Fifty years pass...\xf000븁\x0000\xfffeThe spry \xf000Ă\x0001\x0000 Ninja\xfffeis still running, and Mecha Cop, nearly ready\xf000븀\x0000\xfffefor the scrap heap, is still chasing her,\xf000븀\x0000\xfffeand running...and escaping...\xf000븀\x0000\xfffeand chasing...and...\xf000븁\x0000\xfffeTake a break already, Mecha Cop!\xfffeSomebody, make them stop!
+Riot Police: Woot!\xfffeWe'll catch the \xf000Ă\x0001\x0000 Ninja!
+The \xf000Ă\x0001\x0000 Ninja: I think not...\xfffeI'll never be captured by the likes of you...
+Mecha Cop: Stop!\xfffeEven when facing a villain,\xf000븁\x0000\xfffeit's not fair to interrupt a\xfffeone-on-one Pokémon battle!\xf000븀\x0000\xfffeFor shame!
+Riot Police: We're sorry,\xfffeMecha Cop...
+The \xf000Ă\x0001\x0000 Ninja: Heh! No kidding!\xfffeEverybody wants a free pass to get\xf000븀\x0000\xfffeaway with unfair things like that.\xf000븁\x0000\xfffeAfter all, what you call justice is...
+The \xf000Ă\x0001\x0000 Ninja: Obsolete.
+Mecha Cop: That's not true!\xf000븁\x0000\xfffeWhenever, wherever, and whoever\xfffemakes the effort to do the right thing--\xf000븀\x0000\xfffehe or she can be a champion of justice!\xf000븁\x0000\xfffe\xf000Ă\x0001\x0000 Ninja!\xfffeKnow what? You're no exception yourself.
+The \xf000Ă\x0001\x0000 Ninja: Old fashioned.
+Mecha Cop: Wh-what?\xfffeA simple trench coat over a metal body--\xf000븀\x0000\xfffeI'm as fashion forward as I can get.\xf000븁\x0000\xfffeYou're the one in need of a\xfffecostume intervention, \xf000Ă\x0001\x0000 Ninja!

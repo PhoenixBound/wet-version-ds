@@ -1,0 +1,205 @@
+\xf000ā\x0001\x0000
+\xf000Ă\x0001\x0000
+    
+    
+    
+    
+BOX 1
+BOX 2
+BOX 3
+BOX 4
+BOX 5
+BOX 6
+BOX 7
+BOX 8
+BOX 9
+BOX 10
+BOX 11
+BOX 12
+BOX 13
+BOX 14
+BOX 15
+BOX 16
+BOX 17
+BOX 18
+BOX 19
+BOX 20
+BOX 21
+BOX 22
+BOX 23
+BOX 24
+\xf000ȁ\x0001\x0000
+SWITCH BOX
+WALLPAPER
+NAME
+CANCEL
+SCENERY 1
+SCENERY 2
+SCENERY 3
+MISC.
+     
+     
+FOREST
+CITY
+DESERT
+SAVANNA
+CRAG
+VOLCANO
+SNOW
+CAVE
+BEACH
+SEAFLOOR
+RIVER
+SKY
+POKÉ CENTER
+MACHINE
+CHECKS
+SIMPLE
+SPECIAL
+MONOCHROME
+TEAM PLASMA
+MOVIE
+PWT
+KYUREM 1
+KYUREM 2
+RESHIRAM
+ZEKROM
+BACK
+PREVIOUS
+NEXT
+PARTY ⒆⒇
+BOX LIST
+BATTLE BOX
+          
+       
+SUMMARY
+HELD ITEMS
+MARKING
+RELEASE
+WITHDRAW
+DEPOSIT
+CANCEL
+MOVE
+MOVE
+TUCK IN
+CONFIRM
+CANCEL
+    
+    
+    
+           
+           
+          
+BAG
+GIVE
+MOVE
+⑭
+⑮
+\xf000Ć\x0001\x0000
+\xf000Ĉ\x0001\x0000
+\xf000ĉ\x0001\x0000
+NATURE
+ABILITY
+ITEM
+\xf000Ȃ\x0001\x0000
+\xf000Ȃ\x0001\x0000
+None
+???
+Lv.
+No.
+MOVES LEARNED
+YES
+NO
+Organize Box(es)
+Battle Box
+Filter Pokémon
+Choose the conditions and select ON\xfffeto turn on the filter.
+Choose the first letter\xfffeof the Pokémon's name.
+Please choose a Pokémon.\xfffe\xfffeName: \xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xfffe\xf000\xff00\x0001\x0000Type 1: \xf000ă\x0001\x0001\xfffeType 2: \xf000ă\x0001\x0002
+Please choose a Pokémon.\xfffe\xfffeName: \xf000\xff00\x0001\x0002\xf000ā\x0001\x0000\xf000\xff00\x0001\x0000\xfffeType 1: \xf000ă\x0001\x0001\xfffeType 2: ----
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Hardy\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Stats grow more evenly.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Lonely\xfffe\xf000\xff00\x0001\x0000The Attack stat grows more easily.\xfffeThe Defense stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Brave\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Attack stat grows more easily.\xfffeThe Speed stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Adamant\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Attack stat grows more easily.\xfffeThe Sp. Atk stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Naughty\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Attack stat grows more easily.\xfffeThe Sp. Def stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Bold\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Defense stat grows more easily.\xfffeThe Attack stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Docile\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Stats grow more evenly.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Relaxed\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Defense stat grows more easily.\xfffeThe Speed stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Impish\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Defense stat grows more easily.\xfffeThe Sp. Atk stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Lax\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Defense stat grows more easily.\xfffeThe Sp. Def stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Timid\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Speed stat grows more easily.\xfffeThe Attack stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Hasty\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Speed stat grows more easily.\xfffeThe Defense stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Serious\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Stats grow more evenly.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Jolly\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Speed stat grows more easily.\xfffeThe Sp. Atk stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Naive\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Speed stat grows more easily.\xfffeThe Sp. Def stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Modest\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Sp. Atk stat grows more easily.\xfffeThe Attack stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Mild\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Sp. Atk stat grows more easily.\xfffeThe Defense stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Quiet\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Sp. Atk stat grows more easily.\xfffeThe Speed stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Bashful\xfffe\xf000\xff00\x0001\x0000Stats grow more evenly.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Rash\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Sp. Atk stat grows more easily.\xfffeThe Sp. Def stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Calm\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Sp. Def stat grows more easily.\xfffeThe Attack stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Gentle\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Sp. Def stat grows more easily.\xfffeThe Defense stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Sassy\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Sp. Def stat grows more easily.\xfffeThe Speed stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Careful\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000The Sp. Def stat grows more easily.\xfffeThe Sp. Atk stat doesn't grow as well.
+Please choose a Pokémon Nature.\xfffe\xfffeNature: \xf000\xff00\x0001\x0002Quirky\xf000\xff00\x0001\x0001\xfffe\xf000\xff00\x0001\x0000Stats grow more evenly.
+Please choose the first letter\xfffeof an Ability.
+Please choose an Ability.\xfffe\xfffeAbility: \xf000\xff00\x0001\x0002\xf000Ć\x0001\x0000\xf000\xff00\x0001\x0000
+Please choose a gender.
+Please indicate whether the\xfffePokémon is holding an item.
+Please choose a mark.
+\xf000봂\x0000Name
+\xf000봂\x0000Nature
+\xf000봂\x0000Ability
+\xf000봂\x0000Gender
+\xf000봂\x0000Held Item
+\xf000봂\x0000Mark
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
+♂
+♀
+Unknown
+Holding Item
+Not Holding Item

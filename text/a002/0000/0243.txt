@@ -1,0 +1,68 @@
+Actor
+Assistant
+Assistant: Professor \xf000Ā\x0001\x0001!\xfffeThe test is almost complete!\xf000븁\x0000\xfffeI'm going to turn off the power\xfffeto the F-00!
+Professor \xf000Ā\x0001\x0001: So this day has\xfffefinally come...
+Assistant: Professor \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeToday is the day when all our hard\xfffework finally pays off!\xf000븁\x0000\xfffeThe birth of an all-new robot, programmed\xfffeto have a human heart...or as close to it\xf000븀\x0000\xfffeas possible!
+\xf000Ā\x0001\x0001: ...
+Assistant: Professor \xf000Ā\x0001\x0001!\xf000븁\x0000\xfffeLet's begin the final test!\xf000븁\x0000\xfffeThis test involves communication with\xfffehumans and with Pokémon!
+\xf000Ā\x0001\x0001: Very well.\xfffeLet's begin the test.
+Assistant: Activating the F-00 now!\xfffePlease be careful not to damage it!
+\xf000Ā\x0001\x0001: Quiet, you...\xfffeI know what I'm doing!
+\xf000Ā\x0001\x0001: Excellent.\xfffeIt appears to be moving properly.
+Assistant: OK, let's begin the\xfffeconversational skill test!\xf000븁\x0000\xfffeTry talking to the F-00!
+\xf000Ā\x0001\x0001: I know what to do!
+F-00: ...
+\xf000Ā\x0001\x0001: Good morning.
+F-00: GOOD. MORNING.
+\xf000Ā\x0001\x0001: Come on! Get up!
+F-00: WHAT?\xfffeTOO LOUD. BE QUIET.
+\xf000Ā\x0001\x0001: OK...\xfffeEverything seems to check out!
+F-00: WHO?\xf000븁\x0000\xfffeWHO ARE YOU?
+\xf000Ā\x0001\x0001: My name is \xf000Ā\x0001\x0001.\xfffeI'm a friend!
+F-00: WHAT IS...FRIEND?
+\xf000Ā\x0001\x0001: Someone you like!
+F-00: \xf000Ā\x0001\x0001! FRIEND!
+\xf000Ā\x0001\x0001: Someone you know.
+F-00: SOMEONE I KNOW... SOMEONE I KNOW...
+\xf000Ā\x0001\x0001: I don't really know...
+F-00: YOU DO NOT KNOW.\xfffeI DO NOT KNOW, EITHER.
+\xf000Ā\x0001\x0001: You figure it out!
+F-00: I DO NOT UNDERSTAND...\xfffeWHAT IS FRIEND?
+Assistant: Professor \xf000Ā\x0001\x0001!\xfffeThe F-00 has shut down!\xf000븁\x0000\xfffeThis concludes the test!
+\xf000Ā\x0001\x0001: Indeed...
+Assistant: Congratulations!\xfffeThe test was a complete success!
+\xf000Ā\x0001\x0001: Of course it was.\xfffeA genius like myself doesn't fail.
+Assistant: Of course you don't!\xf000븁\x0000\xfffeRegardless, if we can sell the designs for\xfffethe F-00, our lab may finally be able to get\xf000븀\x0000\xfffeout of the red! We can finally put an\xf000븀\x0000\xfffeend to this long slump we've been having!\xf000븁\x0000\xfffeWe'll be able to start up all kinds of new\xfffeand exciting research!
+\xf000Ā\x0001\x0001: Hmmm...\xf000븁\x0000\xfffeI don't think so...\xfffeI'm not giving up the F-00 to anyone.\xf000븁\x0000\xfffeI've already disposed of the design data.
+Assistant: What? How could you?!\xf000븁\x0000\xfffeThen...that means this F-00 is the only\xfffeone that will ever be made!
+\xf000Ā\x0001\x0001: That's exactly what I'm saying.
+Assistant: How could you...\xf000븁\x0000\xfffeAll this time I spent aiding you\xfffein your research...for nothing!\xf000븀\x0000\xfffeWhat are we supposed to do?!
+\xf000Ā\x0001\x0001: I won't give up the F-00\xfffeto anyone.\xf000븁\x0000\xfffeI invented it. It's my robot!
+And so I succeeded in inventing the first\xfffeever robot to have a heart...\xf000븀\x0000\xfffeI completed the F-00...\xf000븁\x0000\xfffeThe F-00 was the culmination of my years of\xffferesearch and the crystallization of my\xf000븀\x0000\xfffehopes and dreams.
+\xf000Ā\x0001\x0001: Why...\xfffeWhy won't you move?
+Assistant: Professor \xf000Ā\x0001\x0001!\xfffeWhat are you doing?!\xf000븁\x0000\xfffeYou've destroyed the F-00!
+\xf000Ā\x0001\x0001: No...\xfffeI went easy on it...
+Assistant: It was just meant to be a test!\xfffeI even warned you to be careful\xf000븀\x0000\xfffenot to damage the F-00!
+\xf000Ā\x0001\x0001: Ugh...
+Assistant: It's all your fault! All of our\xfffehard work...for nothing!\xf000븁\x0000\xfffeWhat are we going to do now?!
+\xf000Ā\x0001\x0001: ...Sniffle...\xfffeWahhh! Wahhh!
+Assistant: Oh, pull yourself together.\xfffeCrying won't bring it back.\xf000븁\x0000\xfffeFor someone who is such a genius,\xfffeyou're still just a kid.
+\xf000Ā\x0001\x0001: Wahh...sniffle...
+And so, just before completing\xfffethe first-ever robot to have a heart,\xf000븀\x0000\xfffeI accidentally destroyed it...\xf000븁\x0000\xfffeI made many more attempts after that\xfffeto create another robot, but none were as\xf000븀\x0000\xfffemarvelous as my F-00...
+\xf000Ā\x0001\x0001: Hey!\xfffeWhat are you doing, F-00?\xf000븁\x0000\xfffeThe test isn't over yet!\xfffeBe still!
+F-00: I AM BORED.\xfffeBORED OF THIS TEST.\xf000븁\x0000\xfffeTHIS IS NOT FUN.\xfffeI WANT TO HAVE FUN!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001, GOOD-BYE!
+\xf000Ā\x0001\x0001: Just wait a moment!\xfffeWhere do you think you're going?\xf000븁\x0000\xfffeGoing somewhere to have fun?\xfffeDoes the F-00's programming really allow it\xf000븀\x0000\xfffeto behave so much like a human?
+Assistant: What are you standing there for?\xfffeWe've got to hurry and bring back the F-00!\xf000븁\x0000\xfffeWe're still in the testing phases! There's\xfffeno telling what the F-00 will do out there!\xf000븁\x0000\xfffeWhat are you going to do if it gets involved\xfffein some kind of accident?!
+Assistant: Come on, Professor!\xfffeWe've got to hurry!
+\xf000Ā\x0001\x0001: Hmmm...
+And so we desperately ran after\xfffethe F-00...\xf000븁\x0000\xfffeWhen we finally caught up, we saw it\xfffedestroying everything in its path.\xf000븁\x0000\xfffeThe F-00 found its fun in destroying the\xfffetown's buildings and cars.\xf000븁\x0000\xfffeEventually the police arrived, and the\xfffeF-00 was destroyed...\xf000븁\x0000\xfffeTaking responsibility for the incident, I\xfffeturned myself in and was arrested.\xf000븁\x0000\xfffeThat was 20 years ago...\xf000븁\x0000\xfffeI still regret that I ever created\xfffesuch a dangerous and violent robot...
+F-00: IT HURTS...
+Assistant: Professor! What are you doing?!\xf000븁\x0000\xfffeGo easy on the F-00 or you'll end up\xfffedestroying it!
+\xf000Ā\x0001\x0001: I know, I know...\xfffeIt was just a tiny mistake...
+Assistant: Please be a bit more careful!\xfffeYou know the future of our laboratory\xf000븀\x0000\xfffehangs in the balance!
+\xf000Ā\x0001\x0001: Oh, be quiet...
+Assistant: Don't tell me to be quiet!\xfffeI only said it because I care about\xf000븀\x0000\xfffeeveryone in our lab...
+\xf000Ā\x0001\x0001: Who cares?
+Assistant: You should care, Professor!\xfffeGive me a break! This is just a prototype!\xf000븀\x0000\xfffeIf you aren't careful with it, there's\xf000븀\x0000\xfffeno telling what could happen!
+\xf000Ā\x0001\x0001: I suppose you're right.
+Assistant: I'm counting on you!\xfffeThe F-00 is our lab's only hope!

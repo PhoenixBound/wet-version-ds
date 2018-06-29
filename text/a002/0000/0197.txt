@@ -1,0 +1,83 @@
+Actress
+Enigma
+E: Well...\xf000븁\x0000\xfffeThe basic functionality\xfffeshouldn't be bad, but...
+E: If this test shows no problem\xfffewith durability...
+E: Hmm...
+E: OK.\xfffeThe test is almost complete.\xf000븁\x0000\xfffeUse the Zap Cannon to stop the UFO!
+\xf000Ā\x0001\x0001: Um, why do you have a UFO?\xf000븁\x0000\xfffeAnd what are we going to do with it?
+E: Next, I'll test the abilities of\xfffethe decoy UFO I developed.\xf000븁\x0000\xfffeAre you ready, \xf000Ā\x0001\x0001?
+\xf000Ā\x0001\x0001: What?\xf000븁\x0000\xfffeTest?\xfffeDecoy UFO...?
+E: Save your questions for later.\xf000븁\x0000\xfffeJust follow my instructions.\xf000븁\x0000\xfffeYou have a Pokémon, don't you?
+\xf000Ā\x0001\x0001: Huh?\xfffeFight against the UFO?
+E: Exactly.\xfffeThe UFO is programmed to keep\xf000븀\x0000\xfffeattacking you.
+\xf000Ā\x0001\x0001: Bwuh?\xfffeThat's not dangerous?
+E: Tsk. Of course it's dangerous.\xfffeHow else can you test properly?\xf000븁\x0000\xfffeOh, and let me caution you...\xf000븁\x0000\xfffeThe coating on the frame of this\xfffeUFO has not yet been perfected.\xf000븁\x0000\xfffeDamage from moves other than Zap Cannon\xfffewill ruin it.\xf000븁\x0000\xfffeSo watch what you're doing! Got it?
+\xf000Ā\x0001\x0001: Got it!
+E: Commence testing.\xf000븁\x0000\xfffeWhen you're ready,\xfffebegin attacking the UFO!
+\xf000Ā\x0001\x0001: Hmm.\xf000븁\x0000\xfffeThe closer I look at it,\xfffethe more authentic it looks.\xf000븁\x0000\xfffeIt doesn't seem any different from\xfffea real UFO...
+E: Pay attention, please!\xf000븁\x0000\xfffeNext, we'll test the functionality\xfffeof the shield system...\xf000븁\x0000\xfffeFocus energy from your\xfffePokémon on the UFO!
+\xf000Ā\x0001\x0001: On it!
+E: Sounds good!\xfffeGive it all you've got!
+\xf000Ā\x0001\x0001: Eh? What?
+E: Why are you so slow?\xfffeQuickly, now. Do as I say!
+\xf000Ā\x0001\x0001: Urk. Don't flip out...
+E: I'm warning you, get focused.\xfffeOr I won't be responsible for\xf000븀\x0000\xfffewhatever happens...
+E: OK, enough.\xfffeThe test was successful.
+\xf000Ā\x0001\x0001: Phew...\xfffeWhat is this test for, exactly?\xf000븁\x0000\xfffeAnd what's the story of this decoy\xfffeyou mentioned earlier? What's a decoy?
+E: Certain creatures that live in groups\xfffehave a habit of gathering when they\xf000븀\x0000\xfffesee others of their kind...\xf000븁\x0000\xfffeSeeing one of them signals to the others\xfffethat it's safe to gather.\xf000븁\x0000\xfffeThat one is called a decoy.
+\xf000Ā\x0001\x0001: I think I get it.\xfffeBut what does that have to do with--
+E: OK, listen. My research has clearly shown\xfffethat UFOs begin gathering once a place\xf000븀\x0000\xfffeappears to be safe...
+\xf000Ā\x0001\x0001: You mean, real UFOs will gather\xfffenext to a decoy UFO because\xf000븀\x0000\xfffethey think it's safe?
+E: Exactly.\xfffeBut there's more.\xf000븁\x0000\xfffeI'm not going to use the decoy UFO to\xfffeattract ordinary UFOs.\xf000븁\x0000\xfffeWhat I'm looking for is their mothership.
+\xf000Ā\x0001\x0001: Their mothership?
+E: Right.\xf000븁\x0000\xfffeMy objective is to lure the mothership--\xfffethink of it as the UFO boss.\xf000븁\x0000\xfffeIf we can destroy the mothership,\xfffethe remaining UFOs will panic and retreat.
+\xf000Ā\x0001\x0001: Sounds like a plan!
+E: Listen up, \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeI've done the research and development.\xfffeSo, your role in this plan...\xf000븁\x0000\xfffeAs a member of the Unova Defense Force,\xfffethe destruction of the mothership\xf000븀\x0000\xfffeis up to you!
+\xf000Ā\x0001\x0001: I'm on board!\xf000븁\x0000\xfffeBut, one thing I'm kind of wondering...\xfffeHow do you know so much about UFOs?
+E: What did I say about staying focused?\xf000븁\x0000\xfffeDon't ask questions you don't need\xfffethe answers to, \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeYou know your role.\xfffeFocus on making my plan a success!
+E, the mysterious scientist, has provided\xfffea meticulous analysis of the UFOs.\xf000븁\x0000\xfffeE and \xf000Ā\x0001\x0001 now undertake a critical\xfffemission to save humanity from the invaders!
+\xf000Ā\x0001\x0001: Pant...pant...
+E: What seems to be the\xfffeproblem, \xf000Ā\x0001\x0001?\xf000븁\x0000\xfffeThe test is incomplete.\xfffeNow, get on your feet!
+\xf000Ā\x0001\x0001: That's all I've got.\xfffeI'm exhausted.\xf000븁\x0000\xfffeWe don't know for sure that the planet's\xfffeabout to be destroyed, do we?\xf000븁\x0000\xfffeIt should be OK if we rest for a moment.\xfffeUrghhh. So tired.\xf000븀\x0000\xfffeSo hungry and thirsty.
+E: Your weakness surprises me.\xf000븁\x0000\xfffeI may have made a mistake\xfffethinking I could count on you.
+\xf000Ā\x0001\x0001: Excuse me?!\xfffeYou've got a mean mouth!
+E: Enough!\xf000븁\x0000\xfffeHumanity's survival may be down to a few\xffferemaining hours.\xf000븁\x0000\xfffeI need to find someone who can do the job!
+\xf000Ā\x0001\x0001: There she goes... Oh, well.\xf000븁\x0000\xfffeThere's no Trainer stronger than me\xfffeanyway. So she'll be back sooner or later.\xf000븁\x0000\xfffeOh, urgghhh...\xf000븁\x0000\xfffeSo tired. Gotta take a break...
+Not realizing that the scientist E had gone\xfffefor good, \xf000Ā\x0001\x0001 fell soundly asleep.\xf000븀\x0000\xfffeZzz... Zzz...\xf000븁\x0000\xfffeHour upon hour passed.\xf000븁\x0000\xfffeWhile \xf000Ā\x0001\x0001 snored and drooled, the\xfffeUFOs carried out their attacks unopposed.\xf000븀\x0000\xfffeAnd so, humanity perished...
+\xf000Ā\x0001\x0001: Urgh...urgh...
+E: What's the matter?\xfffeThe test hasn't been completed yet.
+\xf000Ā\x0001\x0001: Wait...\xf000븁\x0000\xfffeI don't have any Pokémon to fight with...
+E: There's no other way, then.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0001--fight the UFO!
+\xf000Ā\x0001\x0001: What?
+E: If you try, you can do it.\xfffeActually, you have to do it!\xf000븁\x0000\xfffeThere's no other choice.\xfffeNow...attack the UFO!
+\xf000Ā\x0001\x0001: Are you crazy?
+E: I'm starting the test now.\xf000븁\x0000\xfffeI won't let you leave until\xfffewe get the data we need.
+With no Pokémon to help, \xf000Ā\x0001\x0001\xfffetried to complete the test.\xf000븁\x0000\xfffeBut a test with a human being alone could\xfffenot produce the data E needed.\xf000븁\x0000\xfffeAs they tried again and again to complete\xfffethe test, swarms of UFOs descended.\xf000븀\x0000\xfffeAnd so, humanity perished...
+\xf000Ā\x0001\x0001: Oops!\xfffeDid I overdo it?
+E: \xf000Ā\x0001\x0001!
+\xf000Ā\x0001\x0001: Yes?
+E: What have you done?\xf000븁\x0000\xfffeYou've ruined the UFO!
+\xf000Ā\x0001\x0001: Er, sorry.
+E: Were you paying attention\xfffeto what I said?
+\xf000Ā\x0001\x0001: ...Sorry.
+E: The fate of humanity\xfffedepends on this UFO!\xf000븁\x0000\xfffeThere's no use in saying sorry!
+\xf000Ā\x0001\x0001: ...Sorry.
+E: I don't want to hear you bleating\xfffe“sorry, sorry, sorry." Useless!
+\xf000Ā\x0001\x0001: S-sorry.
+E: I expect you to pay the cost of repairs.
+\xf000Ā\x0001\x0001: Yeah, I guess.
+E: Let's see. Repairing this UFO will cost\xfffeapproximately $1,000,000,000.
+\xf000Ā\x0001\x0001: Wha...\xf000븁\x0000\xfffeWhaaaaat?!
+E: I take it that you're unwilling to pay...
+\xf000Ā\x0001\x0001: I can't pay that!
+E: Then, until you can pay off your debt,\xfffeyou'll work as my assistant for free.
+Having carelessly ruined the UFO developed\xfffeby the mysterious scientist E, \xf000Ā\x0001\x0001 is\xf000븀\x0000\xfffesaddled with a debt too huge to ever repay.\xf000븁\x0000\xfffeShe will be at E's beck and call\xfffefor the rest of her life.
+UFO: Vwwwssssh!
+\xf000Ā\x0001\x0001: What's wrong?\xfffeSomething is wrong with the UFO...
+UFO: Vwwwssssh! Vwwwzzzzt!
+E: Stop, \xf000Ā\x0001\x0001!\xfffeDon't use that move!
+\xf000Ā\x0001\x0001: Huh?
+E: Wait, \xf000Ā\x0001\x0001.\xf000븁\x0000\xfffeNever, ever use that move on the UFO!
+\xf000Ā\x0001\x0001: Got it, got it...\xfffeNo need to get so mad.
+E: Listen and remember.\xf000븁\x0000\xfffeThis UFO is a highly developed machine.\xfffeThat move could cause its control system\xf000븀\x0000\xfffeto malfunction.
+\xf000Ā\x0001\x0001: Got it.\xf000븁\x0000\xfffe(...Hmmm. Seems like the UFO has a\xfffeweak point when it comes to Gravity...)

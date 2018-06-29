@@ -1,0 +1,94 @@
+    
+Waaah! Waaaaah!\xfffeI got lost! Waaaah!\xf000븁\x0000
+Showed him your Town Map!\xf000븁\x0000
+...\xfffe...Sniff. Thank you.\xf000븀\x0000\xfffeNow I know where my home is...\xf000븁\x0000\xfffeI'll go home!\xf000븁\x0000
+The boy went home...
+Waaah! Waaah!\xfffe\xf000ĉ\x0001\x0000! I want one!\xf000븀\x0000\xfffeGive one to me!
+Stingy! You're stingy!
+You don't have one!
+Yay!\xfffeThank you!\xf000븁\x0000
+Gave the \xf000ĉ\x0001\x0000 to him.\xf000븁\x0000
+I'll take good care of it!\xf000븁\x0000
+Gave the \xf000ĉ\x0001\x0000 in exchange for\xfffethe \xf000ĉ\x0001\x0001!
+Yes
+No
+Well...
+Hey, you! Good timing!\xfffeLet's trade items, shall we?\xf000븁\x0000
+Give me your \xf000ĉ\x0001\x0000 in exchange\xfffefor my \xf000ĉ\x0001\x0001.
+Oh, that's a shame!
+OK?\xfffeHow about this?\xf000븁\x0000
+Too bad!\xfffeI'll give up!
+\xf000ĉ\x0001\x0000... You don't have one.
+You don't have enough room\xfffefor the \xf000ĉ\x0001\x0001.
+OK. Let's trade!\xf000븁\x0000
+Thank you!\xfffeSee you!\xf000븁\x0000
+Hello!\xfffeI'm wondering if you would trade with me.\xf000븁\x0000
+Would you kindly trade your \xf000ĉ\x0001\x0000\xfffefor my \xf000ĉ\x0001\x0001?
+Whaaat?\xfffeAre you turning me down?!
+...That's quite all right.\xfffeHow about this, then?\xf000븁\x0000
+...Well??\xf000븁\x0000\xfffeWhat do you mean?\xfffeBe honest!\xf000븁\x0000\xfffeI don't want to trade!\xfffeThat's what you mean, isn't it?
+You!\xfffe\xf000ĉ\x0001\x0000... You don't have any!\xf000븁\x0000\xfffeAre you just teasing me?\xfffeHow rude!
+You!\xfffeYou don't have enough room for\xf000븀\x0000\xfffethe \xf000ĉ\x0001\x0001!
+Then, let's trade.\xf000븁\x0000
+Tee hee hee.\xfffeHave a good day.\xf000븁\x0000
+Bought the \xf000ĉ\x0001\x0000\xfffefor $\xf000ȅ\x0001\x0001.
+Hello!\xfffeI'm a moving Poké Mart!\xf000븁\x0000\xfffeThe limited-time sale is on now!\xfffeThe \xf000ĉ\x0001\x0000 is $\xf000ȅ\x0001\x0001.\xf000븀\x0000\xfffeWould you like to purchase it?
+I hope to see you again!
+I'm sorry, you don't have\xfffeenough money.
+Oh, you can't carry any more.
+Thank you!\xf000븁\x0000
+Please shop again at Poké Marts!\xf000븁\x0000
+Hee hee...\xfffeAre you interested in purchasing the\xf000븀\x0000\xfffe\xf000ĉ\x0001\x0000 for $\xf000ȅ\x0001\x0001?
+Too bad...\xfffeCome back again.\xf000븀\x0000\xfffeRemember, I sell things at market value.
+You don't have enough money...
+Whoa. You have too many.
+Heh heh...\xfffeThat's a good choice.\xf000븁\x0000
+See ya.\xf000븁\x0000
+Rock
+Scissors
+Paper
+Hi!\xfffePlay rock-paper-scissors!\xf000븁\x0000\xfffeRock, paper, scissors...
+Shoot!
+Rock, paper, scissors...
+Shoot!
+Yay!\xfffeYou lose.
+Whaa. I lost...\xfffeYou won!\xf000븁\x0000
+I'll get you for this!\xf000븁\x0000
+\xf000ā\x0001\x0000!
+\xf000ā\x0001\x0001
+\xf000ā\x0001\x0002
+\xf000ā\x0001\x0003
+\xf000ā\x0001\x0004
+\xf000ā\x0001\x0005
+OK, here's the question!\xf000븁\x0000\xfffePlease remember the names\xfffeof these Pokémon.\xf000븁\x0000
+Now!\xfffeWhat is the name of the Pokémon\xf000븀\x0000\xfffein position \xf000ȁ\x0001\x0006?
+Too bad! Incorrect!
+Correct!\xfffeExcellent!\xf000븁\x0000
+Then, see you again somewhere...\xfffeGood-bye!\xf000븁\x0000
+I want to ask you a favor!\xfffeTrain me!
+Too bad!
+Thanks!\xfffeNow battle me!\xf000븁\x0000
+Ah... I lost!\xfffeYou're strong!\xf000븁\x0000
+Battle me again sometime!\xfffeFarewell!\xf000븁\x0000
+Hmm...\xfffeThis doesn't help my training...\xf000븁\x0000\xfffe...Oh!\xfffeI'm too strong, aren't I?\xf000븀\x0000\xfffeGwa ha ha ha!\xf000븁\x0000
+What is true strength...?\xfffePlease!\xf000븀\x0000\xfffePlease battle me!
+Bleh!
+I appreciate it!\xfffeLet's begin!\xf000븁\x0000
+I...lost...\xfffeI'm not good enough yet.\xf000븁\x0000
+But! Someday!\xfffeI'll defeat you!\xf000븀\x0000\xfffeSee you!\xf000븁\x0000
+...This is not good.\xfffeIt's no good winning like this.\xf000븁\x0000\xfffeTrue strength...\xfffeWhat shall I do...?\xf000븁\x0000
+Endless training...\xfffeThat is the life of Pokémon Trainers.\xf000븀\x0000\xfffeLet's spar!
+You need to take a rest sometimes, huh?
+Here I come!\xf000븁\x0000
+Sigh... I lost...\xfffeI need more training.\xf000븁\x0000
+Endless training...\xfffeThat is the life of Pokémon Trainers.\xf000븁\x0000\xfffeI'm sure we'll meet somewhere.\xfffeFarewell!\xf000븁\x0000
+Being my training partner seems to\xfffehave been too difficult for you.\xf000븁\x0000\xfffeThat's fine.\xfffeYou'll be strong someday!\xf000븀\x0000\xfffeLet's battle again! Farewell!\xf000븁\x0000
+Hello!\xfffeIt's a present for Pokémon Trainers!\xf000븁\x0000
+When tired, taking a rest is best for\xfffeboth Pokémon and Trainers.\xf000븁\x0000\xfffePlease visit Pokémon Centers!\xf000븁\x0000
+Oh, you don't have enough room\xfffefor \xf000ĉ\x0001\x0000!
+Pokémon Trainers!\xfffeHello!\xf000븁\x0000\xfffeIt's a bit sudden, but I have a question.\xfffeDo you know this Pokémon?\xf000븁\x0000
+Please answer with the name of\xfffethis Pokémon.\xf000븁\x0000
+Hmmm...\xfffeWas it a bit difficult?
+Ah, that's too bad!\xfffeIt's not \xf000ā\x0001\x0000!
+Correct!\xfffeThe name is \xf000ā\x0001\x0000!\xf000븁\x0000
+Then, see you again somewhere.\xfffeBye!\xf000븁\x0000

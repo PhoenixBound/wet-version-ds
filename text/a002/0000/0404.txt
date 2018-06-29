@@ -1,0 +1,52 @@
+Tournament Download
+\xf000Ļ\x0001\x0000
+Battle Rules:
+Single Battle
+Double Battle
+Triple Battle
+Rotation Battle
+Tournament:
+Saved Tournaments
+Banned Pokémon
+Banned Items
+Banned Moves
+None
+Searching for tournament data.\xfffePlease wait a moment.
+Please choose the tournament\xfffeyou would like to save.\xf000븁\x0000
+                       
+Yes
+No
+                
+    
+    
+This tournament has already\xfffebeen saved.\xf000븁\x0000
+Received the tournament data!\xf000븁\x0000
+Saving the tournament...\xfffeDon't turn off the power.
+The tournament data has been saved.\xf000븁\x0000
+The tournament-data slots are full.\xfffePlease delete data and try again.\xf000븁\x0000
+Will you quit deleting tournament data?
+    
+    
+Is it OK to delete\xfffe\xf000Ļ\x0001\x0000?
+    
+    
+Is it really OK to delete\xfffe\xf000Ļ\x0001\x0000?
+    
+    
+The tournament data has been deleted.\xf000븁\x0000
+Data could not be found.\xf000븁\x0000
+Data could not be found.\xf000븁\x0000
+Data could not be found.\xf000븁\x0000
+What would you like to do with\xfffe\xf000Ļ\x0001\x0000?
+       
+    
+Please choose the tournament\xfffeyou would like to participate in.\xf000븁\x0000
+Will you participate in\xfffe\xf000Ļ\x0001\x0000?
+Participate
+See Details
+Cancel
+\xf000ā\x0001\x0000
+\xf000ĉ\x0001\x0000
+\xf000ć\x0001\x0000
+Save
+Would you like to stop\xfffedownloading tournament data?

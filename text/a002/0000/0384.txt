@@ -1,0 +1,328 @@
+Please choose who to call.
+Call
+Calling...
+       
+    
+    
+    
+    
+    
+I'd like to talk.
+Tell me about evolution.
+Check my Pokédex.
+Good-bye.
+Which Pokémon's evolution do you\xfffewant to learn about?
+What can I do for you?
+I'd like to talk.
+Something up?
+Good-bye.
+What?
+I'd like to talk.
+Tell me about types.
+Tell me about Abilities.
+Good-bye.
+Which of your Pokémon's types\xfffeshould I explain?
+Which of your Pokémon's Abilities\xfffeshould I explain?
+What would you like to ask?
+I'd like to talk.
+Please look at friendship.
+Please look at effort.
+Good-bye.
+Which of your little darlings do you want\xfffeto see how well you're getting along with?
+You and \xf000Ă\x0001\x0001...\xfffeYou aren't getting along, are you?\xf000븁\x0000\xfffeIt doesn't look like it's having\xfffefun even when you're together.\xf000븁\x0000
+You and \xf000Ă\x0001\x0001...\xfffeYou aren't getting along, are you?\xf000븁\x0000\xfffeIt's glaring at you with\xfffea look that's kinda scary.\xf000븁\x0000
+You and \xf000Ă\x0001\x0001...\xfffeYou still have room for improvement.\xf000븁\x0000\xfffeHow nice! I mean, you can\xfffebecome even better friends!\xf000븁\x0000
+You and \xf000Ă\x0001\x0001...\xfffeYou're starting to get to be friends.\xf000븁\x0000\xfffeJust maybe, walking along the same path\xfffehas made you understand one another.\xf000븁\x0000
+You and \xf000Ă\x0001\x0001...\xfffeYou seem really close!\xf000븁\x0000\xfffeYou look so, so happy!\xfffeIt's enough to make me happy, too!\xf000븁\x0000
+You and \xf000Ă\x0001\x0001...\xfffeYou two sure get along great!\xf000븁\x0000\xfffeIt looks like you are having fun being\xfffetogether! You seem bright and cheerful!\xf000븁\x0000
+You and \xf000Ă\x0001\x0001...\xfffeWhat great friends you are!\xf000븁\x0000\xfffeIt's so nice how you trust each other!\xfffeIt makes me kinda jealous!\xf000븁\x0000
+Which of your little darlings' efforts\xfffedo you want to see?
+Your \xf000Ă\x0001\x0001...\xfffeIt seems like it can work a little harder.\xf000븁\x0000
+Your \xf000Ă\x0001\x0001...\xfffeIt has worked really hard, hasn't it?\xf000븁\x0000
+I think it worked particularly hard on its\xfffe\xf000č\x0001\x0000!\xf000븁\x0000
+I think it worked particularly hard on its\xfffe\xf000č\x0001\x0000 and \xf000č\x0001\x0001!\xf000븁\x0000
+HP
+Attack
+Defense
+Speed
+Sp. Atk
+Sp. Def
+But I think it worked hard on\xfffeits \xf000č\x0001\x0000!\xf000븁\x0000
+But I think it worked hard on\xfffeits \xf000č\x0001\x0000 and \xf000č\x0001\x0001!\xf000븁\x0000
+What's up?
+I'd like to talk.
+\xf000ą\x0001\x0000?
+Good-bye.
+What do you need, dear?
+I'd like to talk.
+Good-bye.
+    
+Hi there!\xf000븁\x0000
+How are things going with the Pokédex?\xf000븁\x0000\xfffeSorry, I can't help but ask.\xfffeBe sure to enjoy your journey, though!\xf000븁\x0000
+You get more detailed information\xfffein the Pokédex by catching Pokémon!\xf000븁\x0000
+Filling up pages in the Pokédex\xfffeis very important, but don't forget...\xf000븁\x0000\xfffeInteracting with Pokémon is a hundred--\xfffeeven a thousand--times more important!\xf000븁\x0000
+I'm working with Pokémon Professors\xfffefrom other regions and trying to solve\xf000븀\x0000\xfffethe mysteries of Pokémon.\xf000븁\x0000\xfffeEven with their help,\xfffewe can't find every answer.\xf000븁\x0000\xfffeBut, if we learn things little by little,\xfffeit may leave clues for the researchers\xf000븀\x0000\xfffewho follow us.\xf000븁\x0000
+What can I do to improve the\xfffePokédex that will make everyone happy?\xf000븁\x0000
+Looking at you reminds me of when\xfffeI was a Backpacker, and it really\xf000븀\x0000\xfffemotivates me!\xf000븁\x0000\xfffeThat's right! I also traveled the\xfffeUnova region with a Pokédex!\xf000븁\x0000
+I met your mother\xfffewhen I was a Backpacker!\xf000븁\x0000\xfffeWe got to talking at the\xfffecounter in the Pokémon Center,\xf000븀\x0000\xfffeand a huge line formed behind me!\xf000븁\x0000
+I'm sure there are still Pokémon\xfffethat no one in the world has seen!\xf000븁\x0000\xfffeDoesn't just imagining them make\xfffeyou excited?\xf000븁\x0000
+Dream big!\xf000븁\x0000\xfffeI want to see every\xfffePokémon in the world!\xf000븁\x0000
+In order to get along with others,\xfffeyou must be understanding and accepting.\xf000븁\x0000\xfffeI mean, Pokémon and people live\xfffeby different rules!\xf000븁\x0000\xfffeIf we just push our expectations on them,\xfffethere's no way it will go well.\xf000븁\x0000
+OK, then! Take care.\xfffeBye-bye!\xf000븁\x0000
+Yeah?\xf000븁\x0000
+You have to protect what's important\xfffeto you on your own!\xf000븁\x0000
+People who are strong in Pokémon\xfffebattles aren't automatically right.\xf000븁\x0000\xfffeBut losers don't even have a leg\xfffeto stand on, know what I mean?\xf000븁\x0000
+When it's night\xfffeand everything's quiet...\xf000븁\x0000\xfffeIf you listen carefully,\xfffeyou can hear the footsteps of Pokémon.\xf000븁\x0000\xfffeI really like that.\xf000븁\x0000
+If you believe in yourself\xfffeand have Pokémon by your side,\xf000븀\x0000\xfffeeven being lost is fun!\xf000븁\x0000
+I'm thinking about what Pokémon\xfffeI should have to make up for\xf000븀\x0000\xfffemy other Pokémon's weaknesses.\xf000븁\x0000
+I don't care what the reason is.\xfffeIf you take other people's stuff,\xf000븀\x0000\xfffeyou're nothing more than a dirty thief!\xf000븁\x0000
+I like spending time thinking\xfffeabout how to raise my Pokémon\xf000븀\x0000\xfffeand make them stronger.\xf000븁\x0000
+I guess if I had to pick a trait I prefer,\xfffeI like Pokémon that are fast...\xf000븁\x0000
+Hey, sorry!\xfffeThere's something I want to do right now!\xf000븁\x0000
+Um...\xfffeI don't have much to say right now.\xf000븁\x0000
+See ya!\xf000븁\x0000
+Where am I now?\xf000븁\x0000\xfffeI'm searching every corner of\xfffeCastelia City for Team Plasma!\xf000븁\x0000\xfffeYou haven't found them either, right?\xfffeWe HAVE to find them!\xf000븁\x0000\xfffeGot it?!\xf000븁\x0000
+The sewers, huh...\xf000븁\x0000\xfffeIf Team Plasma's hiding there,\xfffewe have to find them.\xf000븁\x0000\xfffeOtherwise, I'm sure they'll cause trouble\xfffefor the Pokémon living there.\xf000븁\x0000
+Thanks for helping back there!\xf000븁\x0000\xfffeI'm going to keep looking for\xfffeTeam Plasma in Castelia City.\xf000븁\x0000\xfffeWhy don't you head to the Pokémon Gym?\xf000븁\x0000
+You won the Insect Badge from\xfffethe Castelia City Pokémon Gym?\xf000븁\x0000\xfffeWell then, you should go to\xfffeNimbasa City and take on\xf000븀\x0000\xfffethe Gym Leader there!\xf000븁\x0000
+What do you want?\xf000븁\x0000\xfffeHave you challenged the\xfffeDriftveil City Pokémon Gym yet?\xf000븁\x0000\xfffeIf you haven't yet, just go already!\xf000븁\x0000\xfffeHey, apparently the Gym Leader\xfffeuses Ground-type Pokémon!\xf000븁\x0000
+Clay just told you to participate\xfffein the Driftveil Tournament, right?\xf000븁\x0000\xfffeI hear the tournament takes place\xfffeto the south of Driftveil City!\xf000븁\x0000
+The Pokémon World Tournament!\xf000븁\x0000\xfffeA Trainer who wins on the first try\xfffemust be really good!\xf000븁\x0000
+No matter what kind of tournament\xfffeit is, winning's impressive!\xf000븁\x0000
+It's Team Plasma!\xf000븁\x0000\xfffeThere's a suspicious-looking ship\xfffedocked in the area south of the\xf000븀\x0000\xfffePokémon World Tournament arena!\xf000븁\x0000\xfffeMeet me there!\xf000븁\x0000
+Hey, how nice!\xfffeWe're having a nice friendly chat!\xf000븀\x0000\xfffeAt a time like this...\xf000븁\x0000\xfffeGet off the Xtransceiver already!\xf000븁\x0000
+Actually...\xf000븁\x0000\xfffeYou're strong enough that\xfffeyou can probably even beat\xf000븀\x0000\xfffeMistralton City's Gym Leader.\xf000븁\x0000\xfffeWell, I've already won my\xfffeJet Badge, though!\xf000븁\x0000
+I've got one word for you...\xf000븁\x0000\xfffeReversal Mountain.\xf000븁\x0000\xfffeOh, wait, that's two words...\xf000븁\x0000
+Are you somewhere near Undella Town now?\xf000븁\x0000\xfffeMaybe I'll go there and battle with you.\xf000븁\x0000\xfffeIt's been a while!\xf000븁\x0000
+Opelucid City's Gym Leader\xfffewas really tough!\xf000븁\x0000
+Good! You're OK!\xf000븁\x0000\xfffeI'm in Humilau City,\xfffeso I can't get there right away,\xf000븀\x0000\xfffebut I'm sure you can handle it!\xf000븁\x0000
+I'm looking for Team Plasma,\xfffebut I can't find a trace of them!\xf000븁\x0000\xfffeGo to Humilau City.\xfffeThe Gym Leader's named Marlon.\xf000븀\x0000\xfffeHurry up and go beat him!\xf000븁\x0000
+Didn't I just tell you?!\xf000븁\x0000\xfffeLet's split up and look\xfffefor the Plasma Frigate!\xf000븀\x0000\xfffeYou check Route 22!\xf000븁\x0000
+...\xf000븁\x0000\xfffeWhy would you think this would be a good\xfffetime to chat on the Xtransceiver?!\xf000븁\x0000
+The Pokémon League is\xfffejust past Victory Road.\xf000븁\x0000\xfffeVictory Road itself is\xfffejust beyond Route 23!\xf000븁\x0000
+Hm... So you're on\xfffeVictory Road.\xf000븁\x0000\xfffeThen you're almost to the\xfffePokémon League!\xf000븁\x0000
+Don't worry about me!\xf000븁\x0000\xfffeYou're at the Pokémon League, right?\xfffeThe only thing you need to think about\xf000븀\x0000\xfffeis winning!\xf000븁\x0000
+I'm in Undella Town.\xfffeIf you're bored, come hang out.\xf000븁\x0000
+I'm in Driftveil City.\xf000븁\x0000\xfffeIf you have time, head over.\xfffeI'll spar with you.\xf000븁\x0000
+I'm still in Driftveil City.\xf000븁\x0000\xfffeYou can just do what you want\xfffeto do, you know?\xf000븁\x0000
+                                                                
+                                                                             
+                                                                        
+                                                                                                       
+                                                                   
+                                                                                           
+                                                                        
+                                                                                         
+                                              
+                                                  
+                                                       
+How're things going over there?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeReally...\xfffeGive me a hand, then!\xf000븁\x0000\xfffeGo check out Seaside Cave!\xfffeThat's right! The one on Route 21!\xf000븁\x0000\xfffeOK! Counting on you!\xf000븁\x0000
+We're heading down into the Giant Chasm!\xfffeI'm not letting Team Plasma get away!\xf000븁\x0000
+You know the next Pokémon Gym\xfffeafter Nimbasa City is Driftveil City, right?\xf000븁\x0000
+Leave it to me! I won't let Team Plasma\xfffeescape from Nimbasa City!\xf000븁\x0000
+You were a big help back there!\xfffeGuess Driftveil City's next!\xf000븁\x0000
+There was one more Team Plasma member.\xfffeHey, go listen to what he has to say!\xf000븁\x0000
+Brilliant!\xfffeNice work getting the Gym Badge!\xf000븁\x0000
+It's just a rumor, but I heard\xfffeTeam Plasma was in Lacunosa Town...\xf000븁\x0000
+Huh! You even beat Drayden!\xfffeYou're really something!\xf000븁\x0000
+Have you beat Marlon yet?\xfffeDon't keep me waiting too long!\xf000븁\x0000
+They were headed for the\xfffeGiant Chasm, weren't they?\xf000븁\x0000
+Come to the sewers!\xfffeLet's look for Team Plasma!\xf000븁\x0000
+OK! Got it!\xfffeWaiting in the sewer isn't fun!\xf000븁\x0000
+You know Celestial Tower?\xf000븁\x0000\xfffeIt's on Route 7!\xfffeGo train there if you want!\xf000븁\x0000
+It's OK! I won't let Team Plasma\xfffeescape from Lacunosa Town!\xf000븁\x0000\xfffeSo do whatever you need to prepare!\xf000븁\x0000
+I don't mean to brag...\xf000븁\x0000\xfffeBut I'm not such a\xfffebad Trainer myself!\xf000븁\x0000\xfffeAnd you're even better!\xf000븁\x0000\xfffeAll right! Go and knock around\xfffethose chumps at the Pokémon League!\xf000븁\x0000
+Oh yeah! I'll come meet you. There's\xfffesomething I want to talk to you about.\xf000븁\x0000
+Did you like amusement parks?\xfffeI forget...\xf000븁\x0000
+What's up?\xf000븁\x0000
+Listen...\xf000븁\x0000\xfffeMake sure you never run out\xfffeof Poké Balls!\xf000븁\x0000\xfffeYou never know where you'll\xffferun into what Pokémon!\xf000븁\x0000\xfffeYou have to be ready and believe\xfffean opportunity will come your way!\xf000븁\x0000
+The only real defeat in\xfffePokémon battling is giving up.\xf000븁\x0000\xfffeIf you think about why you lost\xfffeand compensate for it,\xf000븀\x0000\xfffethe next time you face a challenge,\xf000븀\x0000\xfffeyou'll improve yourself.\xf000븁\x0000\xfffeBut if you don't do anything,\xfffethere's no way you'll win.\xf000븁\x0000
+Hmm...\xf000븁\x0000\xfffeIt's important to teach people\xfffemany things about Pokémon,\xf000븀\x0000\xfffebut what I really want people to know\xf000븀\x0000\xfffeis that being with Pokémon is fun!\xf000븁\x0000
+Truths...\xfffeIdeals...\xf000븁\x0000\xfffeThere are as many of these as there\xfffeare people...\xf000븁\x0000\xfffeI'm sure there are even as many\xfffeas there are people and\xf000븀\x0000\xfffePokémon together.\xf000븁\x0000\xfffeThat's why you can always say\xfffethere must be right answers somewhere.\xf000븁\x0000
+I stopped wearing glasses,\xfffeand Bianca is wearing glasses now...\xf000븁\x0000\xfffeI hadn't seen her in a long time,\xfffeand I was sure surprised when I saw that.\xf000븁\x0000
+When I was a kid,\xfffeI did an experiment where I\xf000븀\x0000\xfffewore a blindfold all of the time.\xf000븁\x0000\xfffeI thought by doing that...\xfffeI could train my senses.\xf000븁\x0000
+Don't you think it's strange that a guy\xfffelike me is a Gym Leader!\xf000븁\x0000\xfffeOh!\xfffeI'm sorry.\xf000븁\x0000\xfffeDidn't mean to put you\xfffein an awkward position there.\xf000븁\x0000
+When you don't have self-confidence,\xfffeit's easy to want to fall back on\xf000븀\x0000\xfffea title like “Champion" or something,\xf000븀\x0000\xfffebut that's really superficial.\xf000븁\x0000
+Even if you have knowledge,\xfffeyou have to have wisdom as well.\xf000븁\x0000\xfffeKnowledge is mere information.\xfffeNow, understanding how to use it,\xf000븀\x0000\xfffethat is what's really important.\xf000븁\x0000
+You have to check out what you're\xfffeinterested in and confirm it for yourself.\xf000븁\x0000\xfffeIf you only try to understand\xfffeeverything on an intellectual level,\xf000븀\x0000\xfffeyou're gonna run into a lot of trouble.\xf000븁\x0000
+Be seeing you.\xf000븁\x0000
+Hellooo!\xf000븁\x0000
+How are things going today?\xf000븁\x0000\xfffeIf everything is going well,\xfffeI'm sure you're having fun!\xf000븁\x0000\xfffeIf it's not great, then I'm\xfffesure tomorrow will be better!\xf000븁\x0000
+Walking into the tall grass\xfffeto go look for Pokémon\xf000븀\x0000\xfffenever gets old!\xf000븁\x0000\xfffeI will never forget how\xfffethat feels as long as I live!\xf000븁\x0000
+I've been reading a ton of books\xfffewhile helping Professor Juniper,\xf000븀\x0000\xfffeso I started wearing glasses!\xf000븁\x0000\xfffeI think they look pretty good\xfffeon me!\xf000븁\x0000
+So when you buy 10 Poké Balls\xfffeat one time...\xf000븁\x0000\xfffeA-MAZ-ing-ly!\xfffeYou get a Premier Ball as well!\xf000븁\x0000\xfffeIsn't that fantastic?!\xf000븁\x0000
+Know what? This just popped into my head,\xfffebut a friend is always a friend,\xf000븀\x0000\xfffeeven when you can't see each\xf000븀\x0000\xfffeother for a long time!\xf000븁\x0000
+Hm... I just remembered something\xfffethat happened in the past.\xf000븁\x0000\xfffeWell actually, it isn't really the past,\xfffeit was more something that happened\xf000븀\x0000\xfffereally recently, I guess.\xf000븁\x0000\xfffeI'm talking about when I got my Pokémon\xfffeand the Pokédex and went on my journey!\xf000븁\x0000
+Hey!\xf000븁\x0000\xfffeWould it make you happy if\xfffePokémon could talk?\xf000븀\x0000\xfffeOr would it cause you problems?\xf000븁\x0000\xfffeI'm always talking to my Pokémon,\xfffebut I wonder what I would do\xf000븀\x0000\xfffeif they actually replied...\xf000븁\x0000
+The most mysterious thing\xfffeabout Pokémon...\xf000븀\x0000\xfffeis that they stay with people!\xf000븁\x0000\xfffeI'm thinking about making that\xfffethe theme of my research.\xf000븁\x0000
+So, I've just started my research\xfffeinto Pokémon.\xf000븀\x0000\xfffeActually, I'm still just an assistant.\xf000븁\x0000\xfffeBut it's probably impossible to\xfffeunderstand everything about Pokémon.\xf000븁\x0000\xfffeProfessors know this but still continue\xfffetheir research.\xf000븀\x0000\xfffeI find that astonishing...\xf000븁\x0000
+...\xf000븁\x0000\xfffeOh! I'm sorry!\xf000븁\x0000\xfffeA Pokémon I'm interested\xfffein just popped out!\xf000븁\x0000
+See you!\xf000븁\x0000
+Oh!\xfffeYou sound full of energy!\xf000븁\x0000
+Did you find more Pokémon\xfffeto travel with you?\xf000븁\x0000\xfffeJourneys are definitely more\xfffefun when they're lively!\xf000븁\x0000
+Hmm, I wonder what I should\xfffedo for dinner tonight...\xf000븁\x0000
+There are many different Pokémon,\xfffeand even the same kind of Pokémon\xf000븀\x0000\xfffehave individuals with completely\xf000븀\x0000\xfffedifferent Natures!\xf000븁\x0000\xfffeI wonder what kind of Pokémon is a\xfffeperfect match for you.\xf000븁\x0000
+The first thing you need to do to\xfffegain a Pokémon's trust is walk with them!\xf000븁\x0000\xfffeBy doing that, they will come to\xfffeknow a lot about you!\xf000븁\x0000
+Don't worry about the house.\xf000븁\x0000\xfffeThe sheets on your bed will be clean\xfffeand washed so they're ready whenever\xf000븀\x0000\xfffeyou come home!\xf000븁\x0000
+If I can be serious for a moment...\xf000븁\x0000\xfffePokémon have existed since\xfffebefore you were born, right?\xf000븁\x0000\xfffeYou've never thought to question\xfffewhy they're there, right?\xf000븁\x0000\xfffeBut isn't questioning what you know\xfffean important part of being on a journey?\xf000븁\x0000
+Pokémon Center receptionists remember\xfffeTrainers better than you might expect.\xf000븁\x0000\xfffeOf course, they remember the\xfffePokémon that were with them, too!\xf000븁\x0000
+Have you caught lots of Pokémon?\xf000븁\x0000\xfffeOK, but be sure to have a look at your\xfffePC Boxes in the Pokémon Center.\xf000븁\x0000\xfffeMaybe there's a Pokémon in there\xfffewho wants to travel with you!\xf000븁\x0000
+The Pokémon Center is\xfffeeveryone's home!\xf000븁\x0000\xfffeYou should just make yourself\xfffeat home like you belong there!\xf000븁\x0000
+Do you have enough money?\xf000븁\x0000\xfffeI just thought I should ask,\xfffebut a sensible kid like you is OK!\xf000븁\x0000\xfffeStill, don't waste your money!\xfffeYou might not have it when you need it!\xf000븁\x0000
+OK!\xfffeTake care of yourself!\xf000븁\x0000
+Hello!\xfffeIs this \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffe...\xf000븁\x0000
+...Hello!\xf000븁\x0000
+Hello!\xf000븁\x0000
+Hello?\xf000븁\x0000
+...Hello?\xf000븁\x0000\xfffeAh, it must be \xf000Ā\x0001\x0000, right?
+Ah, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeYeah, I can talk right now.\xf000븁\x0000
+Ah, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeYeah, I can talk right now.\xf000븁\x0000
+Ah, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeI'm glad we can talk face-to-face!\xf000븁\x0000
+Oh, sorry I've kept you waiting!\xf000븁\x0000
+...
+You know...
+Well...
+Ahaha!
+It's me!\xf000븁\x0000\xfffeYeah! You picked up my\xfffeXtransceiver!\xf000븁\x0000\xfffeHey, it's a little annoying that we can't\xfffesee each other's faces, isn't it?\xf000븁\x0000\xfffeWe won't recognize each other\xfffeeven if we pass on the street.\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+It's me!\xf000븁\x0000\xfffeYeah! You picked up my\xfffeXtransceiver!\xf000븁\x0000\xfffeHey, it's a little annoying that we can't\xfffesee each other's faces, isn't it?\xf000븁\x0000\xfffeWe won't recognize each other\xfffeeven if we pass on the street.\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+Excuse the sudden question,\xfffebut can you guess what my job is?\xf000븁\x0000\xfffeAhaha!\xfffeI guess it's natural you have no idea.\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+Excuse the sudden question,\xfffebut can you guess what my job is?\xf000븁\x0000\xfffeAhaha!\xfffeI guess it's natural you have no idea.\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+I'll just think out loud...\xfffeI love \xf000ă\x0001\x0001-type Pokémon!\xf000븁\x0000\xfffeMany of them look cool, I think.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000,\xfffeI hope you like \xf000ă\x0001\x0001-type\xf000븀\x0000\xfffePokémon, too!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+I'll just think out loud...\xfffeI love Electric-type Pokémon!\xf000븁\x0000\xfffeMany of them look cool, I think.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000,\xfffeI hope you like Electric-type\xf000븀\x0000\xfffePokémon, too!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+\xf000ď\x0001\x0001 is great!\xfffeI was listening to music just now!\xf000븁\x0000\xfffeMusic is wonderful!\xfffeIt gives me energy!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000,\xfffeyour voice would go well with\xf000븀\x0000\xfffe\xf000ď\x0001\x0001, I think!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+Rock is great!\xfffeI was listening to music just now!\xf000븁\x0000\xfffeMusic is wonderful!\xfffeIt gives me energy!\xf000븁\x0000\xfffeI wonder what your favorite music is.\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+Guess what!\xfffe\xf000ď\x0001\x0001 Pokémon are\xf000븀\x0000\xfffequite popular among many of my friends!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeReally?\xf000븁\x0000\xfffe\xf000ď\x0001\x0001 Pokémon happen\xfffeto be your favorite, too? That's great!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+Guess what!\xfffeCool Pokémon are quite popular among\xf000븀\x0000\xfffemany of my friends!\xf000븁\x0000\xfffeI would feel great if you liked\xfffecool Pokémon, too!\xf000븁\x0000\xfffeIt'll mean coolness is the\xfffe“in" thing, you know!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+\xf000ď\x0001\x0001, for me,\xfffeis a good way to spend the holiday!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000,\xfffehow do you spend your... Oh!\xf000븁\x0000\xfffeHow rude of me to ask such a question\xfffeof a lady!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+\xf000Ā\x0001\x0000, what will you do on\xfffeyour holiday... Oops!\xf000븁\x0000\xfffeHow rude of me to ask such a question\xfffeof a lady!\xf000븁\x0000\xfffeI'm usually at work, unfortunately.\xfffeThat's why I still haven't picked up\xf000븀\x0000\xfffemy Xtransceiver from you...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+You know what I had a chance to\xfffedo recently?\xf000븀\x0000\xfffe\xf000ď\x0001\x0001!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, how about you?\xfffe\xf000ď\x0001\x0001s?\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+What comes to your mind when you hear the\xfffeidea of communication through Pokémon?\xf000븁\x0000\xfffeTrades or battles?\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000,\xfffeI'd like a trade with you\xf000븀\x0000\xfffeif you like to trade Pokémon!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+I'm going to work harder and harder...\xfffeand become a great si...\xf000븁\x0000\xfffeNever mind!\xfffeMy job is top secret!\xf000븁\x0000\xfffeHow about you, \xf000Ā\x0001\x0000?\xfffeThe word “\xf000ď\x0001\x0001" comes to\xf000븀\x0000\xfffemy mind for some reason... Am I right?\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+I'm going to work harder and harder...\xfffeand become a great si...\xf000븁\x0000\xfffeNever mind!\xfffeMy job is top secret!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+Here comes a question!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, you're a Pokémon Trainer.\xfffeHow many Badges do you have?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeGreat!\xf000븁\x0000\xfffeYou have \xf000Ȁ\x0001\x0001 Gym Badges?\xfffeYou're a tough Trainer, aren't you?\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+Actually, I'm off work today!\xf000븁\x0000\xfffeI'd like to pick up my Xtransceiver.\xfffeThe one you've been keeping for me!\xf000븁\x0000\xfffeWill you please come to the Ferris wheel\xfffein Nimbasa City?\xf000븁\x0000\xfffeOh, if you can, of course!\xf000븁\x0000\xfffeSee you there, \xf000Ā\x0001\x0000!\xf000븁\x0000
+Thank you so much for the other day!\xf000븁\x0000\xfffeI was surprised you were my age!\xfffeI was guessing you would be older\xf000븀\x0000\xfffethan me by your voice.\xf000븁\x0000\xfffeIt made me a little nervous\xfffeon the Xtransceiver, you know?\xf000븁\x0000\xfffeI'm relieved that I can relax\xfffefrom now on when we talk.\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+My hobby is fishing.\xf000븁\x0000\xfffeI'd cast the line wherever\xfffeI have a good hunch.\xf000븁\x0000\xfffeDifferent places have different Pokémon,\xfffeso every fishing experience is a surprise.\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+I may have said this before, but\xfffeI like Electric-type Pokémon a lot!\xf000븁\x0000\xfffeWhen they give off electricity,\xfffeI feel like I'm energized!\xf000븁\x0000\xfffeDon't you agree they have that\xfffekind of charm?\xf000븁\x0000\xfffeBesides, there are so many cool Pokémon\xfffeamong them!\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Don't you love music?\xf000븁\x0000\xfffeDo you listen to rock often?\xfffeListening to music gives you energy,\xf000븀\x0000\xfffeyou know.\xf000븁\x0000\xfffeI may not look it, but I'm pretty good at\xfffesinging and that stuff.\xf000븁\x0000\xfffeI'd really like you to listen to me sing\xfffewhen we have the opportunity.\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+\xf000Ā\x0001\x0000,\xfffehave you participated in the\xf000븀\x0000\xfffePokémon Musical?\xf000븁\x0000\xfffeI've been wanting to play Dress Up by\xfffeputting my Pokémon in a cool outfit and\xf000븀\x0000\xfffewatch it participate in a musical.\xf000븁\x0000\xfffeIf my Pokémon got fan letters, that\xfffewould really give it some motivation!\xf000븁\x0000\xfffeAh, I should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+My days off?\xf000븁\x0000\xfffeI usually go fishing, I guess.\xfffeTaking some time alone and casting out\xf000븀\x0000\xfffeyour line is a good change of pace.\xf000븁\x0000\xfffeI had gone fishing the day I dropped\xfffemy Xtransceiver, too!\xf000븁\x0000\xfffeSo you could say fishing helped us meet,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+I have my Pokémon battle often.\xf000븁\x0000\xfffeMy job requires me to go to various\xffferegions, so I'd challenge people there\xf000븀\x0000\xfffeand create some fun memories.\xf000븁\x0000\xfffeI'm not that good at battling, though.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeI'd love to challenge you someday,\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+I want to become someone cool.\xf000븁\x0000\xfffeI don't mean someone who appears cool.\xfffeI'm talking about substance.\xf000븁\x0000\xfffeI have a long way to go...\xf000븁\x0000\xfffeBut I believe I'll one day become\xfffea person of substance and coolness\xf000븀\x0000\xfffeby working hard at my job.\xf000븁\x0000\xfffeI hope that you'd support me in that.\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+My mom and my sister were having\xfffea Pokémon battle the other day.\xf000븁\x0000\xfffeThey were having so much fun!\xf000븁\x0000\xfffeThen my brother started crying,\xfffesaying he wanted a Pokémon, too.\xf000븀\x0000\xfffeIt took us some time to calm him down.\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Time flies when I talk to you, \xf000Ā\x0001\x0000.\xfffeI must be having the best time!\xf000븁\x0000\xfffeAhaha!\xfffeCalls from you are always welcome!\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xfffeI hope you can help me with this.\xf000븁\x0000\xfffeHave you seen what they call\xfffethe dark tall grass?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI see...\xfffeSo high-level Pokémon may jump out at you.\xf000븁\x0000\xfffeI knew it was a dangerous kind of\xfffetall grass.\xf000븁\x0000\xfffeI should tell my brother and sister\xfffeto be careful, then. Thanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xfffeI hope you can help me with this.\xf000븁\x0000\xfffeI want to give my brother a Pokémon.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI guess you're right.\xfffeYou think his first Pokémon should be\xf000븀\x0000\xfffe\xf000ă\x0001\x0001 type?\xf000븀\x0000\xfffeI'll go catch one with my brother soon!\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xfffeI hope you can help me with this.\xf000븁\x0000\xfffeI just made a mistake at work.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeYeah...\xf000븁\x0000\xfffeI feel better talking to you,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI'll keep in mind to avoid making\xfffethe same mistake again.\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xfffeI hope you can help me with this.\xf000븁\x0000\xfffeHave you heard of the Medal Rally?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeReally?\xf000븁\x0000\xfffeSounds like a fun event!\xfffeI had no idea.\xf000븁\x0000\xfffeThis strange man caught me off guard\xfffeby giving me these Medals...\xf000븁\x0000\xfffeI'll start collecting them...since you are.\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xfffeI hope you can help me with this.\xf000븁\x0000\xfffeI have trouble battling against Leavanny.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOf course!\xf000븁\x0000\xfffeI'm glad I asked you...\xf000븁\x0000\xfffeI'll have a Fire-type Pokémon battle\xfffeLeavanny next time.\xf000븁\x0000\xfffeWith this strategy,\xfffethere is no way I'd lose to my sis...\xf000븁\x0000\xfffeNever mind!\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xfffeI hope you can help me with this.\xf000븁\x0000\xfffeI had an argument with my mom\xfffeabout my job yesterday...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeYeah...\xf000븁\x0000\xfffeI feel better talking to you,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI'll go apologize to my mom.\xfffeI'll stay calm and be sincere.\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xfffeI hope you can help me with this.\xf000븁\x0000\xfffeSomebody gave me a Dowsing Machine\xfffethe other day and...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOh, I see!\xf000븁\x0000\xfffeThe Dowsing Machine can be used\xfffein many places.\xf000븁\x0000\xfffeI'll use mine more often from now on.\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xfffeI hope you can help me with this.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeHow do I...\xf000븁\x0000\xfffeHow do I look in this cap?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeI'm glad I asked you...\xf000븁\x0000\xfffeHey, you're making me blush!\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xfffeI hope you can help me with this.\xf000븁\x0000\xfffeI have this person who's really\xfffegood at what we do at our workplace,\xf000븀\x0000\xfffeand I can't help but feel competitive.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeYeah!\xf000븁\x0000\xfffeI feel better talking to you,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI guess it's not her but my own self\xfffethat I need to deal with.\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Er...\xf000븁\x0000\xfffeUmm...\xf000븁\x0000\xfffeI'm off work today, so\xfffecan we meet somewhere?\xf000븁\x0000\xfffeYou've been helping me a lot lately,\xfffeso I'd love to thank you face-to-face.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeReally? You can?\xf000븁\x0000\xfffeGreat!\xf000븁\x0000\xfffeCan we meet each other at\xfffethe Ferris wheel?\xf000븁\x0000\xfffeI'm so looking forward to it,\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
+I went on a business trip to the Kanto\xffferegion the other day.\xf000븁\x0000\xfffeThey let me visit Viridian Forest, and\xfffeI saw Pikachu there.\xf000븁\x0000\xfffeIt's funny that they look so cool just\xfffeby being an Electric type.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+I went on a business trip to the Johto\xffferegion the other day.\xf000븁\x0000\xfffeThey have many traditional buildings,\xfffeand they are really mysterious.\xf000븁\x0000\xfffeI managed to go to the Lake of Rage\xfffefor fishing, too! It was a tiring trip,\xf000븀\x0000\xfffebut I had a great time!\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+...\xf000븁\x0000\xfffeTee hee.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeHaha!\xf000븁\x0000\xfffeOh, sorry!\xf000븁\x0000\xfffeI couldn't help smiling 'cause\xfffeI'm talking to you.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeIt's so much fun talking to you,\xfffe\xf000Ā\x0001\x0000!\xf000븀\x0000\xfffeI wish it would last forever!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+I went on a business trip to the Sinnoh\xffferegion the other day.\xf000븁\x0000\xfffeThe vast wilderness there was\xfffeso breathtaking!\xf000븁\x0000\xfffeI managed to go to Lake Verity to go\xfffefishing, too!\xf000븁\x0000\xfffeIt was a tiring trip, but I had a\xfffegreat time!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+The stars last night were so\xfffebeautiful...\xf000븁\x0000\xfffeDid you see them by any chance,\xfffe\xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeI saw lots of shooting stars, too.\xfffeIt really was a pretty night.\xf000븁\x0000\xfffeI saw so many that I managed to\xfffemake a wish upon one of them.\xf000븁\x0000\xfffeWhat?\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeI can't tell you what I wished for.\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+I went to the Battle Institute in\xfffeNimbasa City to take the Battle Test.\xf000븁\x0000\xfffeI did a little better than the last time!\xf000븁\x0000\xfffeI'll keep trying to get better results!\xf000븁\x0000\xfffeI'd appreciate it if you could tell me\xfffeabout Pokémon battles. Can you?\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+I went on a business trip to the Hoenn\xffferegion the other day.\xf000븁\x0000\xfffeThey have many unique towns and cities.\xfffeThey really surprised me!\xf000븁\x0000\xfffeI managed to go to the Meteor Falls\xfffeto go fishing, too!\xf000븁\x0000\xfffeIt was a tiring trip, but I had a\xfffegreat time!\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+I was using the Dowsing Machine the other\xfffeday and got something really awesome.\xf000븁\x0000\xfffeI gave it to my mom, and she was so happy.\xf000븁\x0000\xfffeI'm glad you told me about the\xfffeDowsing Machine a while ago,\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+Oh!\xf000븁\x0000\xfffeSorry, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeIt's almost time for work...\xf000븁\x0000\xfffeI have to hang up...\xf000븁\x0000\xfffeSo sorry...\xf000븁\x0000
+I'm on my break right now.\xfffeCouldn't help answering...\xf000븀\x0000\xfffe'cause I wanted to talk to you!\xf000븁\x0000\xfffeIt's voice only, so sorry!\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeMy job keeps me busy, and\xfffeI was just about to collapse...\xf000븁\x0000\xfffeBut hearing your voice is\xfffegiving me energy, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy break is over.\xfffeI have to go back to work.\xf000븁\x0000
+I found a nice fishing spot\xfffewith a great view the other day.\xf000븁\x0000\xfffeThat spot may look totally\xfffedifferent depending on the season.\xf000븁\x0000\xfffeLet's go fishing together\xfffesometime soon.\xf000븁\x0000\xfffeOops!\xfffeI have to get back to work.\xf000븁\x0000
+I landed a huge Basculin\xfffethe other day.\xf000븁\x0000\xfffeIt was the biggest one I've ever caught!\xf000븁\x0000\xfffeI really wanted to show it to you,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeOops!\xfffeI have to get back to work.\xf000븁\x0000
+I was just thinking about you,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffe...What did I just say?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeEr...\xfffeWell... I have to get back to work now.\xf000븁\x0000
+I've been too busy and\xfffesleep deprived lately.\xf000븁\x0000\xfffeIf it wasn't you I was talking to,\xfffe\xf000Ā\x0001\x0000,\xf000븀\x0000\xfffeI'd have fallen asleep by now.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeOops!\xfffeI have to go back to work.\xf000븁\x0000
+The weather is bearable today, isn't it?\xf000븁\x0000\xfffeI'd go fishing if not for my work...\xf000븁\x0000\xfffeBut I'm OK for now because\xfffeI got to talk to you, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeOops!\xfffeI have to go back to work.\xf000븁\x0000
+...\xf000븁\x0000\xfffe...?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe...??\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe...???\xf000븁\x0000\xfffe...Can you hear me?\xf000븁\x0000\xfffeOh!\xf000븁\x0000\xfffeThe reception was so bad,\xfffewasn't it?\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeI'm so embarrassed for\xfffebeing so loud just now.\xf000븁\x0000\xfffeOops!\xfffeI have to get back to work.\xf000븁\x0000
+Stop that!\xf000븁\x0000\xfffeHey!\xf000븁\x0000\xfffeSigh...\xf000븁\x0000\xfffeSorry...\xf000븁\x0000\xfffeThat was my sister and brother\xfffebothering me...\xf000븁\x0000\xfffeThey seem to get jealous\xfffewhen I talk to you, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeThey are usually bratty, but I guess\xfffethey can be cute sometimes.\xf000븁\x0000\xfffeArg! Hey, I said “stop"!\xf000븁\x0000\xfffeSigh...\xf000븁\x0000\xfffeSorry, \xf000Ā\x0001\x0000.\xfffeIt seems that I have to spend time with\xf000븀\x0000\xfffethem today...\xf000븁\x0000
+Cough, cough.\xf000븁\x0000\xfffeSorry...\xfffeI got a cold, it seems...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeYeah...\xfffeI'm really sorry. Cough... I guess so.\xf000븁\x0000\xfffeI'll stay home\xfffeand rest for now.\xf000븁\x0000\xfffeBut...\xfffeSeeing your face should help\xf000븀\x0000\xfffeme recover sooner, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000
+I bought a Soda Pop from this\xfffevending machine the other day.\xf000븁\x0000\xfffeGuess what!\xf000븁\x0000\xfffeI got an extra as a bonus.\xf000븁\x0000\xfffeIt's great, isn't it?\xfffeHave you got a bonus before, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeI would have shared it with you,\xfffehad we been together then...\xf000븁\x0000\xfffeOops!\xfffeI have to get back to work.\xf000븁\x0000
+Oh, sorry I've kept you wai...\xfffeUh-oh.
+Sorry about last time!\xf000븁\x0000\xfffeThis person from work\xfffeanswered my Xtransceiver by mistake...\xf000븁\x0000\xfffeSorry I wasn't there to answer you\xfffewhen you took your time to reach me...\xf000븁\x0000\xfffeI guess taking a break when you aren't\xfffesupposed to gets you sooner or later.\xf000븁\x0000\xfffeHuh?\xf000븁\x0000\xfffeOh, I was just talking to myself.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeOops!\xfffeTime's up.\xf000븀\x0000\xfffeI have to get back to work.\xf000븁\x0000
+...\xf000븁\x0000\xfffeWhat? You want to see me now?\xf000븁\x0000\xfffeHold... Hold on a sec...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeYep!\xfffeI think I can make it.\xf000븁\x0000\xfffeHow about meeting up\xfffeat the Ferris wheel in Nimbasa City?\xf000븁\x0000\xfffeI'm sooo looking forward to it,\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
+See you later.\xf000븁\x0000
+Good-bye.\xf000븁\x0000
+Bye!\xf000븁\x0000
+Talk to you later.\xf000븁\x0000
+Talk to you soon.\xf000븁\x0000
+Hi...\xfffeIs this \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffe...\xf000븁\x0000
+...Hello?\xf000븁\x0000
+...Hello?\xf000븁\x0000
+...Hello?\xf000븁\x0000
+...Hello?\xf000븁\x0000\xfffeAh, you must be \xf000Ā\x0001\x0000, right?
+Ah, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeYeah, I can talk right now.\xf000븁\x0000
+Ah, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeYeah, I can talk right now.\xf000븁\x0000
+Ah, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeI'm...glad we can talk face-to-face.\xf000븁\x0000
+Oh, sorry I've kept you waiting!\xf000븁\x0000
+...
+You know...
+Well...
+Ahaha!
+Wow, so you're a boy, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeIt's a little annoying that we can't\xfffesee each other, right?\xf000븁\x0000\xfffeJust so you know...\xf000븁\x0000\xfffeI'm a girl.\xf000븁\x0000\xfffeTee hee.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Wow, so you're a boy, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeIt's a little annoying that we can't\xfffesee each other, right?\xf000븁\x0000\xfffeJust so you know...\xf000븁\x0000\xfffeI'm a girl.\xf000븁\x0000\xfffeTee hee.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+\xf000ď\x0001\x0001 is your hobby,\xfffe\xf000Ā\x0001\x0000? I see.\xf000븁\x0000\xfffeThat sounds kind of fun.\xfffeMaybe I should take it up, too.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+That's your hobby,\xfffe\xf000Ā\x0001\x0000? I see.\xf000븁\x0000\xfffeThat sounds kind of fun.\xfffeMaybe I should take it up, too.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Really?\xfffeSo you like \xf000ă\x0001\x0001-type Pokémon,\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeMany of them are cute, aren't they?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Really?\xfffeSo you like Pokémon of that type,\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeMany of them are cute, aren't they?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Really? So you listen to music often,\xfffe\xf000Ā\x0001\x0000?\xf000븁\x0000\xfffe\xf000ď\x0001\x0001, did you say?\xfffeI like music, too.\xf000븀\x0000\xfffeIt makes me smile just listening to it.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Really? So you listen to\xfffethat kind of music often, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeI like music, too.\xfffeIt makes me smile just listening to it.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Really?\xfffe\xf000ď\x0001\x0001 Pokémon are\xf000븀\x0000\xfffeyour favorite, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffe\xf000ď\x0001\x0001 Pokémon are quite\xfffepopular among many of my friends, too!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Really?\xfffeThat's the kind of Pokémon you like,\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeThose Pokémon are quite\xfffepopular among many of my friends, too!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Really? \xf000ď\x0001\x0001 is your way of\xfffespending the holiday?\xf000븁\x0000\xfffeI wouldn't have guessed that,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Really? That's your way of\xfffespending the holiday?\xf000븁\x0000\xfffeI wouldn't have guessed that,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Really? \xf000ď\x0001\x0001s? You do\xfffethose often, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeCan we do that when we have a\xfffechance to? \xf000ď\x0001\x0001?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Really? That's how you communicate\xfffewith your friends through Pokémon?\xf000븁\x0000\xfffeCan we do that when we have a\xfffechance to?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Really? \xf000ď\x0001\x0001 is what you\xfffewant to become, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeI think it's wonderful for anyone to have\xfffea dream. I must work hard, too.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Really? That's what you\xfffewant to become, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeI think it's wonderful for anyone to have\xfffea dream. I must work hard, too.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븀\x0000\xfffeTalk to you again.\xf000븁\x0000
+Great, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeYou have \xf000Ȁ\x0001\x0001 Gym Badges?\xfffeYou are a tough Trainer, aren't you?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy colleague is calling me.\xfffeI have to get back to work!\xf000븁\x0000
+I am off today, so I was thinking\xfffeI could pick up my Xtransceiver.\xf000븀\x0000\xfffeThe one you've been keeping for me...\xf000븁\x0000\xfffeAre you busy, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeReally? You aren't?\xf000븁\x0000\xfffeGood.\xf000븁\x0000\xfffeCan we meet at the Ferris wheel\xfffein Nimbasa City?\xf000븁\x0000\xfffeI'm looking forward to seeing you there,\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
+Thank you for the other day!\xf000븁\x0000\xfffeI was surprised you were my age!\xfffeI was guessing you would be older\xf000븀\x0000\xfffethan me from your voice.\xf000븁\x0000\xfffeIt made me a little nervous\xfffeon the Xtransceiver, you know?\xf000븁\x0000\xfffeI'm kind of relieved that I can relax\xfffefrom now on when we talk.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+My hobby is cooking.\xf000븁\x0000\xfffeWhen I hear about good food, I go and\xfffecheck it out for myself.\xf000븁\x0000\xfffeLately, the Casteliacones in Castelia City\xfffeare getting quite popular, so I've been\xf000븀\x0000\xfffewanting to try one...\xf000븁\x0000\xfffeBut there is a long line every time\xfffeI go there, so I haven't tried it yet.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+I like Normal-type Pokémon a lot!\xf000븁\x0000\xfffeThey can become whatever they want\xfffeto be if they work hard.\xf000븁\x0000\xfffeDon't you agree they have that\xfffekind of charm?\xf000븁\x0000\xfffeBesides, there are so many cute Pokémon\xfffeamong them!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+I love music.\xfffeI listen to pop often, I think.\xf000븁\x0000\xfffeListening to music makes you smile,\xfffedoesn't it?\xf000븁\x0000\xfffeI may not look it, but I'm pretty good at\xfffesinging and that stuff.\xf000븁\x0000\xfffeI'd like you to listen to me sing when we\xfffehave the opportunity, if you don't mind.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+\xf000Ā\x0001\x0000,\xfffehave you participated in the\xf000븀\x0000\xfffePokémon Musical?\xf000븁\x0000\xfffeI've been wanting to play Dress Up with\xfffemy Pokémon. I'll make it cute and have\xf000븀\x0000\xfffeit participate in a musical.\xf000븁\x0000\xfffeWhen my Pokémon would receive fan\xfffeletters, they'd help keep it motivated.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+I usually go for a walk on my days off.\xfffeWalking at my own pace, seeing different\xf000븀\x0000\xfffethings alone is a good change of pace.\xf000븁\x0000\xfffeI went to Nimbasa City for a walk that day\xfffeand dropped my Xtransceiver.\xf000븁\x0000\xfffeI can say my walking let us meet,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+I trade Pokémon often.\xf000븁\x0000\xfffeMy job requires me to go to various\xffferegions, so I trade with people there\xf000븀\x0000\xfffefor the memories.\xf000븁\x0000\xfffeI'd love to trade Pokémon with you\xfffesomeday, you know.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+I want to become someone cool.\xf000븁\x0000\xfffeI don't mean someone who appears cool.\xfffeI'm talking about substance.\xf000븁\x0000\xfffeI have a long way to go...\xf000븁\x0000\xfffeBut I believe I'll one day become\xfffesomeone with cool substance\xf000븀\x0000\xfffeby working hard at my job.\xf000븁\x0000\xfffeI hope...you'd support me.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+My dad and my brother were having\xfffea Pokémon battle the other day.\xf000븁\x0000\xfffeThey were having so much fun!\xf000븁\x0000\xfffeThen my sister started crying,\xfffesaying she wants a Pokémon, too.\xf000븀\x0000\xfffeTook us some time to calm her down.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Time flies when I talk to you,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI must be having a really good time!\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeCalls from you are always\xfffewelcome, you know.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI should get back to work now.\xfffeTalk to you later, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xf000븁\x0000\xfffeI hope you can help me\xfffewith this.\xf000븁\x0000\xfffeHave you seen what they call\xfffedark tall grass?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI see...\xf000븁\x0000\xfffeSo high-level Pokémon may jump\xfffeout at you...\xf000븁\x0000\xfffeI knew it was a dangerous kind of\xfffetall grass.\xf000븁\x0000\xfffeI should tell my brother and sister\xfffeto be careful, then.\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xf000븁\x0000\xfffeI hope you can help me\xfffewith this.\xf000븁\x0000\xfffeI want to give my sister a Pokémon.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeI guess you are right.\xfffeYou think her first Pokémon should be\xf000븀\x0000\xfffeof \xf000ă\x0001\x0001 type?\xf000븀\x0000\xfffeI'll go catch one with my sister soon!\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xf000븁\x0000\xfffeI hope you can help me\xfffewith this.\xf000븁\x0000\xfffeI just made a mistake at work.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeYeah...\xf000븁\x0000\xfffeI feel better talking to you,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI'll keep in mind not to make\xfffethe same mistake twice.\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xf000븁\x0000\xfffeI hope you can help me\xfffewith this.\xf000븁\x0000\xfffeHave you heard of the Medal Rally?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeReally?\xf000븁\x0000\xfffeSounds like a fun event!\xfffeI had no idea.\xf000븁\x0000\xfffeThis strange man caught me off guard\xfffeby giving me these Medals...\xf000븁\x0000\xfffeI'll start collecting them since you are.\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xf000븁\x0000\xfffeI hope you can help me\xfffewith this.\xf000븁\x0000\xfffeI have trouble battling against\xfffemy brother's Leavanny.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOf course!\xf000븁\x0000\xfffeI'm glad I asked you...\xf000븁\x0000\xfffeI'll have a Fire-type Pokémon battle\xfffeLeavanny next time.\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xf000븁\x0000\xfffeI hope you can help me\xfffewith this.\xf000븁\x0000\xfffeI had an argument with my dad\xfffeabout my job yesterday...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeYeah...\xf000븁\x0000\xfffeI feel better talking to you,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI'll go apologize to my dad.\xfffeI'll stay calm and be sincere.\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xf000븁\x0000\xfffeI hope you can help me\xfffewith this.\xf000븁\x0000\xfffeSomebody gave me a Dowsing Machine\xfffethe other day and...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOh, I see!\xf000븁\x0000\xfffeThe Dowsing Machine can be used\xfffein so many places.\xf000븁\x0000\xfffeI'll use mine often from now on.\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xf000븁\x0000\xfffeI hope you can help me\xfffewith this.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeHow do I...\xf000븁\x0000\xfffeHow do I look with this hat?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeI'm glad I asked you...\xf000븁\x0000\xfffeHey, you are making me blush!\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Umm...\xf000븁\x0000\xfffeI hope you can help me\xfffewith this.\xf000븁\x0000\xfffeI have this person who's really\xfffegood at what we do at our workplace,\xf000븀\x0000\xfffeand I can't help but feel so competitive.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeYeah!\xf000븁\x0000\xfffeI feel better talking to you,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeI guess it's not him but my own self\xfffethat I must overcome.\xf000븁\x0000\xfffeThanks, \xf000Ā\x0001\x0000.\xf000븁\x0000
+Er...\xf000븁\x0000\xfffeUmm...\xf000븁\x0000\xfffeI am off today, so\xfffecan we meet somewhere?\xf000븁\x0000\xfffeYou've been helping me a lot lately,\xfffeso I'd love to thank you face-to-face.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeReally? You can?\xf000븁\x0000\xfffeGreat!\xf000븁\x0000\xfffeCan we meet each other at\xfffethe Ferris wheel?\xf000븁\x0000\xfffeI'm...so looking forward to it,\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
+I went on a business trip to the Kanto\xffferegion the other day.\xf000븁\x0000\xfffeThey let me visit Mt. Moon, and\xfffeI saw Clefairy there.\xf000븁\x0000\xfffeThey were so cute!\xf000븁\x0000\xfffeTee hee!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+I went on a business trip to the Johto\xffferegion the other day.\xf000븁\x0000\xfffeThey have many traditional buildings,\xfffeand they are really mysterious.\xf000븁\x0000\xfffeTheir famous RageCandyBar was\xfffereally good, too!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+...\xf000븁\x0000\xfffeTee hee.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeHaha!\xf000븁\x0000\xfffeOh, sorry!\xf000븁\x0000\xfffeI couldn't help smiling 'cause\xfffeI'm talking to you.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeIt's so much fun talking to you,\xfffe\xf000Ā\x0001\x0000!\xf000븀\x0000\xfffeI wish...it would last forever.\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+I went on a business trip to the Sinnoh\xffferegion the other day.\xf000븁\x0000\xfffeThe vast wilderness there was so\xfffebreathtaking!\xf000븁\x0000\xfffeTheir famous Old Gateau was\xfffereally good, too!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+The stars last night were\xfffeso beautiful...\xf000븁\x0000\xfffeDid you see them by any chance,\xfffe\xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeI saw lots of shooting stars, too.\xfffeIt really was a pretty night.\xf000븁\x0000\xfffeI saw so many that I made\xfffemany wishes.\xf000븁\x0000\xfffeWhat?\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeI can't tell you what I wished for...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+I went to the Battle Institute in\xfffeNimbasa City to take the Battle Test.\xf000븁\x0000\xfffeI did a little better than the last time!\xf000븁\x0000\xfffeI'll keep trying to get better results!\xf000븁\x0000\xfffeI'd appreciate it if you could tell me\xfffeabout Pokémon battles, please?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+I went on a business trip to the Hoenn\xffferegion the other day.\xf000븁\x0000\xfffeThey have many unique towns and cities.\xfffeThey really surprised me!\xf000븁\x0000\xfffeTheir famous Lava Cookie was\xfffereally good, too!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+I was using the Dowsing Machine the other\xfffeday and got something really awesome.\xf000븁\x0000\xfffeI gave it to my dad, and he was\xfffereally pleased.\xf000븁\x0000\xfffeI'm glad you told me about the\xfffeDowsing Machine a while ago,\xf000븀\x0000\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeI better get back to work!\xf000븁\x0000
+Oh!\xf000븁\x0000\xfffeSorry, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeIt's almost time for work...\xf000븁\x0000\xfffeI have to hang up...\xf000븁\x0000\xfffeSo sorry...\xf000븁\x0000
+I'm on my break right now.\xfffeCouldn't help answering\xf000븀\x0000\xfffe'cause I wanted to talk to you!\xf000븁\x0000\xfffeIt's voice only, sorry!\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeMy job keeps me busy, and\xfffeI was just about to collapse...\xf000븁\x0000\xfffeBut hearing your voice is\xfffegiving me energy, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeOops!\xf000븁\x0000\xfffeMy break is over.\xfffeI have to go back to work.\xf000븁\x0000\xfffeNext time, I want to be looking at\xfffeyour face while we talk.\xf000븁\x0000
+I found a nice walking spot\xfffewith a wonderful view the other day.\xf000븁\x0000\xfffeThat spot may look totally\xfffedifferent depending on the season.\xf000븁\x0000\xfffeMaybe we could go for a walk together\xfffesometime soon...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xfffeI have to get back to work.\xf000븁\x0000
+I found this shop that bakes really\xfffegood cakes the other day.\xf000븁\x0000\xfffeThey bake things that taste mysterious.\xfffeI've never tasted anything like them.\xf000븁\x0000\xfffeMaybe we could go there together\xfffesometime soon...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xfffeI have to get back to work.\xf000븁\x0000
+I was just thinking about you,\xfffe\xf000Ā\x0001\x0000.\xf000븁\x0000\xfffe...What did I just say?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeEr...\xfffeWell... I have to go back to work now.\xf000븁\x0000
+I've been too busy and\xfffesleep deprived lately.\xf000븁\x0000\xfffeIf it wasn't you I was talking to,\xfffe\xf000Ā\x0001\x0000,\xf000븀\x0000\xfffeI'd have fallen asleep by now.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xfffeI have to get back to work.\xf000븁\x0000
+The weather is bearable today, isn't it?\xf000븁\x0000\xfffeI'd go for a walk if not for my work...\xf000븁\x0000\xfffeBut I'm OK for now, because\xfffeI got to talk to you, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeTee hee!\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeOops!\xfffeI have to get back to work.\xf000븁\x0000
+...\xf000븁\x0000\xfffe...?\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe...??\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffe...???\xf000븁\x0000\xfffe...Can you hear me?\xf000븁\x0000\xfffeOh!\xf000븁\x0000\xfffeThe reception was so bad,\xfffewasn't it?\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeI'm so embarrassed for\xfffebeing so loud just now.\xf000븁\x0000\xfffeOops!\xfffeI have to get back to work.\xf000븁\x0000
+Stop that!\xf000븁\x0000\xfffeHey!\xf000븁\x0000\xfffeSigh...\xf000븁\x0000\xfffeSorry...\xf000븁\x0000\xfffeThat was my sister and brother\xfffebothering me...\xf000븁\x0000\xfffeThey seem to get jealous\xfffewhen I talk to you, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeThey are usually bratty, but I guess\xfffethey can be cute sometimes.\xf000븁\x0000\xfffeArg! Hey, I said “stop"!\xf000븁\x0000\xfffeSigh...\xf000븁\x0000\xfffeSorry, \xf000Ā\x0001\x0000.\xfffeIt seems that I have to spend time with\xf000븀\x0000\xfffethem today...\xf000븁\x0000
+Cough, cough.\xf000븁\x0000\xfffeSorry...\xfffeI got a cold, it seems...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeYeah...\xfffeI'm really sorry. Cough... I guess so.\xf000븁\x0000\xfffeI'll stay home\xfffeand rest for now.\xf000븁\x0000\xfffeBut...\xfffeSeeing your face should help\xf000븀\x0000\xfffeme recover sooner, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000
+I bought a Soda Pop from this\xfffevending machine the other day.\xf000븁\x0000\xfffeGuess what!\xf000븁\x0000\xfffeI got an extra as a bonus.\xf000븁\x0000\xfffeIt's great, isn't it?\xfffeHave you got a bonus before, \xf000Ā\x0001\x0000?\xf000븁\x0000\xfffeI would have shared it with you,\xfffehad we been together then...\xf000븁\x0000\xfffeOops!\xfffeI have to get back to work.\xf000븁\x0000
+Oh, sorry I've kept you wai...\xfffeUh-oh.
+Sorry about last time!\xf000븁\x0000\xfffeThis person from work\xfffeanswered my Xtransceiver by mistake...\xf000븁\x0000\xfffeSorry I wasn't there to answer you\xfffewhen you took your time to reach me...\xf000븁\x0000\xfffeI guess taking a break when you aren't\xfffesupposed to gets you sooner or later.\xf000븁\x0000\xfffeHuh?\xf000븁\x0000\xfffeOh, I was just talking to myself.\xf000븁\x0000\xfffeAhaha!\xf000븁\x0000\xfffeOops!\xfffeTime's up.\xf000븀\x0000\xfffeI have to get back to work.\xf000븁\x0000
+...\xf000븁\x0000\xfffeWhat? You want to see me now?\xf000븁\x0000\xfffeHold... Hold on a sec...\xf000븁\x0000\xfffe...\xf000븁\x0000\xfffeYep!\xfffeI think I can make it.\xf000븁\x0000\xfffeHow about meeting up\xfffeat the Ferris wheel in Nimbasa City?\xf000븁\x0000\xfffeI'm sooo looking forward to it,\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
+See you later.\xf000븁\x0000
+Good-bye.\xf000븁\x0000
+Bye!\xf000븁\x0000
+Talk to you later.\xf000븁\x0000
+Talk to you soon.\xf000븁\x0000

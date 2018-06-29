@@ -1,0 +1,15 @@
+Hi! I'll mimic a Pokémon's sound!\xfffePlease listen!
+OK. I'll mimic the sound of\xfffethe Pokémon you're with...
+It's just like the real Pokémon.\xfffeWon't you listen to me?
+I mimicked one of your party Pokémon.\xfffeWhich Pokémon was it?
+Correct!\xf000븁\x0000\xfffeYou can recognize the sound of\xfffePokémon you always hear, right?\xf000븁\x0000\xfffeThank you for playing with me.\xfffeThis is a small gift from me!
+Correct!\xf000븁\x0000\xfffeOf course, you won't mistake\xfffethe sound of your partner Pokémon!
+Close! Too bad! I'm sad!\xfffeThat was \xf000ā\x0001\x0000!
+...You have way too few Pokémon!\xfffeI can't give you a quiz like this.
+\xf000ā\x0001\x0000
+\xf000ā\x0001\x0001
+\xf000ā\x0001\x0002
+\xf000ā\x0001\x0003
+\xf000ā\x0001\x0004
+\xf000ā\x0001\x0005
+Egg

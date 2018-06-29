@@ -1,0 +1,65 @@
+Child Star
+Haunted Kid
+\xf000Ă\x0001\x0000: Urk...\xfffeThe air is stagnant.\xf000븁\x0000\xfffeIf I don't end this quickly,\xfffeI myself may be possessed.\xf000븀\x0000\xfffeI must erase this menace!
+Girl: Ahaha!\xfffeIt's fun. So fun.
+Girl: Ahaha!\xfffeThe Majin of Mayhem--so strong!\xf000븀\x0000\xfffeCome on, Majin of Mayhem. Wake up!
+Girl: Ahaha!\xfffeThe genius magician--magnificent!\xf000븀\x0000\xfffeThe genius magician--Arkham!
+Girl: Wellll-come.\xfffeWhaaaaaaat do you want?
+\xf000Ă\x0001\x0000: ...\xf000븁\x0000\xfffe(...Guess I'll see how this plays out...)
+\xf000Ă\x0001\x0000: Rid us of evil spirits!
+Girl: Ahaha!\xfffeSo fun! Let's play.
+\xf000Ă\x0001\x0000: Is your daddy here?
+Girl: Ahaha...\xfffeHe hasn't come back since last night.\xf000븀\x0000\xfffeSo, I'm lonely. Play with me.
+\xf000Ă\x0001\x0000: Is there a water leak?
+Girl: Ahaha... Are you selling something?\xfffeCome on, quit working! Let's play!
+Girl: Listen, I want to tell you a story.\xfffeCan you guess how the story ends?\xf000븁\x0000\xfffeA long, long time ago,\xfffethere was a malevolent being\xf000븀\x0000\xfffecalled the Majin of Mayhem.\xf000븁\x0000\xfffeOver and over, this violent majin bent\xfffehimself on destroying the world.\xf000븁\x0000\xfffeThen a day came when he stopped\xfffetrying to destroy everything.\xf000븁\x0000\xfffeBut why? Can you guess?
+\xf000Ă\x0001\x0000: ...\xf000븁\x0000\xfffe(...What is she trying to say?...)\xfffe(...Whatever... I'll answer her question...)\xf000븀\x0000\xfffe(...That way, she won't get suspicious...)
+\xf000Ă\x0001\x0000: Was he ashamed?
+Girl: Oh. You're a person of high principle.
+\xf000Ă\x0001\x0000: Did someone beat him?
+Girl: Hm. You have a simple outlook.
+\xf000Ă\x0001\x0000: Did he get tired of it?
+Girl: Hurrah! You're a smart one!
+Girl: Listen, I have another story.\xfffeDo you know this one?\xf000븁\x0000\xfffeA long, long time ago,\xfffethere was a magician\xf000븀\x0000\xfffewith special powers.\xf000븁\x0000\xfffeThen the magician's friends imprisoned him.\xfffeBut why? Can you guess?
+\xf000Ă\x0001\x0000: ...\xf000븁\x0000\xfffe(...More guessing games?...)\xf000븁\x0000\xfffe(...Grr. What's she up to?...)\xfffe(...Guess I have to answer...)
+\xf000Ă\x0001\x0000: Were they bullying him?
+Girl: Hm. You have a simple outlook.
+\xf000Ă\x0001\x0000: Was he a bad guy?
+Girl: Hurrah! You're a smart one!
+\xf000Ă\x0001\x0000: Were they jealous?
+Girl: Ahahaha!\xfffeYou've felt pangs of envy in your heart!
+\xf000Ă\x0001\x0000: Lies! All lies!
+Girl: What?\xfffeHmf. You're a suspicious one.
+\xf000Ă\x0001\x0000: Now! Evil spirit!\xfffeGet out of this child!
+Girl: Ahahahaha.\xfffeYou're a strong one.\xf000븁\x0000\xfffeI've been saving up my power,\xfffeand I'm tired of being in here.\xf000븁\x0000\xfffeIt might be the right time to depart!
+\xf000Ă\x0001\x0000: Who are you?
+Girl: Oops...\xfffeDid I forget to introduce myself properly?\xf000븁\x0000\xfffe...
+\xf000Ă\x0001\x0000: What an odd look...
+Heh heh... Ahahaha!\xfffeMy name is Arkham!\xf000븁\x0000\xfffeI was well known in the world...\xfffethe world of once upon a time.\xf000븁\x0000\xfffeI'll say it again! Arkham!\xfffeRemember that name!\xf000븀\x0000\xfffeSee ya! Wouldn't want to be ya!\xf000븁\x0000\xfffeHeh...
+\xf000Ă\x0001\x0000: Hey! Wait!
+Addendum to\xfffe“Ghost Eraser Case Files: File No. 002":\xf000븁\x0000\xfffeI succeeded in getting rid of the evil spirit\xfffethat was possessing the girl.\xf000븁\x0000\xfffeThe girl seems to be recovering steadily.\xf000븁\x0000\xfffeHowever, I failed to capture the evil\xfffespirit, who identified himself as--Arkham.
+According to my research, records show\xfffethat the man who tried to reawaken\xf000븀\x0000\xfffethe majin called the Majin of Mayhem\xf000븀\x0000\xfffewas the magician named Arkham.\xf000븁\x0000\xfffeI'll maintain my investigation.\xf000븁\x0000\xfffe--Code name: \xf000Ă\x0001\x0000
+Girl: Pfft. Weakness.\xfffeYou're boring me already.\xf000븁\x0000\xfffeI deserve some kind of reward\xfffefor playing with you.\xf000븁\x0000\xfffeLet me see... Hm hm hm...\xfffeOoh, I know! I deserve to\xf000븀\x0000\xfffetake over your body--now!
+\xf000Ă\x0001\x0000: Gwaughh...\xfffeUfff... I feel like a lump...of stone.\xf000븀\x0000\xfffeNo strength...in my body...\xf000븀\x0000\xfffeStop...it... Sto-o-o--
+Girl: Oh, come on, perk up.\xfffeSmile on the inside!\xf000븁\x0000\xfffeA weakling like you getting to\xfffehelp revive the Majin of Mayhem...\xf000븁\x0000\xfffeLucky, lucky you!
+\xf000Ă\x0001\x0000: Gwaughhhh!
+Girl: Tee hee.\xf000븁\x0000\xfffe...
+Addendum to\xfffe“Ghost Eraser Case Files: File No. 002":\xf000븁\x0000\xfffeAfter File No. 002 was received,\xfffewe lost contact with \xf000Ă\x0001\x0000.\xf000븁\x0000\xfffeThe village investigated by \xf000Ă\x0001\x0000 is\xfffecompletely empty.
+\xf000Ă\x0001\x0000: What happened?\xfffeThe movement has stopped...
+Girl: Thank you for playing with me!\xfffeIt's time to go!\xf000븁\x0000\xfffeYou know what?\xf000븁\x0000\xfffeI have one last favor to ask you.\xfffeCan I take over your body?
+\xf000Ă\x0001\x0000: Gwaaaa...\xfffeMy legs won't obey me...\xf000븀\x0000\xfffeMy arms have no strength...\xf000븀\x0000\xfffeStop...it... Sto-o-o--
+Girl: Oh, come on now...\xfffeThink how lucky you are!\xf000븁\x0000\xfffeYou'll get to be the body of a\xfffereally great and powerful being!
+\xf000Ă\x0001\x0000: ...
+Girl: Tee hee.\xf000븁\x0000\xfffe...
+Addendum to\xfffe“Ghost Eraser Case Files: File No. 002":\xf000븁\x0000\xfffeWe have had no further contact\xfffefrom \xf000Ă\x0001\x0000.\xf000븁\x0000\xfffeSome information concerning a look-alike\xfffehas been reported, but it remains unclear\xf000븀\x0000\xfffewhether there is a connection to this case.\xf000븁\x0000\xfffeHowever, the look-alike appears to be\xfffeestablishing a suspicious organization.\xf000븀\x0000\xfffePlease be aware.
+\xf000Ă\x0001\x0000: ...
+Girl: Huh?\xfffeWhat's the matter?\xf000븀\x0000\xfffeYou've got a strange look on your face...
+\xf000Ă\x0001\x0000: ...\xf000븁\x0000\xfffeKid, your lies are beyond obvious.\xf000븁\x0000\xfffeRing down the curtain on your\xfffelittle performance here...
+Girl: Wh-what?\xf000븁\x0000\xfffeYou knew I was faking?\xfffeUlp... Sorry...
+\xf000Ă\x0001\x0000: Hah.\xfffeIt was obvious from the very start.
+Girl: Oh, really?\xf000븁\x0000\xfffeBut I'm the biggest star in my school!\xfffeEveryone says I'm the best actor ever!\xf000븁\x0000\xfffe...I thought I had you fooled.
+\xf000Ă\x0001\x0000: Can you tell me\xfffewhy you did this?
+Girl: My dad and mom said I had to help\xfffeget this village on the map...\xf000븀\x0000\xfffeAnd with them, no is not an option.\xf000븁\x0000\xfffeThey wanted to revitalize the village,\xfffeget people excited to visit, and\xf000븀\x0000\xffferake in the easy tourist money...\xf000븁\x0000\xfffeWaaaah!\xfffeI was just doing what my parents said!\xf000븁\x0000\xfffeI'm not gonna get in trouble for this, am I?
+\xf000Ă\x0001\x0000: Pssh. Save your tears.\xfffeYou think because you're a kid,\xf000븀\x0000\xfffeyou can get away with pulling\xf000븀\x0000\xfffethe wool over people's eyes?\xf000븁\x0000\xfffeCall your parents immediately.\xf000븁\x0000\xfffeWe'll finish the rest of this\xfffediscussion at our offices!
+Girl: Waaaah! It's too harsh!\xfffeDad! Mom!\xf000븀\x0000\xfffeThis person is mean!
+...\xf000븁\x0000\xfffeAddendum to\xfffe“Ghost Eraser Case Files: File No. 002":\xf000븀\x0000\xfffeThis was a case of a phony phantom.\xf000븁\x0000\xfffeLately, there have been a number of\xfffefalse reports. Please be aware.\xf000븁\x0000\xfffe--Code name: \xf000Ă\x0001\x0000

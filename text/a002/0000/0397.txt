@@ -1,0 +1,153 @@
+A Normal-type Pokémon...\xf000븁\x0000\xfffeIt's weak against only\xfffeFighting-type attacks.\xf000븁\x0000
+A Normal- and Fighting-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Flying-,\xfffeand Psychic-type attacks.\xf000븁\x0000
+A Normal- and Flying-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Electric-, and\xfffeIce-type attacks.\xf000븁\x0000
+A Normal- and Poison-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground- and\xfffePsychic-type attacks.\xf000븁\x0000
+A Normal- and Ground-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Water-,\xfffeGrass-, and Ice-type attacks.\xf000븁\x0000
+A Normal- and Rock-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Steel-,\xfffeWater-, Grass-, and Fighting-type\xf000븀\x0000\xfffeattacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Normal- and Bug-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Rock-,\xfffeand Fire-type attacks.\xf000븁\x0000
+A Normal- and Ghost-type Pokémon...\xf000븁\x0000\xfffeIt's weak against only\xfffeDark-type attacks.\xf000븁\x0000
+A Normal- and Steel-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Fire-,\xfffeand Fighting-type attacks.\xf000븁\x0000
+A Normal- and Fire-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeRock-, and Water-type attacks.\xf000븁\x0000
+A Normal- and Water-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Grass-,\xfffeand Electric-type attacks.\xf000븁\x0000
+A Normal- and Grass-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Flying-,\xfffePoison-, Bug-, Fire-, and\xf000븀\x0000\xfffeIce-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Normal- and Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting- and\xfffeGround-type attacks.\xf000븁\x0000
+A Normal- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Bug- and\xfffeDark-type attacks.\xf000븁\x0000
+A Normal- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Steel-, Fire-,\xfffeand Fighting-type attacks.\xf000븁\x0000
+A Normal- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ice-,\xfffeand Dragon-type attacks.\xf000븁\x0000
+A Normal- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Bug- and\xfffeFighting-type attacks.\xf000븁\x0000
+A Fighting-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying- and\xfffePsychic-type attacks.\xf000븁\x0000
+A Fighting- and Flying-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Electric-,\xfffePsychic-, and Ice-type attacks.\xf000븁\x0000
+A Fighting- and Poison-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Ground-,\xfffeand Psychic-type attacks.\xf000븁\x0000
+A Fighting- and Ground-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Water-,\xfffeGrass-, Psychic-, and Ice-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Fighting- and Rock-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeSteel-, Water-, Grass-, and\xf000븀\x0000\xfffePsychic-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Fighting- and Bug-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fire-, Psychic-,\xfffeand Flying-type attacks.\xf000븁\x0000
+A Fighting- and Ghost-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Ghost-,\xfffeand Psychic-type attacks.\xf000븁\x0000
+A Fighting- and Steel-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeand Fire-type attacks.\xf000븁\x0000
+A Fighting- and Fire-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Ground-,\xfffeWater-, and Psychic-type attacks.\xf000븁\x0000
+A Fighting- and Water-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Grass-,\xfffeElectric-, and Psychic-type attacks.\xf000븁\x0000
+A Fighting- and Grass-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Poison-, Fire-, Psychic-,\xfffeIce-, and Flying-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Fighting- and Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground- and\xfffePsychic-type attacks.\xf000븁\x0000
+A Fighting- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying- and\xfffeGhost-type attacks.\xf000븁\x0000
+A Fighting- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Flying-,\xfffeSteel-, Fire-, and Psychic-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Fighting- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Psychic-, Ice-,\xfffeand Dragon-type attacks.\xf000븁\x0000
+A Fighting- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting- and\xfffeFlying-type attacks.\xf000븁\x0000
+A Flying-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Electric-,\xfffeand Ice-type attacks.\xf000븁\x0000
+A Flying- and Poison-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Electric-,\xfffePsychic-, and Ice-type attacks.\xf000븁\x0000
+A Flying- and Ground-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Water- and\xfffeIce-type attacks.\xf000븁\x0000
+A Flying- and Rock-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Steel-,\xfffeWater-, Electric-, and Ice-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Flying- and Bug-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Fire-,\xfffeElectric-, Ice-, and Rock-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Flying- and Ghost-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Ghost-,\xfffeElectric-, Ice-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Flying- and Steel-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fire- and\xfffeElectric-type attacks.\xf000븁\x0000
+A Flying- and Fire-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Water-, Electric-,\xfffeand Rock-type attacks.\xf000븁\x0000
+A Flying- and Water-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock- and\xfffeElectric-type attacks.\xf000븁\x0000
+A Flying- and Grass-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Poison-, Rock-,\xfffeFire-, and Ice-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Flying- and Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock- and\xfffeIce-type attacks.\xf000븁\x0000
+A Flying- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Ghost-,\xfffeElectric-, Ice-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Flying- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Steel-, Fire-,\xfffeElectric-, and Rock-type attacks.\xf000븁\x0000
+A Flying- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Dragon-,\xfffeand Ice-type attacks.\xf000븁\x0000
+A Flying- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Electric-,\xfffeand Ice-type attacks.\xf000븁\x0000
+A Poison-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground- and\xfffePsychic-type attacks.\xf000븁\x0000
+A Poison- and Ground-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Water-,\xfffePsychic-, and Ice-type attacks.\xf000븁\x0000
+A Poison- and Rock-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Steel-, Water-,\xfffePsychic-, and Ground-type attacks.\xf000븁\x0000
+A Poison- and Bug-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Rock-, Fire-,\xfffeand Psychic-type attacks.\xf000븁\x0000
+A Poison- and Ghost-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Ghost-,\xfffePsychic-, and Dark-type attacks.\xf000븁\x0000
+A Poison- and Steel-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fire- and\xfffeGround-type attacks.\xf000븁\x0000
+A Poison- and Fire-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Water-,\xfffePsychic-, and Ground-type attacks.\xf000븁\x0000
+A Poison- and Water-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Electric-,\xfffeand Psychic-type attacks.\xf000븁\x0000
+A Poison- and Grass-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Fire-,\xfffePsychic-, and Ice-type attacks.\xf000븁\x0000
+A Poison- and Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Psychic- and\xfffeGround-type attacks.\xf000븁\x0000
+A Poison- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Ghost-,\xfffeand Dark-type attacks.\xf000븁\x0000
+A Poison- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Rock-, Steel-,\xfffeFire-, and Psychic-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Poison- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Psychic-,\xfffeIce-, and Dragon-type attacks.\xf000븁\x0000
+A Poison- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against only\xfffeGround-type attacks.\xf000븁\x0000
+A Ground-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Water-, Grass-,\xfffeand Ice-type attacks.\xf000븁\x0000
+A Ground- and Rock-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeSteel-, Ice-, Water-, and\xf000븀\x0000\xfffeGrass-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Ground- and Bug-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Water-, Fire-,\xfffeand Ice-type attacks.\xf000븁\x0000
+A Ground- and Ghost-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ghost-, Water-,\xfffeGrass-, Ice-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Ground- and Steel-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeWater-, and Fire-type attacks.\xf000븁\x0000
+A Ground- and Fire-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground- and\xfffeWater-type attacks.\xf000븁\x0000
+A Ground- and Water-type Pokémon...\xf000븁\x0000\xfffeIt's weak against only\xfffeGrass-type attacks.\xf000븁\x0000
+A Ground- and Grass-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Bug-, Fire-,\xfffeand Ice-type attacks.\xf000븁\x0000
+A Ground- and Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Water-,\xfffeGrass-, and Ice-type attacks.\xf000븁\x0000
+A Ground- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Bug-, Ghost-, Water-,\xfffeGrass-, Ice-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Ground- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Steel-,\xfffeWater-, Fire-, and Grass-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Ground- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Dragon- and\xfffeIce-type attacks.\xf000븁\x0000
+A Ground- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Bug-,\xfffeWater-, Grass-, and Ice-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Rock-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeSteel-, Water-, and Grass-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Rock- and Bug-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Steel-,\xfffeand Water-type attacks.\xf000븁\x0000
+A Rock- and Ghost-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Ghost-,\xfffeSteel-, Water-, Grass-, and\xf000븀\x0000\xfffeDark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Rock- and Steel-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Water-, Fighting-,\xfffeand Ground-type attacks.\xf000븁\x0000
+A Rock- and Fire-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Rock-,\xfffeGround-, and Water-type attacks.\xf000븁\x0000
+A Rock- and Water-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeElectric-, and Grass-type attacks.\xf000븁\x0000
+A Rock- and Grass-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Bug-, Steel-,\xfffeand Ice-type attacks.\xf000븁\x0000
+A Rock- and Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Water-,\xfffeGrass-, and Ground-type attacks.\xf000븁\x0000
+A Rock- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Bug-, Ghost-,\xfffeSteel-, Water-, Grass-,\xf000븀\x0000\xfffeand Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Rock- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Rock-, Water-,\xfffeGrass-, Fighting-, and\xf000븀\x0000\xfffeSteel-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Rock- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeSteel-, Ice-, and Dragon-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Rock- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Bug-,\xfffeSteel-, Water-, Grass-, and\xf000븀\x0000\xfffeFighting-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Bug-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Rock-,\xfffeand Fire-type attacks.\xf000븁\x0000
+A Bug- and Ghost-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Rock-, Ghost-,\xfffeFire-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Bug- and Steel-type Pokémon...\xf000븁\x0000\xfffeIt's weak against only\xfffeFire-type attacks.\xf000븁\x0000
+A Bug- and Fire-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Water-,\xfffeand Rock-type attacks.\xf000븁\x0000
+A Bug- and Water-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Rock-,\xfffeand Electric-type attacks.\xf000븁\x0000
+A Bug- and Grass-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Poison-, Rock-, Bug-,\xfffeIce-, Flying-, and Fire-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Bug- and Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock- and\xfffeFire-type attacks.\xf000븁\x0000
+A Bug- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Rock-, Bug-,\xfffeGhost-, Fire-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Bug- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Steel-, Rock-,\xfffeand Fire-type attacks.\xf000븁\x0000
+A Bug- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Rock-, Ice-,\xfffeand Dragon-type attacks.\xf000븁\x0000
+A Bug- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Rock-, Bug-,\xfffeand Fire-type attacks.\xf000븁\x0000
+A Ghost-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ghost- and\xfffeDark-type attacks.\xf000븁\x0000
+A Ghost- and Steel-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground- and\xfffeFire-type attacks.\xf000븁\x0000
+A Ghost- and Fire-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Rock-, Ghost-,\xfffeWater-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Ghost- and Water-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ghost-, Grass-,\xfffeElectric-, and Dark-type attacks.\xf000븁\x0000
+A Ghost- and Grass-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Ghost-, Fire-,\xfffeIce-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Ghost- and Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Ghost-, and\xfffeDark-type attacks.\xf000븁\x0000
+A Ghost- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ghost- and\xfffeDark-type attacks.\xf000븁\x0000
+A Ghost- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Ghost-, Steel-,\xfffeFire-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Ghost- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ghost-, Ice-, Dragon-,\xfffeand Dark-type attacks.\xf000븁\x0000
+A Ghost- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt is a rare type combination that\xfffedoesn't have any weaknesses.\xf000븁\x0000
+A Steel-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeand Fire-type attacks.\xf000븁\x0000
+A Steel- and Fire-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Water-,\xfffeand Ground-type attacks.\xf000븁\x0000
+A Steel- and Water-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeand Electric-type attacks.\xf000븁\x0000
+A Steel- and Grass-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting- and\xfffeFire-type attacks.\xf000븁\x0000
+A Steel- and Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Fire-,\xfffeand Ground-type attacks.\xf000븁\x0000
+A Steel- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground- and\xfffeFire-type attacks.\xf000븁\x0000
+A Steel- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Fighting-,\xfffeand Fire-type attacks.\xf000븁\x0000
+A Steel- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting- and\xfffeGround-type attacks.\xf000븁\x0000
+A Steel- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Fire-,\xfffeand Fighting-type attacks.\xf000븁\x0000
+A Fire-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Rock-,\xfffeand Water-type attacks.\xf000븁\x0000
+A Fire- and Water-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Rock-,\xfffeand Electric-type attacks.\xf000븁\x0000
+A Fire- and Grass-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Poison-,\xfffeand Rock-type attacks.\xf000븁\x0000
+A Fire- and Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Water-,\xfffeand Ground-type attacks.\xf000븁\x0000
+A Fire- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Rock-, Ghost-,\xfffeWater-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Fire- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeWater-, and Rock-type attacks.\xf000븁\x0000
+A Fire- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Rock-,\xfffeand Dragon-type attacks.\xf000븁\x0000
+A Fire- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeRock-, and Water-type attacks.\xf000븁\x0000
+A Water-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Grass- and\xfffeElectric-type attacks.\xf000븁\x0000
+A Water- and Grass-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Poison-,\xfffeand Bug-type attacks.\xf000븁\x0000
+A Water- and Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground- and\xfffeGrass-type attacks.\xf000븁\x0000
+A Water- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Bug-, Ghost-, Grass-,\xfffeElectric-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Water- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Rock-,\xfffeGrass-, and Electric-type attacks.\xf000븁\x0000
+A Water- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against only\xfffeDragon-type attacks.\xf000븁\x0000
+A Water- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Bug-, Grass-,\xfffeand Electric-type attacks.\xf000븁\x0000
+A Grass-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Poison-, Bug-,\xfffeFire-, and Ice-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Grass- and Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Poison-, Bug-, Fire-,\xfffeand Ice-type attacks.\xf000븁\x0000
+A Grass- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Poison-, Ghost-\xfffeFire-, Ice-, Dark-, and Bug-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Grass- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Flying-,\xfffePoison-, Rock-, Bug-, Steel-,\xf000븀\x0000\xfffeand Fire-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Grass- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Flying-, Poison-, Bug-,\xfffeDragon-, and Ice-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Grass- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Flying-,\xfffePoison-, Fire-, Ice-, and Bug-type\xf000븀\x0000\xfffeattacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+An Electric-type Pokémon...\xf000븁\x0000\xfffeIt's weak against only\xfffeGround-type attacks.\xf000븁\x0000
+An Electric- and Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Bug-, Ghost-,\xfffeand Dark-type attacks.\xf000븁\x0000
+An Electric- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeRock-, and Fire-type attacks.\xf000븁\x0000
+An Electric- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ground-, Ice-,\xfffeand Dragon-type attacks.\xf000븁\x0000
+An Electric- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Ground-,\xfffeand Bug-type attacks.\xf000븁\x0000
+A Psychic-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Bug-, Ghost-,\xfffeand Dark-type attacks.\xf000븁\x0000
+A Psychic- and Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Bug-, Ghost-,\xfffeSteel-, Fire-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Psychic- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Bug-, Ghost-, Ice-,\xfffeDragon-, and Dark-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Psychic- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against only\xfffeBug-type attacks.\xf000븁\x0000
+An Ice-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Rock-,\xfffeSteel-, and Fire-type attacks.\xf000븁\x0000
+An Ice- and Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Rock-,\xfffeSteel-, and Dragon-type attacks.\xf000븁\x0000
+An Ice- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Rock-, Bug-, Steel-,\xfffeFire-, and Fighting-type attacks.\xf000븁\x0000\xfffeBecause it's weak against many types,\xfffea Trainer has to plan for it.\xf000븁\x0000
+A Dragon-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Ice- and\xfffeDragon-type attacks.\xf000븁\x0000
+A Dragon- and Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting-, Bug-, Ice-,\xfffeand Dragon-type attacks.\xf000븁\x0000
+A Dark-type Pokémon...\xf000븁\x0000\xfffeIt's weak against Fighting- and\xfffeBug-type attacks.\xf000븁\x0000
